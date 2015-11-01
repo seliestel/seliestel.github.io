@@ -8,4 +8,6 @@ layout: default
     {{ content }}
   </article>
 
+    {% include analytics.html %}
+
 </div>
