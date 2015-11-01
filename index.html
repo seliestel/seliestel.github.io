@@ -1,0 +1,42 @@
+---
+layout: default
+permalink: //
+---
+
+<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+{% for project in site.portfolio %}
+
+{% if project.redirect %}
+<div class="project">
+    <div class="cover-thumbnail">
+        <a href="{{ project.redirect }}" target="_blank">
+        {% if project.img %}
+          <img class="rotate" src="{{ project.img }}"/>
+        {% else %}
+          <div class="thumbnail blankbox"></div>
+        {% endif %}    
+         </a>
+    </div>
+</div>
+{% else %}
+
+<div class="project ">
+    <div class="cover-thumbnail">
+        <a href="#">
+        {% if project.img %}
+          <img class="rotate" src="{{ project.img }}"/>
+        {% else %}
+          <div class="thumbnail blankbox"></div>
+        {% endif %}    
+         </a>
+    </div>
+</div>
+
+{% endif %}
+
+{% endfor %}
+
+
+<!--
+{{ site.baseurl }}{{ project.url }} -->
