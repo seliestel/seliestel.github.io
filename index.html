@@ -11,9 +11,9 @@ permalink: //
 {% if project.redirect %}
 <div class="project">
     <div class="cover-thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
+        <a class="hvr-grow-shadow" href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-          <img class="hvr-grow-shadow" src="{{ project.img }}"/>
+          <img class="" src="{{ project.img }}"/>
         {% else %}
           <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -24,7 +24,7 @@ permalink: //
 
 <div class="project ">
     <div class="cover-thumbnail">
-        <a href="#">
+        <a class="hvr-grow-shadow"  href="#">
         {% if project.img %}
           <img class="hvr-grow-shadow" src="{{ project.img }}"/>
         {% else %}
