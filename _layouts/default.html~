@@ -2,10 +2,9 @@
 <html>
 
   {% include head.html %}
-  {% include analytics.html %}
 
   <body>
-
+    {% include analytics.html %}
     {% include header.html %}
 
 
