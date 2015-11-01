@@ -12,7 +12,7 @@ permalink: //
     <div class="cover-thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-          <img class="rotate" src="{{ project.img }}"/>
+          <img class="" src="{{ project.img }}"/>
         {% else %}
           <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -25,7 +25,7 @@ permalink: //
     <div class="cover-thumbnail">
         <a href="#">
         {% if project.img %}
-          <img class="rotate" src="{{ project.img }}"/>
+          <img class="" src="{{ project.img }}"/>
         {% else %}
           <div class="thumbnail blankbox"></div>
         {% endif %}    
