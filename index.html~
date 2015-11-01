@@ -11,7 +11,7 @@ permalink: //
 {% if project.redirect %}
 <div class="project">
     <div class="cover-thumbnail">
-        <a class="hvr-grow-shadow" href="{{ project.redirect }}" target="_blank">
+        <a class="hvr-float-shadow" href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
           <img class="" src="{{ project.img }}"/>
         {% else %}
