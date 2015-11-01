@@ -3,7 +3,7 @@
   <div class="wrapper">
 
     <div class="site-title">
-      <a href="www.ignasiribo.com"><h1>Ignasi Ribó</h1></a>
+      <a href="{{ site.baseurl }}/"><h1>Ignasi Ribó</h1></a>
     </div>
 
     <nav class="site-nav">
@@ -14,7 +14,7 @@
 
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="page-link" href="{{ page.link }}" target="_blank" >{{ page.title }}</a>
           {% endif %}
         {% endfor %}
 
@@ -24,3 +24,5 @@
   </div>
 
 </header>
+
+<!-- {{ page.url | prepend: site.baseurl }} -->
