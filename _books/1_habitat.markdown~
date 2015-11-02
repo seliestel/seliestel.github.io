@@ -17,7 +17,7 @@ redirect:
   <p>In <i>Habitat: The Ecopolitical Nation</i>, the Catalan author Ignasi Ribó develops a new and original theory of the nation, in order to show that there is indeed a real alternative to the model of the nation-state and to the modern project of building increasingly larger states. The habitat-nation, founded on the inhabitants' deliberate choice of living together and on the ecoliberal principles of justice, could well be the theoretical framework for this new world that is just starting to emerge, both in Europe and in America.</p>
   </div>
   <div class="cover" style="float: right">
-    <a href="http://www.amazon.com/Habitat-Ecopolitical-Nation-Ignasi-Rib%C3%B3/dp/0957419104" target="_blank"><div><img class="" style="" src="{{ site.baseurl }}/img/habitat_cover.jpg" alt="" title="example image"/></div></a>
+    <a href="http://www.amazon.com/Habitat-Ecopolitical-Nation-Ignasi-Rib%C3%B3/dp/0957419104" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/habitat_cover.jpg" alt="" title="example image"/></div></a>
 
   </div>
   
