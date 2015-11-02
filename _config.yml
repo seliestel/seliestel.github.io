@@ -9,7 +9,7 @@ github_username:  seliestel
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 
 # Pagination
 # paginate: 15

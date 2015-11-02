@@ -19,7 +19,7 @@ highlighter: rouge
 collections:
   books:
     output: true
-    permalink: /books/:title/
+    permalink: /books/:path/
 
 
 
