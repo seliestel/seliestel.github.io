@@ -379,3 +379,18 @@ font-size: $caption_font_size;
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
 }
 
+
+.main_box {
+  width: 100%;
+}
+
+.main_box .synopsis {
+  width: 60%;
+  display: inline-block;
+}
+
+.main_box .cover {
+  width: 40%;
+  text-align: right;
+}
+

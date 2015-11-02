@@ -140,6 +140,7 @@ margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
 font-size: 32px;
+font-family: Raleway;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
@@ -376,5 +377,19 @@ font-size: $caption_font_size;
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
+}
+
+
+.main_box {
+  width: 100%;
+}
+
+.main_box .synopsis {
+  width: 60%;
+}
+
+.main_box .cover {
+  width: 40%;
+  text-align: right;
 }
 

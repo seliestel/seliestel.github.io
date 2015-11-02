@@ -1,30 +1,28 @@
 ---
-layout: post
-title: Project
-description: a project with a background image
+layout: book
+title: "Habitat: The Ecopolitical Nation"
+description: 
+year: 2012
+genre: Essay
 img: /img/habitat_cover.jpg
+redirect: 
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<div class="main_box">
+  <div class="synopsis">
+  <p>A new world is emerging under the rusted structures of the nation-state.</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+  <p>Catalonia, Scotland, Quebec, Flanders, the Basque Country may soon be sovereign and independent states. The process of breaking up the large Western states into ecologically and socially meaningful political communities may have just started and could lead to a more democratic and sustainable world system.</p>
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+  <p>In <i>Habitat: The Ecopolitical Nation</i>, the Catalan author Ignasi Ribó develops a new and original theory of the nation, in order to show that there is indeed a real alternative to the model of the nation-state and to the modern project of building increasingly larger states. The habitat-nation, founded on the inhabitants' deliberate choice of living together and on the ecoliberal principles of justice, could well be the theoretical framework for this new world that is just starting to emerge, both in Europe and in America.</p>
+  </div>
+  <div class="cover" style="float: right">
+    <div><img class="" style="" src="{{ site.baseurl }}/img/habitat_cover.jpg" alt="" title="example image"/></div>
+    <div>Buy in Amazon</div>
+  </div>
+  
 </div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+<hr>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>

@@ -4,8 +4,8 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    <h3 class="post-title">{{ page.title }}</h3>
-    <h4 class="post-description">{{ page.year }}</h5>
+    <h3 class="post-title">{{ book.title }}</h3>
+    <h4 class="post-description">{{ book.year }} - {{ book.genre }}</h5>
   </header>
 
   <article class="post-content">

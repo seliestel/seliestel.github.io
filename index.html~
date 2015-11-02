@@ -22,9 +22,9 @@ permalink: //
 
 <div class="project ">
     <div class="cover-thumbnail">
-        <a class="hvr-grow-shadow"  href="#">
+        <a class="hvr-flat-shadow" href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-          <img class="hvr-grow-shadow" src="{{ project.img }}"/>
+          <img class="" src="{{ project.img }}"/>
         {% else %}
           <div class="empty-thumbnail blankbox"></div>
         {% endif %}    
@@ -37,19 +37,3 @@ permalink: //
 {% endfor %}
 
 
-<ul>
-{% for project in site.articles %}
-
-<li class="article">
-   <a class="" href="{{ project.redirect }}" target="_blank">{{ project.title }}</a>
-</li>
-
-{% endif %}
-
-{% endfor %}
-
-
-
-
-<!--
-{{ site.baseurl }}{{ project.url }} -->

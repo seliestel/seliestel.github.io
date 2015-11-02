@@ -19,9 +19,7 @@ highlighter: rouge
 collections:
   books:
     output: true
-    permalink: /books/:path/
-  articles:
-    output: true
-    permalink: /articles/:path/
+    permalink: /books/:title/
+
 
 

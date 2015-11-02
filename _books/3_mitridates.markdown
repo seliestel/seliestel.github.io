@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Project
-description: a project with a background image
-img: /img/indignacio_cover.jpg
-redirect: http://www.amazon.com/indignaci%C3%B3-naci%C3%B3-pol%C3%ADtiques-Catalunya-Catalan/dp/0957419155
+year: 2010
+genre: Novel
+description: a project that redirects to another website
+img: /img/mitridates_cover.jpg
+redirect: http://www.amazon.com/Mitridates-muerto-Spanish-Ignasi-Rib%C3%B3/dp/8499811140/
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

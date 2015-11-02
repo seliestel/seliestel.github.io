@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Project
+year: 2006
+genre: Novel
 description: a project with a background image
 img: /img/polifemo_cover.jpg
 redirect: http://www.amazon.com/Polifemo-Spanish-Edition/dp/843500953X

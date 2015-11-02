@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Project
-description: a project that redirects to another website
-img: /img/mitridates_cover.jpg
-redirect: http://www.amazon.com/Mitridates-muerto-Spanish-Ignasi-Rib%C3%B3/dp/8499811140/
+year: 2002
+genre: Novel
+description: a project with no image
+img: /img/gravedad_cover.jpg
+redirect: http://www.amazon.com/LA-LEY-DE-GRAVEDAD/dp/8435008398
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
@@ -14,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 	layout: post
 	title: Project
 	description: a project with a background image
-	img: /img/12.jpg
+	img: {{ site.baseurl }}/img/12.jpg
 	---
 
 
