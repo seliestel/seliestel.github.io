@@ -26,7 +26,7 @@ redirect:
 <div class="review_box">
 <div class="title">Book reviews</div>
 <ul>
-  <li><a href="http://www.ingentaconnect.com/content/whp/ev/2015/00000024/00000001/art00011" target="_blank">Philip Kirby, <i>Environmental Values</i>, n. 24(1), February 2015.</a></li>
+  <li><a href="http://dx.doi.org/10.3197/096327115X14183182354024" target="_blank">Philip Kirby, <i>Environmental Values</i>, n. 24(1), February 2015.</a></li>
   <li><a href="http://marxandphilosophy.org.uk/reviewofbooks/reviews/2014/1460" target="_blank">Guy Lancaster, <i>Marx & Philosophy Review of Books</i>, December 2014.</a></li>
   <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0130_0133" target="_blank">Mike Menser, <i>Environmental Philosophy</i>, n. 10(2), Fall 2013.</a></li>
 </ul>

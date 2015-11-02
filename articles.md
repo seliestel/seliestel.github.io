@@ -17,6 +17,7 @@ permalink: /articles/
   <li><a href="http://www.ucm.es/info/especulo/numero33/fnidilio.html" target="_blank">Fin del idilio, principio de la novela</a>, <i> Espéculo. Revista de Estudios Literario</i>, n. 33, 2006.</li>
   <li><a href="http://www.researchgate.net/publication/28165959_Galatea_o_la_leche._La_descripcin_de_la_belleza_femenina_en_Tecrito_Ovidio_y_Gngora" target="_blank">Galatea o la leche. La descripción de la belleza femenina en Teócrito, Ovidio y Góngora</a>, <i>Lemir. Revista de Literatura Española Medieval y del Renacimiento</i>, n. 10, 2006.</li>
   <li><b>Dramatúrgia catalana? Parlem-ne</b>, <i>El Correu de la UNESCO</i>, March 2001.</li>
+  <li><a href="http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan/" target="_blank">Per què Andorra no és Manhattan?</a>, <i>El Correu de la UNESCO</i>, January 2001 / <i>Núvol. El digital de cultura</i>, February 2013.</li>
   <li><b>La narrativa balear: quatre aproximacions</b>, <i>El Correu de la UNESCO</i>, August 2000.</li>
   <li><b>La ciutat mestissa</b>, <i>El Correu de la UNESCO</i>, June 2000.</li>
   <li><b>La cova d’Alí Babà</b>, <i>El Correu de la UNESCO</i>, February 2000.</li>
