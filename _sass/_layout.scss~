@@ -386,6 +386,7 @@ font-size: $caption_font_size;
 
 .main_box .synopsis {
   width: 60%;
+  display: inline-block;
 }
 
 .main_box .cover {
