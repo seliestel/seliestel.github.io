@@ -1,8 +1,7 @@
 # Site settings
 title: Ignasi Ribó
 email: iribolabastida@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+description: Personal page of Ignasi Ribó, Catalan author and academic
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  http://www.ignasiribo.com
 twitter_username: seliestel
@@ -10,7 +9,7 @@ github_username:  seliestel
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
 # paginate: 15
@@ -18,8 +17,9 @@ highlighter: pygments
 # gems: [jekyll-paginate]
 
 collections:
-  portfolio:
+  books:
     output: true
-    permalink: /:path/
+    permalink: /books/:path/
+
 
 

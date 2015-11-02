@@ -18,7 +18,7 @@ z-index: 50;
 .site-title {
 font-family: Raleway;
 font-size: 20px;
-width: 80%;
+width: 60%;
 display: inline-block;
 line-height: $nav-height;
 letter-spacing: -1px;
@@ -31,7 +31,7 @@ color: $theme-color;
 .site-nav {
 float: right;
 display: inline-block;
-width: 20%;
+width: 40%;
 line-height: $nav-height;
 .page-link{
 line-height: $base-line-height;
@@ -139,7 +139,8 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 42px;
+font-size: 32px;
+font-family: Raleway;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
@@ -213,25 +214,25 @@ padding: 10px;
   width: 100%;
   height: 300px;
 }
-.thumbnail{
-width: 100%;
-height: 230px;
+.empty-thumbnail{
+width: 200px;
+height: 300px;
 overflow: hidden;
 }
-.thumbnail img{
+.empty-thumbnail img{
 width: 500px;
 height: auto;
 position: relative;
 left: -25%;
 top: -5%;
 }
-.thumbnail a{
+.empty-thumbnail a{
 float: left;
 position: relative;
 width: 100%;
 height: 230px;
 }
-.thumbnail a span {
+.empty-thumbnail a span {
 display: none;
 position: absolute;
 top: 0;
@@ -243,30 +244,8 @@ color: $grey-color-light;
 padding: 40px;
 text-align: center;
 }
-.thumbnail a:hover span {
+.empty-thumbnail a:hover span {
 display: block;
-}
-
-.rotate{
--webkit-transition-duration: 0.8s;
--moz-transition-duration: 0.8s;
--o-transition-duration: 0.8s;
-transition-duration: 0.8s;
-
--webkit-transition-property: -webkit-transform;
--moz-transition-property: -moz-transform;
--o-transition-property: -o-transform;
-transition-property: transform;
-
-overflow:hidden;
-
-}
-
-.rotate:hover
-{
--webkit-transform:rotate(360deg);
--moz-transform:rotate(360deg);
--o-transform:rotate(360deg);
 }
 
 

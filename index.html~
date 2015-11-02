@@ -3,23 +3,21 @@ layout: default
 permalink: //
 ---
 
-<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
-
-{% for project in site.portfolio %}
+{% for project in site.books %}
 
 {% if project.redirect %}
 <div class="project">
     <div class="cover-thumbnail">
-        <a class="hvr-float-shadow" href="{{ project.redirect }}" target="_blank">
+       <a class="hvr-float-shadow" href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
           <img class="" src="{{ project.img }}"/>
         {% else %}
-          <div class="thumbnail blankbox"></div>
+          <div class="empty-thumbnail blankbox"></div>
         {% endif %}    
-         </a>
+       </a>
     </div>
 </div>
+
 {% else %}
 
 <div class="project ">
@@ -28,7 +26,7 @@ permalink: //
         {% if project.img %}
           <img class="hvr-grow-shadow" src="{{ project.img }}"/>
         {% else %}
-          <div class="thumbnail blankbox"></div>
+          <div class="empty-thumbnail blankbox"></div>
         {% endif %}    
          </a>
     </div>
@@ -37,6 +35,20 @@ permalink: //
 {% endif %}
 
 {% endfor %}
+
+
+<ul>
+{% for project in site.articles %}
+
+<li class="article">
+   <a class="" href="{{ project.redirect }}" target="_blank">{{ project.title }}</a>
+</li>
+
+{% endif %}
+
+{% endfor %}
+
+
 
 
 <!--
