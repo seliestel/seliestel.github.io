@@ -22,8 +22,7 @@ redirect:
   </div>
   
 </div>
-<hr>
-<br />
+
 <div class="review_box">
 <div class="title">Book reviews</div>
 <ul>
