@@ -23,7 +23,7 @@ redirect:
   
 </div>
 <hr>
-<br/>
+<br>
 <h4 style="font-family: Raleway; margin-bottom: 15px">Book reviews</h4>
 <ul>
   <li><a href="http://www.researchgate.net/publication/270648916_Review_of_Ignasi_Ribo_Habitat_The_Ecopolitical_NationI" target="_blank">Philip Kirby, <i>Environmental Values</i>, n. 24(1), February 2015.</a></li>
