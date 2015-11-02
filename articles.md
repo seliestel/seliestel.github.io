@@ -26,7 +26,7 @@ permalink: /articles/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Conferences</h3>
 
 <ul>
-  <li><b>Worlds and Words: Of Bats, Ticks, and Apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</i>, University of Galway, Galway, 10-11 June 2011.</li>
+  <li><b>Worlds and Words: Of Bats, Ticks, and Apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</a>, University of Galway, Galway, 10-11 June 2011.</li>
   <li><b>El repte de l'eficiència en la gestió d'una ONG</b>, Universitat Oberta de Catalunya, Bellaterra, 2009.</li>
   <li><b>The Papers of Salamanca: War, Closure, and Re-enactment</b>, <i>Archives: From Memory to Event</i>, University College of London, London, 2007.</li>
   <li><b>The Novel as Tragic Form</b>, <i>The Novel: Democracy’s Form?</i>, University of Sussex, Brighton, 2007.</li>
