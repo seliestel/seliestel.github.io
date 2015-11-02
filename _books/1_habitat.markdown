@@ -23,8 +23,8 @@ redirect:
   
 </div>
 <hr>
-<br>
-<div style="font-family: Raleway; margin-bottom: 15px"><h4>Book reviews</h4></div>
+<br />
+<h4 style="font-family: Raleway; margin-bottom: 15px">Book reviews</h4>
 <ul>
   <li><a href="http://www.researchgate.net/publication/270648916_Review_of_Ignasi_Ribo_Habitat_The_Ecopolitical_NationI" target="_blank">Philip Kirby, <i>Environmental Values</i>, n. 24(1), February 2015.</a></li>
   <li><a href="http://marxandphilosophy.org.uk/reviewofbooks/reviews/2014/1460" target="_blank">Guy Lancaster, <i>Marx & Philosophy Review of Books</i>, 21 December 2014.</a></li>
