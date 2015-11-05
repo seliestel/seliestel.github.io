@@ -34,7 +34,7 @@ permalink: /articles/
 </ul>
 
 
-<h3 style="font-family: Raleway; margin-bottom: 20px">Other works</h3>
+<h3 style="font-family: Raleway; margin-bottom: 20px">Other</h3>
 
 <ul>
   <li><b>Clara de nit</b>, Prize Joan Santamaria 2000 / English translation: <b>Clear is the Night</b>, selected by the Boomerang Theatre’s First Flight Reading Series, off-Broadway, New York City.</li>
