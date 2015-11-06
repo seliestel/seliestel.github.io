@@ -38,6 +38,6 @@ permalink: /articles/
 
 <ul>
   <li><b>Clara de nit</b>, Prize Joan Santamaria 2000 / English translation: <b>Clear is the Night</b>, selected by the Boomerang Theatre’s First Flight Reading Series, off-Broadway, New York City.</li>
-  <li><b>The Colour</b>, novel by Rose Tremain, translated to Spanish: <a href="http://www.amazon.com/El-color-ROSE-TREMAIN/dp/8435060993">El color</a>, Edhasa, Barcelona, 2005.</li>
-  <li><b>The House of Blue Mangos</b>, novel by David Davidar, translated to Catalan: <a href="http://www.amazon.com/Casa-dels-Mangos-Blaus/dp/8475961894">La casa dels mangos blaus</a>, Empúries, Barcelona, 2003.</li>
+  <li><b>The Colour</b>, novel by Rose Tremain, translated to Spanish: <a href="http://www.amazon.com/El-color-ROSE-TREMAIN/dp/8435060993" target="_blank">El color</a>, Edhasa, Barcelona, 2005.</li>
+  <li><b>The House of Blue Mangos</b>, novel by David Davidar, translated to Catalan: <a href="http://www.amazon.com/Casa-dels-Mangos-Blaus/dp/8475961894" target="_blank">La casa dels mangos blaus</a>, Empúries, Barcelona, 2003.</li>
 </ul>
