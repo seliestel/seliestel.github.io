@@ -1,7 +1,7 @@
 # Site settings
 title: Ignasi Ribó
 email: iribolabastida@gmail.com
-description: Personal page of Ignasi Ribó, Catalan author and academic
+description: Personal page of Ignasi Ribó, Catalan author.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  http://www.ignasiribo.com
 twitter_username: seliestel
@@ -9,7 +9,7 @@ github_username:  seliestel
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 
 # Pagination
 # paginate: 15
