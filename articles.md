@@ -8,7 +8,7 @@ permalink: /articles/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Articles</h3>
 
 <ul>
-  <li><a href="https://books.google.com.au/books?id=naY6DwAAQBAJ&printsec=frontcover" target="_blank">Ecocriticism, Hermeneutics, and the Vanishing Elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017.</li>
+  <li><a href="https://books.google.com.au/books?id=naY6DwAAQBAJ&printsec=frontcover" target="_blank">Ecocriticism, Hermeneutics, and the Vanishing Elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017. </li>
   <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0097_0112" target="_blank">Worlds and Words: Of Bats, Ticks, and Apes</a>, <i>Environmental Philosophy</i>, n. 10(2), pp. 97-112, Fall 2013.</li>
   <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">How small countries can save the European project: the rise of the habitat-nation</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
   <li><a href="http://llull.cat/IMAGES_175/transfer04-essa01.pdf" target="_blank">Jean Améry: The Dislocated Witness</a>, <i>Transfer: Journal of Contemporary Culture</i>, n. 4, pp. 6-23, 2009.</li>
