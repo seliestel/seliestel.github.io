@@ -1,9 +1,9 @@
 title: Personal page
-author: Ignasi Ribo
-email: iribolabastida@gmail.com
-description: Personal page.
-twitter_username: seliestel
-github_username:  seliestel
+##author: Ignasi Ribo
+##email: iribolabastida@gmail.com
+##description: Personal page.
+##twitter_username: seliestel
+##github_username:  seliestel
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -12,6 +12,7 @@ github_username:  seliestel
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 ##exclude:
   ##- Gemfile
   ##- Gemfile.lock
