@@ -59,7 +59,7 @@ sitemap:
   {% endfor %}
 
   {% for collection in site.collections %}
-    {% if collection[1].output %}
+    {% if collection.output %}
 
   
     {% endif %}
