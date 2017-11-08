@@ -5,10 +5,10 @@ name: Ignasi Ribó
 description: Personal page of Ignasi Ribó, Catalan author and scholar.
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Ignasi Ribó
+##author: Ignasi Ribó
 
 # Your email if you want it to be linked on the contact page
-author_email: iribolabastida@gmail.com
+##author_email: iribolabastida@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
@@ -28,7 +28,7 @@ author_email: iribolabastida@gmail.com
 # Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
 # If you use maroku (default engine) some of your generated pages may not validate or lint as html5
 # If you don't have it install it via gem install rdiscount
-markdown: rdiscount
+##markdown: rdiscount
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 ##permalink: pretty
