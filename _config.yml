@@ -1,4 +1,5 @@
-title: Personal page
+name: Ignasi Ribo
+##title: Personal page
 ##author: Ignasi Ribo
 ##email: iribolabastida@gmail.com
 ##description: Personal page.
@@ -12,7 +13,7 @@ title: Personal page
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+##highlighter: rouge
 ##exclude:
   ##- Gemfile
   ##- Gemfile.lock
