@@ -58,7 +58,9 @@ sitemap:
     {% endif %}
   {% endfor %}
 
-  
+  {% for collection in site.collections %}
+  {% endfor %}
+
   
 
 </urlset>
