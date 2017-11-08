@@ -1,4 +1,5 @@
-name: Ignasi Ribo
+## RENEWED SETTINGS NOT WORKING
+##name: Ignasi Ribo
 ##title: Personal page
 ##author: Ignasi Ribo
 ##email: iribolabastida@gmail.com
@@ -12,39 +13,39 @@ name: Ignasi Ribo
 # - about.html
 
 # Build settings
-markdown: kramdown
+##markdown: kramdown
 ##highlighter: rouge
 ##exclude:
   ##- Gemfile
   ##- Gemfile.lock
 
-
+#### END
 
 
 
 
 # Site settings
-##title: Ignasi Ribó
-##email: iribolabastida@gmail.com
-##description: Personal page of Ignasi Ribó, Catalan author and scholar.
+title: Ignasi Ribó
+email: iribolabastida@gmail.com
+description: Personal page of Ignasi Ribó, Catalan author and scholar.
 ##baseurl:  # the subpath of your site, e.g. /blog/
-##url:  http://www.ignasiribo.com
-##twitter_username: seliestel
-##github_username:  seliestel
+url:  http://www.ignasiribo.com
+twitter_username: seliestel
+github_username:  seliestel
 
 # Build settings
-##markdown: kramdown
-##highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 
 # Pagination
 # paginate: 15
 # paginate_path: "/blog/page:num/"
 # gems: [jekyll-paginate]
 
-##collections:
-  ##books:
-    ##output: true
-    ##permalink: /books/:path/
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
 
 
 
