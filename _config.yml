@@ -1,29 +1,3 @@
-## RENEWED SETTINGS NOT WORKING
-##name: Ignasi Ribo
-##title: Personal page
-##author: Ignasi Ribo
-##email: iribolabastida@gmail.com
-##description: Personal page.
-##twitter_username: seliestel
-##github_username:  seliestel
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
-
-# Build settings
-##markdown: kramdown
-##highlighter: rouge
-##exclude:
-  ##- Gemfile
-  ##- Gemfile.lock
-
-#### END
-
-
-
-
 # Site settings
 title: Ignasi Ribó
 email: iribolabastida@gmail.com
