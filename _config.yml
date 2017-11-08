@@ -7,9 +7,20 @@ url:  http://www.ignasiribo.com
 twitter_username: seliestel
 github_username:  seliestel
 
+# New settings
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
+
 # Build settings
 markdown: kramdown
-# highlighter: rouge
+highlighter: rouge
 
 # Pagination
 # paginate: 15
