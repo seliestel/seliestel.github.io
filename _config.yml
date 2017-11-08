@@ -42,10 +42,10 @@ highlighter: rouge
 # paginate_path: "/blog/page:num/"
 # gems: [jekyll-paginate]
 
-##collections:
-  ##books:
-    ##output: true
-    ##permalink: /books/:path/
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
 
 
 
