@@ -3,37 +3,4 @@ layout: default
 permalink: //
 ---
 
-{% for project in site.books %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="cover-thumbnail">
-       <a class="hvr-float-shadow" href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-          <img class="" src="{{ project.img }}"/>
-        {% else %}
-          <div class="empty-thumbnail blankbox"></div>
-        {% endif %}    
-       </a>
-    </div>
-</div>
-
-{% else %}
-
-<div class="project ">
-    <div class="cover-thumbnail">
-        <a class="hvr-float-shadow" href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-          <img class="" src="{{ project.img }}"/>
-        {% else %}
-          <div class="empty-thumbnail blankbox"></div>
-        {% endif %}    
-         </a>
-    </div>
-</div>
-
-{% endif %}
-
-{% endfor %}
-
 
