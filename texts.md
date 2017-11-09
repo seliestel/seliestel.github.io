@@ -1,22 +1,27 @@
 ---
 layout: blank
-title: Articles
+title: Texts
 description: 
-permalink: /articles/
+permalink: /texts/
 ---
 
-<h3 style="font-family: Raleway; margin-bottom: 20px">Articles</h3>
+<h3 style="font-family: Raleway; margin-bottom: 20px">Academic essays</h3>
 
 <ul>
   <li><a href="https://books.google.com.au/books?id=naY6DwAAQBAJ&printsec=frontcover" target="_blank">Ecocriticism, Hermeneutics, and the Vanishing Elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017. </li>
   <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0097_0112" target="_blank">Worlds and Words: Of Bats, Ticks, and Apes</a>, <i>Environmental Philosophy</i>, n. 10(2), pp. 97-112, Fall 2013.</li>
-  <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">How small countries can save the European project: the rise of the habitat-nation</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
   <li><a href="http://llull.cat/IMAGES_175/transfer04-essa01.pdf" target="_blank">Jean Améry: The Dislocated Witness</a>, <i>Transfer: Journal of Contemporary Culture</i>, n. 4, pp. 6-23, 2009.</li>
   <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0730.2009.00957.x/abstract" target="_blank">The One Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald</a>, <i>Orbis Litterarum</i>, n. 64(3), pp. 222-262, 2009.</li>
   <li><a href="http://www.raco.cat/index.php/Marges/article/view/142086" target="_blank">El testimoni dislocat</a>, <i>Els marges</i>, n. 80, pp. 49-65, Fall 2006 / <a href="http://llull.cat/IMAGES_175/transfer04-essa01-cat.pdf" target="_blank">El testimoni dislocat</a>, <i>El contemporani. Revista d’història</i>, n. 33-34, pp. 11-20, 2006.</li>
   <li><a href="http://www.scielo.cl/scielo.php?pid=S0718-22012006000100002&script=sci_arttext" target="_blank">Sospechosos cortes en la superficie</a>, <i> Alpha. Revista de Artes, Letras y Filosofía</i>, n. 22, pp. 9-26, 2006.</li>
   <li><a href="http://www.ucm.es/info/especulo/numero33/fnidilio.html" target="_blank">Fin del idilio, principio de la novela</a>, <i> Espéculo. Revista de Estudios Literarios</i>, n. 33, 2006.</li>
   <li><a href="http://www.researchgate.net/publication/28165959_Galatea_o_la_leche._La_descripcin_de_la_belleza_femenina_en_Tecrito_Ovidio_y_Gngora" target="_blank">Galatea o la leche. La descripción de la belleza femenina en Teócrito, Ovidio y Góngora</a>, <i>Lemir. Revista de Literatura Española Medieval y del Renacimiento</i>, n. 10, 2006.</li>
+</ul>
+
+<h3 style="font-family: Raleway; margin-bottom: 20px">Articles</h3>
+
+<ul>
+  <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">How small countries can save the European project: the rise of the habitat-nation</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
   <li><b>Dramatúrgia catalana? Parlem-ne</b>, <i>El Correu de la UNESCO</i>, March 2001.</li>
   <li><a href="http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan/" target="_blank">Per què Andorra no és Manhattan?</a>, <i>El Correu de la UNESCO</i>, January 2001 / <i>Núvol. El digital de cultura</i>, February 2013.</li>
   <li><b>La narrativa balear: quatre aproximacions</b>, <i>El Correu de la UNESCO</i>, August 2000.</li>
