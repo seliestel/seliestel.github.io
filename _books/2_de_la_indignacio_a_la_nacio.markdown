@@ -15,7 +15,7 @@ redirect:
   <p>“De la Catalunya indignada”, sosté l'autor, “pot néixer la Catalunya digna”.</p>
   </div>
   <div class="cover" style="float: right">
-    <a href="http://www.amazon.com/indignaci%C3%B3-naci%C3%B3-pol%C3%ADtiques-Catalunya-Catalan/dp/0957419155" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="example image"/></div></a>
+    <a href="https://www.amazon.es/Indignacio-Nacio-Tesis-Politiques-Catalunya/dp/0957419155" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="example image"/></div></a>
 
   </div>
   
