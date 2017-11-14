@@ -24,7 +24,7 @@ redirect:
 <div class="review_box">
 <div class="title">Més informació:</div>
 <ul>
-  <li><a href="https://www.nuvol.com/noticies/ignasi-ribo-el-futur-estat-catala-shauria-de-fonamentar-en-els-habitants-de-catalunya/" target="_blank">Interview, <i>Núvol</i>, 2012.</a></li>
+  <li><a href="https://www.nuvol.com/noticies/ignasi-ribo-el-futur-estat-catala-shauria-de-fonamentar-en-els-habitants-de-catalunya/" target="_blank">Ignasi Ribó: “El futur estat català s’hauria de fonamentar en els seus habitants", Entrevista a <i>Núvol</i>, 2012.</a></li>
 </ul>
 </div>
 
