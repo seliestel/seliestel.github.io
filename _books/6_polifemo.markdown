@@ -5,7 +5,7 @@ year: 2006
 genre: Novel
 description: a project with a background image
 img: /img/polifemo_cover.jpg
-redirect: http://www.amazon.com/Polifemo-Spanish-Edition/dp/843500953X
+redirect: https://www.amazon.es/POLIFEMO-IGNASI-RIB%C3%93/dp/B00H3V8RUE/ref=asap_bc?ie=UTF8
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
