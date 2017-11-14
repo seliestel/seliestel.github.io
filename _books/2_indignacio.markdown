@@ -1,58 +1,30 @@
 ---
-layout: post
-title: Project
+layout: book
+title: "De la indignació a la nació: Tesis polítiques per a una Catalunya digna"
+description: 
 year: 2012
 genre: Essay
-description: a project with a background image
 img: /img/indignacio_cover.jpg
-redirect: http://www.amazon.com/indignaci%C3%B3-naci%C3%B3-pol%C3%ADtiques-Catalunya-Catalan/dp/0957419155
+redirect: 
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<div class="main_box">
+  <div class="synopsis">
+  <p>Aquest llibre parteix de les reivindicacions del moviment dels indignats per desenvolupar una teoria original de la nació com a hàbitat plural, inclusiu i sostenible. A través d'una exposició sistemàtica en cinc tesis generals i cinc tesis nacionals, aquest model de nació, la nació-hàbitat, és aplicat al cas específic de Catalunya, a fi de demostrar la conveniència i la possibilitat de constituir una nació catalana que integri tots els seus habitants en un projecte comú fonamentat en els principis de la justícia i en l'elecció deliberada de viure junts.</p>
+  <p>L'exposició d'un programa concret d'actuació en els àmbits polític, econòmic i social completa un assaig adreçat a convèncer els més escèptics de la possibilitat real de desenvolupar una comunitat política que sigui plenament lliure, equitativa i democràtica. El llibre acaba justificant la necessitat que els habitants d'aquesta nació, al marge de les seves identitats, llengües o ideologies, exerceixin el dret a l'autodeterminació i es constitueixin ben aviat com a estat independent.</p>
+  <p>“De la Catalunya indignada”, sosté l'autor, “pot néixer la Catalunya digna”.</p>
+  </div>
+  <div class="cover" style="float: right">
+    <a href="http://www.amazon.com/indignaci%C3%B3-naci%C3%B3-pol%C3%ADtiques-Catalunya-Catalan/dp/0957419155" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="example image"/></div></a>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+  </div>
+  
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="review_box">
+<div class="title">Més informació:</div>
+<ul>
+  <li><a href="https://www.nuvol.com/noticies/ignasi-ribo-el-futur-estat-catala-shauria-de-fonamentar-en-els-habitants-de-catalunya/" target="_blank">Interview, <i>Núvol</i>, 2012.</a></li>
+</ul>
 </div>
 
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
