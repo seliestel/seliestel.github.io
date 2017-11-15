@@ -23,7 +23,7 @@ permalink: /texts/
 <ul>
     <li><a href="https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/" target="_blank">The spirit of 1978 ["To solve Catalonia, Spain needs a new constitution"]</a>, <i>Politico</i>, 13 November 2017.</li>
       <li><a href="https://www.vilaweb.cat/mailobert/4124204/ignasi-ribo-fills-prodigs.html" target="_blank">Els fills pròdigs</a>, <i>Vilaweb</i>, 14 Juny 2013.</li>
-  <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">How small countries can save the European project: the rise of the habitat-nation</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
+  <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">A new map for a new Europe ["How small countries can save the European project: the rise of the habitat-nation"]</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
   <li><b>Dramatúrgia catalana? Parlem-ne</b>, <i>El Correu de la UNESCO</i>, March 2001.</li>
   <li><a href="http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan/" target="_blank">Per què Andorra no és Manhattan?</a>, <i>El Correu de la UNESCO</i>, January 2001 / <i>Núvol. El digital de cultura</i>, February 2013.</li>
   <li><b>La narrativa balear: quatre aproximacions</b>, <i>El Correu de la UNESCO</i>, August 2000.</li>
