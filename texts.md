@@ -8,10 +8,10 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Academic essays</h3>
 
 <ul>
-  <li><a href="https://books.google.com.au/books?id=naY6DwAAQBAJ&printsec=frontcover" target="_blank">Ecocriticism, Hermeneutics, and the Vanishing Elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017. </li>
-  <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0097_0112" target="_blank">Worlds and Words: Of Bats, Ticks, and Apes</a>, <i>Environmental Philosophy</i>, n. 10(2), pp. 97-112, Fall 2013.</li>
+  <li><a href="https://books.google.com.au/books?id=naY6DwAAQBAJ&printsec=frontcover" target="_blank">Ecocriticism, hermeneutics, and the vanishing elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017. </li>
+  <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0097_0112" target="_blank">Worlds and words: Of bats, ticks, and apes</a>, <i>Environmental Philosophy</i>, n. 10(2), pp. 97-112, Fall 2013.</li>
   <li><a href="http://llull.cat/IMAGES_175/transfer04-essa01.pdf" target="_blank">Jean Améry: The Dislocated Witness</a>, <i>Transfer: Journal of Contemporary Culture</i>, n. 4, pp. 6-23, 2009.</li>
-  <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0730.2009.00957.x/abstract" target="_blank">The One Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald</a>, <i>Orbis Litterarum</i>, n. 64(3), pp. 222-262, 2009.</li>
+  <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0730.2009.00957.x/abstract" target="_blank">The one winged angel: History and memory in the literary discourse of W. G. Sebald</a>, <i>Orbis Litterarum</i>, n. 64(3), pp. 222-262, 2009.</li>
   <li><a href="http://www.raco.cat/index.php/Marges/article/view/142086" target="_blank">El testimoni dislocat</a>, <i>Els marges</i>, n. 80, pp. 49-65, Fall 2006 / <a href="http://llull.cat/IMAGES_175/transfer04-essa01-cat.pdf" target="_blank">El testimoni dislocat</a>, <i>El contemporani. Revista d’història</i>, n. 33-34, pp. 11-20, 2006.</li>
   <li><a href="http://www.scielo.cl/scielo.php?pid=S0718-22012006000100002&script=sci_arttext" target="_blank">Sospechosos cortes en la superficie</a>, <i> Alpha. Revista de Artes, Letras y Filosofía</i>, n. 22, pp. 9-26, 2006.</li>
   <li><a href="http://www.ucm.es/info/especulo/numero33/fnidilio.html" target="_blank">Fin del idilio, principio de la novela</a>, <i> Espéculo. Revista de Estudios Literarios</i>, n. 33, 2006.</li>
@@ -34,7 +34,7 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Conferences</h3>
 
 <ul>
-  <li><b>Worlds and Words: Of Bats, Ticks, and Apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</a>, University of Galway, Galway, 10-11 June 2011.</li>
+  <li><b>Worlds and words: Of bats, ticks, and apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</a>, University of Galway, Galway, 10-11 June 2011.</li>
   <li><b>El repte de l'eficiència en la gestió d'una ONG</b>, Universitat Oberta de Catalunya, Bellaterra, 2009.</li>
   <li><b><a href="http://www.ignasiribo.com/texts/the_papers_of_salamanca" target="_blank">The papers of Salamanca: War, closure, and re-enactment</a></b>, <i>Archives: From Memory to Event</i>, University College of London, London, 2007.</li>
   <li><b><a href="http://www.ignasiribo.com/texts/the_novel_as_tragic_form" target="_blank">The novel as tragic form</a></b>, <i>The Novel: Democracy’s Form?</i>, University of Sussex, Brighton, 2007.</li>
