@@ -94,7 +94,7 @@ Williams, Raymond; Modern Tragedy, Verso, London, 1979
 
 
 <b>NOTES</b>
-<p><span id="note1">[1] See Terry Eagleton, Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003. Eagleton’s brilliant analysis has been a source of inspiration in my reflections. However, I find that his approach to the question of the tragic is insufficient and vague. He does not make any serious attempt to define the tragic, but uses a “least common denominator” approach, reducing the tragic to anything that presents a significant amount of suffering. This highly empirical perspective eliminates any possibility of understanding tragedy as a genre or the tragic as a form.</span></p>
+<h3><span id="note1">[1] See Terry Eagleton, Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003. Eagleton’s brilliant analysis has been a source of inspiration in my reflections. However, I find that his approach to the question of the tragic is insufficient and vague. He does not make any serious attempt to define the tragic, but uses a “least common denominator” approach, reducing the tragic to anything that presents a significant amount of suffering. This highly empirical perspective eliminates any possibility of understanding tragedy as a genre or the tragic as a form.</span></h3>
 [2] George Steiner writes: “The history of the decline of serious drama is, in part, that of the rise of the novel.” The Death of Tragedy, Faber, London, 1960, p. 118. 
 [3] Aristotle, The Poetics, Harvard University Press, Cambridge, translated by W. Hamilton Fyfe, 1932.
 [4] György Lukács, Theory of the Novel: A Historico-philosophical Essay on the Forms of Great Epic Literature, MIT Press, Cambridge, 1974.
