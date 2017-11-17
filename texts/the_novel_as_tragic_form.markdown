@@ -6,12 +6,7 @@ img:
 redirect: 
 ---
 <style>
-a[id]:before {
-    content:"";
-    display:block;
-    height:50px;
-    margin:-30px 0 0;
-}
+
 :target {
     display: block;    
     position: relative;     
