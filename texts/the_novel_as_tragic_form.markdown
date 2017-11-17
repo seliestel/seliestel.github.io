@@ -5,52 +5,117 @@ description: a project with no image
 img: /img/bufals_cover.jpg
 redirect: http://www.amazon.com/Tamb%C3%A9-somien-b%C3%BAfals-Ignasi-Rib%C3%B3/dp/8475967736/
 ---
+I am stepping on treacherous ground here. Too much has been written already on the tragedy. Even more – incredible as it may seem – than what has been written on the novel. Yet, I will speak on the novel as a form of tragedy. Or to be more precise: on the novel as tragic form.
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Tragedy, as we all know, is a particular literary genre, a form of drama that appeared in Athens and might have died over there a long time ago. Certainly, the novel is not tragedy in that sense. We might even wonder whether King Lear or Death of a Salesman are tragedies in the sense that Prometheus Bound or Oedipus Tyrannous are. But at least, you might argue, all those are dramatic plays; which is something that the novel is clearly not. This is the main reason why I shall speak of the tragic and not of tragedy. But I do not intend to present “the tragic” as some intrinsically human characteristic, a transcendental or transhistorical outlook on existence. No, I want to speak of the tragic as a form. And a form, for that matter, which is in many ways akin to the modern genre that we all call – without really knowing what it is – the novel.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+This looks very much like a lost case. Leaving aside a few valiant exceptions,  literary critics have usually pitted the novel against the tragic. Some have even suggested that one of the causes for the regretful demise of tragedy is precisely the rise of the novel.  Others, on the contrary, claim the same thing but with a smile; for them, the victory of the democratic novel over the aristocratic tragedy is a matter of celebration, not of grieve. The arguments for this dichotomy, whether defended by nostalgic conservatives or radical activists, are neither trivial nor easy to dismiss. In fact, “the novel versus the tragic” seems to be one of those conflicts in which you either take sides or you move aside. But what are the arguments that sustain such a hopeless divorce? 
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
+For obvious reasons, I cannot discuss them exhaustively here. Allow me, therefore, to compress the key questions into two lines of thought. On the one hand, then, I will present the Formalist case, which goes as far back as Aristotle.  On the other, what may be called the Idealist case, which has its most serious advocate in the young Lukács. 
+
+“One must remember,” says Aristotle, “not to make a tragedy an epic structure.” This is an advice that resounds far into the western critical tradition. The difference between the epic and the tragic, according to Aristotle, is fundamentally a matter of composition (synthesis). “By epic,” he says, “I mean made up of many stories.”  Both the Iliad and Hecuba are mimēsis praxeōn, the representation of actions of the Trojan War. But while one represents several episodes, the other just one. So it is not so much the fact that one is narrated and the other dramatized that separates the epic and the tragic for Aristotle. It is fundamentally a question of length and density.  If we translate Aristotle’s concise analysis in other terms, we would say that the novel is a form of time (chronos) and the tragic a form of crisis (kairos).  The novel is an arrangement of diverse stories, styles, voices and actions. The tragic is the arrangement of a single story in a concentrated plot. The novel grows; the tragic curls. 
+
+Form is also what Lukács is after in his Theory of the Novel. But he looks at it from above, rather than from below. “The novel,” he famously claims, “is the epic of a world that has been abandoned by God.”  Thus, the novel is the historico-philosophical form that reflects the quest for meaning of the problematic individual in a contingent and fragmented world. Needless to say that this problematic individual could be anyone of us, which is something that apparently we cannot say of Antigone or Alcestis. According to Lukács, the tragic hero “assumes the symbolic attributes of life only in order to be able to perform the symbolic ceremony of dying in a sensuously perceptible way, making transcendence visible.”  The tragic, therefore, seems to be an essentialist form, a glorious, but outdated monument in a world that has lost the ancient totality of being. If the novel is the form of adventure, of interiority and experience, the tragic is presented as the form of eternal fate and sacrifice. If the novel is the heroism of transcendental homelessness, the tragic is the home of heroic transcendence.
+
+Although I cannot discuss in-depth any of these arguments, let me point out that both the Formalist and the Idealist case offer a misleading description of the tragic. While it is true that ancient tragedies tend to be short and concentrated, the same can be said of comedies and satyr-plays. We may wonder, therefore, if an argument based on the nature of drama is likely to be able to define the tragic as a literary form. But making the concept of the tragic a timeless essence, as German Idealism has tended to do, especially since Schelling, Hölderlin and Hegel,  does not seem to solve the problem either. If the tragic is a question of unavoidable destiny, moral conflict and heroic sacrifice, then surely there are very few tragedies, even amongst the surviving works of Aeschylus, Sophocles and Euripides. 
+
+Are we thus condemned to use the term “tragic” in an imprecise and intuitive sense? Well, you can always rely on a sound empirical approach: the tragic would be what people usually call tragic, whatever that is. If you allow me, however, I will try to define the tragic in less pragmatic terms. Of course, I assume that my definition will present flaws and may be criticized as being normative.  But at least it might explain why calling the novel a tragic form is not just a fancy whim. After all, was it not Plato who said that Homer was the greatest of all tragic poets ?
+
+If you do not mind, then, I will call tragic any form that articulates dialectically the uncertainty of action and the fact of suffering. 
+
+The tragic, therefore, reflects very simple human notions. One: that all action is uncertain; we act without knowing or controlling the consequences of our actions. Two: that there is suffering in the world, including our own suffering. The tragic articulates these two notions in a dialectical manner: suffering becomes action, action becomes suffering. The tragic, in short, is a dialectic of action and passion.
+
+Euripides, a very untragic author according to Nietzsche,  refers to this uncertainty of action at the end of many of his plays: “There are many shapes of divinity,” says the Chorus, “and many things the gods accomplish against our expectation. What men expect is not brought to pass, but a god finds a way to achieve the unexpected.”  It is not clear what Euripides means when he refers to the gods. But surely divinity is not indispensable as for uncertainty; and it is thus very much dispensable in tragedy, as Beckett well knew. Whatever the reason, immanent or transcendent, the fact is that our actions are entangled in a complex web of causalities, and we are not really able to foresee what their consequences will be. This explains also why there is nothing strange about a Christian or a Marxist tragedy, in spite of what some critics might say. 
+
+As for the fact of suffering in tragedy, I probably do not need to give many examples. “Residents of our native Thebes,” says the Sophoclean Chorus, “behold, this is Oedipus, who knew the renowned riddle, and was a most mighty man. What citizen did not gaze on his fortune with envy? See into what a stormy sea of troubles he has come! Therefore, while our eyes wait to see the final destined day, we must call no mortal happy until he has crossed life's border free from pain.” 
+
+Uncertainty and suffering. These are the ingredients of the tragic. It is essential, moreover, that these two elements be articulated dialectically. Oedipus, as you already know, is probably the most perfect case. The plague pushes him to search for truth; this search carries him to his doom. But all Greek tragedies rely, some way or the other, on the same dialectic. Otherwise, the form would not be tragic; at least according to my definition. If there is only uncertainty of action there might be adventure. If there is only suffering, then we might have a form of melodrama, not tragedy.
+
+But the tragic can also die of excess, by incurring into what might be called the hybris of the tragic. Thus, when the form makes too much out of the uncertainty of the human condition, it may fall in the nihil, undermining the value of all praxis and giving way to cynicism. Conversely, if it makes too much out of suffering, if it gives excessive value to pathos, the tragic may artificially climb to the sublime. In order to protect itself from these untragic extremes, the tragic can only rely, so to speak, on its own weapons. Thus, against the nihil, it needs to stress that suffering is an individual fact; not an abstract event, but something that a fellow being experiences. And in order to counterbalance the sublime, the tragic will need to insist on the uncertainty of action, projecting it into speech as irony. 
+
+It is, therefore, this precarious articulation of uncertainty and suffering in a dialectical form what produces the tragic effect. According to Aristotle, this effect may be summarized as eleos and phobos, pity and fear.  I would risk suggesting that the main cause of fear is precisely the uncertainty of human action. And of course the main cause of pity is the spectacle of suffering. Whether those emotions are purifying or innerving, it might be a question for psychologists or psychoanalysts to solve.
+
+The problem I would like to address here is a simpler one. Granted that any form that articulates dialectically the uncertainty of action and the fact of suffering is tragic, can we say that the novel is a tragic form? Of course, I would not claim that all novels are tragic. By now, we are already well aware of the unaccountable diversity of novels.  But I would like to point out that the novel may indeed be tragic and that the divide between the two in literary theory should be overcome.
+
+The modern world, in which the novel thrives, is surely very different from the ancient. But some things do not change; at least not as much as many of us would like them to change. Uncertainty is today as stark as ever. We might not fear the gods anymore, but even our physical laws are undermined by chaos and the irreducible complexity of nature. And there is no doubt that suffering still prevails, as it has always done. War, genocide, exploitation, hunger, torture, death… Novels reflect all that. And they do it as well as drama, if not better. But can novels articulate the uncertainty of action and the fact of suffering in a dialectical form? Can they be tragic?
+
+Well, there is little doubt that at least some of them are. Take, for example, K.’s pleadings through the corridors of an incomprehensible judiciary system. Is it that different from Oedipus’s relentless inquiry into the murder of Laios? They both seek to know. They both suffer the consequences of wanting to know. And is Raskolnikov’s crime and punishment that different from Orestes’s ordeal? They both commit murder. They are both chased by the Furies and finally redeemed.
+
+Of course, I am not claiming that one can simply reduce these four works, rich with meaning and suggestion as they are, to their tragic form. But the fact that we can identify a structural affinity between them indicates that there is no reason to separate novels and tragedies as if they could never walk under the same roof. What these and other examples show is that the novel is definitely able to articulate the elements of the tragic. Indeed, its protean structure might even be better adjusted to do that than drama ever was. 
+
+Yes, I know, the novel grows. But it may grow in endlessly descending spirals. And yes, the hero of the novel is a problematic individual, a homeless wanderer. But he may also wander into the dark and become a pharmakos, the victim of sacrifice.
+
+In fact, if the novel and the tragic are usually depicted as two separate things, it is basically because in tragedy this sacrifice is supposed to be heroic, a form of greatness or transcendence. But this idea seems to rest, almost exclusively, on a pervasive misinterpretation of the tragedy. As I see it, however, there is nothing really heroic in human action, much less in human sacrifice. Thus, Oedipus and Antigone, not to speak of Phaedra or Ajax, might have never been the kind of heroes that Racine, Hegel or Camus, amongst many others, have repeatedly praised. Because there is nothing ennobling or liberating in their suffering. And if they appeal to us as they do, it is only because they act without knowing and they suffer without understanding, for which we recognize them as fellow human beings. 
+
+This means that the novel may be as tragic as any tragedy. Not only that, but the protagonists of the tragic need not be the great and noble figures that philosophers and moralists have tried to make out of them. A sentimental housewife, a crippled vagrant or a boy with a hare lip may become, thanks to the novelistic prose, tragic heroes of the likes of Electra, Philoctetes or Heracles. Thus, rather than being an antiquarian curiosity, a nostalgic look at the times of monarchs and patriarchs, the tragic novel is in fact the form of democracy. 
+
+Although it is widely known, it is always useful to recall that Greek tragedy appeared, not under aristocratic or oligarchic rule, but in the Athenian democracy of the 5th century. This is surely no coincidence. In democracy, even in a limited one, men participate in collective decision-making; they are not simply subjects, but citizens. And it is through political life that they become aware of the autonomy of their reason, but also of its limits and its perils.  
+
+Thus, the model for the tragic agōn is not an obscure ritual, but the life of the polis: the speeches at the Assembly, the deliberations of the Council, the confrontations at the Courts, as well as the discussions of citizens and sophists in the agora of Athens. This is the core of tragedy: the realization that our actions and our passions are inevitably, indeed fatally, tied. And this is what politics is all about.
+
+The tragic, therefore, far from being the monolithic and univocal form that some tend to portray, is in fact a form of the dialogical imagination, perhaps the most ancient one. Certainly, the polis that saw the birth of tragedy is not yet the plurilingual and multinational world where Greek and Roman novels could develop. But the agonistic and discursive representation of political life in Attic tragedy is undoubtedly at the core of genres like the Socratic dialogue or the Menippean satire, from which, according to Bakhtin, the ancient novel stemmed.  It is not surprising, therefore, that Bakhtin himself should point out the common purpose of the tragic and the comic in opposing what he calls the “abstract idealization and sublimation” of high rhetoric.  Of course, he also adds that laughter is superior to the seriousness of tragedy in this endeavour. But one may wonder if the strict separation of the comic and the tragic, which has informed classicist poetics since Aristotle, needs to be enforced beyond its historical determinants. After all, it was Socrates who insisted, at the end of the Symposium, “that the genius of comedy was the same with that of tragedy.”  And we have enough examples in modern literature, from Shakespeare to Kafka, Beckett or Bernhard, to suspect that no fundamental rule is broken when “the worst returns to laughter.” 
+
+But we all know that, of course. What we tend to forget, however, is that the seriousness of the tragic continues to live in the spirit of the modern novel. And that it is not something regretful, but of the utmost importance, that it should continue to be so. Thus, rather than celebrating the carnivalesque diversity of contemporary writing, we should perhaps demand more from novels. In a time when the multitude blends into the fluid marketplace and polyphony sounds with the unique ring of global business, the truly democratic novel is not the one that dances to the tune, but the one that shouts and spits like the wounded archer in his solitary island. Because outside of the carnival, there is suffering; at the doors of the exciting garden of world literature, people die of hunger and disease, people kill and torture each other every single day. No novel will ever be able to change that, I know. But at least we should demand that novels speak about what matters, instead of jumping into the narcissistic celebration of the liberated word. We should demand that they be, once again, tragic.
+
+But this has nothing to do, as some may fear, with accepting the fatality of Destiny. Paradoxically, it is the carnivalesque novel that becomes, by exchanging the Real for the Imaginary, the true subject of fatalism. The tragic novel, on the contrary, is not a form of resignation. Of course, some may claim that the tragic has a cathartic effect; it may even induce a Buddhist denial of the will or a flight into the metaphysics of art. But it need not be so. The tragic can also help us to reflect, it can make us angry, it can even move us to action. Because the tragic does not speak about fate and heroism, necessity and resistance, nor does it announce a revolutionary reversal of fortunes or the messianic redemption in the body of the victim.  It simply reminds us that we cannot control the consequences of our actions, nor may we be able to avoid the suffering that they will cause. Rather than speaking of sublime greatness, the tragic is thus the voice of modesty; it speaks of weakness and limitation.
+
+Epicurus, a man who had some sense for the tragic, but none for metaphysics, thought that “some things happen of necessity, other by chance, other through our own agency.” We simply do not know. But this does not exempt us from responsibility, nor should it deter us from action. As he said, “our own actions are free, and it is to them that praise and blame naturally attach.”  
+
+The tragic – and the novel that aspires to be tragic – is not a call for resignation, but a compelling reminder that today’s world still is, as it has always been, “out of joint.”  
+
+What we make out of it is only up to us.
+
+ 
+<b>Works Cited</b>
+
+Aristotle, The Poetics, Harvard University Press, Cambridge, translated by W. Hamilton Fyfe, 1932
+Bakhtin, Mikhail; The Dialogic Imagination: Four Essays, University of Texas Press, Austin, 1982
+Bakhtin, Mikhail; Collected Works, Russkie Slovari, Moscow, 1996
+Beistegui, Miguel de and Simon Sparks (eds.); Philosophy and Tragedy, Routledge, London and New York, 2000
+Benjamin, Walter; The Origin of German Tragic Drama, Verso, London, 1998
+Benjamin, Walter; “Fate and Character”, in Selected Writings, Belknap, Cambridge, 1996
+Davis, Creston, John Milbank and Slavoj Žižek (eds.); Theology and the Political: The New Debate, Duke University Press, Durham and London, 2005
+Diogenes Laertius; Lives of Eminent Philosophers, Harvard University Press, Cambridge, vol. 2, 1931. 
+Eagleton, Terry; Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003
+Kaufmann, Walter; Tragedy and Philosophy, Princeton University Press, Princeton, 1968
+Kermode, Frank; The Sense of an Ending: Studies in the Theory of Fiction, Oxford University Press, Oxford, 2000
+Lukács, György; Theory of the Novel: A Historico-philosophical Essay on the Forms of Great Epic Literature, Merlin, London, 1971
+Moretti, Franco; The Novel, 2 volumes, Princeton University Press, Princeton, 2006
+Nietzsche, Friedrich; The Birth of the Tragedy and the Case of Wagner, Vintage, New York, 1967
+Steiner, George; The Death of Tragedy, Faber, London, 1960
+Szondi, Peter; An Essay on the Tragic, Stanford University Press, Stanford, 2002
+Vernant, Jean-Pierre and Pierre Vidal-Naquet; Tragedy and Myth in Ancient Greece, Harvester Press, Brighton, 1981
+Williams, Raymond; Modern Tragedy, Verso, London, 1979
 
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<b>NOTES</b>
+[1] See Terry Eagleton, Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003. Eagleton’s brilliant analysis has been a source of inspiration in my reflections. However, I find that his approach to the question of the tragic is insufficient and vague. He does not make any serious attempt to define the tragic, but uses a “least common denominator” approach, reducing the tragic to anything that presents a significant amount of suffering. This highly empirical perspective eliminates any possibility of understanding tragedy as a genre or the tragic as a form.
+[2] George Steiner writes: “The history of the decline of serious drama is, in part, that of the rise of the novel.” The Death of Tragedy, Faber, London, 1960, p. 118. 
+[3] Aristotle, The Poetics, Harvard University Press, Cambridge, translated by W. Hamilton Fyfe, 1932.
+[4] György Lukács, Theory of the Novel: A Historico-philosophical Essay on the Forms of Great Epic Literature, MIT Press, Cambridge, 1974.
+[5] Both quotes are from Aristotle, The Poetics, 1456a.
+[6] A modern version of Aristotle’s distinction may be found in Walter Kaufmann’s splendid Tragedy and Philosophy, Princeton University Press, Princeton, 1968, pp. 83-84. Certainly, Kaufmann cannot be accused of formalism and his critique of Aristotle’s Poetics is extremely sharp in many aspects. Here, however, he accepts Aristotle’s formal distinction too easily.
+[7] Cf. Frank Kermode, The Sense of an Ending: Studies in the Theory of Fiction, Oxford University Press, Oxford, 2000, p. 46 ff. See also Eagleton, Sweet Violence, p. 181.
+[8] Of course, the novel is not a perfect equivalent of the epos. As Bakhtin and other theorists have shown, it should be compared with other ancient forms (like the Socratic dialogue or the Menippean satire). Yet, from the perspective of a philosophy of the forms attempted here, my comments are valid both for the epic and the tragic.
+[9] Lukács, Theory of the Novel, p. 88.
+[10] Ibid, p. 48. Translation slightly modified.
+[11] Cf. Peter Szondi, An Essay on the Tragic, Stanford University Press, Stanford, 2002. See also Miguel de Beistegui and Simon Sparks (eds.); Philosophy and Tragedy, Routledge, London and New York, 2000. 
+[12] But of course any definition may be criticized as non-comprehensive and normative from a purely descriptive point of view. At the same time, though, such a point of view would only allow us to approach particular cases with a preconceived, often implicit, notion of the form. This is one of the main problems of Eagleton’s study.
+[13] Cf. Plato, Republic, X, 598 J.  
+[14] Cf. Friedrich Nietzsche, The Birth of the Tragedy and the Case of Wagner, Vintage, New York, 1967, section 14.
+[15] Euripides, “Alcestis”, 1159-1160, from Cyclops. Alcestis. Medea, vol. 1, translated by David Kovacs, Harvard University Press, Cambridge, 1994.
+[16] According to Steiner, “the metaphysics of Christianity and Marxism are anti-tragic. That, in essence is the dilemma of modern tragedy” (Death of Tragedy, p. 324).
+[17] Sophocles, The Oedipus Tyrannus of Sophocles, 1525-1530, from Oedipus Tyrannus, Cambridge University Press, Cambridge, 1887, translated by Sir Richard C. Jebb.
+[18] Cf. Aristotle, The Poetics, 1449b. 
+[19] Thus, Franco Moretti’s prologue to The Novel (Princeton University Press, Princeton, 2006, 2 vols.): “Countless are the novels of the world”
+[20] This is strongly argued by Walter Kaufmann and Terry Eagleton (as well as by Raymond Williams in Modern Tragedy, Broadview Press, Canada, 2003). Their definition of tragedy, however, is not able to account for its formal unity. While Eagleton, largely following Williams, reduces the tragic to the fact of suffering, Kaufmann stresses Aristotle’s conception of the tragic effect to define the essence of the genre as something that inspires “ruth and terror”. Moreover, Kaufmann, in spite of his pronouncements, tends to find certain tragic figures, such as Antigone or Oedipus, heroic in their aristocratic resistance to suffering. This is probably due to the influence of Existentialism and especially of Nietzsche. 
+[21] As Jean-Pierre Vernant and Pierre Vidal-Naquet write, “the tragic sense of responsibility emerges when human action becomes the object of reflection and debate while still not being regarded as sufficiently autonomous to be fully self-sufficient” (Tragedy and Myth in Ancient Greece, Harvester Press, Brighton, 1981, p. 4). We may add that this sense of the tragic re-emerges whenever the idea of autonomous or self-sufficient human action weakens once again, without disappearing altogether. 
+[22] Cf. Mikhail Bakhtin, The Dialogic Imagination: Four Essays, University of Texas Press, Austin, 1982, especially the chapter “Two stylistic lines of development in the European novel” (in the essay Discourse in the Novel).
+[23] Mikhail Bakhtin, Collected Works, Russkie Slovari, Moscow, 1996, vol. 5, p. 463, n.1. Quoted in Eagleton, Sweet Violence, p. 185.
+[24] Translated by Benjamin Jowett. See Walter Kaufmann’s comments in Tragedy and Philosophy, p. 321.
+[25] Shakespeare, King Lear, IV, 1.
+[26] See, for example, Terry Eagleton’s claims in “Tragedy and Revolution,” in Creston Davis, John Milbank and Slavoj Žižek (eds.), Theology and the Political: The New Debate, Duke University Press, Durham and London, 2005, p. 12. In general, this line of thought about the tragic can be traced back to Benjamin’s Trauerspiel study (and to his preparatory essay “Fate and Character”). Cf. Walter Benjamin, The Origin of German Tragic Drama, Verso, London, 1998; Walter Benjamin, “Fate and Character”, in Selected Writings, Belknap, Cambridge, 1996, vol. 1, pp. 201-205. But the theological implications of the tragic were already inherent in the philosophy of the tragic developed within German Idealism.
+[27] Letter from Epicurus to Menoeceus, in Diogenes Laertius, Lives of Eminent Philosophers, vol. 2, Harvard University Press, Cambridge, 1931, translated by R. D. Hicks, X, 133, p. 659. 
+[28] Shakespeare, Hamlet, IV, 1.
 
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
