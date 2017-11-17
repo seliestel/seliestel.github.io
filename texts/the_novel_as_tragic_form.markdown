@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a test
+title: The novel as tragic form
 description: a project with no image
 img: /img/bufals_cover.jpg
 redirect: http://www.amazon.com/Tamb%C3%A9-somien-b%C3%BAfals-Ignasi-Rib%C3%B3/dp/8475967736/
