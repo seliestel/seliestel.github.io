@@ -67,6 +67,10 @@ The tragic – and the novel that aspires to be tragic – is not a call for res
 What we make out of it is only up to us.
 
 
+                                *       *        *
+
+
+
 <b>Works Cited</b>
 
 <p>Aristotle, The Poetics, Harvard University Press, Cambridge, translated by W. Hamilton Fyfe, 1932.</p>
