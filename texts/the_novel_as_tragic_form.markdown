@@ -5,6 +5,14 @@ description: a project with no image
 img: 
 redirect: 
 ---
+<style>
+ a.footnote {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+</style> 
 I am stepping on treacherous ground here. Too much has been written already on the tragedy. Even more – incredible as it may seem – than what has been written on the novel. Yet, I will speak on the novel as a form of tragedy. Or to be more precise: on the novel as tragic form.
 
 Tragedy, as we all know, is a particular literary genre, a form of drama that appeared in Athens and might have died over there a long time ago. Certainly, the novel is not tragedy in that sense. We might even wonder whether King Lear or Death of a Salesman are tragedies in the sense that Prometheus Bound or Oedipus Tyrannous are. But at least, you might argue, all those are dramatic plays; which is something that the novel is clearly not. This is the main reason why I shall speak of the tragic and not of tragedy. But I do not intend to present “the tragic” as some intrinsically human characteristic, a transcendental or transhistorical outlook on existence. No, I want to speak of the tragic as a form. And a form, for that matter, which is in many ways akin to the modern genre that we all call – without really knowing what it is – the novel.
@@ -90,7 +98,7 @@ Williams, Raymond; Modern Tragedy, Verso, London, 1979
 
 
 <b>NOTES</b>
-<p id="note1" style="position:relative;top:-100px;">[1] See Terry Eagleton, Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003. Eagleton’s brilliant analysis has been a source of inspiration in my reflections. However, I find that his approach to the question of the tragic is insufficient and vague. He does not make any serious attempt to define the tragic, but uses a “least common denominator” approach, reducing the tragic to anything that presents a significant amount of suffering. This highly empirical perspective eliminates any possibility of understanding tragedy as a genre or the tragic as a form.</p>
+<p id="note1" class="footnote">[1] See Terry Eagleton, Sweet Violence: The Idea of the Tragic, Blackwell Publishing, Malden, 2003. Eagleton’s brilliant analysis has been a source of inspiration in my reflections. However, I find that his approach to the question of the tragic is insufficient and vague. He does not make any serious attempt to define the tragic, but uses a “least common denominator” approach, reducing the tragic to anything that presents a significant amount of suffering. This highly empirical perspective eliminates any possibility of understanding tragedy as a genre or the tragic as a form.</p>
 [2] George Steiner writes: “The history of the decline of serious drama is, in part, that of the rise of the novel.” The Death of Tragedy, Faber, London, 1960, p. 118. 
 [3] Aristotle, The Poetics, Harvard University Press, Cambridge, translated by W. Hamilton Fyfe, 1932.
 [4] György Lukács, Theory of the Novel: A Historico-philosophical Essay on the Forms of Great Epic Literature, MIT Press, Cambridge, 1974.
