@@ -37,7 +37,7 @@ permalink: /texts/
   <li><b>Worlds and words: Of bats, ticks, and apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</a>, University of Galway, Galway, 10-11 June 2011.</li>
   <li><b>El repte de l'eficiència en la gestió d'una ONG</b>, Universitat Oberta de Catalunya, Bellaterra, 2009.</li>
   <li><b><a href="http://www.ignasiribo.com/texts/the_papers_of_salamanca" target="_blank">The papers of Salamanca: War, closure, and re-enactment</a></b>, <i>Archives: From Memory to Event</i>, University College of London, London, 2007.</li>
-  <li><b><a href="http://www.ignasiribo.com/texts/the_novel_as_tragic_form" target="_blank">The novel as tragic form</a></b>, <i>The Novel: Democracy’s Form?</i>, University of Sussex, Brighton, 2007.</li>
+  <li><b>The novel as tragic form</b>, <i>The Novel: Democracy’s Form?</i>, University of Sussex, Brighton, 2007.</li>
   <li><b>Ejercicio de Simulación Empresarial: Desarrollo de competencias genéricas en un entorno virtual</b>, with Eva Rimbau, <i>Jornadas en Red sobre el Espacio Europeo de Educación Superior</i>, Universitat Oberta de Catalunya, 2006.</li>
 </ul>
 
