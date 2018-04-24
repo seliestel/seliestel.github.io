@@ -5,7 +5,7 @@ description:
 year: 2012
 genre: Essay
 img: /img/indignacio_cover.jpg
-redirect: 
+redirect: https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf
 ---
 
 <div class="main_box">
