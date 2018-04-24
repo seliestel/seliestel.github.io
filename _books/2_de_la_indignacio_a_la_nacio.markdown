@@ -21,8 +21,9 @@ redirect:
   
 </div>
 
-<div style="margin-bottom: 20px;">
-  <a href="#" style="display: inline-block;position: relative;padding: 10px 25px;	background-color: #4CC713;color: white;	font-family: sans-serif;	text-decoration: none;	font-size: 0.9em;text-align: center;	text-indent: 15px;">Descarregar en PDF</a>
+<div>
+  <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
+  <p></p>
 </div>
 
 <div class="review_box">
