@@ -14,10 +14,7 @@ redirect:
   <p>L'exposició d'un programa concret d'actuació en els àmbits polític, econòmic i social completa un assaig adreçat a convèncer els més escèptics de la possibilitat real de desenvolupar una comunitat política que sigui plenament lliure, equitativa i democràtica. El llibre acaba justificant la necessitat que els habitants d'aquesta nació, al marge de les seves identitats, llengües o ideologies, exerceixin el dret a l'autodeterminació i es constitueixin ben aviat com a estat independent.</p>
   <p>“De la Catalunya indignada”, sosté l'autor, “pot néixer la Catalunya digna”.</p>
   </div>
-  <div class="cover" style="float: right">
-    <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" download target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
-    <a download href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
-  </div>
+
 </div>
 
 <div class="review_box">
