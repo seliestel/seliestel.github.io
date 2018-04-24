@@ -21,8 +21,8 @@ redirect:
   
 </div>
 
-<div>
-  <a href="#" class="buttonDownload">Descarregar en PDF</a>
+<div style="margin-bottom: 20px;">
+  <a href="#" style="display: inline-block;position: relative;padding: 10px 25px;	background-color: #4CC713;color: white;	font-family: sans-serif;	text-decoration: none;	font-size: 0.9em;text-align: center;	text-indent: 15px;">Descarregar en PDF</a>
 </div>
 
 <div class="review_box">
