@@ -19,7 +19,18 @@ redirect:
   </div>
 </div>
 
+<br>
+<div>
+  <a download href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
+</div>
+<br>
 
+<div class="review_box">
+  <div class="title">Més informació:</div>
+  <ul>
+    <li><a href="https://www.nuvol.com/noticies/ignasi-ribo-el-futur-estat-catala-shauria-de-fonamentar-en-els-habitants-de-catalunya/" target="_blank">Ignasi Ribó: “El futur estat català s’hauria de fonamentar en els seus habitants", Entrevista a <i>Núvol</i>, 2012.</a>     </li>
+  </ul>
+</div>
 
 
 
