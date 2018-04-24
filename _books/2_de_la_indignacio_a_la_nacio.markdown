@@ -5,7 +5,7 @@ description:
 year: 2012
 genre: Essay
 img: /img/indignacio_cover.jpg
-redirect: https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf
+redirect: 
 ---
 
 <div class="main_box">
@@ -15,17 +15,13 @@ redirect: https://github.com/seliestel/seliestel.github.io/blob/master/_books/In
   <p>“De la Catalunya indignada”, sosté l'autor, “pot néixer la Catalunya digna”.</p>
   </div>
   <div class="cover" style="float: right">
-    <a href="https://www.amazon.es/Indignacio-Nacio-Tesis-Politiques-Catalunya/dp/0957419155" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
+    <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
+    <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
+    
 
   </div>
   
 </div>
-
-<div>
-  <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
-</div>
-
-<br>
 
 <div class="review_box">
 <div class="title">Més informació:</div>
