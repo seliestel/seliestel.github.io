@@ -20,7 +20,7 @@ redirect:
 </div>
 <br>
 <div>
-  <a download href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
+
 </div>
 <br>
 <div class="review_box">
