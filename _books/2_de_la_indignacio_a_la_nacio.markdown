@@ -24,8 +24,9 @@ redirect:
 <div>
   <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
 </div>
-<hr>
-<br />
+
+<br>
+
 <div class="review_box">
 <div class="title">Més informació:</div>
 <ul>
