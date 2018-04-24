@@ -17,10 +17,7 @@ redirect:
   <div class="cover" style="float: right">
     <a href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" download target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
     <a download href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
-    
-
   </div>
-  
 </div>
 
 <div class="review_box">
