@@ -15,13 +15,13 @@ redirect:
     <p>“De la Catalunya indignada”, sosté l'autor, “pot néixer la Catalunya digna”.</p>
   </div>
   <div class="cover" style="float: right">
-    <a href="#" download target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
+    <a href="https://github.com/seliestel/seliestel.github.io/raw/master/_books/Indignacio_full_pdf_2nEd.pdf" download target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/indignacio_cover.jpg" alt="" title="On trobar el llibre"/></div></a>
   </div>
 </div>
 
 <br>
 <div>
-  <a download href="https://github.com/seliestel/seliestel.github.io/blob/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
+  <a download href="https://github.com/seliestel/seliestel.github.io/raw/master/_books/Indignacio_full_pdf_2nEd.pdf" target="_blank">Descarregar en PDF</a>
 </div>
 <br>
 
