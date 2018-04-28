@@ -21,6 +21,7 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Articles</h3>
 
 <ul>
+    <li><a href="https://www.elnacional.cat/ca/opinio/ignasi-ribo-republica-referendum-majoria_262533_102.html" target="_blank">La república que volem no es construeix amb majoria simple</a>, <i>El Nacional</i>, 27 April 2018.</li>
     <li><a href="https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/" target="_blank">The last thing Catalonia needs is more autonomy</a>, <i>Politico</i>, 20 April 2018.</li>
     <li><a href="https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/" target="_blank">The spirit of 1978 ["To solve Catalonia, Spain needs a new constitution"]</a>, <i>Politico</i>, 13 November 2017.</li>
       <li><a href="https://www.vilaweb.cat/mailobert/4124204/ignasi-ribo-fills-prodigs.html" target="_blank">Els fills pròdigs</a>, <i>Vilaweb</i>, 14 Juny 2013.</li>
