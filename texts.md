@@ -23,7 +23,7 @@ permalink: /texts/
 <ul>
     <li><a href="https://www.elnacional.cat/ca/opinio/ignasi-ribo-republica-referendum-majoria_262533_102.html" target="_blank">La república que volem no es construeix amb majoria simple</a>, <i>El Nacional</i>, 27 April 2018.</li>
     <li><a href="https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/" target="_blank">The last thing Catalonia needs is more autonomy</a>, <i>Politico</i>, 20 April 2018.</li>
-    <li><a href="https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/" target="_blank">The spirit of 1978 ["To solve Catalonia, Spain needs a new constitution"]</a>, <i>Politico</i>, 13 November 2017.</li>
+    <li><a href="https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/" target="_blank">To solve Catalonia, Spain needs a new constitution</a>, <i>Politico</i>, 13 November 2017.</li>
       <li><a href="https://www.vilaweb.cat/mailobert/4124204/ignasi-ribo-fills-prodigs.html" target="_blank">Els fills pròdigs</a>, <i>Vilaweb</i>, 14 Juny 2013.</li>
   <li><a href="https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation" target="_blank">A new map for a new Europe ["How small countries can save the European project: the rise of the habitat-nation"]</a>, <i>OpenDemocracy</i>, 6 November 2012.</li>
   <li><b>Dramatúrgia catalana? Parlem-ne</b>, <i>El Correu de la UNESCO</i>, March 2001.</li>
