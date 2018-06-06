@@ -8,7 +8,8 @@ permalink: /about/
 <img class="col one right" src="/img/ignasifoto.jpg" style="margin: 10px">
 
 <br/>
-Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book "Habitat: The Ecopolitical Nation" (2012). He is a Lecturer at Mae Fah Luang University (Chiang Rai, Thailand).<a href="https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3" target="_blank">Wikipedia</a>
+Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book "Habitat: The Ecopolitical Nation" (2012). He is a Lecturer at Mae Fah Luang University (Chiang Rai, Thailand). 
+<a href="https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3" target="_blank">Wikipedia</a>
 <br/>
 <hr/>
 <br/>
