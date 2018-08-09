@@ -5,7 +5,7 @@ year: 2011
 genre: Essay
 description: another without an image
 img: /img/teoria_cover.jpg
-redirect: https://www.amazon.es/teoria-liter%C3%A0ria-Spanish-Ignasi-Rib%C3%B3/dp/8497883993/ref=sr_1_1?ie=UTF8&qid=1533785380&sr=8-1&keywords=la+teoria+literaria+ignasi+ribo
+redirect: https://www.amazon.es/teoria-liter%C3%A0ria-VullSaber-Ignasi-Labastida/dp/8497883993/ref=sr_1_1?s=books&ie=UTF8&qid=1533785529&sr=1-1
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
