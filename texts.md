@@ -21,7 +21,8 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Articles</h3>
 
 <ul>
-      <li><a href="https://www.naciodigital.cat/opinio/17632/nostre/combat" target="_blank">El nostre combat</a>, <i>Nació Digital</i>, 8 Maig 2018.</li>
+    <li><a href="https://www.hyperledger.org/blog/2018/09/20/bitagora-a-decentralized-voting-platform-built-on-hyperledger-sawtooth" target="_blank">Bitagora: A Decentralized Voting Platform Built on Hyperledger Sawtooth</a>, <i>Hyperledger Blog</i>, 20 September 2018.</li>
+    <li><a href="https://www.naciodigital.cat/opinio/17632/nostre/combat" target="_blank">El nostre combat</a>, <i>Nació Digital</i>, 8 Maig 2018.</li>
     <li><a href="https://www.elnacional.cat/ca/opinio/ignasi-ribo-republica-referendum-majoria_262533_102.html" target="_blank">La república que volem no es construeix amb majoria simple</a>, <i>El Nacional</i>, 27 April 2018.</li>
     <li><a href="https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/" target="_blank">The last thing Catalonia needs is more autonomy</a>, <i>Politico</i>, 20 April 2018.</li>
     <li><a href="https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/" target="_blank">To solve Catalonia, Spain needs a new constitution</a>, <i>Politico</i>, 13 November 2017.</li>
