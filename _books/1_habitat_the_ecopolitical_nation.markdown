@@ -23,14 +23,4 @@ several provocative assertions, which form the basis for the present review. Itâ
   
 </div>
 
-<div class="review_box">
-<div class="title">Book reviews</div>
-<ul>
-  <li></li>
-  <li></li>
-  <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0130_0133" target="_blank">Mike Menser, <i>Environmental Philosophy</i>, n. 10(2), Fall 2013.</a></li>
-</ul>
-</div>
-
-
 
