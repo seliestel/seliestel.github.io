@@ -8,7 +8,7 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Academic essays</h3>
 
 <ul>
-  <li><a href="" target="_blank">The Novel as Tragic Form</a>. <i>Connexion: Journal of Humanities and Social Sciences</i>, 7:2, 2018. </li>
+  <li><a href="" target="_blank">The novel as tragic form</a>. <i>Connexion: Journal of Humanities and Social Sciences</i>, 7:2, 2018. </li>
   <li><a href="https://rowman.com/ISBN/9781498545976/Southeast-Asian-Ecocriticism-Theories-Practices-Prospects" target="_blank">Ecocriticism, hermeneutics, and the vanishing elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017, pp. 37-60.</li>
   <li><a href="https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0097_0112" target="_blank">Worlds and words: Of bats, ticks, and apes</a>, <i>Environmental Philosophy</i>, n. 10(2), pp. 97-112, Fall 2013.</li>
   <li><a href="http://llull.cat/IMAGES_175/transfer04-essa01.pdf" target="_blank">Jean Améry: The dislocated witness</a>, <i>Transfer: Journal of Contemporary Culture</i>, n. 4, pp. 6-23, 2009.</li>
