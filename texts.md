@@ -41,7 +41,7 @@ permalink: /texts/
 
 <ul>
   <li><b>Exploring new models of interspecific communication</b>, <a href="https://www.ru.nl/dondersdiscussions/previous-events/dd2017/general-dd2017/" target="_blank">Donders Discussions 2017</a>, Radboud University, Nijmegen, 26 October 2017.</li>
-  <li><b>An ecocritical look at the vanishing elephants of Thailand</b>, 10th International Conference of HUSOC network, Chiang Rai Rajabhat University, Chiang Rai, 3 February 2017.</li>
+  <li><b>Understanding the relationship of humans and elephants in Thailand from a cultural perspective</b>, 10th International Conference of HUSOC network, Chiang Rai Rajabhat University, Chiang Rai, 3 February 2017.</li>
   <li><b>Worlds and words: Of bats, ticks, and apes</b>, <a href="http://nuigalway.wix.com/from-ego-to-eco-conference#!conference-programme-and-speakers" target="_blank">From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy</a>, University of Galway, Galway, 10-11 June 2011.</li>
   <li><b>El repte de l'eficiència en la gestió d'una ONG</b>, Universitat Oberta de Catalunya, Bellaterra, 2009.</li>
   <li><b><a href="http://www.ignasiribo.com/texts/the_papers_of_salamanca" target="_blank">The papers of Salamanca: War, closure, and re-enactment</a></b>, <i>Archives: From Memory to Event</i>, University College of London, London, 2007.</li>
