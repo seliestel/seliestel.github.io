@@ -8,7 +8,7 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Academic essays</h3>
 
 <ul>
-  <li>Dialogical Communicative Interaction between Humans and Elephants: An Experiment in Semiotic Alignment. <i>Biosemiotics</i>. In press. Accepted: 25 January 2019.</li>
+  <li>Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment. <i>Biosemiotics</i>. In press. Accepted: 25 January 2019.</li>
   <li>Semiotic alignment: towards a dialogical model of interspecific communication. <i>Semiotica: Journal of the International Association for Semiotic Studies</i>. In press. Accepted: 18 March 2018.</li>
   <li><a href="http://connexion.mfu.ac.th/assets/uploads/ejournal/Vol.7%20No.2%202018/1-16%20The%20Novel%20as%20Tragic%20Form.pdf" target="_blank">The novel as tragic form</a>. <i>Connexion: Journal of Humanities and Social Sciences</i>, 7:2, 2018. </li>
   <li><a href="https://rowman.com/ISBN/9781498545976/Southeast-Asian-Ecocriticism-Theories-Practices-Prospects" target="_blank">Ecocriticism, hermeneutics, and the vanishing elephants of Thailand</a>. In <i>Southeast Asian Ecocriticism: Theories, Practices, Prospects</i>, ed. John Charles Ryan, Lexington Books, New York, 2017, pp. 37-60.</li>
