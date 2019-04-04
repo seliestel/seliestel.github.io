@@ -8,7 +8,7 @@ permalink: /texts/
 <h3 style="font-family: Raleway; margin-bottom: 20px">Academic essays</h3>
 
 <ul>
-  <li>Dialogical communicative interaction between humans and elephants: An experiment in semiotic alignment. <i>Biosemiotics</i>. In press. Accepted: 20 March 2019.</li>
+  <li><a href="https://doi.org/10.1007/s12304-019-09354-y" target="_blank">Dialogical communicative interaction between humans and elephants: An experiment in semiotic alignment</a>. <i>Biosemiotics</i>, 2019. Published online: April 3, 2019.</li>
   <li>‘At the farthest pole from man’: Kafka’s posthuman outlook on war. <i>Journal of Modern Literature</i>. In press. Accepted: 8 March 2019.</li>
   <li>Semiotic alignment: Towards a dialogical model of interspecific communication. <i>Semiotica: Journal of the International Association for Semiotic Studies</i>. In press. Accepted: 18 March 2018.</li>
   <li><a href="http://connexion.mfu.ac.th/assets/uploads/ejournal/Vol.7%20No.2%202018/1-16%20The%20Novel%20as%20Tragic%20Form.pdf" target="_blank">The novel as tragic form</a>. <i>Connexion: Journal of Humanities and Social Sciences</i>, 7(2), 2018. </li>
