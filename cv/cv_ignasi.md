@@ -1,8 +1,9 @@
 ---
 layout: blank
-title: about
-description: Author
-permalink: /about/
+title: cv
+description: CV
+style: cv_style
+permalink: /cv/
 ---
 
 Ignasi Ribó
