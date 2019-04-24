@@ -1,5 +1,5 @@
 ---
-layout: vita
+layout: cv
 title: cv
 description: CV
 permalink: /cv/
@@ -15,108 +15,120 @@ Ignasi Ribó
 
 ----
 
-Corporate Experience
+Education
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+2006 – 2008
+:   	*Doctor of Philosophy, Modern European Literature and Thought.*
+      University of Sussex, Falmer, United Kingdom. 
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+      Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). 
+      Advisor: Daniel Steuer, Ph.D.
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+2004 – 2006
+:   	*Master of Advanced Studies, Comparative Study of Language and Literature.*
+      Universitat de Barcelona, Barcelona, Spain. 
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+      Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). 
+      Advisor: Jordi Llovet, Ph.D.
+   
+2002 – 2004
+:   	*Bachelor, Literary Theory and Comparative Literature.*
+      Universitat de Barcelona, Barcelona, Spain. 
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+1997 – 1998
+:   	*Master, Political Science (Certificat International d’Études Politiques).*
+      Institut d’Études Politiques de Paris (Sciences-Po), Paris, France. 
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+1989 – 1995
+:   	*Bachelor and Master, Business Administration (MBA).*
+      ESADE, Universitat Ramon Llull, Barcelona, Spain.	
+		
+		Major: International Business and Finance.
+		Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
+      
+		Master Community of European Management Schools (CEMS). 
+      European Management and International Business Studies. Semester exchange (1995). Hautes Études Commerciales (HEC), Paris, France. Specialisation: Europe-Asia: Culture, Politics, Society.
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
+      International Management Program. Semester exchange (1994).
+      Stern School of Business, New York University, New York, United States.
+      Specialisation: Global Banking and Capital Markets.
 
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
 
-Selected Open Source Contributions
+Academic Employment
+--------------------
+
+Since June 2016
+:   *Lecturer, School of Liberal Arts.*
+    Mae Fah Luang University (Chiang Rai, Thailand).
+
+    Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, 
+    Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing.
+
+Feb 2002 - June 2016
+:   *Adjunct Professor, Faculty of Humanities / Faculty of Management*
+    Universitat Oberta de Catalunya (Barcelona, Spain).
+
+    Courses taught: Literary and Critical Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.
+
+
+Affiliations
 ----------------------------------
 
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
+Since September 2018
+:   *Member, Human Rights and Sustainability in the Mekong Region ([HUSUME](https://husume.center)).*
 
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
+Since March 2018
+:   *Member, Association for the Study of Literature and the Environment ([ASLE/ASEAN](https://aseanasle.wordpress.com))*
 
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
+2016 - 2017
+:   *Affiliated Researcher, Regional Center for Social Science and Sustainable Development ([RCSD](http://rcsd.soc.cmu.ac.th))*
 
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
+Other Employment
+----------------------------------
 
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
+2012-2013
+:   *Consultant, Tecnigestión S.L.*
+    (Barcelona, Spain)
 
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+    Advised SMEs on finance, strategy and business development.
 
-Education
----------
+2010-2011
+:   *Managing Director, Zing Foods Pte Ltd.*
+    (Singapore)
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+    Started an export/import company in the organic foods sector.
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+2002-2003
+:   *Managing Director, Eyes of the World Foundation.*
+    (Barcelona, Spain)
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+    Headed a team of eight people designing and implementing ophthalmologic aid and cooperation projects in Mozambique, Bolivia, Gaza and the Western Sahara refugee camps in Algeria, including the organisation of medical commissions and educational programmes.
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+2000-2002 	
+:   *Assistant Manager, Déu i Mata S.L.*
+    (Barcelona, Spain)
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+    Managed a turnaround process in a hospitality company.
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+1995-1997
+:   *Financial Analyst, Mergers & Acquisitions, Merrill Lynch.*
+    (London, United Kingdom)
+
+    Worked on transnational M&A advisory and execution assignments in Europe, Argentina and South Africa, conducting company valuations, sector analyses, financial modelling, due diligence, transaction negotiations, and client presentations.
+
+1994
+: 	 *Assistant Trader, The Kyte Group Ltd.*
+    (London, United Kingdom)
+
+     Assisted traders at the London International Financial Futures Exchange (LIFFE). Summer internship.
+
+1993-1994
+:   *Investment Analyst, Fibanc-Mediolanum.*
+    (Barcelona, Spain)
+
+    Analysed equity investments and traded in money markets. Part-time.
+
 
 Activities and interests
 ------------------------
