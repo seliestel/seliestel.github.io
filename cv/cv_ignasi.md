@@ -1,3 +1,10 @@
+---
+layout: blank
+title: about
+description: Author
+permalink: /about/
+---
+
 Ignasi Ribó
 =========================
 
