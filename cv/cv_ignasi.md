@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: cv
+pdf: true
 description: CV
 permalink: /cv/
 ---
@@ -10,10 +11,11 @@ Ignasi Ribó
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Academic interests: Environmental Humanities, Ecocriticism, Biosemiotics, Cultural and Political Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory.
 
 ----
+
+Download [PDF]({{page.pdf_url}})
 
 Education
 --------------------
@@ -75,10 +77,10 @@ Feb 2002 - June 2016
 Affiliations
 ----------------------------------
 
-Since September 2018
+Since 2018
 :   *Member, Human Rights and Sustainability in the Mekong Region ([HUSUME](https://husume.center)).*
 
-Since March 2018
+Since 2018
 :   *Member, Association for the Study of Literature and the Environment ([ASLE/ASEAN](https://aseanasle.wordpress.com))*
 
 2016 - 2017

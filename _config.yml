@@ -11,10 +11,8 @@ github_username:  seliestel
 markdown: kramdown
 highlighter: rouge
 
-# Pagination
-# paginate: 15
-# paginate_path: "/blog/page:num/"
-# gems: [jekyll-paginate]
+plugins:
+  - jekyll-pdf
 
 collections:
   books:
