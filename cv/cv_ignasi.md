@@ -1,8 +1,8 @@
 ---
-layout: blank
+layout: null
 title: cv
 description: CV
-style: cv_style
+style: cv_style.css
 permalink: /cv/
 ---
 
