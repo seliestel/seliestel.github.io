@@ -458,7 +458,7 @@ articles:
   - title: "The last thing Catalonia needs is more autonomy"
     type: News
     authors: Ribó, Ignasi
-    journal: "Politico.eu"
+    journal: Politico
     collection: 
     editors: 
     publisher: 
@@ -479,7 +479,7 @@ articles:
   - title: "To solve Catalonia, Spain needs a new constitution"
     type: News
     authors: Ribó, Ignasi
-    journal: "Politico.eu"
+    journal: Politico
     collection: 
     editors: 
     publisher: 
@@ -498,14 +498,14 @@ articles:
     reviews:
 
   - title: "How small countries can save the European project: the rise of the habitat-nation"
-    type: General
+    type: News
     authors: Ribó, Ignasi
-    journal: "OpenDemocracy"
+    journal: OpenDemocracy
     collection: 
     editors: 
     publisher: 
     place: 
-    year: 2012
+    year: 6/11/2012
     submitted: 
     accepted: 
     online:
