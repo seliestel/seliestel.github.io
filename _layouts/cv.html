@@ -2,12 +2,22 @@
 <html>
   <head>
     <link rel="stylesheet" href="/css/cv.css" media="screen" type="text/css">
+    <script defer src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/vfs_fonts.js"></script>
+    <script defer src="/assets/javascripts/resume.js"></script> 
+    <script defer src="/assets/javascripts/collapse.js"></script>
   </head>
   <body>
+		<div hidden id="resumeJson">
+  			{{ site.data.cv | jsonify }}
+		</div>
+
      <div class="page-content">
-      <div class="wrapper">
+      <div id="#cv" class="wrapper">
         {{ content }}
       </div>
+      <button id="download-pdf" title="Download my resume">Download resume</button>
     </div>
   </body>
 </html>

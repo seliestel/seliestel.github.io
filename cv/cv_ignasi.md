@@ -6,148 +6,161 @@ description: CV
 permalink: /cv/
 ---
 
-Ignasi Ribó
+{{ site.data.resume.bio.name }}
 =========================
 
 ----
 
->  Academic interests: Environmental Humanities, Ecocriticism, Biosemiotics, Cultural and Political Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory.
+>  Born {{ site.data.resume.bio.birth_date }} in {{ site.data.resume.bio.birth_place }}.
+
+>  Academic interests: *{{ site.data.resume.interests }}*
 
 ----
 
-Download [PDF]({{page.pdf_url}})
 
 Education
 --------------------
 
-2006 – 2008
-:   	*Doctor of Philosophy, Modern European Literature and Thought.*
-      University of Sussex, Falmer, United Kingdom. 
+{% for item in site.data.resume.education %}
+  {{ item.time }} 
+  :     *{{ item.degree }}, {{ item.subject }}.*
 
-      Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). 
-      Advisor: Daniel Steuer, Ph.D.
+        {{ item.university }} ({{ item.place }}). 
 
-2004 – 2006
-:   	*Master of Advanced Studies, Comparative Study of Language and Literature.*
-      Universitat de Barcelona, Barcelona, Spain. 
-
-      Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). 
-      Advisor: Jordi Llovet, Ph.D.
-   
-2002 – 2004
-:   	*Bachelor, Literary Theory and Comparative Literature.*
-      Universitat de Barcelona, Barcelona, Spain. 
-
-1997 – 1998
-:   	*Master, Political Science (Certificat International d’Études Politiques).*
-      Institut d’Études Politiques de Paris (Sciences-Po), Paris, France. 
-
-1989 – 1995
-:   	*Bachelor and Master, Business Administration (MBA).*
-      ESADE, Universitat Ramon Llull, Barcelona, Spain.	
-		
-		Major: International Business and Finance.
-		Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
-      
-		Master Community of European Management Schools (CEMS). 
-      European Management and International Business Studies. Semester exchange (1995). Hautes Études Commerciales (HEC), Paris, France. Specialisation: Europe-Asia: Culture, Politics, Society.
-
-      International Management Program. Semester exchange (1994).
-      Stern School of Business, New York University, New York, United States.
-      Specialisation: Global Banking and Capital Markets.
-
+        {{ item.details }}
+{% endfor %}
 
 Academic Employment
---------------------
+----------------------------------
 
-Since June 2016
-:   *Lecturer, School of Liberal Arts.*
-    Mae Fah Luang University (Chiang Rai, Thailand).
+{% for item in site.data.resume.academic_employment %}
+  {{ item.time }} 
+  :     *{{ item.position }}*,
+         {{ item.department }}, {{ item.university }} 
+         {{ item.place }}. {{ item.link }}
 
-    Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, 
-    Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing.
-
-Feb 2002 - June 2016
-:   *Adjunct Professor, Faculty of Humanities / Faculty of Management*
-    Universitat Oberta de Catalunya (Barcelona, Spain).
-
-    Courses taught: Literary and Critical Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.
-
+         {{ item.details }}
+{% endfor %}
 
 Affiliations
 ----------------------------------
 
-Since 2018
-:   *Member, Human Rights and Sustainability in the Mekong Region ([HUSUME](https://husume.center)).*
+{% for item in site.data.resume.affiliations %}
+  {{ item.time }} 
+  :     *{{ item.position }}* 
+         [{{ item.organization }}]({{ item.link }})
 
-Since 2018
-:   *Member, Association for the Study of Literature and the Environment ([ASLE/ASEAN](https://aseanasle.wordpress.com))*
+         {{ item.details }}
+{% endfor %}
 
-2016 - 2017
-:   *Affiliated Researcher, Regional Center for Social Science and Sustainable Development ([RCSD](http://rcsd.soc.cmu.ac.th))*
 
 Other Employment
 ----------------------------------
 
-2012-2013
-:   *Consultant, Tecnigestión S.L.*
-    (Barcelona, Spain)
+{% for item in site.data.resume.other_employment %}
+  {{ item.time }} 
+  :     *{{ item.position }}*, {{ item.organization }} 
+         ({{ item.place }}).{% if item.link %} {{ item.link }}{% endif %}
 
-    Advised SMEs on finance, strategy and business development.
-
-2010-2011
-:   *Managing Director, Zing Foods Pte Ltd.*
-    (Singapore)
-
-    Started an export/import company in the organic foods sector.
-
-2002-2003
-:   *Managing Director, Eyes of the World Foundation.*
-    (Barcelona, Spain)
-
-    Headed a team of eight people designing and implementing ophthalmologic aid and cooperation projects in Mozambique, Bolivia, Gaza and the Western Sahara refugee camps in Algeria, including the organisation of medical commissions and educational programmes.
-
-2000-2002 	
-:   *Assistant Manager, Déu i Mata S.L.*
-    (Barcelona, Spain)
-
-    Managed a turnaround process in a hospitality company.
-
-1995-1997
-:   *Financial Analyst, Mergers & Acquisitions, Merrill Lynch.*
-    (London, United Kingdom)
-
-    Worked on transnational M&A advisory and execution assignments in Europe, Argentina and South Africa, conducting company valuations, sector analyses, financial modelling, due diligence, transaction negotiations, and client presentations.
-
-1994
-: 	 *Assistant Trader, The Kyte Group Ltd.*
-    (London, United Kingdom)
-
-     Assisted traders at the London International Financial Futures Exchange (LIFFE). Summer internship.
-
-1993-1994
-:   *Investment Analyst, Fibanc-Mediolanum.*
-    (Barcelona, Spain)
-
-    Analysed equity investments and traded in money markets. Part-time.
+         {{ item.details }}
+{% endfor %}
 
 
-Activities and interests
+Publications
 ------------------------
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+__*Peer-reviewed academic articles*__
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+{% for item in site.data.resume.articles %}
+  {% if item.type == 'Academic' and item.year != 'Under review' %}
+  {% if item.journal %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% elsif item.collection %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+ 
+__*Academic books*__
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+{% for item in site.data.resume.books %}
+  {% if item.type == 'Textbook' or item.type == 'Essay' %}
+  {{ item.authors }}. {{ item.year }}. *{{ item.title }}*. {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {{ item.type }}.{% endif %}
+{% endfor %}
+
+__*Other articles*__
+
+{% for item in site.data.resume.articles %}
+  {% if item.type != 'Academic' %}
+  {% if item.journal %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% elsif item.collection %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+__*Other books*__
+
+{% for item in site.data.resume.books %}
+  {% if item.type != 'Textbook' and item.type != 'Essay' %}
+  {{ item.authors }}. {{ item.year }}. *{{ item.title }}*. {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {{ item.type }}.{% endif %}
+{% endfor %}
+
+__*Manuscripts*__
+
+{% for item in site.data.resume.articles %}
+  {% if item.type == 'Academic' and item.year == 'Under review' %}
+  {% if item.journal %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% elsif item.collection %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+__*Conferences*__
+
+{% for item in site.data.resume.conferences %}
+  {{ item.authors }}. {{ item.month }} {{ item.year }}. {{ item.title }}.{% if item.event %} {{ item.event }}{% endif %}{% if item.topic %}{% if item.event %},{% endif %} *{{ item.topic }}*{% endif %}{% if item.event or item.topic %}.{% endif %} {{ item.status }} at {{ item.venue }}, {{ item.place }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}).{% endif %} {{ item.type }}.
+{% endfor %}
+
+Grants and Awards
+------------------------
+
+__*Research grants*__
+{% for item in site.data.resume.grants %}
+  {{ item.dates }}
+  :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
+{% endfor %}
+
+__*Awards*__
+{% for item in site.data.resume.awards %}
+  {{ item.date }}
+  :  {{ item.award }}.{% if item.reason %} Awarded for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.
+{% endfor %}
+
+Languages
+------------------------
+
+{% for item in site.data.resume.languages %}
+  {{ item.name }} 
+  :   {{ item.level }}{% if item.diploma %} (*{{ item.diploma }}*){% endif %}.
+{% endfor %}
+ 
+Other Skills and Diplomas
+------------------------
+
+{% for item in site.data.resume.various %}
+  {{ item.item }} 
+{% endfor %}
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> Work email: <{{ site.data.resume.bio.work_email }}> • Personal email: <{{ site.data.resume.bio.work_email }}> 
+
+> Address: {{ site.data.resume.bio.current_address }}
+
+> Phone: {{ site.data.resume.bio.phone }}

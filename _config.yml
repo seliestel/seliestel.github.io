@@ -11,13 +11,10 @@ github_username:  seliestel
 markdown: kramdown
 highlighter: rouge
 
-plugins:
-  - jekyll-pdf
+#plugins:
+ # - jekyll-pdf
 
 collections:
   books:
     output: true
     permalink: /books/:path/
-
-
-

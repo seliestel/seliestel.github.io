@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/css/cv.css" media="screen" type="text/css">
+    <script defer src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/vfs_fonts.js"></script>
+    <script defer src="/assets/javascripts/resume.js"></script> 
+    <script defer src="/assets/javascripts/collapse.js"></script>
+  </head>
+  <body>
+		<div hidden id="resumeJson">
+  			{{ site.data.cv | jsonify }}
+		</div>
+
+     <div class="page-content">
+      <div id="#cv" class="wrapper">
+         <h1 id="name">Ignasi Ribó</h1>
+         <hr>
+         <blockquote><p>Academic interests: {{ site.data.resume.interests }}</p></blockquote>
+         <hr>
+         <h2 id="education">Education</h2>
+           <dl>
+             <dt>2006 – 2008</dt>
+             <dd><em>Doctor of Philosophy, Modern European Literature and Thought.</em>
+                 University of Sussex, Falmer, United Kingdom.</dd>
+           </dl>
+
+           <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). 
+           Advisor: Daniel Steuer, Ph.D.
+           </code></pre></div></div>
+
+         <h2 id="academic-employment">Academic Employment</h2>
+
+           <dl>
+             <dt>Since June 2016</dt>
+             <dd><em>Lecturer, School of Liberal Arts.</em>
+               Mae Fah Luang University (Chiang Rai, Thailand).
+
+               <p>Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, 
+               Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing.</p>
+             </dd>
+           </dl>
+
+         <h2 id="affiliations">Affiliations</h2>
+           <dl>
+             <dt>Since 2018</dt>
+             <dd><em>Member, Human Rights and Sustainability in the Mekong Region (<a href="https://husume.center/">HUSUME</a>).</em></dd>
+           </dl>
+
+         <h2 id="other-employment">Other Employment</h2>
+           <dl>
+             <dt>2012-2013</dt>
+             <dd><em>Consultant, Tecnigestión S.L.</em>
+               (Barcelona, Spain)
+
+               <p>Advised SMEs on finance, strategy and business development.</p>
+             </dd>
+           </dl>
+
+         <h2 id="publications">Publications</h2>
+
+           {% for item in site.data.resume.articles %}
+             Publication: {{ item.authors }} *{{ item.title }}*
+           {% endfor %}
+
+         <hr>
+
+         <blockquote>
+           <p><a href="mailto:chmd@chmd.fr">chmd@chmd.fr</a> • +336 84 14 26 82 • 28 years old\
+           275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE</p>
+         </blockquote>
+
+      </div>
+      <button id="download-pdf" title="Download my resume">Download resume</button>
+    </div>
+  </body>
+</html>

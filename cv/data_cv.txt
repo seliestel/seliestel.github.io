@@ -1,0 +1,114 @@
+
+Ignasi Ribó
+=========================
+
+----
+
+>  Academic interests: {{ site.data.resume.interests }}
+
+----
+
+
+Education
+--------------------
+
+2006 – 2008
+:   	*Doctor of Philosophy, Modern European Literature and Thought.*
+      University of Sussex, Falmer, United Kingdom. 
+
+      Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). 
+      Advisor: Daniel Steuer, Ph.D.
+
+2004 – 2006
+:   	*Master of Advanced Studies, Comparative Study of Language and Literature.*
+      Universitat de Barcelona, Barcelona, Spain. 
+
+      Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). 
+      Advisor: Jordi Llovet, Ph.D.
+   
+Academic Employment
+--------------------
+
+Since June 2016
+:   *Lecturer, School of Liberal Arts.*
+    Mae Fah Luang University (Chiang Rai, Thailand).
+
+    Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, 
+    Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing.
+
+Feb 2002 - June 2016
+:   *Adjunct Professor, Faculty of Humanities / Faculty of Management*
+    Universitat Oberta de Catalunya (Barcelona, Spain).
+
+    Courses taught: Literary and Critical Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.
+
+
+Affiliations
+----------------------------------
+
+Since 2018
+:   *Member, Human Rights and Sustainability in the Mekong Region ([HUSUME](https://husume.center)).*
+
+Since 2018
+:   *Member, Association for the Study of Literature and the Environment ([ASLE/ASEAN](https://aseanasle.wordpress.com))*
+
+2016 - 2017
+:   *Affiliated Researcher, Regional Center for Social Science and Sustainable Development ([RCSD](http://rcsd.soc.cmu.ac.th))*
+
+Other Employment
+----------------------------------
+
+2012-2013
+:   *Consultant, Tecnigestión S.L.*
+    (Barcelona, Spain)
+
+    Advised SMEs on finance, strategy and business development.
+
+2010-2011
+:   *Managing Director, Zing Foods Pte Ltd.*
+    (Singapore)
+
+    Started an export/import company in the organic foods sector.
+
+2002-2003
+:   *Managing Director, Eyes of the World Foundation.*
+    (Barcelona, Spain)
+
+    Headed a team of eight people designing and implementing ophthalmologic aid and cooperation projects in Mozambique, Bolivia, Gaza and the Western Sahara refugee camps in Algeria, including the organisation of medical commissions and educational programmes.
+
+2000-2002 	
+:   *Assistant Manager, Déu i Mata S.L.*
+    (Barcelona, Spain)
+
+    Managed a turnaround process in a hospitality company.
+
+1995-1997
+:   *Financial Analyst, Mergers & Acquisitions, Merrill Lynch.*
+    (London, United Kingdom)
+
+    Worked on transnational M&A advisory and execution assignments in Europe, Argentina and South Africa, conducting company valuations, sector analyses, financial modelling, due diligence, transaction negotiations, and client presentations.
+
+1994
+: 	 *Assistant Trader, The Kyte Group Ltd.*
+    (London, United Kingdom)
+
+     Assisted traders at the London International Financial Futures Exchange (LIFFE). Summer internship.
+
+1993-1994
+:   *Investment Analyst, Fibanc-Mediolanum.*
+    (Barcelona, Spain)
+
+    Analysed equity investments and traded in money markets. Part-time.
+
+
+Publications
+------------------------
+{% for item in site.data.cv.articles %}
+  Publication: {{ item.authors }}
+  :   *{{ item.title }}*
+{% endfor %}
+
+----
+
+> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
+>  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
