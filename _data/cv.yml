@@ -147,9 +147,9 @@ other_employment:
     link:
     details: Analysed equity investments and traded in money markets. Part-time.
 
-articles:
+academic_articles:
+
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
-    type: Academic
     authors: Ribó, Ignasi
     journal: Journal of Modern Literature
     collection: 
@@ -168,8 +168,8 @@ articles:
     gsid:
     link:
     reviews:
+  
   - title: "Semiotic alignment: towards a dialogical model of interspecific communication"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Semiotica: Journal of the International Association for Semiotic Studies"
     collection: 
@@ -188,8 +188,8 @@ articles:
     gsid:
     link:
     reviews:
+  
   - title: 'Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment'
-    type: Academic
     authors: Ribó, Ignasi
     journal: Biosemiotics
     collection: 
@@ -199,7 +199,7 @@ articles:
     year: 2019
     submitted:
     accepted: 
-    online:
+    online: 20 April 2019
     volume:
     number:
     pages:
@@ -209,7 +209,6 @@ articles:
     reviews:
 
   - title: "The novel as tragic form"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "MFU Connexion: Journal of Humanities and Social Sciences"
     collection: 
@@ -230,7 +229,6 @@ articles:
     reviews:
 
   - title: "Ecocriticism, hermeneutics, and the vanishing elephants of Thailand"
-    type: Academic
     authors: Ribó, Ignasi
     journal:
     collection: "South-East Asian Ecocriticism: Theories, Practices, Prospects"
@@ -259,7 +257,6 @@ articles:
         link: "https://ejournal.um.edu.my/index.php/SARE/article/view/10241"
 
   - title: "Worlds and words: of bats, ticks, and apes"
-    type: Academic
     authors: Ribó, Ignasi
     journal: Environmental Philosophy
     collection: 
@@ -280,7 +277,6 @@ articles:
     reviews:
 
   - title: "Jean Améry, the dislocated witness"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Transfer: Journal of Contemporary Culture"
     collection: 
@@ -309,7 +305,6 @@ articles:
         link: 
 
   - title: "The one-winged angel: history and memory in the literary discourse of W. G. Sebald"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Orbis Litterarum"
     collection: 
@@ -330,7 +325,6 @@ articles:
     reviews:
 
   - title: "El testimoni dislocat"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "El contemporani. Revista d’història"
     collection: 
@@ -351,7 +345,6 @@ articles:
     reviews:
 
   - title: "Sospechosos cortes en la superficie"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Alpha. Revista de Artes, Letras y Filosofía"
     collection: 
@@ -372,7 +365,6 @@ articles:
     reviews:
 
   - title: "El testimoni dislocat"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Els marges"
     collection: 
@@ -393,7 +385,6 @@ articles:
     reviews:
 
   - title: "Galatea o la leche: la descripción de la belleza femenina en Teócrito, Ovidio y Góngora"
-    type: Academic
     authors: Ribó, Ignasi
     journal: ". Lemir. Revista de Literatura Española Medieval y del Renacimiento"
     collection: 
@@ -414,7 +405,6 @@ articles:
     reviews:
 
   - title: "Fin del idilio, principio de la novela"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Espéculo. Revista de Estudios Literarios"
     collection: 
@@ -434,92 +424,7 @@ articles:
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
     reviews:
 
-  - title: "Bitagora: a decentralized voting platform built on Hyperledger Sawtooth"
-    type: General
-    authors: Ribó, Ignasi
-    journal: "Hyperledger Blog"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: 20/9/2018
-    submitted: 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: https://www.hyperledger.org/blog/2018/09/20/bitagora-a-decentralized-voting-platform-built-on-hyperledger-sawtooth
-    reviews:
-
-  - title: "The last thing Catalonia needs is more autonomy"
-    type: News
-    authors: Ribó, Ignasi
-    journal: Politico
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: 20/4/2018
-    submitted: 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/
-    reviews:
-
-  - title: "To solve Catalonia, Spain needs a new constitution"
-    type: News
-    authors: Ribó, Ignasi
-    journal: Politico
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: 13/11/2017
-    submitted: 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/
-    reviews:
-
-  - title: "How small countries can save the European project: the rise of the habitat-nation"
-    type: News
-    authors: Ribó, Ignasi
-    journal: OpenDemocracy
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: 6/11/2012
-    submitted: 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation
-    reviews:
-
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
-    type: Academic
     authors: Ribó, Ignasi; Calzolari, Fabio
     journal: "TRaNS: Trans-Regional and -National Studies of Southeast Asia"
     collection: 
@@ -540,7 +445,6 @@ articles:
     reviews:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
-    type: Academic
     authors: Ribó, Ignasi
     journal: "Humanities Diliman"
     collection: 
@@ -560,7 +464,82 @@ articles:
     link: 
     reviews:
 
+other_articles:
+
+  - title: "Bitagora: a decentralized voting platform built on Hyperledger Sawtooth"
+    authors: Ribó, Ignasi
+    publisher: Hyperledger Blog
+    date: 20/9/2018
+    link: https://www.hyperledger.org/blog/2018/09/20/bitagora-a-decentralized-voting-platform-built-on-hyperledger-sawtooth
+
+  - title: "The last thing Catalonia needs is more autonomy"
+    authors: Ribó, Ignasi
+    publisher: Politico
+    date: 20/4/2018
+    link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/
+
+  - title: "To solve Catalonia, Spain needs a new constitution"
+    authors: Ribó, Ignasi
+    publisher: Politico
+    date: 13/11/2017
+    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/
+ 
+  - title: "How small countries can save the European project: the rise of the habitat-nation"
+    authors: Ribó, Ignasi
+    publisher: OpenDemocracy
+    date: 6/11/2012
+    link: https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation
+
+  - title: "El nostre combat"
+    authors: Ribó, Ignasi
+    publisher: Nació Digital
+    date: 8/5/2018
+    link: https://www.naciodigital.cat/opinio/17632/nostre/combat
+
+  - title: La república que volem no es construeix amb majoria simple
+    authors: Ribó, Ignasi
+    publisher: El nacional
+    date: 27/4/2018
+    link: https://www.elnacional.cat/ca/opinio/ignasi-ribo-republica-referendum-majoria_262533_102.html
+
+  - title: Els fills pròdigs
+    authors: Ribó, Ignasi
+    publisher: Vilaweb
+    date: 14/6/2013
+    link: https://www.vilaweb.cat/mailobert/4124204/ignasi-ribo-fills-prodigs.html
+
+  - title: Dramatúrgia catalana? Parlem-ne
+    authors: Ribó, Ignasi
+    publisher: El Correu de la UNESCO
+    date: March 2001
+    link: 
+
+  - title: Per què Andorra no és Manhattan?
+    authors: Ribó, Ignasi
+    publisher: Núvol / El Correu de la UNESCO
+    date: February 2013 / January 2001
+    link: http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan/
+
+  - title: "La narrativa balear: quatre aproximacions"
+    authors: Ribó, Ignasi
+    publisher: El Correu de la UNESCO
+    date: August 2000
+    link: 
+
+  - title: "La ciutat mestissa"
+    authors: Ribó, Ignasi
+    publisher: El Correu de la UNESCO
+    date: June 2000
+    link: 
+
+  - title: "La cova d’Alí Babà"
+    authors: Ribó, Ignasi
+    publisher: El Correu de la UNESCO
+    date: February 2000
+    link: 
+
 conferences:
+
   - title: "Posthuman political ecology: actors, networks, systems"
     type: Paper
     authors: Ribó, Ignasi
@@ -799,6 +778,45 @@ books:
     abstract:
     isbn: 9788475967738
     link: 
+    reviews:
+
+  - title: Clara de nit / Clear is the night
+    type: Drama
+    language: Catalan
+    authors: Ribó, Ignasi
+    publisher: Prize Joan Santamaria / Boomerang Theatre
+    place: Barcelona / New York
+    year: 2000 / 2001
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+
+  - title: "El color"
+    type: Translation
+    language: Spanish
+    authors: "Tremain, Rose (translator: Ribó, Ignasi)"
+    publisher: Edhasa
+    place: Barcelona
+    year: 2005
+    pages: 
+    abstract:
+    isbn: 
+    link: http://www.amazon.com/El-color-ROSE-TREMAIN/dp/8435060993
+    reviews:
+
+  - title: "La casa dels mangos blaus"
+    type: Translation
+    language: Catalan
+    authors: "Davidar, David (translator: Ribó, Ignasi)"
+    publisher: Empúries
+    place: Barcelona
+    year: 2003
+    pages: 
+    abstract:
+    isbn: 
+    link: http://www.amazon.com/Casa-dels-Mangos-Blaus/dp/8475961894
     reviews:
 
 grants:

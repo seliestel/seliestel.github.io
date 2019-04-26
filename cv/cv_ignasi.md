@@ -71,10 +71,10 @@ Publications
 
 __*Peer-reviewed academic articles*__
 
-{% for item in site.data.cv.articles %}
-  {% if item.type == 'Academic' and item.year != 'Under review' %}
+{% for item in site.data.cv.academic_articles %}
+  {% if item.year != 'Under review' %}
   {% if item.journal %}
-  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.online %} Online: {{ item.online }}.{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% elsif item.collection %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% endif %}
@@ -91,14 +91,8 @@ __*Academic books*__
 
 __*Other articles*__
 
-{% for item in site.data.cv.articles %}
-  {% if item.type != 'Academic' %}
-  {% if item.journal %}
-  {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
-  {% elsif item.collection %}
-  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
-  {% endif %}
-  {% endif %}
+{% for item in site.data.cv.other_articles %}
+  {{ item.authors }}. {{ item.date }}. {{ item.title }}. *{{ item.publisher }}*. {% if item.link %} Available at [{{ item.link }}]({{ item.link }}).{% endif %}
 {% endfor %}
 
 __*Other books*__
@@ -111,8 +105,8 @@ __*Other books*__
 
 __*Manuscripts*__
 
-{% for item in site.data.cv.articles %}
-  {% if item.type == 'Academic' and item.year == 'Under review' %}
+{% for item in site.data.cv.academic_articles %}
+  {% if item.year == 'Under review' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% elsif item.collection %}
