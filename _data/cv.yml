@@ -561,16 +561,6 @@ articles:
     reviews:
 
 conferences:
-  - title: "Golden triangle: a material semiotic geography"
-    type: Paper
-    authors: Ribó, Ignasi
-    event: ASLE/ASEAN Ecocriticism Workshop 2019
-    topic:
-    venue: University of Diliman 
-    place: Manila, Philippines
-    month: June
-    year: 2019
-    status: To be presented
   - title: "Posthuman political ecology: actors, networks, systems"
     type: Paper
     authors: Ribó, Ignasi
@@ -579,6 +569,16 @@ conferences:
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
     month: November
+    year: 2019
+    status: To be presented
+  - title: "Golden triangle: a material semiotic geography"
+    type: Paper
+    authors: Ribó, Ignasi
+    event: ASLE/ASEAN Ecocriticism Workshop 2019
+    topic:
+    venue: University of Diliman 
+    place: Manila, Philippines
+    month: June
     year: 2019
     status: To be presented
   - title: "A review of recent studies of environmental cultures in the upper Mekong basin"
