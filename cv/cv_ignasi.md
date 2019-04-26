@@ -153,7 +153,7 @@ Other Skills and Diplomas
 
 ----
 
-> Work email: <{{ site.data.cv.bio.work_email }}> • Personal email: <{{ site.data.cv.bio.work_email }}> 
+> Work email: <{{ site.data.cv.bio.work_email }}> • Personal email: <{{ site.data.cv.bio.personal_email }}> 
 
 > Address: {{ site.data.cv.bio.current_address }}
 

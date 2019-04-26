@@ -33,6 +33,6 @@ permalink: /texts/
 
   {% for item in site.data.cv.books %}
   {% if item.type == 'Drama' or item.type == 'Translation' %}
-  {{ item.authors }}. {{ item.year }}. {% if item.link %}[{{ item.title }}]({{ item.link }}).{% else %}{{ item.title }}.{% endif %} {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %}
+  {{ item.authors }}. {{ item.year }}. {% if item.link %}[{{ item.title }}]({{ item.link }}).{% else %}{{ item.title }}.{% endif %} {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %} {{ item.type }}.
   {% endif %}
   {% endfor %}
