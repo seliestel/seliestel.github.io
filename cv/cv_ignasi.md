@@ -6,14 +6,14 @@ description: CV
 permalink: /cv/
 ---
 
-{{ site.data.resume.bio.name }}
+{{ site.data.cv.bio.name }}
 =========================
 
 ----
 
->  Born {{ site.data.resume.bio.birth_date }} in {{ site.data.resume.bio.birth_place }}.
+>  Born {{ site.data.cv.bio.birth_date }} in {{ site.data.cv.bio.birth_place }}.
 
->  Academic interests: *{{ site.data.resume.interests }}*
+>  Academic interests: *{{ site.data.cv.interests }}*
 
 ----
 
@@ -21,7 +21,7 @@ permalink: /cv/
 Education
 --------------------
 
-{% for item in site.data.resume.education %}
+{% for item in site.data.cv.education %}
   {{ item.time }} 
   :     *{{ item.degree }}, {{ item.subject }}.*
 
@@ -33,7 +33,7 @@ Education
 Academic Employment
 ----------------------------------
 
-{% for item in site.data.resume.academic_employment %}
+{% for item in site.data.cv.academic_employment %}
   {{ item.time }} 
   :     *{{ item.position }}*,
          {{ item.department }}, {{ item.university }} 
@@ -45,7 +45,7 @@ Academic Employment
 Affiliations
 ----------------------------------
 
-{% for item in site.data.resume.affiliations %}
+{% for item in site.data.cv.affiliations %}
   {{ item.time }} 
   :     *{{ item.position }}* 
          [{{ item.organization }}]({{ item.link }})
@@ -57,7 +57,7 @@ Affiliations
 Other Employment
 ----------------------------------
 
-{% for item in site.data.resume.other_employment %}
+{% for item in site.data.cv.other_employment %}
   {{ item.time }} 
   :     *{{ item.position }}*, {{ item.organization }} 
          ({{ item.place }}).{% if item.link %} {{ item.link }}{% endif %}
@@ -71,7 +71,7 @@ Publications
 
 __*Peer-reviewed academic articles*__
 
-{% for item in site.data.resume.articles %}
+{% for item in site.data.cv.articles %}
   {% if item.type == 'Academic' and item.year != 'Under review' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
@@ -83,7 +83,7 @@ __*Peer-reviewed academic articles*__
  
 __*Academic books*__
 
-{% for item in site.data.resume.books %}
+{% for item in site.data.cv.books %}
   {% if item.type == 'Textbook' or item.type == 'Essay' %}
   {{ item.authors }}. {{ item.year }}. *{{ item.title }}*. {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {{ item.type }}.{% endif %}
@@ -91,7 +91,7 @@ __*Academic books*__
 
 __*Other articles*__
 
-{% for item in site.data.resume.articles %}
+{% for item in site.data.cv.articles %}
   {% if item.type != 'Academic' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
@@ -103,7 +103,7 @@ __*Other articles*__
 
 __*Other books*__
 
-{% for item in site.data.resume.books %}
+{% for item in site.data.cv.books %}
   {% if item.type != 'Textbook' and item.type != 'Essay' %}
   {{ item.authors }}. {{ item.year }}. *{{ item.title }}*. {{ item.place }}: {{ item.publisher }}. {% if item.isbn %} ISBN: {{ item.isbn }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {{ item.type }}.{% endif %}
@@ -111,7 +111,7 @@ __*Other books*__
 
 __*Manuscripts*__
 
-{% for item in site.data.resume.articles %}
+{% for item in site.data.cv.articles %}
   {% if item.type == 'Academic' and item.year == 'Under review' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
@@ -123,7 +123,7 @@ __*Manuscripts*__
 
 __*Conferences*__
 
-{% for item in site.data.resume.conferences %}
+{% for item in site.data.cv.conferences %}
   {{ item.authors }}. {{ item.month }} {{ item.year }}. {{ item.title }}.{% if item.event %} {{ item.event }}{% endif %}{% if item.topic %}{% if item.event %},{% endif %} *{{ item.topic }}*{% endif %}{% if item.event or item.topic %}.{% endif %} {{ item.status }} at {{ item.venue }}, {{ item.place }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}).{% endif %} {{ item.type }}.
 {% endfor %}
 
@@ -131,21 +131,21 @@ Grants and Awards
 ------------------------
 
 __*Research grants*__
-{% for item in site.data.resume.grants %}
+{% for item in site.data.cv.grants %}
   {{ item.dates }}
   :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
 {% endfor %}
 
 __*Awards*__
-{% for item in site.data.resume.awards %}
+{% for item in site.data.cv.awards %}
   {{ item.date }}
-  :  {{ item.award }}.{% if item.reason %} Awarded for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.
+  :  {{ item.award }}.{% if item.reason %} Award for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.
 {% endfor %}
 
 Languages
 ------------------------
 
-{% for item in site.data.resume.languages %}
+{% for item in site.data.cv.languages %}
   {{ item.name }} 
   :   {{ item.level }}{% if item.diploma %} (*{{ item.diploma }}*){% endif %}.
 {% endfor %}
@@ -153,14 +153,14 @@ Languages
 Other Skills and Diplomas
 ------------------------
 
-{% for item in site.data.resume.various %}
+{% for item in site.data.cv.various %}
   {{ item.item }} 
 {% endfor %}
 
 ----
 
-> Work email: <{{ site.data.resume.bio.work_email }}> • Personal email: <{{ site.data.resume.bio.work_email }}> 
+> Work email: <{{ site.data.cv.bio.work_email }}> • Personal email: <{{ site.data.cv.bio.work_email }}> 
 
-> Address: {{ site.data.resume.bio.current_address }}
+> Address: {{ site.data.cv.bio.current_address }}
 
-> Phone: {{ site.data.resume.bio.phone }}
+> Phone: {{ site.data.cv.bio.phone }}

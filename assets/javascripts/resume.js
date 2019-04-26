@@ -2,7 +2,8 @@
 
 $(document).ready(function() {
   var generateResume = function() {
-    var resumeContent = $.parseJSON($('#resumeJson').text());
+    var resumeContent = $.parseJSON($('#cvJson').text());
+    console.log(resumeContent);
     var docDefinition = {
       content: [],
       styles: {
@@ -171,7 +172,7 @@ $(document).ready(function() {
       margin: [0, 15, 0, 0]
     });
 
-    return pdfMake.createPdf(docDefinition).download('Jason_Taylor_resume.pdf');
+    return pdfMake.createPdf(docDefinition).download('CV_Ignasi_Ribo.pdf');
   };
 
   $('#download-pdf').on('click', function(e) {
