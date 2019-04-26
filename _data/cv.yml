@@ -442,7 +442,7 @@ articles:
     editors: 
     publisher: 
     place: 
-    year: 2018
+    year: 20/9/2018
     submitted: 
     accepted: 
     online:
@@ -453,6 +453,48 @@ articles:
     doi: 
     gsid: 
     link: https://www.hyperledger.org/blog/2018/09/20/bitagora-a-decentralized-voting-platform-built-on-hyperledger-sawtooth
+    reviews:
+
+  - title: "The last thing Catalonia needs is more autonomy"
+    type: News
+    authors: Ribó, Ignasi
+    journal: "Politico.eu"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: 20/4/2018
+    submitted: 
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/
+    reviews:
+
+  - title: "To solve Catalonia, Spain needs a new constitution"
+    type: News
+    authors: Ribó, Ignasi
+    journal: "Politico.eu"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: 13/11/2017
+    submitted: 
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/
     reviews:
 
   - title: "How small countries can save the European project: the rise of the habitat-nation"
