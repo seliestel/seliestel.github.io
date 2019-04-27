@@ -407,7 +407,7 @@ $(document).ready(function() {
 
       // Grants and Awards
       content.push(sectionHeading('Grants and Awards'));
-      content.push(sectionSubheading('Grants'));
+      //content.push(sectionSubheading('Grants'));
       $.each(resumeContent['grants'], function(i, item) {
         var number = '';
         if (item['number'] != undefined && item['number'].length > 0) number = number + 'Grant number: '+ item['number'] + '. ';
@@ -431,7 +431,7 @@ $(document).ready(function() {
         ], columnGap: 5, style: 'full_text' })
       });
 
-      content.push(sectionSubheading('Awards'));
+//      content.push(sectionSubheading('Awards'));
       $.each(resumeContent['awards'], function(i, item) {
         var reason = '';
         if (item['reason'] != undefined && item['reason'].length > 0) reason = reason + 'Award for '+ item['number'] + '. ';
