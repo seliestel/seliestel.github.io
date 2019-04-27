@@ -30,10 +30,13 @@ $(document).ready(function() {
     };
 
     var pageTitle = '';
+    var docTitle = '';
     if (toPrint == 'cv') {
     	pageTitle = 'Curriculum Vitae';
+    	docTitle = 'CV - Ignasi Ribo.pdf';
     } else if (toPrint == 'publist') {
       pageTitle = 'List of publications';
+    	docTitle = 'Publications - Ignasi Ribo.pdf';
     };
 
     var docDefinition = {
@@ -464,7 +467,7 @@ $(document).ready(function() {
       });
     }
 
-    return pdfMake.createPdf(docDefinition).open();
+    return pdfMake.createPdf(docDefinition).download(docTitle);
   };
 
   $('#download-pdf').on('click', function(e) {
