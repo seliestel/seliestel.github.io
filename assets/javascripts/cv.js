@@ -56,35 +56,35 @@ $(document).ready(function() {
        ] }
       },
       pageBreakBefore: function(currentNode, followingNodesOnPage, nodesOnNextPage, previousNodesOnPage) {
-        return (currentNode.headlineLevel === 1 || currentNode.headlineLevel === 2) && currentNode.startPosition.top >= 750;
+        return (currentNode.headlineLevel === 1 || currentNode.headlineLevel === 2) && currentNode.startPosition.top >= 700;
       },
       defaultStyle: {
         font: 'OpenSans'
       },
       styles: {
         curriculum: {
-          fontSize: 16,
+          fontSize: 15,
           font: 'OpenSans',
           bold: false,
           alignment: 'center',
           margin: [0, 10, 0, 0]
         },        
         bio: {
-          fontSize: 10,
+          fontSize: 9,
           font: 'OpenSans',
           bold: false,
           alignment: 'center',
           margin: [0, 10, 0, 0]
         },        
         name: {
-          fontSize: 30,
+          fontSize: 26,
           font: 'Raleway',
           bold: true,
           alignment: 'center',
           margin: [0, 10, 0, 0]
         },
         section_heading: {
-          fontSize: 14,
+          fontSize: 13,
           font: 'Raleway',
           bold: true,
           alignment: 'left',
@@ -99,14 +99,14 @@ $(document).ready(function() {
           margin: [0, 10, 0, 0]
         },
         full_text: {
-          fontSize: 11,
+          fontSize: 10,
           font: 'OpenSans',
           bold: false,
           alignment: 'justified',
           margin: [0, 10, 0, 0]
         },
        bibliography: {
-          fontSize: 11,
+          fontSize: 10,
           font: 'OpenSans',
           bold: false,
           alignment: 'left',
@@ -228,6 +228,14 @@ $(document).ready(function() {
       // Other employment
       content.push(sectionHeading('Other Employment'));
       $.each(resumeContent['other_employment'], function(i, item) {
+        var organiz = '';
+        if (item['organization'] != undefined && item['organization'].length > 0) {
+        	 if (item['organization'][item['organization'].length -1] == '.') {
+            organiz = item['organization'];
+        	 } else {
+            organiz = item['organization'] + '.';
+        	 }
+        }
         content.push({
             stack: [
               { columns: [
@@ -238,8 +246,7 @@ $(document).ready(function() {
                 {
                   width: '80%',
                   text: [
-                    { text: item['position'], bold: true }, ', ', item['organization'], '.\n',
-                    item['place'], '.\n',
+                    { text: item['position'], bold: true }, ', ', organiz, ' (',item['place'], ').\n',
                     item['details']
                   ]
                 },
@@ -448,6 +455,19 @@ $(document).ready(function() {
 
       // Languages
       content.push(sectionHeading('Languages'));
+/*
+      var list = function(items) {
+        return { ul: items, margin: [20, 0, 20, 0] }
+      };
+      var langList = new Array;
+      $.each(resumeContent['languages'], function(i, item) {
+        var diploma = '';
+        if (item['diploma'] != undefined && item['diploma'].length > 0) diploma = diploma + ' ('+ item['diploma'] + '). ';
+        var langList.push() item['name'] + ',' + item['level'] + diploma;
+      });
+    content.push(list(langList));
+*/
+
       $.each(resumeContent['languages'], function(i, item) {
         var diploma = '';
         if (item['diploma'] != undefined && item['diploma'].length > 0) diploma = diploma + ' ('+ item['diploma'] + '). ';
@@ -463,6 +483,7 @@ $(document).ready(function() {
         ], columnGap: 5, style: 'full_text' })
       });
 
+      // Other skills
       content.push(sectionHeading('Other Skills and Diplomas'));
       $.each(resumeContent['various'], function(i, item) {
         content.push({ stack: [ { text: item['item'], style: 'full_text'} ], unbreakable: true });
