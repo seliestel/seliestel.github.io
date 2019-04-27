@@ -272,7 +272,7 @@ $(document).ready(function() {
         var link = '';
         if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
         if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
-          link = link + ' Available at ' + item['link'] + '.';
+          link = link + ' Available at ' + item['link'] + '/';
         }
         var additional = '';
         if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
@@ -300,7 +300,7 @@ $(document).ready(function() {
         if (item['place'] != undefined && item['place'].length > 0) publisher = publisher + item['place'] + ': ';
         if (item['publisher'] != undefined && item['publisher'].length > 0) publisher = publisher + item['publisher'] + '.';        
         var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/';
         var additional = '';
         if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
         if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
@@ -324,7 +324,7 @@ $(document).ready(function() {
     $.each(resumeContent['other_articles'], function(i, item) {
       var basic_ref = item['authors'] + '. ' + item['date'] + '. ' + item['title'] + '. ' + item['publisher'];
       var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
+      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/';
       content.push({
         stack: [
            { text:
@@ -343,7 +343,7 @@ $(document).ready(function() {
       var isbn = '';
       if (item['isbn'] != undefined && item['isbn'].length > 0) isbn = isbn + 'ISBN: ' + item['isbn'] + '. ';
       var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/ ';
       content.push({
         stack: [
            { text:
@@ -362,7 +362,7 @@ $(document).ready(function() {
       var present = '';
       if (item['status'] != undefined && item['status'].length > 0) present = present + item['status'] + ' at ' + item['venue'] + ', ' + item['place'] + '. ';
       var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/ ';
       content.push({
         stack: [
            { text:
@@ -407,7 +407,7 @@ $(document).ready(function() {
         var amount = '';
         if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
         var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/ ';
         content.push({ columns: [
           {
             width: '20%',
@@ -431,7 +431,7 @@ $(document).ready(function() {
         var amount = '';
         if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
         var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '/ ';
         content.push({ columns: [
           {
             width: '20%',
