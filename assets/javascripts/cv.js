@@ -228,14 +228,6 @@ $(document).ready(function() {
       // Other employment
       content.push(sectionHeading('Other Employment'));
       $.each(resumeContent['other_employment'], function(i, item) {
-        var organiz = '';
-        if (item['organization'] != undefined && item['organization'].length > 0) {
-        	 if (item['organization'][item['organization'].length -1] == '.') {
-            organiz = item['organization'];
-        	 } else {
-            organiz = item['organization'] + '.';
-        	 }
-        }
         content.push({
             stack: [
               { columns: [
@@ -246,7 +238,7 @@ $(document).ready(function() {
                 {
                   width: '80%',
                   text: [
-                    { text: item['position'], bold: true }, ', ', organiz, ' (',item['place'], ').\n',
+                    { text: item['position'], bold: true }, ', ', item['organization'], ' (',item['place'], ').\n',
                     item['details']
                   ]
                 },
