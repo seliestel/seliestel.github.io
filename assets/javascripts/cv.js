@@ -469,10 +469,12 @@ $(document).ready(function() {
 
   $('#download-pdf').on('click', function(e) {
     e.preventDefault();
+    console.log("Printing CV");
     generateResume('cv');
   });
   $('#download-publist').on('click', function(e) {
     e.preventDefault();
+    console.log("Printing publications");
     generateResume('publist');
   });
 
