@@ -110,7 +110,7 @@ __*Conferences*__
   {{ item.authors }}. {{ item.month }} {{ item.year }}. {{ item.title }}.{% if item.event %} {{ item.event }}{% endif %}{% if item.topic %}{% if item.event %},{% endif %} *{{ item.topic }}*{% endif %}{% if item.event or item.topic %}.{% endif %} {{ item.status }} at {{ item.venue }}, {{ item.place }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}).{% endif %} {{ item.type }}.
 {% endfor %}
 
-Affiliations
+Affiliations and Academic Services
 ----------------------------------
 
 {% for item in site.data.cv.affiliations %}

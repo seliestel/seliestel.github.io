@@ -67,7 +67,6 @@ affiliations:
     link: https://husume.center
     details: 
     time: Since 2018  
-
   - position: Member
     organization: Association for the Study of Literature and the Environment (ASLE/ASEAN) 
     link: https://aseanasle.wordpress.com
@@ -655,6 +654,19 @@ conferences:
     status: Presented
 
 books:
+  - title: "Short Stories and Novels: An Introduction to the Semiotics of Narrative"
+    type: Textbook
+    language: English
+    authors: Ribó, Ignasi
+    publisher: Unpublished
+    place: Mae Fah Luang University, Chiang Rai
+    year: 2017
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+
   - title: "Habitat: The Ecopolitical Nation"
     type: Essay
     language: English
@@ -691,19 +703,6 @@ books:
         pages: 132-133
         doi: 10.3197/096327115X14183182354024
         link:
-
-  - title: "Short Stories and Novels: An Introduction to the Semiotics of Narrative"
-    type: Textbook
-    language: English
-    authors: Ribó, Ignasi
-    publisher: Unpublished
-    place: Mae Fah Luang University, Chiang Rai
-    year: 2017
-    pages: 
-    abstract:
-    isbn: 
-    link: 
-    reviews:
 
   - title: "La teoria literària"
     type: Textbook
@@ -805,8 +804,8 @@ books:
     year: 2005
     pages: 
     abstract:
-    isbn: 
-    link: http://www.amazon.com/El-color-ROSE-TREMAIN/dp/8435060993
+    isbn: "9788435060993"
+    link: 
     reviews:
 
   - title: "La casa dels mangos blaus"
@@ -818,8 +817,8 @@ books:
     year: 2003
     pages: 
     abstract:
-    isbn: 
-    link: http://www.amazon.com/Casa-dels-Mangos-Blaus/dp/8475961894
+    isbn: "9788475961894"
+    link: 
     reviews:
 
 grants:
