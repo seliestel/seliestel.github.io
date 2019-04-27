@@ -65,8 +65,7 @@ Other Employment
          {{ item.details }}
 {% endfor %}
 
-
-Publications
+<a id="download-publist" title="Download publications" style="cursor: pointer">Publications</a>
 ------------------------
 
 __*Peer-reviewed academic articles*__

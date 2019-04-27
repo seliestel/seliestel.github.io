@@ -1,7 +1,7 @@
 "use strict";
 
 $(document).ready(function() {
-  var generateResume = function(toPrint) {
+  var generateList = function() {
 
     var resumeContent = $.parseJSON($('#cvJson').text());
     pdfMake.fonts = {
@@ -29,13 +29,6 @@ $(document).ready(function() {
       });
     };
 
-    var pageTitle = '';
-    if (toPrint == 'cv') {
-    	pageTitle = 'Curriculum Vitae';
-    } else if (toPrint == 'publist') {
-      pageTitle = 'List of publications';
-    };
-
     var docDefinition = {
       content: [],
       header: {       
@@ -47,7 +40,7 @@ $(document).ready(function() {
       },
       footer: function(currentPage, pageCount) { return {
        columns: [
-         { text: [ pageTitle, ' - Ignasi Ribó'], alignment: 'left', fontSize: 9, font: 'OpenSans', margin: [40, 0, 0, 0] },
+         { text: 'Publication list - Ignasi Ribó', alignment: 'left', fontSize: 9, font: 'OpenSans', margin: [40, 0, 0, 0] },
          { text: [ 'Page ' + currentPage.toString() + ' of ' + pageCount.toString() ], alignment: 'center', fontSize: 9, font: 'OpenSans', margin: [0, 0, 0, 0] },
          { text: [ 'Last updated: ', resumeContent['updated']], alignment: 'right', fontSize: 9, font: 'OpenSans', margin: [0, 0, 40, 0] }
        ] }
@@ -136,123 +129,10 @@ $(document).ready(function() {
       });
     };
 
-    if (toPrint == 'cv') {
-		 // Header
-    	 content.push({ text: 'Curriculum Vitae', style: 'curriculum'});
-       content.push({ text: resumeContent['bio']['name'], style: 'name'});
+    // Header
+    content.push({ text: 'List of publications', style: 'curriculum'});
+    content.push({ text: resumeContent['bio']['name'], style: 'name'});
 
-       // Bio
-       dashedHeaderLine();
-       content.push({
-        stack: [
-           { text: ['Born ', resumeContent['bio']['birth_date'], ' in ', resumeContent['bio']['birth_place'], '.'], style: 'bio'}, 
-           { 
-            columns: [
-            {
-              width: '50%',
-              text: [
-                'Contact: \n', resumeContent['bio']['current_address'], '\n',
-                resumeContent['bio']['phone']
-              ]
-            },
-            {
-              width: '50%',
-              text: [
-                 'Email:\n',
-                 resumeContent['bio']['work_email'], ' (work)\n',
-                 resumeContent['bio']['personal_email'], ' (private)\n',
-                 '\nWebsite:\n', resumeContent['bio']['website'], '\n',
-              ]
-            },
-          ], columnGap: 5, style: 'bio' }
-        ], unbreakable: true }
-      );
-
-      dashedHeaderLine();
-
-      // Academic interests
-      content.push(sectionHeading('Academic interests'));
-      content.push({ text: resumeContent['interests'], style: 'full_text'});
-
-      // Education
-      content.push(sectionHeading('Education'));
-      $.each(resumeContent['education'], function(i, item) {
-        content.push({
-          stack: [
-            { columns: [
-              {
-                width: '20%',
-                text: item['time']
-              },
-              {
-                width: '80%',
-                text: [
-                  { text: item['degree'], bold: true }, ', ', { text: item['subject'], italics: true }, '.\n',
-                  item['university'], ', ', item['place'], '.\n',
-                  item['details']
-                ]
-              },
-            ], columnGap: 5, style: 'full_text' }
-          ], unbreakable: true })
-      });  
- 
-      // Academic employment
-      content.push(sectionHeading('Academic Employment'));
-      $.each(resumeContent['academic_employment'], function(i, item) {
-        content.push({
-            stack: [
-              {
-              columns: [
-              {
-                width: '20%',
-                text: item['time']
-              },
-              {
-                width: '80%',
-                text: [
-                  { text: item['position'], bold: true }, ', ', item['department'], '.\n',
-                  item['university'], ', ', item['place'], '.\n',
-                  item['details']
-                ]
-              },
-              ], columnGap: 5, style: 'full_text'
-              }
-            ], unbreakable: true
-          }  
-        )
-      });
-
-      // Other employment
-      content.push(sectionHeading('Other Employment'));
-      $.each(resumeContent['other_employment'], function(i, item) {
-        content.push({
-            stack: [
-              { columns: [
-                {
-                  width: '20%',
-                  text: item['time']
-                },
-                {
-                  width: '80%',
-                  text: [
-                    { text: item['position'], bold: true }, ', ', item['organization'], '.\n',
-                    item['place'], '.\n',
-                    item['details']
-                  ]
-                },
-                ], columnGap: 5, style: 'full_text' }
-              ], unbreakable: true 
-            })
-      }); 
-      content.push(sectionHeading('Publications'));
-
-    } else if (toPrint == 'publist') {
-		 // Header
-    	 content.push({ text: 'List of publications', style: 'curriculum', alignment: 'left'});
-       content.push({ text: resumeContent['bio']['name'], style: 'name', alignment: 'left', margin: [0, 0, 0, 20]});
-    }
-
-    // Publications
     content.push(sectionSubheading('Peer-reviewed journal articles and book chapters'));
     $.each(resumeContent['academic_articles'], function(i, item) {
       var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
@@ -372,108 +252,99 @@ $(document).ready(function() {
          });
     });
 
-    if (toPrint == 'cv') {
+    // Affiliations
+    content.push(sectionHeading('Professional Affiliations and Services'));
+    $.each(resumeContent['affiliations'], function(i, item) {
+      content.push({ columns: [
+        {
+          width: '20%',
+          text: item['time']
+        },
+        {
+          width: '80%',
+          text: [
+            { text: item['position'], bold: true }, ', ', item['organization'], '.\n',
+            item['details']
+          ]
+        },
+      ], columnGap: 5, style: 'full_text' })
+    });
 
+    // Grants and Awards
+    content.push(sectionHeading('Grants and Awards'));
+    content.push(sectionSubheading('Grants'));
+    $.each(resumeContent['grants'], function(i, item) {
+      var number = '';
+      if (item['number'] != undefined && item['number'].length > 0) number = number + 'Grant number: '+ item['number'] + '. ';
+      var funder = '';
+      if (item['funder'] != undefined && item['funder'].length > 0) funder = funder + 'Granted by '+ item['funder'] + '. ';
+      var amount = '';
+      if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
+      var link = '';
+      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+      content.push({ columns: [
+        {
+          width: '20%',
+          text: item['dates']
+        },
+        {
+          width: '80%',
+          text: [
+            item['project'], '. ', number, funder, amount, link
+          ]
+        },
+      ], columnGap: 5, style: 'full_text' })
+    });
 
-      // Affiliations
-      content.push(sectionHeading('Professional Affiliations and Services'));
-      $.each(resumeContent['affiliations'], function(i, item) {
-        content.push({ columns: [
-          {
-            width: '20%',
-            text: item['time']
-          },
-          {
-            width: '80%',
-            text: [
-              { text: item['position'], bold: true }, ', ', item['organization'], '.\n',
-              item['details']
-            ]
-          },
-        ], columnGap: 5, style: 'full_text' })
-      });
+    content.push(sectionSubheading('Awards'));
+    $.each(resumeContent['awards'], function(i, item) {
+      var reason = '';
+      if (item['reason'] != undefined && item['reason'].length > 0) reason = reason + 'Award for '+ item['number'] + '. ';
+      var funder = '';
+      if (item['funder'] != undefined && item['funder'].length > 0) funder = funder + 'Awarded by '+ item['funder'] + '. ';
+      var amount = '';
+      if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
+      var link = '';
+      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+      content.push({ columns: [
+        {
+          width: '20%',
+          text: item['date']
+        },
+        {
+          width: '80%',
+          text: [ item['award'], '. ', reason, funder, amount, link ]
+        },
+      ], columnGap: 5, style: 'full_text' })
+    });
 
-      // Grants and Awards
-      content.push(sectionHeading('Grants and Awards'));
-      content.push(sectionSubheading('Grants'));
-      $.each(resumeContent['grants'], function(i, item) {
-        var number = '';
-        if (item['number'] != undefined && item['number'].length > 0) number = number + 'Grant number: '+ item['number'] + '. ';
-        var funder = '';
-        if (item['funder'] != undefined && item['funder'].length > 0) funder = funder + 'Granted by '+ item['funder'] + '. ';
-        var amount = '';
-        if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
-        var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
-        content.push({ columns: [
-          {
-            width: '20%',
-            text: item['dates']
-          },
-          {
-            width: '80%',
-            text: [
-              item['project'], '. ', number, funder, amount, link
-            ]
-          },
-        ], columnGap: 5, style: 'full_text' })
-      });
+    // Languages
+    content.push(sectionHeading('Languages'));
+    $.each(resumeContent['languages'], function(i, item) {
+      var diploma = '';
+      if (item['diploma'] != undefined && item['diploma'].length > 0) diploma = diploma + ' ('+ item['diploma'] + '). ';
+      content.push({ columns: [
+        {
+          width: '20%',
+          text: item['name']
+        },
+        {
+          width: '80%',
+          text: [ item['level'], diploma ]
+        },
+      ], columnGap: 5, style: 'full_text' })
+    });
 
-      content.push(sectionSubheading('Awards'));
-      $.each(resumeContent['awards'], function(i, item) {
-        var reason = '';
-        if (item['reason'] != undefined && item['reason'].length > 0) reason = reason + 'Award for '+ item['number'] + '. ';
-        var funder = '';
-        if (item['funder'] != undefined && item['funder'].length > 0) funder = funder + 'Awarded by '+ item['funder'] + '. ';
-        var amount = '';
-        if (item['amount'] != undefined && item['amount'].length > 0) amount = amount + 'Amount: '+ item['amount'] + '. ';
-        var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
-        content.push({ columns: [
-          {
-            width: '20%',
-            text: item['date']
-          },
-          {
-            width: '80%',
-            text: [ item['award'], '. ', reason, funder, amount, link ]
-          },
-        ], columnGap: 5, style: 'full_text' })
-      });
-
-      // Languages
-      content.push(sectionHeading('Languages'));
-      $.each(resumeContent['languages'], function(i, item) {
-        var diploma = '';
-        if (item['diploma'] != undefined && item['diploma'].length > 0) diploma = diploma + ' ('+ item['diploma'] + '). ';
-        content.push({ columns: [
-          {
-            width: '20%',
-            text: item['name']
-          },
-          {
-            width: '80%',
-            text: [ item['level'], diploma ]
-          },
-        ], columnGap: 5, style: 'full_text' })
-      });
-
-      content.push(sectionHeading('Other Skills and Diplomas'));
-      $.each(resumeContent['various'], function(i, item) {
-        content.push({ stack: [ { text: item['item'], style: 'full_text'} ], unbreakable: true });
-      });
-    }
+    content.push(sectionHeading('Other Skills and Diplomas'));
+    $.each(resumeContent['various'], function(i, item) {
+      content.push({ stack: [ { text: item['item'], style: 'full_text'} ], unbreakable: true });
+    });
 
     return pdfMake.createPdf(docDefinition).open();
   };
 
   $('#download-pdf').on('click', function(e) {
     e.preventDefault();
-    generateResume('cv');
+    generateResume();
   });
-  $('#download-publist').on('click', function(e) {
-    e.preventDefault();
-    generateResume('publist');
-  });
-
 });
