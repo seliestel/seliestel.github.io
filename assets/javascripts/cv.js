@@ -44,16 +44,26 @@ $(document).ready(function() {
       header: {       
        canvas: [{
           type: 'line',
-          x1: 30, y1: 30, x2: 595-30, y2: 30,
+          x1: 40, y1: 30, x2: 595-40, y2: 30,
           lineWidth: 3
         }]
       },
-      footer: function(currentPage, pageCount) { return {
-       columns: [
-         { text: [ pageTitle, ' - Ignasi Ribó'], alignment: 'left', fontSize: 9, font: 'OpenSans', margin: [40, 0, 0, 0] },
-         { text: [ 'Page ' + currentPage.toString() + ' of ' + pageCount.toString() ], alignment: 'center', fontSize: 9, font: 'OpenSans', margin: [0, 0, 0, 0] },
-         { text: [ 'Last updated: ', resumeContent['updated']], alignment: 'right', fontSize: 9, font: 'OpenSans', margin: [0, 0, 40, 0] }
-       ] }
+      footer: function(currentPage, pageCount) { return [
+        {
+          canvas: [{
+            type: 'line',
+            x1: 40, y1: 0, x2: 595-40, y2: 0,
+            lineWidth: 0.1
+          }]
+        },
+        {
+          columns: [
+           { text: [ pageTitle, ' - Ignasi Ribó'], alignment: 'left', fontSize: 9, font: 'OpenSans', margin: [40, 0, 0, 0] },
+           { text: [ 'Page ' + currentPage.toString() + ' of ' + pageCount.toString() ], alignment: 'center', fontSize: 9, font: 'OpenSans', margin: [0, 0, 0, 0] },
+           { text: [ 'Last updated: ', resumeContent['updated']], alignment: 'right', fontSize: 9, font: 'OpenSans', margin: [0, 0, 40, 0] }
+          ]
+        }
+        ]
       },
       pageBreakBefore: function(currentNode, followingNodesOnPage, nodesOnNextPage, previousNodesOnPage) {
         return (currentNode.headlineLevel === 1 || currentNode.headlineLevel === 2) && currentNode.startPosition.top >= 700;
