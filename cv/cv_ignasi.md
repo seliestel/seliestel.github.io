@@ -15,6 +15,8 @@ permalink: /cv/
 
 >  Academic interests: *{{ site.data.cv.interests }}*
 
+<div itemscope itemtype="https://schema.org/Person" style="text-align:center;"><a itemprop="sameAs" content="https://orcid.org/{{ site.data.cv.bio.orcid }}" href="https://orcid.org/{{ site.data.cv.bio.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/{{ site.data.cv.bio.orcid }}</a></div>
+
 ----
 
 
@@ -41,7 +43,6 @@ Academic Employment
 
          {{ item.details }}
 {% endfor %}
-
 
 Other Employment
 ----------------------------------
@@ -123,13 +124,11 @@ Affiliations
 Grants and Awards
 ------------------------
 
-__*Research grants*__
 {% for item in site.data.cv.grants %}
   {{ item.dates }}
   :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
 {% endfor %}
 
-__*Awards*__
 {% for item in site.data.cv.awards %}
   {{ item.date }}
   :  {{ item.award }}.{% if item.reason %} Award for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.

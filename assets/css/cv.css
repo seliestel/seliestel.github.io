@@ -76,7 +76,7 @@ a {
     color: #397249;
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #9CB770;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
@@ -87,9 +87,14 @@ a:hover, a:active {
   margin-top: 30; 
   cursor: pointer; 
   background-color: transparent; 
-  text-decoration: none !important
+  text-decoration: none !important;
   text-shadow: none;
+  opacity: 0.6;
 }
+#download-pdf:hover, #download-pdf:active {
+  opacity: 1;
+}
+
 /* Horizontal separators */
 hr {
     color: #A6A6A6;
