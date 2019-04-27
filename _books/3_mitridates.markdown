@@ -4,7 +4,7 @@ title: Project
 year: 2010
 genre: Novel
 description: a project that redirects to another website
-img: /img/mitridates_cover.jpg
+img: /assets/img/mitridates_cover.jpg
 redirect: https://www.amazon.es/Mitridates-ha-muerto-Ignasi-Rib%C3%B3/dp/8499811140
 ---
 

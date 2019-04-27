@@ -4,7 +4,7 @@ title: Project
 year: 2011
 genre: Novel
 description: a project with a background image
-img: /img/palma_cover.jpg
+img: /assets/img/palma_cover.jpg
 redirect: https://www.amazon.es/palma-laurel-Narrativas-Hist%C3%B3ricas/dp/8435062198
 ---
 

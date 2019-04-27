@@ -4,7 +4,7 @@ title: "De la indignació a la nació: Tesis polítiques per a una Catalunya dig
 description: 
 year: 2012
 genre: Essay
-img: /img/indignacio_cover.jpg
+img: /assets/img/indignacio_cover.jpg
 redirect: 
 ---
 

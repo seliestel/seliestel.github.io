@@ -4,7 +4,7 @@ title: Project
 year: 2002
 genre: Novel
 description: a project with no image
-img: /img/gravedad_cover.jpg
+img: /assets/img/gravedad_cover.jpg
 redirect: https://www.amazon.es/LA-LEY-DE-GRAVEDAD/dp/B00H3VRTK8
 ---
 

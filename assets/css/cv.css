@@ -82,6 +82,14 @@ a:hover, a:active {
     text-shadow: 1px 1px 1px #333;
 }
 
+#download-pdf {
+  float: right; 
+  margin-top: 30; 
+  cursor: pointer; 
+  background-color: transparent; 
+  text-decoration: none !important
+  text-shadow: none;
+}
 /* Horizontal separators */
 hr {
     color: #A6A6A6;

@@ -1,3 +1,4 @@
+updated: 24 April 2019
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,8 +21,7 @@ education:
       place: Falmer, United Kingdom
       time: 2006 - 2008
       details: |
-        Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). 
-        Advisor: Daniel Steuer, Ph.D.
+        - Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
 
     - degree: Master of Advanced Studies
       subject: Comparative Study of Language and Literature
@@ -29,8 +29,7 @@ education:
       place: Barcelona, Spain
       time: 2004 – 2006
       details: |
-        Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). 
-        Advisor: Jordi Llovet, Ph.D.
+        - Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). Advisor: Jordi Llovet, Ph.D.
 
     - degree: Bachelor
       subject: Literary Theory and Comparative Literature
@@ -54,11 +53,9 @@ education:
       details: |
         - Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
         - Master Community of European Management Schools (CEMS). 
-        - European Management and International Business Studies. Semester exchange (1995). 
-          Hautes Études Commerciales (HEC), Paris, France. 
+        - European Management and International Business Studies. Semester exchange (1995). Hautes Études Commerciales (HEC), Paris, France. 
           Specialisation: Europe-Asia: Culture, Politics, Society.
-        - International Management Program. Semester exchange (1994). 
-          Stern School of Business, New York University, New York, United States.
+        - International Management Program. Semester exchange (1994). Stern School of Business, New York University, New York, United States.
           Specialisation: Global Banking and Capital Markets.
 
 affiliations:
@@ -219,8 +216,8 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 7
-    number: 2
+    volume: "7"
+    number: "2"
     pages: 1-16
     abstract:
     doi: 
@@ -250,8 +247,8 @@ academic_articles:
       - reviewers: Yeow, A. 
         journal: "SARE: Southeast Asian Review of English"
         year: 2017 
-        volume: 54
-        number: 2
+        volume: "54"
+        number: "2"
         pages: 27-30
         doi: 
         link: "https://ejournal.um.edu.my/index.php/SARE/article/view/10241"
@@ -267,8 +264,8 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 10 
-    number: 2
+    volume: "10" 
+    number: "2"
     pages: 97-112
     abstract:
     doi: 10.5840/envirophil201310216
@@ -287,7 +284,7 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 4
+    volume: "4"
     number: 
     pages: 6-23
     abstract:
@@ -298,8 +295,8 @@ academic_articles:
       - reviewers: Keown, D. 
         journal: "Journal of European Studies"
         year: 2011
-        volume: 41
-        number: 2
+        volume: "41"
+        number: "2"
         pages: 182-183
         doi: 10.1177/00472441110410020503
         link: 
@@ -315,8 +312,8 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 64
-    number: 3
+    volume: "64"
+    number: "3"
     pages: 222-262
     abstract:
     doi: 10.1111/j.1600-0730.2009.00957.x
@@ -355,7 +352,7 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 22
+    volume: "22"
     number: 
     pages: 9-26
     abstract:
@@ -375,7 +372,7 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 80
+    volume: "80"
     number: 
     pages: 49-65
     abstract:
@@ -395,7 +392,7 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 10
+    volume: "10"
     number: 
     pages: 
     abstract:
@@ -415,7 +412,7 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 33
+    volume: "33"
     number: 
     pages: 
     abstract:
@@ -661,7 +658,7 @@ books:
     year: 2012
     pages: 
     abstract:
-    isbn: 9780957419100
+    isbn: "9780957419100"
     link: 
     reviews:
       - reviewers: Menser, M.
@@ -711,7 +708,7 @@ books:
     year: 2011
     pages: 
     abstract:
-    isbn: 9788497883993
+    isbn: "9788497883993"
     link: 
     reviews:
 
@@ -724,7 +721,7 @@ books:
     year: 2011
     pages: 
     abstract:
-    isbn: 9788435062190
+    isbn: "9788435062190"
     link: 
     reviews:
 
@@ -737,7 +734,7 @@ books:
     year: 2011
     pages: 
     abstract:
-    isbn: 9788499811147
+    isbn: "9788499811147"
     link: 
     reviews:
 
@@ -750,7 +747,7 @@ books:
     year: 2005
     pages: 
     abstract:
-    isbn: 9788435009539
+    isbn: "9788435009539"
     link: 
     reviews:
 
@@ -763,7 +760,7 @@ books:
     year: 2002
     pages: 
     abstract:
-    isbn: 9788435008396
+    isbn: "9788435008396"
     link: 
     reviews:
 
@@ -776,7 +773,7 @@ books:
     year: 2001
     pages: 
     abstract:
-    isbn: 9788475967738
+    isbn: "9788475967738"
     link: 
     reviews:
 
@@ -824,6 +821,7 @@ grants:
     dates: 2017 - 2018
     number: 611A10017
     funder: Mae Fah Luang University
+    link:
     amount: 100,000 THB
     status: Completed
 
@@ -833,6 +831,7 @@ awards:
     type: Literary prize
     date: 2000
     funder: Fundació Joan Santamaria
+    link:
     amount: 6,000 Euros
  
 languages:
@@ -874,7 +873,3 @@ various:
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python, and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
-
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

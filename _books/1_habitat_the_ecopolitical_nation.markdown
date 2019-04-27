@@ -4,7 +4,7 @@ title: "Habitat: The Ecopolitical Nation"
 description: 
 year: 2012
 genre: Essay
-img: /img/habitat_cover.jpg
+img: /assets/img/habitat_cover.jpg
 redirect: 
 ---
 
@@ -18,7 +18,7 @@ several provocative assertions, which form the basis for the present review. Itâ
 
   </div>
   <div class="cover" style="float: right">
-    <a href="http://www.amazon.com/Habitat-Ecopolitical-Nation-Ignasi-Rib%C3%B3/dp/0957419104" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/img/habitat_cover.jpg" alt="" title="Where to find the book"/></div></a>
+    <a href="http://www.amazon.com/Habitat-Ecopolitical-Nation-Ignasi-Rib%C3%B3/dp/0957419104" target="_blank" class="hvr-float-shadow"><div><img class="" style="" src="{{ site.baseurl }}/assets/img/habitat_cover.jpg" alt="" title="Where to find the book"/></div></a>
   </div>
   
 </div>

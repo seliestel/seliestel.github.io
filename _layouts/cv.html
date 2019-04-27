@@ -3,24 +3,24 @@
   <head>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/cv.css" media="screen" type="text/css">
-    <script defer src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/vfs_fonts.js"></script>
-    <script defer src="/assets/javascripts/resume.js"></script> 
-    <script defer src="/assets/javascripts/collapse.js"></script>
+    <link rel="stylesheet" href="/assets/css/cv.css" media="screen" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
+    <script src='/assets/fonts/vfs_fonts.js'></script>
+
+    <!--<script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/vfs_fonts.js"></script>-->
+    <script defer src="/assets/javascripts/cv.js"></script> 
   </head>
   <body>
 		<div hidden id="cvJson">
   			{{ site.data.cv | jsonify }}
 		</div>
-
      <div class="page-content">
       <div id="heading" style="text-align: center"><i>Curriculum Vitae</i></div>
+      <a id="download-pdf" title="Download PDF"><img src="../assets/img/pdf-download-icon.png" style="position: fixed; right: 50px; width: 50px" /></a>
       <div id="#cv" class="wrapper">
         {{ content }}
       </div>
-      <!-- <button id="download-pdf" title="Download">Download in PDF</button>-->
     </div>
   </body>
 </html>

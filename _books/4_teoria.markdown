@@ -4,7 +4,7 @@ title: Project
 year: 2011
 genre: Essay
 description: another without an image
-img: /img/teoria_cover.jpg
+img: /assets/img/teoria_cover.jpg
 redirect: https://www.amazon.es/teoria-liter%C3%A0ria-VullSaber-Ignasi-Labastida/dp/8497883993/ref=sr_1_1?s=books&ie=UTF8&qid=1533785529&sr=1-1
 ---
 

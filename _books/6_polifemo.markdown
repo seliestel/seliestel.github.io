@@ -4,7 +4,7 @@ title: Project
 year: 2006
 genre: Novel
 description: a project with a background image
-img: /img/polifemo_cover.jpg
+img: /assets/img/polifemo_cover.jpg
 redirect: https://www.amazon.es/POLIFEMO-IGNASI-RIB%C3%93/dp/B00H3V8RUE/ref=asap_bc?ie=UTF8
 ---
 
