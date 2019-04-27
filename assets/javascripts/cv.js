@@ -2,6 +2,7 @@
 
 $(document).ready(function() {
   var generateResume = function() {
+
     var resumeContent = $.parseJSON($('#cvJson').text());
     console.log(resumeContent);
     pdfMake.fonts = {
@@ -46,10 +47,7 @@ $(document).ready(function() {
        ] }
       },
       pageBreakBefore: function(currentNode, followingNodesOnPage, nodesOnNextPage, previousNodesOnPage) {
-       // if (currentNode.style === 'sectionHeading') {
-           return currentNode.headlineLevel === 1 && followingNodesOnPage.length === 0;
-       // }
-       // return false;
+        return (currentNode.headlineLevel === 1 || currentNode.headlineLevel === 2) && currentNode.startPosition.top >= 750;
       },
       defaultStyle: {
         font: 'OpenSans'
@@ -57,6 +55,13 @@ $(document).ready(function() {
       styles: {
         curriculum: {
           fontSize: 16,
+          font: 'OpenSans',
+          bold: false,
+          alignment: 'center',
+          margin: [0, 10, 0, 0]
+        },        
+        bio: {
+          fontSize: 10,
           font: 'OpenSans',
           bold: false,
           alignment: 'center',
@@ -101,13 +106,16 @@ $(document).ready(function() {
       }
     };
 
-    var content = docDefinition['content']
+
+
+    var content = docDefinition['content'];
 
     var sectionHeading = function(text, options) {
-      return { text: text, style: 'section_heading'};
+      return { text: text, style: 'section_heading', headlineLevel: 1 } 
     };
+
     var sectionSubheading = function(text, options) {
-      return { text: text, style: 'section_subheading' };
+      return { text: text, style: 'section_subheading', headlineLevel: 2 } 
     };
 
 
@@ -123,14 +131,42 @@ $(document).ready(function() {
     };
 
     // Header
- //   headerLine();
     content.push({ text: 'Curriculum Vitae', style: 'curriculum'});
     content.push({ text: resumeContent['bio']['name'], style: 'name'});
+
+    // Bio
+    dashedHeaderLine();
+    content.push({
+      stack: [
+         { text: ['Born ', resumeContent['bio']['birth_date'], ' in ', resumeContent['bio']['birth_place'], '.'], style: 'bio'}, 
+         { 
+          columns: [
+          {
+            width: '50%',
+            text: [
+              'Contact: \n', resumeContent['bio']['current_address'], '\n',
+              resumeContent['bio']['phone']
+            ]
+          },
+          {
+            width: '50%',
+            text: [
+               'Email:\n',
+               resumeContent['bio']['work_email'], ' (work)\n',
+               resumeContent['bio']['personal_email'], ' (private)\n',
+               '\nWebsite:\n', resumeContent['bio']['website'], '\n',
+            ]
+          },
+        ], columnGap: 5, style: 'bio' }
+      ], unbreakable: true }
+    );
+
+    dashedHeaderLine();
+
 
     // Academic interests
     content.push(sectionHeading('Academic interests'));
     content.push({ text: resumeContent['interests'], style: 'full_text'});
-
 
     // Education
     content.push(sectionHeading('Education'));
@@ -178,7 +214,6 @@ $(document).ready(function() {
           ], unbreakable: true
         }
       )
-
     });
 
     // Other employment
@@ -288,8 +323,8 @@ $(document).ready(function() {
       });
     });
 
+    // Books
     content.push(sectionSubheading('Books'));
-
     $.each(resumeContent['books'], function(i, item) {
       var isbn = '';
       if (item['isbn'] != undefined && item['isbn'].length > 0) isbn = isbn + 'ISBN: ' + item['isbn'] + '. ';
@@ -307,6 +342,7 @@ $(document).ready(function() {
          });
     });
 
+    // Conferences
     content.push(sectionSubheading('Conferences'));
     $.each(resumeContent['conferences'], function(i, item) {
       var present = '';
@@ -345,7 +381,6 @@ $(document).ready(function() {
 
     // Grants and Awards
     content.push(sectionHeading('Grants and Awards'));
-
     content.push(sectionSubheading('Grants'));
     $.each(resumeContent['grants'], function(i, item) {
       var number = '';
@@ -409,17 +444,10 @@ $(document).ready(function() {
       ], columnGap: 5, style: 'full_text' })
     });
 
-    // Other skills
-    /*
-    var list = function(items) {
-      return { ul: items, margin: [20, 0, 20, 0] };
-    };
-    */
     content.push(sectionHeading('Other Skills and Diplomas'));
     $.each(resumeContent['various'], function(i, item) {
       content.push({ stack: [ { text: item['item'], style: 'full_text'} ], unbreakable: true });
     });
-
 
     return pdfMake.createPdf(docDefinition).open();
   };
@@ -429,103 +457,3 @@ $(document).ready(function() {
     generateResume();
   });
 });
-
-
-
-/*
-      $.each(item['positions'], function(i, position) {
-        content.push({
-          text: [
-            { text: position['title'], bold: true },
-            ' (' + position['duration'] + ')'
-          ]
-        });
-      });
-*/
-//      content.push({ text: item['description'], margin: [0, 5, 0, 0]});
-//      content.push('\n');
-//      content.push(list(item['accomplishments']));
-
-//      
-/*
-    // Academic Employment
-    content.push(sectionHeading('Academic Employment'));
-
-    $.each(resumeContent['projects'], function(i, project) {
-      content.push({
-        stack: [
-          { text: project['name'], style: 'project_heading' },
-          { text: project['description'], margin: [0, 5, 0, 0] }
-        ],
-        margin: [0, 15, 0, 5]
-      });
-
-      var items = []
-      if(project['website']) {
-        var website = project['website'].split('//')[1]
-        items.push({
-          text: [
-            { text: 'Available on RubyGems', bold: true },
-            { text: ' (' + website + ')', italics: true }
-          ]
-        });
-      }
-
-      if(project['code']) {
-        var website = project['code'].split('//')[1]
-        items.push({
-          text: [
-            { text: 'Code on GitHub', bold: true },
-            { text: ' (' + website + ')', italics: true }
-          ]
-        });
-      }
-
-      content.push(list(items));
-    });
-
-    // Skills
-    var skillsHeading = sectionHeading('Skills To Pay The Bills');
-    skillsHeading['pageBreak'] = 'before';
-    content.push(skillsHeading);
-
-    var skillsTable = [[],[]];
-
-    $.each(resumeContent['skills'], function(category, skills) {
-      skillsTable[0].push([{ text: category, style: 'project_heading'}]);
-      skillsTable[1].push([{ stack: skills }]);
-    });
-
-    content.push({
-      table: {
-        widths: ['*', '*', '*', '*'],
-        body: skillsTable
-      },
-      margin: [0, 10, 0, 0],
-      layout: 'noBorders'
-    });
-
-    // Education
-    content.push(sectionHeading('Education'));
-
-    content.push({
-      stack: [
-        { text: resumeContent['education']['school'], style: 'project_heading' },
-        { text: resumeContent['education']['degree'], italics: true },
-        { text: [{ text: 'Graduated: ', bold: true }, resumeContent['education']['graduated']]}
-      ],
-      margin: [0, 15, 0, 0]
-    });
-*/
-
-/*
-    content.push({
-      stack: [
-        { text: resumeContent['title'], italics: true },
-        { text: [{ text: 'Email: ', bold: true, italics: true }, resumeContent['contact_email']] },
-        { text: [{ text: 'GitHub: ', bold: true, italics: true }, resumeContent['github_handle']] }
-      ],
-      alignment: 'right',
-      margin: [0, -45, 0, 0]
-    });
-*/
