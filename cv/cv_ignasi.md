@@ -39,7 +39,7 @@ Academic Employment
   {{ item.time }} 
   :     *{{ item.position }}*,
          {{ item.department }}, {{ item.university }} 
-         {{ item.place }}. {{ item.link }}
+         ({{ item.place }}). {{ item.link }}
 
          {{ item.details }}
 {% endfor %}
