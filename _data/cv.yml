@@ -574,7 +574,9 @@ other_articles:
     authors: Ribó, Ignasi
     publisher: El Correu de la UNESCO
     date: February 2000
-    link:Octoberrences:
+    link:
+
+conferences:
 
   - title: "Dialogue for ecological regeneration: Engaging with environmental knowledge in the north of Thailand"
     type: Seminar (conference and panel discussion)
