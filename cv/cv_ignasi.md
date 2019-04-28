@@ -13,7 +13,8 @@ permalink: /cv/
 
 >  Born {{ site.data.cv.bio.birth_date }} in {{ site.data.cv.bio.birth_place }}.
 
->  Academic interests: *{{ site.data.cv.interests }}*
+>  Academic interests: 
+>  *{{ site.data.cv.interests }}*
 
 <div itemscope itemtype="https://schema.org/Person" style="text-align:center;"><a itemprop="sameAs" content="https://orcid.org/{{ site.data.cv.bio.orcid }}" href="https://orcid.org/{{ site.data.cv.bio.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/{{ site.data.cv.bio.orcid }}</a></div>
 

@@ -388,7 +388,6 @@ $(document).ready(function() {
 
     if (toPrint == 'cv') {
 
-
       // Affiliations
       content.push(sectionHeading('Professional Affiliations and Services'));
       $.each(resumeContent['affiliations'], function(i, item) {
