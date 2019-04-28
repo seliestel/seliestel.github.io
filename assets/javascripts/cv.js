@@ -368,8 +368,8 @@ $(document).ready(function() {
     // Conferences
     content.push(sectionSubheading('Conferences'));
     $.each(resumeContent['conferences'], function(i, item) {
-    	var topic = '';
-    	if (item['topic'] != undefined && item['topic'].length > 0) topic = topic + item['topic'] + '. ';
+    	var topic = '. ';
+    	if (item['topic'] != undefined && item['topic'].length > 0) topic = ", " + item['topic'] + '. ';
       var present = '';
       if (item['status'] != undefined && item['status'].length > 0) present = present + item['status'] + ' at ' + item['venue'] + ', ' + item['place'] + '. ';
       var link = '';
@@ -379,7 +379,7 @@ $(document).ready(function() {
            { text:
              [ 
                item['authors'], '. ', item['month'], ' ', item['year'], '. ', item['title'], '. ',
-               item['event'], '. ', { text: topic, italics: true }, item['type'], '. ', present, link, '.'
+               item['event'], { text: topic, italics: true }, item['type'], '. ', present, link, '.'
              ],
              style: 'bibliography' }
            ], unbreakable: true    
