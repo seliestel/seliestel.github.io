@@ -23,6 +23,10 @@ education:
       university: University of Sussex 
       place: Falmer, United Kingdom
       time: 2006 - 2008
+      begin: July 2006
+      end: July 2007
+      awarded: March 2008
+      grade: 
       details: |
         - Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
 
@@ -31,6 +35,10 @@ education:
       university: Universitat de Barcelona
       place: Barcelona, Spain
       time: 2004 – 2006
+      begin: September 2004
+      end: June 2006
+      awarded: July 2006 
+      grade: 3.1 / 4
       details: |
         - Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). Advisor: Jordi Llovet, Ph.D.
 
@@ -39,6 +47,10 @@ education:
       university: Universitat de Barcelona
       place: Barcelona, Spain
       time: 2002 – 2004
+      begin: September 2002
+      end: June 2004
+      awarded: July 2004
+      grade: 2.95 / 4
       details:
 
     - degree: Master 
@@ -46,6 +58,10 @@ education:
       university: Institut d’Études Politiques de Paris (Sciences-Po)
       place: Paris, France
       time: 1997 – 1998
+      begin: August 1997
+      end: June 1998
+      awarded: June 1998
+      grade: 84
       details:
 
     - degree: Bachelor and Master in Business Administration
@@ -53,6 +69,10 @@ education:
       university: ESADE, Universitat Ramon Llull
       place: Barcelona, Spain
       time: 1989 – 1995
+      begin: September 1989
+      end: June 1995
+      awarded: March 1998
+      grade: 
       details: |
         - Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
         - Master Community of European Management Schools (CEMS). 
@@ -84,14 +104,19 @@ academic_employment:
     university: Mae Fah Luang University
     department: School of Liberal Arts  
     time: Since 2016
+    begin: June 2016 
+    end: 
     place: Chiang Rai, Thailand
     link:
     details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing'
+
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
     department: Faculty of Humanities / Faculty of Management  
     time: 2002 - 2016
+    begin: February 2002 
+    end: June 2016
     place: Barcelona, Spain
     link:
     details: 'Courses taught: Literary and Critical Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.'
@@ -100,6 +125,8 @@ other_employment:
   - position: Consultant
     organization: Tecnigestión S.L.  
     time: 2012-2013
+    begin: March 2012
+    end: December 2013
     place: Barcelona, Spain
     link:
     details: Advised SMEs on finance, strategy and business development.
@@ -107,6 +134,8 @@ other_employment:
   - position: Managing Director
     organization: Zing Foods Pte Ltd.  
     time: 2010-2011
+    begin: February 2010
+    end: October 2011
     place: Singapore
     link:
     details: Started an export/import company in the organic foods sector.
@@ -114,6 +143,8 @@ other_employment:
   - position: Managing Director
     organization: Eyes of the World Foundation
     time: 2002-2003
+    begin: February 2002
+    end: September 2003
     place: Barcelona, Spain
     link:
     details: Headed a team of eight people designing and implementing ophthalmologic aid and cooperation projects in Mozambique, Bolivia, Gaza and the Western Sahara refugee camps in Algeria, including the organisation of medical commissions and educational programmes.
@@ -121,6 +152,8 @@ other_employment:
   - position: Assistant Manager
     organization: Déu i Mata S.L.
     time: 2000-2002
+    begin: January 2000
+    end: January 2002
     place: Barcelona, Spain
     link:
     details: Managed a turnaround process in a hospitality company. 
@@ -128,6 +161,8 @@ other_employment:
   - position: Financial Analyst, Mergers & Acquisitions
     organization: Merrill Lynch
     time: 1995-1997
+    begin: July 1995
+    end: July 1997
     place: London, United Kingdom
     link:
     details: Worked on transnational M&A advisory and execution assignments in Europe, Argentina and South Africa, conducting company valuations, sector analyses, financial modelling, due diligence, transaction negotiations, and client presentations.
@@ -135,6 +170,8 @@ other_employment:
   - position: Assistant Trader
     organization: The Kyte Group Ltd.  
     time: 1994
+    begin: July 1994
+    end: August 1994
     place: London, United Kingdom
     link:
     details: Assisted traders at the London International Financial Futures Exchange (LIFFE). Summer internship.
@@ -142,6 +179,8 @@ other_employment:
   - position: Investment Analyst
     organization: Fibanc-Mediolanum  
     time: 1993-1994
+    begin: January 1993
+    end: June 1994
     place: Barcelona, Spain
     link:
     details: Analysed equity investments and traded in money markets. Part-time.
@@ -539,8 +578,19 @@ other_articles:
 
 conferences:
 
+  - title: "Dialogue for ecological regeneration: Engaging with environmental knowledge in the north of Thailand"
+    type:  Seminar (conference and panel discussion)
+    authors: Ribó, Ignasi
+    event: ICIRD 2019 
+    topic:
+    venue: Mae Fah Luang University
+    place: Chiang Rai, Thailand
+    month: November
+    year: 2019
+    status: To be organised
+
   - title: "Posthuman political ecology: actors, networks, systems"
-    type: Paper
+    type:  Paper presentation
     authors: Ribó, Ignasi
     event: ICIRD 2019 
     topic:
@@ -549,8 +599,9 @@ conferences:
     month: November
     year: 2019
     status: To be presented
+
   - title: "Golden triangle: a material semiotic geography"
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: ASLE/ASEAN Ecocriticism Workshop 2019
     topic:
@@ -559,8 +610,9 @@ conferences:
     month: June
     year: 2019
     status: To be presented
+
   - title: "A review of recent studies of environmental cultures in the upper Mekong basin"
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi; Calzolari, Fabio
     event: 1st National Conference Srikhottaboon Studies on Mekong River and Cultural Studies for Local Development
     topic:
@@ -579,10 +631,10 @@ conferences:
     place: Nijmegen, Netherlands
     month: October
     year: 2017
-    status: Presented
+    status: Delivered
 
   - title: Understanding the relationship of humans and elephants in Thailand from a cultural perspective
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: 10th International Conference of HUSOC
     topic: Dynamics of Humanities and Social Sciences in Cross-Border Societies
@@ -593,7 +645,7 @@ conferences:
     status: Presented
 
   - title: 'Worlds and words: of bats, ticks, and apes'
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: International conference 
     topic: "From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy"
@@ -602,8 +654,9 @@ conferences:
     month: June 
     year: 2011
     status: Presented
+
   - title: 'Attentiveness: a case of primate semiosis'
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: International conference
     topic: Zoosemiotics and Animal Representations
@@ -612,6 +665,7 @@ conferences:
     month: April
     year: 2011
     status: Presented
+
   - title: El repte de l'eficiència en la gestió d'una ONG
     type: Invited lecture
     authors: Ribó, Ignasi
@@ -621,9 +675,10 @@ conferences:
     place: Bellaterra, Catalonia, Spain
     month: February 
     year: 2011
-    status: Presented
+    status: Delivered
+
   - title: The novel as tragic form
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: International conference
     topic: "The Novel: Democracy’s Form?"
@@ -632,8 +687,9 @@ conferences:
     month: April 
     year: 2007
     status: Presented
+
   - title: "The papers of Salamanca: war, closure, and re-enactment"
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi
     event: International conference
     topic: "Archives: From Memory to Event"
@@ -642,8 +698,9 @@ conferences:
     month: February
     year: 2007
     status: Presented
+
   - title: "Ejercicio de simulación empresarial: desarrollo de competencias genéricas en un entorno virtual"
-    type: Paper
+    type: Paper presentation
     authors: Ribó, Ignasi; Rimbau, Eva
     event: Workshop
     topic: Jornadas en Red sobre el Espacio Europeo de Educación Superior

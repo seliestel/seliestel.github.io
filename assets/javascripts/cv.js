@@ -379,7 +379,7 @@ $(document).ready(function() {
            { text:
              [ 
                item['authors'], '. ', item['month'], ' ', item['year'], '. ', item['title'], '. ',
-               item['event'], '. ', { text: topic, italics: true }, present, link, item['type'], '.'
+               item['event'], '. ', { text: topic, italics: true }, item['type'], '. ', present, link, '.'
              ],
              style: 'bibliography' }
            ], unbreakable: true    
