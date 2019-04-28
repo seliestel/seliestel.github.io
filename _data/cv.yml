@@ -578,17 +578,6 @@ other_articles:
 
 conferences:
 
-  - title: "Dialogue for ecological regeneration: engaging with environmental knowledge in the north of Thailand"
-    type: Seminar (conference and panel discussion)
-    authors: Ribó, Ignasi
-    event: International conference
-    topic: Sustainable Innovation for Health and Development
-    venue: Mae Fah Luang University
-    place: Chiang Rai, Thailand
-    month: October
-    year: 2019
-    status: To be organised
-
   - title: "Posthuman political ecology: actors, networks, systems"
     type:  Paper
     authors: Ribó, Ignasi
@@ -599,6 +588,17 @@ conferences:
     month: November
     year: 2019
     status: To be presented
+    
+  - title: "Dialogue for ecological regeneration: engaging with environmental knowledge in the north of Thailand"
+    type: Seminar (conference and panel discussion)
+    authors: Ribó, Ignasi
+    event: International conference
+    topic: Sustainable Innovation for Health and Development
+    venue: Mae Fah Luang University
+    place: Chiang Rai, Thailand
+    month: October
+    year: 2019
+    status: To be organised
 
   - title: "Golden triangle: a material semiotic geography"
     type: Paper
