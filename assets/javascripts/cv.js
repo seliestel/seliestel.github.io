@@ -224,7 +224,7 @@ $(document).ready(function() {
                 width: '80%',
                 text: [
                   { text: item['position'], bold: true }, ', ', item['department'], '.\n',
-                  item['university'], ', ', item['place'], '.\n',
+                  item['university'], ' (', item['place'], ').\n',
                   item['details']
                 ]
               },
