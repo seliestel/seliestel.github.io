@@ -614,8 +614,8 @@ conferences:
   - title: "A review of recent studies of environmental cultures in the upper Mekong basin"
     type: Paper
     authors: Ribó, Ignasi; Calzolari, Fabio
-    event: 1st National Conference Srikhottaboon Studies on Mekong River and Cultural Studies for Local Development
-    topic:
+    event: 1st National Conference Srikhottaboon Studies
+    topic: Mekong River and Cultural Studies for Local Development
     venue: University of Nakhon Phanom 
     place: Nakhon Phanom, Thailand
     month: May
@@ -625,8 +625,8 @@ conferences:
   - title: Exploring new models of interspecific communication
     type: Invited lecture
     authors: Ribó, Ignasi
-    event: Donders Discussions 2017 
-    topic:
+    event: 10th Donders Discussions 
+    topic: Neuroscience and Cognition
     venue: Radboud University
     place: Nijmegen, Netherlands
     month: October
