@@ -13,9 +13,9 @@ permalink: /cv/
 
 >  Born {{ site.data.cv.bio.birth_date }} in {{ site.data.cv.bio.birth_place }}.
 
->  Academic interests: 
->  *{{ site.data.cv.interests }}*
-
+<div style="margin-bottom: 0 !important;text-align: center">Academic interests:</div>
+<div style="margin-top: 0 !important; font-style:italic; text-align: center">{{ site.data.cv.interests }}</div>
+<br />
 <div itemscope itemtype="https://schema.org/Person" style="text-align:center;"><a itemprop="sameAs" content="https://orcid.org/{{ site.data.cv.bio.orcid }}" href="https://orcid.org/{{ site.data.cv.bio.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/{{ site.data.cv.bio.orcid }}</a></div>
 
 ----
