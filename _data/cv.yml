@@ -912,7 +912,7 @@ languages:
     level: Intermediate
     diploma: Zertifikat Deutsch
   - name: Italian
-    level: Lower intermediate
+    level: Intermediate
     diploma: 
   - name: Thai
     level: Lower intermediate
@@ -932,7 +932,7 @@ various:
   - item: Postgraduate Certificate in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology.
   - item: Diploma in Ethology of Primates, Fundació Mona, 2011. https://fundacionmona.org/en
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
-  - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
-  - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python, and Solidity.
+  - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
+  - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
