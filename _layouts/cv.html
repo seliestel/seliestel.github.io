@@ -7,14 +7,11 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
     <script src='/assets/fonts/vfs_fonts.js'></script>
-
-    <!--<script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/vfs_fonts.js"></script>-->
     <script defer src="/assets/javascripts/cv.js"></script> 
   </head>
   <body>
-		<div hidden id="cvJson">
-  			{{ site.data.cv | jsonify }}
-		</div>
+
+		 <div hidden id="cvJson">{{ site.data.cv | jsonify }}</div>
      <div class="page-content">
       <div id="heading" style="text-align: center"><i>Curriculum Vitae</i></div>
       <a id="download-pdf" title="Download CV"><img src="../assets/img/pdf-download-icon.png" style="position: fixed; right: 50px; width: 50px" /></a>

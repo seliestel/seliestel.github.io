@@ -14,6 +14,9 @@ bio:
   orcid: "0000-0001-7821-316X" 
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
+  academic_short: "Ignasi Ribó (PhD, University of Sussex) is a lecturer at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Cultural Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published several books of fiction and a number of academic essays."
+  about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
+  picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 interests: Environmental Humanities, Ecocriticism, Biosemiotics, Cultural and Political Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory.
 
@@ -854,7 +857,7 @@ books:
   - title: "El color"
     type: Translation
     language: Spanish
-    authors: "Tremain, Rose (translator: Ribó, Ignasi)"
+    authors: "Tremain, Rose (trans. Ribó, Ignasi)"
     publisher: Edhasa
     place: Barcelona
     year: 2005
@@ -867,7 +870,7 @@ books:
   - title: "La casa dels mangos blaus"
     type: Translation
     language: Catalan
-    authors: "Davidar, David (translator: Ribó, Ignasi)"
+    authors: "Davidar, David (trans. Ribó, Ignasi)"
     publisher: Empúries
     place: Barcelona
     year: 2003

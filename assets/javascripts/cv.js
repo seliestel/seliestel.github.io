@@ -1,6 +1,120 @@
 "use strict";
 
 $(document).ready(function() {
+
+  var generateBio = function() {
+
+    var resumeContent = $.parseJSON($('#cvJson').text());
+    pdfMake.fonts = {
+     OpenSans: {
+       normal: 'OpenSans-Regular.ttf',
+       bold: 'OpenSans-Bold.ttf',
+       italics: 'OpenSans-Italic.ttf',
+       bolditalics: 'OpenSans-BoldItalic.ttf'
+     },
+     Raleway: {
+       normal: 'Raleway-Regular.ttf',
+       bold: 'Raleway-Bold.ttf',
+       italics: 'Raleway-Italic.ttf',
+       bolditalics: 'Raleway-BoldItalic.ttf'
+     }     
+    }
+
+    var headerLine = function() {
+      content.push({
+        canvas: [{
+          type: 'line',
+          x1: 0, y1: 6, x2: 595-2*40, y2: 6,
+          lineWidth: 3
+        }]
+      });
+    };
+
+    var pageTitle = 'Bio';
+    var docTitle = 'Bio - Ignasi Ribo.pdf';
+ 
+    var docDefinition = {
+      content: [],
+      header: {       
+       canvas: [{
+          type: 'line',
+          x1: 40, y1: 30, x2: 595-40, y2: 30,
+          lineWidth: 3
+        }]
+      },
+      footer: function(currentPage, pageCount) { return [
+        {
+          canvas: [{
+            type: 'line',
+            x1: 40, y1: 0, x2: 595-40, y2: 0,
+            lineWidth: 0.1
+          }]
+        },
+        {
+          columns: [
+           { text: [ pageTitle, ' - Ignasi Ribó'], alignment: 'left', fontSize: 9, font: 'OpenSans', margin: [40, 0, 0, 0] },
+           { text: [ 'Page ' + currentPage.toString() + ' of ' + pageCount.toString() ], alignment: 'center', fontSize: 9, font: 'OpenSans', margin: [0, 0, 0, 0] },
+           { text: [ 'Last updated: ', resumeContent['updated']], alignment: 'right', fontSize: 9, font: 'OpenSans', margin: [0, 0, 40, 0] }
+          ]
+        }
+        ]
+      },
+      styles: {
+        bio: {
+          fontSize: 15,
+          font: 'OpenSans',
+          bold: false,
+          alignment: 'center',
+          margin: [0, 10, 0, 0]
+        },        
+        name: {
+          fontSize: 26,
+          font: 'Raleway',
+          bold: true,
+          alignment: 'center',
+          margin: [0, 10, 0, 30]
+        },
+        section_heading: {
+          fontSize: 10,
+          font: 'Raleway',
+          bold: true,
+          alignment: 'center',
+          margin: [0, 50, 0, 0]
+        },
+        contact: {
+          fontSize: 10,
+          font: 'Raleway',
+          bold: false,
+          alignment: 'center',
+          margin: [0, 5, 0, 0]
+        },
+        full_text: {
+          fontSize: 10,
+          font: 'OpenSans',
+          bold: false,
+          alignment: 'justified',
+          margin: [0, 10, 0, 0]
+        }
+      }
+    };
+
+    var content = docDefinition['content'];
+
+    var sectionHeading = function(text, options) {
+      return { text: text, style: 'section_heading', headlineLevel: 1 } 
+    };
+
+    content.push({ text: 'Bio', style: 'bio'});
+    content.push({ text: resumeContent['bio']['name'], style: 'name'});
+    content.push({ text: resumeContent['bio']['academic_short'], style: 'full_text'});
+
+    content.push({ text: 'Contact by email', style: 'section_heading'});
+    content.push({ text: [ resumeContent['bio']['work_email'],' (work)'], style: 'contact'});
+    content.push({ text: [ resumeContent['bio']['personal_email'],' (private)'], style: 'contact'});
+    return pdfMake.createPdf(docDefinition).download(docTitle);
+
+  }
+
   var generateResume = function(toPrint) {
 
     var resumeContent = $.parseJSON($('#cvJson').text());
@@ -124,8 +238,6 @@ $(document).ready(function() {
         },
       }
     };
-
-
 
     var content = docDefinition['content'];
 
@@ -503,6 +615,11 @@ $(document).ready(function() {
     e.preventDefault();
     console.log("Printing publications");
     generateResume('publist');
+  });
+  $('#download-bio').on('click', function(e) {
+    e.preventDefault();
+    console.log("Printing bio");
+    generateBio();
   });
 
 });

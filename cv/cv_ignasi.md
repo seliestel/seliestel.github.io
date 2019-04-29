@@ -6,7 +6,7 @@ description: CV
 permalink: /cv/
 ---
 
-{{ site.data.cv.bio.name }}
+<a id="download-bio" title="Download short bio" style="cursor: pointer">{{ site.data.cv.bio.name }}</a>
 =========================
 
 ----
