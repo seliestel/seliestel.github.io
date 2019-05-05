@@ -86,6 +86,11 @@ education:
 
 affiliations:
   - position: Member
+    organization: Dialogue, Empathetic Engagement and Peacebuilding (DEEP) - Mekong
+    link: https://globaldeepnetwork.org/
+    details: 
+    time: Since 2018
+  - position: Member
     organization: Human Rights and Sustainability in the Mekong Region (HUSUME) 
     link: https://husume.center
     details: 
@@ -95,7 +100,6 @@ affiliations:
     link: https://aseanasle.wordpress.com
     details: 
     time: Since 2018  
-
   - position: Affiliated Researcher
     organization: Regional Center for Social Science and Sustainable Development (RCSD) 
     link: http://rcsd.soc.cmu.ac.th
@@ -602,7 +606,7 @@ conferences:
     year: 2019
     status: To be organised
 
-  - title: "Golden triangle: a material semiotic geography"
+  - title: "Golden triangle: the emergence of a liminal space in the upper Mekong river"
     type: Paper
     authors: Ribó, Ignasi
     event: "3rd ASLE-ASEAN Ecocritical Workshop"
@@ -881,12 +885,19 @@ books:
     reviews:
 
 grants:
-  - project: A Dialogical Study of Human-Elephant Communicative Interaction in Ban Ruammit (Chiang Rai, Thailand)
-    dates: 2017 - 2018
+  - project: A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)
+    dates: Oct 2017 - Oct 2018
     number: 611A10017
     funder: Mae Fah Luang University
     link:
     amount: 100,000 THB
+    status: Completed
+  - project: A hermeneutical study of conflicting interpretations of the Asian elephants in the Karen village of Ban Ruammit
+    dates: May 2016 - May 2017
+    number: 
+    funder: Regional Center for Social Science and Sustainable Development (RCSD)
+    link:
+    amount: 0
     status: Completed
 
 awards:
