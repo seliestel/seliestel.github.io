@@ -115,7 +115,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link:
-    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Critical and Analytical Skills, Creative Writing (Nature and Environmental Writing), Academic Writing'
+    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -954,10 +954,19 @@ languages:
 
 various:
   - item: Diploma Teacher of English as a Foreign Language, SEE TEFL, Chiang Mai, 2016. 120-hour certification course.
-  - item: Postgraduate Certificate in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology.
+  - item: Postgraduate Certificate in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology. 30 credits.
   - item: Diploma in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
   - item: Diploma Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
+
+preparing:
+  - project: A material-semiotic study of inhabitation narratives in Lahu and Karen villages of Chiang Rai province (Thailand)
+    dates: October 2018 - October 2019
+    number: 
+    funder: Mae Fah Luang University
+    link:
+    amount: 135,000 THB
+    status: Submitted proposal
