@@ -470,13 +470,13 @@ academic_articles:
 
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
     authors: Ribó, Ignasi; Calzolari, Fabio
-    journal: "TRaNS: Trans-Regional and -National Studies of Southeast Asia"
+    journal: "Journal of Population and Social Studies"
     collection: 
     editors: 
     publisher: 
     place: 
     year: Under review
-    submitted: 18 April 2019 
+    submitted: 25 April 2019 
     accepted: 
     online:
     volume: 
@@ -584,6 +584,17 @@ other_articles:
 
 conferences:
 
+  - title: "A Dialogue on China’s Upper Mekong Navigation Improvement Project"
+    type: Symposium
+    authors: Ribó, Ignasi
+    event: Academic event
+    topic: 
+    venue: Mae Fah Luang University
+    place: Chiang Rai, Thailand
+    month: May
+    year: 2020
+    status: To be organised
+
   - title: "Posthuman political ecology: actors, networks, systems"
     type:  Paper
     authors: Ribó, Ignasi
@@ -626,7 +637,7 @@ conferences:
     place: Nakhon Phanom, Thailand
     month: May
     year: 2019
-    status: To be presented
+    status: Presented
 
   - title: Exploring new models of interspecific communication
     type: Invited lecture
@@ -660,7 +671,7 @@ conferences:
     month: June 
     year: 2011
     status: Presented
-
+    
   - title: 'Attentiveness: a case of primate semiosis'
     type: Paper
     authors: Ribó, Ignasi
