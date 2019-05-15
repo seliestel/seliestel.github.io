@@ -1,4 +1,4 @@
-updated: 24 April 2019
+updated: 14 May 2019
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -85,6 +85,11 @@ education:
           Specialisation: Global Banking and Capital Markets.
 
 affiliations:
+  - position: Member
+    organization: China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID)
+    link: http://social-innovation.mfu.ac.th/arcid.php
+    details: 
+    time: Since 2019
   - position: Member
     organization: Dialogue, Empathetic Engagement and Peacebuilding (DEEP) - Mekong
     link: https://globaldeepnetwork.org/
