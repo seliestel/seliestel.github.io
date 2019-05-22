@@ -513,6 +513,26 @@ academic_articles:
     link: 
     reviews:
 
+  - title: "Golden Triangle: A Material-Semiotic Geography"
+    authors: Ribó, Ignasi
+    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: Under review
+    submitted: 20 May 2019
+    accepted:  
+    online:
+    volume:
+    number:
+    pages:
+    abstract:
+    doi: 
+    gsid:
+    link:
+    reviews:
+
 other_articles:
 
   - title: "Bitagora: a decentralized voting platform built on Hyperledger Sawtooth"
