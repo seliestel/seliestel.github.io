@@ -225,15 +225,15 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: In press
+    year: 2019
     submitted: 10 January 2018
     accepted: 18 March 2018 
-    online:
+    online: 6 July 2019
     volume:
     number:
     pages:
     abstract:
-    doi: 
+    doi: "10.1515/sem-2018-0003"
     gsid:
     link:
     reviews:
@@ -253,7 +253,7 @@ academic_articles:
     number:
     pages:
     abstract:
-    doi: 10.1007/s12304-019-09354-y
+    doi: "10.1007/s12304-019-09354-y"
     gsid:
     reviews:
 
@@ -270,7 +270,7 @@ academic_articles:
     online:
     volume: "7"
     number: "2"
-    pages: 1-16
+    pages: "1-16"
     abstract:
     doi: 
     gsid:
@@ -515,13 +515,13 @@ academic_articles:
 
   - title: "Golden triangle: a material-semiotic geography"
     authors: Ribó, Ignasi
-    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
+    journal: "Social Semiotics"
     collection: 
     editors: 
     publisher: 
     place: 
     year: Under review
-    submitted: 20 May 2019
+    submitted: 2 July 2019
     accepted:  
     online:
     volume:
@@ -618,6 +618,7 @@ conferences:
     place: Chiang Rai, Thailand
     month: May
     year: 2020
+    link:
     status: To be organised
 
   - title: "Posthuman political ecology: actors, networks, systems"
@@ -629,6 +630,7 @@ conferences:
     place: Chiang Rai, Thailand
     month: November
     year: 2019
+    link:
     status: To be presented
 
   - title: "Dialogue for ecological regeneration: engaging with environmental knowledge in the north of Thailand"
@@ -640,6 +642,7 @@ conferences:
     place: Chiang Rai, Thailand
     month: October
     year: 2019
+    link:
     status: To be organised
 
   - title: "Golden triangle: the emergence of a liminal space in the upper Mekong river"
@@ -651,7 +654,8 @@ conferences:
     place: Manila, Philippines
     month: June
     year: 2019
-    status: To be presented
+    link:
+    status: Presented
 
   - title: "A review of recent studies of environmental cultures in the upper Mekong basin"
     type: Paper
@@ -662,6 +666,7 @@ conferences:
     place: Nakhon Phanom, Thailand
     month: May
     year: 2019
+    link:
     status: Presented
 
   - title: Exploring new models of interspecific communication
@@ -673,6 +678,7 @@ conferences:
     place: Nijmegen, Netherlands
     month: October
     year: 2017
+    link:
     status: Delivered
 
   - title: Understanding the relationship of humans and elephants in Thailand from a cultural perspective
@@ -684,6 +690,7 @@ conferences:
     place: Chiang Rai, Thailand
     month: February
     year: 2017
+    link:
     status: Presented
 
   - title: 'Worlds and words: of bats, ticks, and apes'
@@ -695,6 +702,7 @@ conferences:
     place: Galway, Ireland
     month: June 
     year: 2011
+    link:
     status: Presented
     
   - title: 'Attentiveness: a case of primate semiosis'
@@ -706,6 +714,7 @@ conferences:
     place: Tartu, Estonia
     month: April
     year: 2011
+    link:
     status: Presented
 
   - title: El repte de l'eficiència en la gestió d'una ONG
@@ -717,6 +726,7 @@ conferences:
     place: Bellaterra, Catalonia, Spain
     month: February 
     year: 2011
+    link:
     status: Delivered
 
   - title: The novel as tragic form
@@ -728,6 +738,7 @@ conferences:
     place: Falmer, United Kingdom
     month: April 
     year: 2007
+    link:
     status: Presented
 
   - title: "The papers of Salamanca: war, closure, and re-enactment"
@@ -739,6 +750,7 @@ conferences:
     place: London, United Kingdom
     month: February
     year: 2007
+    link: http://www.ignasiribo.com/texts/the_papers_of_salamanca.html
     status: Presented
 
   - title: "Ejercicio de simulación empresarial: desarrollo de competencias genéricas en un entorno virtual"
@@ -750,6 +762,7 @@ conferences:
     place: Barcelona, Catalonia, Spain
     month: June
     year: 2006
+    link:
     status: Presented
 
 books:
