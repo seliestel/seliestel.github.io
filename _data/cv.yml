@@ -229,8 +229,8 @@ academic_articles:
     submitted: 10 January 2018
     accepted: 18 March 2018 
     online: 20 July 2019
-    volume:
-    number:
+    volume: 12
+    number: 2
     pages:
     abstract:
     doi: "10.1515/sem-2018-0003"
@@ -766,13 +766,25 @@ conferences:
     status: Presented
 
 books:
-  - title: "Short Stories and Novels: An Introduction to the Semiotics of Narrative"
+  - title: "Worlds and Words: Literature beyond the Human"
+    type: Essay
+    language: English
+    authors: Ribó, Ignasi
+    publisher: Peter Lang Publishing
+    place: New York, NY
+    year: Forthcoming
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+  - title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
     type: Textbook
     language: English
     authors: Ribó, Ignasi
-    publisher: Unpublished
-    place: Mae Fah Luang University, Chiang Rai
-    year: 2017
+    publisher: Open Book Publishers
+    place: Cambridge
+    year: Forthcoming
     pages: 
     abstract:
     isbn: 
