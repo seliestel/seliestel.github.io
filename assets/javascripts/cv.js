@@ -145,7 +145,7 @@ $(document).ready(function() {
 
     var pageTitle = '';
     var docTitle = '';
-    if (toPrint == 'cv') {
+    if (toPrint == 'cv' || toPrint == 'no-publist') {
     	pageTitle = 'Curriculum Vitae';
     	docTitle = 'CV - Ignasi Ribo.pdf';
     } else if (toPrint == 'publist') {
