@@ -948,11 +948,11 @@ books:
 grants:
   - project: "A material-semiotic study of inhabitation narratives in Karen and Lahu villages in Chiang Rai, Thailand"
     dates: Oct 2019 - Oct 2020
-    number: 
+    number: 631B10008
     funder: Mae Fah Luang University
     link:
     amount: 200,000 THB
-    status: Under review
+    status: Approved
   - project: A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)
     dates: Oct 2017 - Oct 2018
     number: 611A10017
@@ -966,7 +966,7 @@ grants:
     funder: Regional Center for Social Science and Sustainable Development (RCSD)
     link:
     amount: 
-    status: Completed project
+    status: Completed
 
 awards:
   - award: "Prize Joan Santamaria"
