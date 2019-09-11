@@ -157,3 +157,5 @@ Other Skills and Diplomas
 > Address: {{ site.data.cv.bio.current_address }}
 
 > Phone: {{ site.data.cv.bio.phone }}
+
+<a id="download-without-publist" title="Download without publications" style="cursor: pointer">Download without publications</a>

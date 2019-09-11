@@ -261,7 +261,7 @@ $(document).ready(function() {
       });
     };
 
-    if (toPrint == 'cv') {
+    if (toPrint == 'cv' || toPrint =='no-publist') {
 		 // Header
     	 content.push({ text: 'Curriculum Vitae', style: 'curriculum'});
        content.push({ text: resumeContent['bio']['name'], style: 'name'});
@@ -368,7 +368,9 @@ $(document).ready(function() {
               ], unbreakable: true 
             })
       }); 
-      content.push(sectionHeading('Publications'));
+      if (toPrint != 'no-publist') {
+        content.push(sectionHeading('Publications'));
+      }
 
     } else if (toPrint == 'publist') {
 		 // Header
@@ -376,129 +378,131 @@ $(document).ready(function() {
        content.push({ text: resumeContent['bio']['name'], style: 'name', alignment: 'left', margin: [0, 0, 0, 20]});
     }
 
-    // Publications
-    content.push(sectionSubheading('Peer-reviewed journal articles and book chapters'));
-    $.each(resumeContent['academic_articles'], function(i, item) {
-      var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
-      if (item['journal'] != undefined && item['journal'].length > 0) {
-        var volume = '';
-        if (item['volume'] != undefined && item['volume'].length > 0) volume = volume + item['volume'];
-        if (item['number'] != undefined && item['number'].length > 0) volume = volume + '(' + item['number'] + ')';
-        if (item['pages'] != undefined && item['pages'].length > 0) volume = volume + ': ' + item['pages'];
-        if (volume != undefined && volume.length > 0) {
-          volume = ' ' + volume + '.';
-        } else {
-          volume = volume + '.';
+    if (toPrint != 'no-publist') {
+      // Publications
+      content.push(sectionSubheading('Peer-reviewed journal articles and book chapters'));
+      $.each(resumeContent['academic_articles'], function(i, item) {
+        var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
+        if (item['journal'] != undefined && item['journal'].length > 0) {
+          var volume = '';
+          if (item['volume'] != undefined && item['volume'].length > 0) volume = volume + item['volume'];
+          if (item['number'] != undefined && item['number'].length > 0) volume = volume + '(' + item['number'] + ')';
+          if (item['pages'] != undefined && item['pages'].length > 0) volume = volume + ': ' + item['pages'];
+          if (volume != undefined && volume.length > 0) {
+            volume = ' ' + volume + '.';
+          } else {
+            volume = volume + '.';
+          }
+          var link = '';
+         if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
+          if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
+            link = link + ' Available at ' + item['link'] + '.';
+          }
+         var additional = '';
+          if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
+          if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
+          if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
+          content.push({
+            stack: [
+              { text:
+                 [ 
+                   basic_ref, { text: item['journal'], italics: true }, 
+                   volume,
+                   link,
+                   additional
+                 ],
+                style: 'bibliography' 
+               }
+             ], unbreakable: true
+          });
+        } else if (item['collection'] != undefined && item['collection'].length > 0) {
+          var editors = '';
+          if (item['editors'] != undefined && item['editors'].length > 0) editors = editors + ' In ' + item['editors'] + ', ';
+          var pages = '';
+          if (item['pages'] != undefined && item['pages'].length > 0) pages = pages + ' (pp. ' + item['pages'] + ').';
+          var publisher = ' ';
+          if (item['place'] != undefined && item['place'].length > 0) publisher = publisher + item['place'] + ': ';
+          if (item['publisher'] != undefined && item['publisher'].length > 0) publisher = publisher + item['publisher'] + '.';        
+          var link = '';
+          if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
+          var additional = '';
+          if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
+          if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
+          if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
+          content.push({
+            stack: [
+               { text:
+                 [ 
+                   basic_ref, editors, { text: item['collection'], italics: true }, 
+                   pages,
+                   publisher,
+                   link
+                 ],
+                 style: 'bibliography' } 
+             ], unbreakable: true
+          });
         }
-        var link = '';
-        if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
-        if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
-          link = link + ' Available at ' + item['link'] + '.';
-        }
-        var additional = '';
-        if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
-        if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
-        if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
-        content.push({
-          stack: [
-             { text:
-               [ 
-                 basic_ref, { text: item['journal'], italics: true }, 
-                 volume,
-                 link,
-                 additional
-               ],
-               style: 'bibliography' 
-             }
-           ], unbreakable: true
-         });
-      } else if (item['collection'] != undefined && item['collection'].length > 0) {
-        var editors = '';
-        if (item['editors'] != undefined && item['editors'].length > 0) editors = editors + ' In ' + item['editors'] + ', ';
-        var pages = '';
-        if (item['pages'] != undefined && item['pages'].length > 0) pages = pages + ' (pp. ' + item['pages'] + ').';
-        var publisher = ' ';
-        if (item['place'] != undefined && item['place'].length > 0) publisher = publisher + item['place'] + ': ';
-        if (item['publisher'] != undefined && item['publisher'].length > 0) publisher = publisher + item['publisher'] + '.';        
+      });
+
+      content.push(sectionSubheading('Other articles'));
+      $.each(resumeContent['other_articles'], function(i, item) {
+        var basic_ref = item['authors'] + '. ' + item['date'] + '. ' + item['title'] + '. ' + item['publisher'];
         var link = '';
         if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
-        var additional = '';
-        if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
-        if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
-        if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
         content.push({
           stack: [
              { text:
-               [ 
-                 basic_ref, editors, { text: item['collection'], italics: true }, 
-                 pages,
-                 publisher,
-                 link
-               ],
-               style: 'bibliography' } 
-           ], unbreakable: true
+              [ 
+                basic_ref, 
+                link
+              ],
+              style: 'bibliography' }
+             ], unbreakable: true
         });
-      }
-    });
-
-    content.push(sectionSubheading('Other articles'));
-    $.each(resumeContent['other_articles'], function(i, item) {
-      var basic_ref = item['authors'] + '. ' + item['date'] + '. ' + item['title'] + '. ' + item['publisher'];
-      var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
-      content.push({
-        stack: [
-           { text:
-             [ 
-               basic_ref, 
-               link
-             ],
-             style: 'bibliography' }
-           ], unbreakable: true
       });
-    });
 
-    // Books
-    content.push(sectionSubheading('Books'));
-    $.each(resumeContent['books'], function(i, item) {
-      var isbn = '';
-      if (item['isbn'] != undefined && item['isbn'].length > 0) isbn = isbn + 'ISBN: ' + item['isbn'] + '. ';
-      var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
-      content.push({
-        stack: [
-           { text:
-             [ 
-               item['authors'], '. ', item['year'], '. ', { text: item['title'], italics: true }, '. ', 
-               item['place'], ': ', item['publisher'], '. ', isbn, link, item['type'], '.'
-             ],
-             style: 'bibliography' }
-           ], unbreakable: true            
-         });
-    });
+      // Books
+      content.push(sectionSubheading('Books'));
+      $.each(resumeContent['books'], function(i, item) {
+        var isbn = '';
+        if (item['isbn'] != undefined && item['isbn'].length > 0) isbn = isbn + 'ISBN: ' + item['isbn'] + '. ';
+        var link = '';
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+        content.push({
+          stack: [
+            { text:
+               [ 
+                 item['authors'], '. ', item['year'], '. ', { text: item['title'], italics: true }, '. ', 
+                 item['place'], ': ', item['publisher'], '. ', isbn, link, item['type'], '.'
+              ],
+               style: 'bibliography' }
+             ], unbreakable: true            
+           });
+      });
 
-    // Conferences
-    content.push(sectionSubheading('Conferences'));
-    $.each(resumeContent['conferences'], function(i, item) {
-    	var topic = '. ';
-    	if (item['topic'] != undefined && item['topic'].length > 0) topic = ", " + item['topic'] + '. ';
-      var present = '';
-      if (item['status'] != undefined && item['status'].length > 0) present = present + item['status'] + ' at ' + item['venue'] + ', ' + item['place'] + '. ';
-      var link = '';
-      if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
-      content.push({
-        stack: [
-           { text:
-             [ 
-               item['authors'], '. ', item['month'], ' ', item['year'], '. ', item['title'], '. ',
-               item['event'], { text: topic, italics: true }, item['type'], '. ', present, link
-             ],
-             style: 'bibliography' }
-           ], unbreakable: true    
-         });
-    });
+      // Conferences
+      content.push(sectionSubheading('Conferences'));
+      $.each(resumeContent['conferences'], function(i, item) {
+        var topic = '. ';
+    	  if (item['topic'] != undefined && item['topic'].length > 0) topic = ", " + item['topic'] + '. ';
+        var present = '';
+        if (item['status'] != undefined && item['status'].length > 0) present = present + item['status'] + ' at ' + item['venue'] + ', ' + item['place'] + '. ';
+        var link = '';
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '. ';
+        content.push({
+         stack: [
+             { text:
+               [ 
+                 item['authors'], '. ', item['month'], ' ', item['year'], '. ', item['title'], '. ',
+                 item['event'], { text: topic, italics: true }, item['type'], '. ', present, link
+               ],
+               style: 'bibliography' }
+            ], unbreakable: true    
+          });
+      });
+    }
 
-    if (toPrint == 'cv') {
+    if (toPrint == 'cv' || toPrint == 'no-publist') {
 
       // Affiliations
       content.push(sectionHeading('Professional Affiliations and Services'));
@@ -615,6 +619,11 @@ $(document).ready(function() {
     e.preventDefault();
     console.log("Printing publications");
     generateResume('publist');
+  });
+  $('#download-without-publist').on('click', function(e) {
+    e.preventDefault();
+    console.log("Printing without publications");
+    generateResume('no-publist');
   });
   $('#download-bio').on('click', function(e) {
     e.preventDefault();
