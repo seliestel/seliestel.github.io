@@ -443,7 +443,7 @@ $(document).ready(function() {
           });
         }
       });
-/*
+
       content.push(sectionSubheading('Other articles'));
       $.each(resumeContent['other_articles'], function(i, item) {
         var basic_ref = item['authors'] + '. ' + item['date'] + '. ' + item['title'] + '. ' + item['publisher'];
@@ -460,7 +460,7 @@ $(document).ready(function() {
              ], unbreakable: true
         });
       });
-*/
+
       // Books
       content.push(sectionSubheading('Books'));
       $.each(resumeContent['books'], function(i, item) {
