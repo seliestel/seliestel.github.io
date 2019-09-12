@@ -248,9 +248,9 @@ academic_articles:
     year: 2019
     submitted:
     accepted: 
-    online: 20 April 2019
-    volume: 12
-    number: 2
+    online: 
+    volume: "12"
+    number: "2"
     pages:
     abstract:
     doi: "10.1007/s12304-019-09354-y"
