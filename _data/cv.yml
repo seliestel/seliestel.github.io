@@ -1,4 +1,4 @@
-updated: 11 September 2019
+updated: 10 October 2019
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -99,7 +99,7 @@ affiliations:
     organization: Human Rights and Sustainability in the Mekong Region (HUSUME) 
     link: https://husume.center
     details: 
-    time: Since 2018  
+    time: Since 2018
   - position: Member
     organization: Association for the Study of Literature and the Environment (ASLE/ASEAN) 
     link: https://aseanasle.wordpress.com
@@ -180,7 +180,7 @@ other_employment:
 
   - position: Assistant Trader
     organization: The Kyte Group Ltd.  
-    time: 1994
+    time: "1994"
     begin: July 1994
     end: August 1994
     place: London, United Kingdom
@@ -197,6 +197,26 @@ other_employment:
     details: Analysed equity investments and traded in money markets. Part-time.
 
 academic_articles:
+
+  - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
+    authors: Ribó, Ignasi; Calzolari, Fabio
+    journal: "Sojourn: Journal of Social Issues in Southeast Asia"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: In press
+    submitted: 5 May 2019 
+    accepted: 23 September 2019
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    reviews:
 
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
     authors: Ribó, Ignasi
@@ -225,12 +245,12 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2019
+    year: "2019"
     submitted: 10 January 2018
     accepted: 18 March 2018 
     online: 20 July 2019
-    volume: 12
-    number: 2
+    volume: 
+    number: 
     pages:
     abstract:
     doi: "10.1515/sem-2018-0003"
@@ -245,7 +265,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2019
+    year: "2019"
     submitted:
     accepted: 
     online: 
@@ -264,7 +284,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2018
+    year: "2018"
     submitted: 
     accepted: 
     online:
@@ -284,7 +304,7 @@ academic_articles:
     editors: John C. Ryan
     publisher: Lexington Books
     place: Lanham, MA
-    year: 2018
+    year: "2018"
     submitted: 
     accepted: 
     online:
@@ -298,7 +318,7 @@ academic_articles:
     reviews:
       - reviewers: Yeow, A. 
         journal: "SARE: Southeast Asian Review of English"
-        year: 2017 
+        year: "2017" 
         volume: "54"
         number: "2"
         pages: 27-30
@@ -312,7 +332,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2013
+    year: "2013"
     submitted: 
     accepted: 
     online:
@@ -332,7 +352,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2009
+    year: "2009"
     submitted: 
     accepted: 
     online:
@@ -346,7 +366,7 @@ academic_articles:
     reviews:
       - reviewers: Keown, D. 
         journal: "Journal of European Studies"
-        year: 2011
+        year: "2011"
         volume: "41"
         number: "2"
         pages: 182-183
@@ -360,7 +380,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2009
+    year: "2009"
     submitted: 
     accepted: 
     online:
@@ -380,7 +400,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2006
+    year: "2006"
     submitted: 
     accepted: 
     online:
@@ -400,7 +420,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2006
+    year: "2006"
     submitted: 
     accepted: 
     online:
@@ -420,7 +440,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2006
+    year: "2006"
     submitted: 
     accepted: 
     online:
@@ -440,7 +460,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2006
+    year: "2006"
     submitted: 
     accepted: 
     online:
@@ -460,7 +480,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: 2006
+    year: "2006"
     submitted: 
     accepted: 
     online:
@@ -471,26 +491,6 @@ academic_articles:
     doi: 
     gsid: 
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
-    reviews:
-
-  - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
-    authors: Ribó, Ignasi; Calzolari, Fabio
-    journal: "Sojourn: Journal of Social Issues in Southeast Asia"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: Under review
-    submitted: 5 May 2019 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: 
     reviews:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
@@ -515,13 +515,13 @@ academic_articles:
 
   - title: "Golden triangle: a material-semiotic geography"
     authors: Ribó, Ignasi
-    journal: "Social Semiotics"
+    journal: "Proceedings 3rd Ecocritical Workshop ASLE/ASEAN"
     collection: 
     editors: 
     publisher: 
     place: 
     year: Under review
-    submitted: 2 July 2019
+    submitted: 2 September 2019
     accepted:  
     online:
     volume:
@@ -616,8 +616,9 @@ conferences:
     topic: 
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
+    day: "15"
     month: May
-    year: 2020
+    year: "2020"
     link:
     status: To be organised
 
@@ -628,8 +629,9 @@ conferences:
     topic: "A New Global Network: What’s Next of “The Turns” in International Relations and Development"
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
+    day: 
     month: November
-    year: 2019
+    year: "2019"
     link:
     status: To be presented
 
@@ -640,10 +642,11 @@ conferences:
     topic: Sustainable Innovation for Health and Development
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
+    day: "9"
     month: October
-    year: 2019
-    link:
-    status: To be organised
+    year: "2019"
+    link: "http://stt45.mfu.ac.th/dialogue-for-ecological-regeneration-engaging-with-environmental-knowledge-in-the-north-of-thailand/"
+    status: Organised
 
   - title: "Golden triangle: the emergence of a liminal space in the upper Mekong river"
     type: Paper
@@ -652,8 +655,9 @@ conferences:
     topic: "The Litoral and the Liminal: Bonding ASEAN Together Through Literary Studies, Ecological Criticism and the Environmental Humanities"
     venue: University of the Philippines-Diliman 
     place: Manila, Philippines
+    day: 
     month: June
-    year: 2019
+    year: "2019"
     link:
     status: Presented
 
@@ -664,8 +668,9 @@ conferences:
     topic: Mekong River and Cultural Studies for Local Development
     venue: University of Nakhon Phanom 
     place: Nakhon Phanom, Thailand
+    day:
     month: May
-    year: 2019
+    year: "2019"
     link:
     status: Presented
 
@@ -676,8 +681,9 @@ conferences:
     topic: Neuroscience and Cognition
     venue: Radboud University
     place: Nijmegen, Netherlands
+    day: 
     month: October
-    year: 2017
+    year: "2017"
     link:
     status: Delivered
 
@@ -688,8 +694,9 @@ conferences:
     topic: Dynamics of Humanities and Social Sciences in Cross-Border Societies
     venue: Chiang Rai Rajabhat University
     place: Chiang Rai, Thailand
+    day: 
     month: February
-    year: 2017
+    year: "2017"
     link:
     status: Presented
 
@@ -700,8 +707,9 @@ conferences:
     topic: "From Ego to Eco: Imagining Ecocentrism in Literature, Film and Philosophy"
     venue: University of Galway
     place: Galway, Ireland
+    day: 
     month: June 
-    year: 2011
+    year: "2011"
     link:
     status: Presented
     
@@ -712,8 +720,9 @@ conferences:
     topic: Zoosemiotics and Animal Representations
     venue: University of Tartu
     place: Tartu, Estonia
+    day: 
     month: April
-    year: 2011
+    year: "2011"
     link:
     status: Presented
 
@@ -724,8 +733,9 @@ conferences:
     topic: 
     venue: Universitat Oberta de Catalunya
     place: Bellaterra, Catalonia, Spain
+    day:
     month: February 
-    year: 2011
+    year: "2011"
     link:
     status: Delivered
 
@@ -736,8 +746,9 @@ conferences:
     topic: "The Novel: Democracy’s Form?"
     venue: University of Sussex
     place: Falmer, United Kingdom
+    day: 
     month: April 
-    year: 2007
+    year: "2007"
     link:
     status: Presented
 
@@ -748,8 +759,9 @@ conferences:
     topic: "Archives: From Memory to Event"
     venue: University College of London
     place: London, United Kingdom
+    day: 
     month: February
-    year: 2007
+    year: "2007"
     link: http://www.ignasiribo.com/texts/the_papers_of_salamanca.html
     status: Presented
 
@@ -760,8 +772,9 @@ conferences:
     topic: Jornadas en Red sobre el Espacio Europeo de Educación Superior
     venue: Universitat Oberta de Catalunya
     place: Barcelona, Catalonia, Spain
+    day: 
     month: June
-    year: 2006
+    year: "2006"
     link:
     status: Presented
 
@@ -787,8 +800,8 @@ books:
     year: Forthcoming
     pages: 
     abstract:
-    isbn: 
-    link: 
+    isbn: "9781783748105"
+    link: "http://stt45.mfu.ac.th/dialogue-for-ecological-regeneration-engaging-with-environmental-knowledge-in-the-north-of-thailand/"
     reviews:
 
   - title: "Habitat: The Ecopolitical Nation"
@@ -797,7 +810,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Mycelia Books
     place: London
-    year: 2012
+    year: "2012"
     pages: 
     abstract:
     isbn: "9780957419100"
@@ -805,15 +818,15 @@ books:
     reviews:
       - reviewers: Menser, M.
         journal: "Environmental Philosophy"
-        year: 2011
-        volume: 10
-        number: 2
+        year: "2011"
+        volume: "10"
+        number: "2"
         pages: 182-183
         doi: 10.5840/envirophil201310223
         link: 
       - reviewers: Lancaster, G.
         journal: "Marx and Philosophy Review of Books"
-        year: 2015
+        year: "2015"
         volume: 
         number: 
         pages: 
@@ -821,9 +834,9 @@ books:
         link: https://marxandphilosophy.org.uk/reviews/7973_no-local-habitat-review-by-guy-lancaster/
       - reviewers: Kirby, P.
         journal: "Environmental Values"
-        year: 2015
-        volume: 24
-        number: 1
+        year: "2015"
+        volume: "24"
+        number: "1"
         pages: 132-133
         doi: 10.3197/096327115X14183182354024
         link:
@@ -834,7 +847,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Ediuoc
     place: Barcelona
-    year: 2011
+    year: "2011"
     pages: 
     abstract:
     isbn: "9788497883993"
@@ -847,7 +860,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Edhasa
     place: Barcelona
-    year: 2011
+    year: "2011"
     pages: 
     abstract:
     isbn: "9788435062190"
@@ -860,7 +873,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Bubok
     place: Madrid
-    year: 2011
+    year: "2011"
     pages: 
     abstract:
     isbn: "9788499811147"
@@ -873,7 +886,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Edhasa
     place: Barcelona
-    year: 2005
+    year: "2005"
     pages: 
     abstract:
     isbn: "9788435009539"
@@ -886,7 +899,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Edhasa
     place: Barcelona
-    year: 2002
+    year: "2002"
     pages: 
     abstract:
     isbn: "9788435008396"
@@ -899,7 +912,7 @@ books:
     authors: Ribó, Ignasi
     publisher: Empúries
     place: Barcelona
-    year: 2001
+    year: "2001"
     pages: 
     abstract:
     isbn: "9788475967738"
@@ -925,7 +938,7 @@ books:
     authors: "Tremain, Rose (trans. Ribó, Ignasi)"
     publisher: Edhasa
     place: Barcelona
-    year: 2005
+    year: "2005"
     pages: 
     abstract:
     isbn: "9788435060993"
@@ -938,7 +951,7 @@ books:
     authors: "Davidar, David (trans. Ribó, Ignasi)"
     publisher: Empúries
     place: Barcelona
-    year: 2003
+    year: "2003"
     pages: 
     abstract:
     isbn: "9788475961894"
@@ -972,7 +985,7 @@ awards:
   - award: "Prize Joan Santamaria"
     reason: "Clara de nit (theatre play)"
     type: Literary prize
-    date: 2000
+    date: "2000"
     funder: Fundació Joan Santamaria
     link:
     amount: 6,000 Euros
@@ -1018,12 +1031,3 @@ various:
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
-
-preparing:
-  - project: A material-semiotic study of inhabitation narratives in Lahu and Karen villages of Chiang Rai province (Thailand)
-    dates: October 2018 - October 2019
-    number: 
-    funder: Mae Fah Luang University
-    link:
-    amount: 135,000 THB
-    status: Submitted proposal
