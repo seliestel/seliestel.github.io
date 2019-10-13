@@ -612,7 +612,7 @@ conferences:
   - title: "A Dialogue on China’s Upper Mekong Navigation Improvement Project"
     type: Symposium
     authors: Ribó, Ignasi
-    event: Academic event
+    event: 
     topic: 
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
@@ -801,7 +801,7 @@ books:
     pages: 
     abstract:
     isbn: "9781783748105"
-    link: "http://stt45.mfu.ac.th/dialogue-for-ecological-regeneration-engaging-with-environmental-knowledge-in-the-north-of-thailand/"
+    link: "https://www.openbookpublishers.com/product/1087"
     reviews:
 
   - title: "Habitat: The Ecopolitical Nation"
