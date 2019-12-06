@@ -495,7 +495,7 @@ academic_articles:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
     authors: Ribó, Ignasi
-    journal: "Humanities Diliman"
+    journal: "The Drama Review"
     collection: 
     editors: 
     publisher: 
@@ -515,13 +515,33 @@ academic_articles:
 
   - title: "Golden triangle: a material-semiotic geography"
     authors: Ribó, Ignasi
-    journal: "Proceedings 3rd Ecocritical Workshop ASLE/ASEAN"
+    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
     collection: 
     editors: 
     publisher: 
     place: 
     year: Under review
-    submitted: 2 September 2019
+    submitted: 2 June 2019
+    accepted:  
+    online:
+    volume:
+    number:
+    pages:
+    abstract:
+    doi: 
+    gsid:
+    link:
+    reviews:
+
+  - title: "Posthuman political ecology: actors, networks, systems"
+    authors: Ribó, Ignasi
+    journal: "Proceedings 6th International Conference on International Relations and Development (ICIRD)"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: Under review
+    submitted: 26 November 2019
     accepted:  
     online:
     volume:
@@ -629,11 +649,11 @@ conferences:
     topic: "A New Global Network: What’s Next of “The Turns” in International Relations and Development"
     venue: Mae Fah Luang University
     place: Chiang Rai, Thailand
-    day: 
+    day: "22"
     month: November
     year: "2019"
     link:
-    status: To be presented
+    status: Presented
 
   - title: "Dialogue for ecological regeneration: engaging with environmental knowledge in the north of Thailand"
     type: Seminar (conference and panel discussion)
@@ -796,7 +816,7 @@ books:
     language: English
     authors: Ribó, Ignasi
     publisher: Open Book Publishers
-    place: Cambridge
+    place: Cambridge, UK
     year: Forthcoming
     pages: 
     abstract:
