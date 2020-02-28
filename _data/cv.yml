@@ -205,15 +205,15 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: In press
+    year: "2020"
     submitted: 5 May 2019 
     accepted: 23 September 2019
     online:
-    volume: 
-    number: 
-    pages: 
+    volume: "35"
+    number: "1"
+    pages: "65–107"
     abstract:
-    doi: 
+    doi: "10.1355/sj35-1c"
     gsid: 
     link: 
     reviews:
@@ -340,7 +340,7 @@ academic_articles:
     number: "2"
     pages: 97-112
     abstract:
-    doi: 10.5840/envirophil201310216
+    doi: "10.5840/envirophil201310216"
     gsid: 
     link: "https://philpapers.org/rec/RIBWAW-2"
     reviews:
@@ -358,7 +358,7 @@ academic_articles:
     online:
     volume: "4"
     number: 
-    pages: 6-23
+    pages: "6-23"
     abstract:
     doi: 
     gsid: 
@@ -386,9 +386,9 @@ academic_articles:
     online:
     volume: "64"
     number: "3"
-    pages: 222-262
+    pages: "222-262"
     abstract:
-    doi: 10.1111/j.1600-0730.2009.00957.x
+    doi: "10.1111/j.1600-0730.2009.00957.x"
     gsid: 
     link:
     reviews:
@@ -404,9 +404,9 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 33-34
+    volume: "33-34"
     number: 
-    pages: 11-20
+    pages: "11-20"
     abstract:
     doi: 
     gsid: 
@@ -426,7 +426,7 @@ academic_articles:
     online:
     volume: "22"
     number: 
-    pages: 9-26
+    pages: "9-26"
     abstract:
     doi: 
     gsid: 
@@ -446,7 +446,7 @@ academic_articles:
     online:
     volume: "80"
     number: 
-    pages: 49-65
+    pages: "49-65"
     abstract:
     doi: 
     gsid: 
