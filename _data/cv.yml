@@ -11,7 +11,8 @@ bio:
   work_email: ignasi.rib@mfu.ac.th
   personal_email: iribolabastida@gmail.com
   website: https://www.ignasiribo.com
-  orcid: "0000-0001-7821-316X" 
+  orcid: "0000-0001-7821-316X"
+  wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
   academic_short: "Ignasi Ribó (PhD, University of Sussex) is a lecturer at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Cultural Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published several books of fiction and a number of academic essays."
@@ -111,6 +112,249 @@ affiliations:
     details: 
     time: 2016 - 2017
 
+teaching:
+  - course: Poetry
+    institution: Mae Fah Luang University
+    major: Bachelor in English 
+    begin_month: January
+    begin_year: "2020"
+    end_month: June
+    end_year: "2020"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Critical and Analytical Skills
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+
+  - course: Short Stories and Novels
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Short Stories and Novels
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2017"
+    end_month: December
+    end_year: "2017"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Foundations and Analysis of Literary Works
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2018"
+    end_month: June
+    end_year: "2018"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Foundations and Analysis of Literary Works
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2019"
+    end_month: June
+    end_year: "2019"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2017"
+    end_month: June
+    end_year: "2017"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2018"
+    end_month: June
+    end_year: "2018"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2018"
+    end_month: December
+    end_year: "2018"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2019"
+    end_month: June
+    end_year: "2019"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English 
+    begin_month: January 
+    begin_year: "2020"
+    end_month: June
+    end_year: "2020"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2017"
+    end_month: June
+    end_year: "2017"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2018"
+    end_month: December
+    end_year: "2018"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2019"
+    end_month: December
+    end_year: "2019"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Dirección Estratégica
+    institution: Universitat Oberta de Catalunya
+    major: Administració i Direcció d'Empreses
+    begin_month: January
+    begin_year: "2001"
+    end_month: 
+    end_year: 
+    semester: 
+    description:
+    credits: 
+  - course: Teoria literària
+    institution: Universitat Oberta de Catalunya
+    major: Filologia Catalana
+    begin_month: January
+    begin_year: "2009"
+    end_month: June
+    end_year: "2018"
+    semester: 
+    description:
+    credits: 
+  - course: Treball Final de Master
+    institution: Universitat Oberta de Catalunya
+    major: Màster Universitari en Direcció d’organitzacions economia del coneixement
+    begin_month: January
+    begin_year: "2013"
+    end_month: June
+    end_year: "2015"
+    semester: 
+    description:
+    credits: 
+  - course: English for Academic Purposes
+    institution: Mae Fah Luang University
+    major: Bachelor in English 
+    begin_month: August
+    begin_year: "2019"
+    end_month: December
+    end_year: "2019"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: August
+    begin_year: "2017"
+    end_month: December
+    end_year: "2017"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Upper Intensive English
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: June
+    begin_year: "2016"
+    end_month: August
+    end_year: "2016"
+    semester: "3"
+    description:
+    credits: "3"
+  - course: Upper Intensive English
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: June
+    begin_year: "2017"
+    end_month: August
+    end_year: "2017"
+    semester: "3"
+    description:
+    credits: "3"
+  - course: Senior Project
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2020"
+    end_month: June
+    end_year: "2020"
+    semester: "2"
+    description:
+    credits: 
+
+mentoring:
+  - task: Advisor MFU Literary Magazine
+    institution: Mae Fah Luang University
+    begin_month: January
+    begin_year: "2017"
+    end_month: 
+    end_year:
+
+
+
 academic_employment:
   - position: Lecturer
     university: Mae Fah Luang University
@@ -120,7 +364,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link:
-    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
+    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -495,7 +739,7 @@ academic_articles:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
     authors: Ribó, Ignasi
-    journal: "The Drama Review"
+    journal: "Comparative Drama"
     collection: 
     editors: 
     publisher: 
@@ -538,9 +782,9 @@ academic_articles:
     journal: "Proceedings 6th International Conference on International Relations and Development (ICIRD)"
     collection: 
     editors: 
-    publisher: 
+    publisher: Mae Fah Luang University
     place: 
-    year: Under review
+    year: In press
     submitted: 26 November 2019
     accepted:  
     online:
