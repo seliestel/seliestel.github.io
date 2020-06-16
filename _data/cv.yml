@@ -442,6 +442,26 @@ other_employment:
 
 academic_articles:
 
+  - title: "Poetics of Cohabitation: An Ecosemiotic Theory of Oral Poiesis"
+    authors: Ribó, Ignasi
+    journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "In preparation"
+    submitted:  
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    reviews:
+
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
     authors: Ribó, Ignasi; Calzolari, Fabio
     journal: "Sojourn: Journal of Social Issues in Southeast Asia"
@@ -783,18 +803,18 @@ academic_articles:
     collection: 
     editors: 
     publisher: Mae Fah Luang University
-    place: 
-    year: In press
+    place: "Chiang Rai"
+    year: "2020"
     submitted: 26 November 2019
     accepted:  
-    online:
+    online: 17 June 2020
     volume:
     number:
     pages:
     abstract:
     doi: 
     gsid:
-    link:
+    link: "https://www.icird2019.com/uploads/paper-5ee1b04712336-17 Full paper - Ignasi_compressed.pdf"
     reviews:
 
 other_articles:
@@ -872,19 +892,6 @@ other_articles:
     link:
 
 conferences:
-
-  - title: "A Dialogue on China’s Upper Mekong Navigation Improvement Project"
-    type: Symposium
-    authors: Ribó, Ignasi
-    event: 
-    topic: 
-    venue: Mae Fah Luang University
-    place: Chiang Rai, Thailand
-    day: "15"
-    month: May
-    year: "2020"
-    link:
-    status: To be organised
 
   - title: "Posthuman political ecology: actors, networks, systems"
     type:  Paper
@@ -1294,5 +1301,5 @@ various:
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
   - item: Diploma Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
-  - item: Advanced programming skills in C, Ruby and Javascript. Knowledge of PHP, Python and Solidity.
+  - item: Advanced programming skills in C, Ruby, Python and Javascript. Knowledge of PHP and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
