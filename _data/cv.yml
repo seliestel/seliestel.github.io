@@ -442,9 +442,9 @@ other_employment:
 
 academic_articles:
 
-  - title: "Poetics of Cohabitation: An Ecosemiotic Theory of Oral Poiesis"
-    authors: Ribó, Ignasi
-    journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
+  - title: "'Kauv kwai kauv kwai': ecopoetic symbolization in three Pgaz K’Nyau oral poems (hta)"
+    authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
+    journal: "Journal of Folklore Research"
     collection: 
     editors: 
     publisher: 
@@ -460,6 +460,90 @@ academic_articles:
     doi: 
     gsid: 
     link: 
+    isbn: 
+    reviews:
+
+  - title: "Poetics of cohabitation: steps to an ecosemiotic theory of oral poiesis"
+    authors: Ribó, Ignasi
+    journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "Under review"
+    submitted: "25 June 2020"  
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    reviews:
+
+  - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
+    authors: Ribó, Ignasi
+    journal: "Comparative Drama"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: Under review
+    submitted: 23 March 2019
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn:
+    reviews:
+
+  - title: "Golden triangle: a material-semiotic geography"
+    authors: Ribó, Ignasi
+    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: Under review
+    submitted: 2 June 2019
+    accepted:  
+    online:
+    volume:
+    number:
+    pages:
+    abstract:
+    doi: 
+    gsid:
+    link:
+    isbn:
+    reviews:
+
+  - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
+    authors: Ribó, Ignasi
+    journal: Journal of Modern Literature
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: In press
+    submitted: 6 January 2019
+    accepted: 7 March 2019 
+    online:
+    volume:
+    number:
+    pages:
+    abstract:
+    doi: 
+    gsid:
+    link:
     isbn: 
     reviews:
 
@@ -502,27 +586,6 @@ academic_articles:
     doi: "10.1355/sj35-1c"
     gsid: 
     link: 
-    isbn: 
-    reviews:
-
-  - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
-    authors: Ribó, Ignasi
-    journal: Journal of Modern Literature
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: In press
-    submitted: 6 January 2019
-    accepted: 7 March 2019 
-    online:
-    volume:
-    number:
-    pages:
-    abstract:
-    doi: 
-    gsid:
-    link:
     isbn: 
     reviews:
   
@@ -791,48 +854,6 @@ academic_articles:
     doi: 
     gsid: 
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
-    isbn:
-    reviews:
-
-  - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
-    authors: Ribó, Ignasi
-    journal: "Comparative Drama"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: Under review
-    submitted: 23 March 2019
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: 
-    isbn:
-    reviews:
-
-  - title: "Golden triangle: a material-semiotic geography"
-    authors: Ribó, Ignasi
-    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: Under review
-    submitted: 2 June 2019
-    accepted:  
-    online:
-    volume:
-    number:
-    pages:
-    abstract:
-    doi: 
-    gsid:
-    link:
     isbn:
     reviews:
 
