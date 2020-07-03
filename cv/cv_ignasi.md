@@ -62,7 +62,7 @@ Other Employment
 __*Peer-reviewed academic articles*__
 
 {% for item in site.data.cv.academic_articles %}
-  {% if item.year != 'Under review' %}
+  {% if item.year != 'Under review' and item.year != 'In preparation' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.online %} Online: {{ item.online }}.{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% elsif item.collection %}
@@ -96,7 +96,7 @@ __*Other books*__
 __*Manuscripts*__
 
 {% for item in site.data.cv.academic_articles %}
-  {% if item.year == 'Under review' %}
+  {% if item.year == 'Under review' or item.year == 'In preparation' %}
   {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% elsif item.collection %}
