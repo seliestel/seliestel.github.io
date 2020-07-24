@@ -106,7 +106,6 @@ $(document).ready(function() {
     };
 
 
-
     var content = docDefinition['content'];
 
     var sectionHeading = function(text, options) {

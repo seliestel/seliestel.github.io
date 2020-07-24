@@ -15,7 +15,7 @@ bio:
   wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
-  academic_short: "Ignasi Ribó (PhD, University of Sussex) is a lecturer at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Cultural Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published several books of fiction and a number of academic essays."
+  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Assistant Professor in Literary Studies at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Cultural Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published several books of fiction and a number of academic essays."
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
@@ -113,6 +113,26 @@ affiliations:
     time: 2016 - 2017
 
 teaching:
+  - course: Cross-Cultural Communication
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2020"
+    end_month: January
+    end_year: "2021"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2020"
+    end_month: January
+    end_year: "2021"
+    semester: "1"
+    description:
+    credits: "3"
   - course: Poetry
     institution: Mae Fah Luang University
     major: Bachelor in English 
@@ -133,7 +153,6 @@ teaching:
     semester: "1"
     description:
     credits: "3"
-
   - course: Short Stories and Novels
     institution: Mae Fah Luang University
     major: Bachelor in English
@@ -356,7 +375,7 @@ mentoring:
 
 
 academic_employment:
-  - position: Lecturer
+  - position: Assistant Professor
     university: Mae Fah Luang University
     department: School of Liberal Arts  
     time: Since 2016
@@ -442,9 +461,9 @@ other_employment:
 
 academic_articles:
 
-  - title: "'Kauv kwai kauv kwai': ecopoetic symbolization in three Pgaz K’Nyau oral poems (hta)"
+  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
-    journal: "Journal of Folklore Research"
+    journal: 
     collection: 
     editors: 
     publisher: 
@@ -463,7 +482,7 @@ academic_articles:
     isbn: 
     reviews:
 
-  - title: "Poetics of cohabitation: steps to an ecosemiotic theory of oral poiesis"
+  - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
     authors: Ribó, Ignasi
     journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
     collection: 
