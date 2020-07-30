@@ -605,6 +605,26 @@ $(document).ready(function() {
       $.each(resumeContent['various'], function(i, item) {
         content.push({ stack: [ { text: item['item'], style: 'full_text'} ], unbreakable: true });
       });
+
+      // Optional modules - References
+      content.push(sectionHeading('References'));
+
+      $.each(resumeContent['references'], function(i, item) {
+        if (item['active'] == "Yes") {
+          content.push({
+          stack: [
+            { text:
+               [ 
+                 item['title'], ' ', item['name'], '. ', item['position'], ', ', item['institution'], '. ',
+                 item['relation'], '. ', 
+                 'Contact: ', item['email'], '.'
+              ],
+               style: 'bibliography' }
+             ], unbreakable: true            
+           });
+        }
+      });
+  
     }
 
     return pdfMake.createPdf(docDefinition).download(docTitle);

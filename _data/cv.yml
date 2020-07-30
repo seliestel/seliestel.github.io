@@ -1,4 +1,4 @@
-updated: 28 April 2020
+updated: 27 July 2020
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -19,7 +19,7 @@ bio:
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
-interests: Environmental Humanities, Ecocriticism, Biosemiotics, Cultural and Political Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory.
+interests: Environmental Humanities, Ecocriticism, Literary Theory, Biosemiotics, Human Ecology, Environmental Philosophy, Sustainability Studies, Human-Animal Studies, Critical Theory.
 
 education:
     - degree: Doctor of Philosophy
@@ -143,16 +143,6 @@ teaching:
     semester: "2"
     description:
     credits: "3"
-  - course: Critical and Analytical Skills
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2016"
-    end_month: December
-    end_year: "2016"
-    semester: "1"
-    description:
-    credits: "3"
   - course: Short Stories and Novels
     institution: Mae Fah Luang University
     major: Bachelor in English
@@ -273,6 +263,16 @@ teaching:
     semester: "1"
     description:
     credits: "3"
+  - course: Critical and Analytical Skills
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
   - course: Dirección Estratégica
     institution: Universitat Oberta de Catalunya
     major: Administració i Direcció d'Empreses
@@ -375,7 +375,7 @@ mentoring:
 
 
 academic_employment:
-  - position: Assistant Professor
+  - position: Assistant Professor, Comparative Literature
     university: Mae Fah Luang University
     department: School of Liberal Arts  
     time: Since 2016
@@ -393,7 +393,7 @@ academic_employment:
     end: June 2016
     place: Barcelona, Spain
     link:
-    details: 'Courses taught: Literary and Critical Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.'
+    details: 'Courses taught: Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.'
 
 other_employment:
   - position: Consultant
@@ -468,7 +468,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Under review"
+    year: "Forthcoming"
     submitted:  
     accepted: 
     online:
@@ -574,9 +574,9 @@ academic_articles:
     publisher: Mae Fah Luang University
     place: "Chiang Rai"
     year: "2020"
-    submitted: 26 November 2019
+    submitted: 
     accepted:  
-    online: 17 June 2020
+    online: 
     volume:
     number:
     pages:
@@ -595,8 +595,8 @@ academic_articles:
     publisher: 
     place: 
     year: "2020"
-    submitted: 5 May 2019 
-    accepted: 23 September 2019
+    submitted:  
+    accepted: 
     online:
     volume: "35"
     number: "1"
@@ -616,9 +616,9 @@ academic_articles:
     publisher: 
     place: 
     year: "2019"
-    submitted: 10 January 2018
-    accepted: 18 March 2018 
-    online: 20 July 2019
+    submitted: 
+    accepted:  
+    online: 
     volume: "2019"
     number: "230"
     pages: "247-274"
@@ -1097,7 +1097,7 @@ conferences:
 
   - title: "Ejercicio de simulación empresarial: desarrollo de competencias genéricas en un entorno virtual"
     type: Paper
-    authors: Ribó, Ignasi; Rimbau, Eva
+    authors: Rimbau, Eva; Ribó, Ignasi
     event: Workshop
     topic: Jornadas en Red sobre el Espacio Europeo de Educación Superior
     venue: Universitat Oberta de Catalunya
@@ -1109,7 +1109,7 @@ conferences:
     status: Presented
 
 books:
-  - title: "Worlds and Words: Literature beyond the Human"
+  - title: "Words and Worlds: Literature beyond the Human"
     type: Essay
     language: English
     authors: Ribó, Ignasi
@@ -1356,9 +1356,112 @@ various:
   - item: Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020.
   - item: Diploma Teacher of English as a Foreign Language, SEE TEFL, Chiang Mai, 2016. 120-hour certification course.
   - item: Postgraduate Certificate in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology. 30 credits.
-  - item: Diploma in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
+  - item: "Course Certificates in 'Dynamical Systems and Chaos', 'Origins of Life', 'Information Theory', Santa Fe Institue, 2020" 
+  - item: Certificate in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
   - item: Diploma Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Advanced programming skills in C, Ruby, Python and Javascript. Knowledge of PHP and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
+
+references:
+  - name: Romyen Kosaikanont
+    title: Dr.
+    position: Assistant Professor/ Dean, School of Liberal Arts / VicePresident
+    institution: Mae Fah Luang University, Chiang Rai, Thailand
+    phone: 
+    address:
+    email: romyen@mfu.ac.th
+    relation: Supervisor
+    active: "Yes"
+
+  - name: Sorabud Rungrojsuwan
+    title: Dr.
+    position: Associate Professor / Vicedean, School of Liberal Arts
+    institution: Mae Fah Luang University, Chiang Rai, Thailand
+    phone: 
+    address:
+    email: sorabud.run@mfu.ac.th
+    relation: Supervisor
+    active: "No"
+
+  - name: John Charles Ryan
+    title: Dr.
+    position: Honorary Research Fellow, English and Cultural Studies
+    institution: University of Western Australia, Crawley, Australia
+    phone: 
+    address:
+    email: john.c.ryan@uwa.edu.au
+    relation: Editor
+    active: "Yes"
+
+  - name: David Viñas
+    title: Dr.
+    position: Associate Professor, Literary Theory and Comparative Literature
+    institution: Universitat de Barcelona
+    phone: +34 93 403 7046
+    address: Gran Via de les Corts Catalanes, 585; 08007 Barcelona
+    email: davidvinas@ub.edu
+    relation: Professor
+    active: "Yes"
+
+  - name: Eva Rimbau
+    title: Dr.
+    position: Professor, Economics and Business Administration
+    institution: Universitat Oberta de Catalunya
+    phone: +34 93 253 7556
+    address: Av. Tibidabo, 39-43; 08035 Barcelona
+    email: erimbau@uoc.edu
+    relation: Supervisor
+    active: "No"
+
+  - name: Josep-Anton Fernàndez Montolí
+    title: Dr.
+    position: Professor, Catalan Literature
+    institution: Universitat Oberta de Catalunya
+    phone: +34 93 253 7556
+    address: Av. Tibidabo, 39-43; 08035 Barcelona
+    email: jfernandezmont@uoc.edu
+    relation: Supervisor
+    active: "Yes"
+
+  - name: Daniel Steuer
+    title: Dr.
+    position: Senior Lecturer, School of Humanities
+    institution: University of Sussex
+    phone: (01273) 877385
+    address: Arts A165, Sussex House, Brighton, BN1 9RH
+    email: d.steuer@sussex.ac.uk
+    relation: Thesis Director
+    active: "No"
+
+  - name: Alan Johnson
+    title: Dr.
+    position: Professor, Department of English and Philosophy
+    institution: Idaho State University
+    phone: (1) 208 282 2198
+    address: 921 South 8th Avenue, Stop 8056; Pocatello, Idaho, 833209-8056
+    email: johnala2@isu.edu
+    relation: Colleague
+    active: "No"
+
+  - name: Fabio Calzolari
+    title: Mr.
+    position: Lecturer, School of Social Innovation
+    institution: Mae Fah Luang University
+    phone: 
+    address: 
+    email: fabio.cal@mfu.ac.th
+    relation: Colleague
+    active: "No"
+
+  - name: Laura Lamolla Kristiansen
+    title: Dr.
+    position: Associate Professor, Economics and Business Administration
+    institution: Universitat Oberta de Catalunya
+    phone: +34 93 253 7556
+    address: Av. Tibidabo, 39-43; 08035 Barcelona
+    email: llamollak@uoc.edu
+    relation: Supervisor
+    active: "Yes"
+
