@@ -16,6 +16,7 @@ Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doc
 
 
 <span class="contacticon center">
+	<a href="https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3" target="_blank"><i class="fa fa-wikipedia-w"></i></a>
 	<a href="mailto:mail@ignasiribo.com"><i class="fa fa-envelope"></i></a>
 	<!--- <a href="https://www.linkedin.com/in/ignasiribo" target="_blank"><i class="fa fa-linkedin-square"></i></a> -->
 	<a href="https://twitter.com/seliestel" target="_blank"><i class="fa fa-twitter"></i></a>
