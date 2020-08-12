@@ -461,30 +461,9 @@ other_employment:
 
 academic_articles:
 
-  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
-    authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
-    journal: "In preparation"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: "Forthcoming"
-    submitted:  
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: 
-    isbn: 
-    reviews:
-
   - title: "Semiotics and Posthumanism"
     authors: Ribó, Ignasi
-    journal: "In preparation"
+    journal: 
     collection: "Open Semiotics"
     editors: Amir Biglari
     publisher: L’Harmattan
@@ -501,6 +480,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
+    number: 20
     reviews:
 
   - title: "Mallarmé and the crisis of subjectivity: a posthumanist reading of Igitur"
@@ -522,6 +502,29 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
+    number: 19
+    reviews:
+
+  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
+    authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
+    journal: "In preparation"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "Forthcoming"
+    submitted:  
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    number: 18
     reviews:
 
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
@@ -543,6 +546,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
+    number: 17
     reviews:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
@@ -564,6 +568,7 @@ academic_articles:
     gsid: 
     link: 
     isbn:
+    number: 16
     reviews:
 
   - title: "Golden triangle: a material-semiotic geography"
@@ -585,6 +590,7 @@ academic_articles:
     gsid:
     link:
     isbn:
+    number: 15
     reviews:
 
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
@@ -606,6 +612,7 @@ academic_articles:
     gsid:
     link:
     isbn: 
+    number: 14
     reviews:
 
   - title: "Posthuman political ecology: actors, networks, systems"
@@ -627,6 +634,7 @@ academic_articles:
     gsid:
     link: "https://www.icird2019.com/uploads/paper-5ee1b04712336-17 Full paper - Ignasi_compressed.pdf"
     isbn: "978-616-470-038-3 / 978-616-470-037-6"
+    number: 13
     reviews:
 
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
@@ -648,6 +656,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
+    number: 12
     reviews:
   
   - title: "Semiotic alignment: towards a dialogical model of interspecific communication"
@@ -669,6 +678,7 @@ academic_articles:
     gsid:
     link:
     isbn: 
+    number: 11
     reviews:
   
   - title: 'Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment'
@@ -690,6 +700,7 @@ academic_articles:
     gsid:
     link: 
     isbn: 
+    number: 10
     reviews:
 
   - title: "The novel as tragic form"
@@ -711,6 +722,7 @@ academic_articles:
     gsid:
     link: "http://connexion.mfu.ac.th/assets/uploads/ejournal/Vol.7%20No.2%202018/1-16%20The%20Novel%20as%20Tragic%20Form.pdf"
     isbn: 
+    number: 9
     reviews:
 
   - title: "Ecocriticism, hermeneutics, and the vanishing elephants of Thailand"
@@ -732,6 +744,7 @@ academic_articles:
     gsid:
     link: "https://books.google.co.th/books/about/Southeast_Asian_Ecocriticism.html?id=naY6DwAAQBAJ&redir_esc=y"
     isbn: 
+    number: 8
     reviews:
       - reviewers: Yeow, A. 
         journal: "SARE: Southeast Asian Review of English"
@@ -761,6 +774,7 @@ academic_articles:
     gsid: 
     link: "https://philpapers.org/rec/RIBWAW-2"
     isbn: 
+    number: 7
     reviews:
 
   - title: "Jean Améry, the dislocated witness"
@@ -782,6 +796,7 @@ academic_articles:
     gsid: 
     link: "https://www.llull.cat/IMAGES_175/transfer04-essa01.pdf"
     isbn: 
+    number: 6
     reviews:
       - reviewers: Keown, D. 
         journal: "Journal of European Studies"
@@ -811,6 +826,7 @@ academic_articles:
     gsid: 
     link:
     isbn: 
+    number: 5
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -853,6 +869,7 @@ academic_articles:
     gsid: 
     link: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es
     isbn: 
+    number: 4
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -874,6 +891,7 @@ academic_articles:
     gsid: 
     link: https://www.raco.cat/index.php/Marges/article/view/142086
     isbn: 
+    number: 3
     reviews:
 
   - title: "Galatea o la leche: la descripción de la belleza femenina en Teócrito, Ovidio y Góngora"
@@ -895,6 +913,7 @@ academic_articles:
     gsid: 
     link: http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm
     isbn: 
+    number: 2
     reviews:
 
   - title: "Fin del idilio, principio de la novela"
@@ -916,6 +935,7 @@ academic_articles:
     gsid: 
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
     isbn:
+    number: 1
     reviews:
 
 other_articles:

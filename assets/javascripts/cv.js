@@ -607,7 +607,7 @@ $(document).ready(function() {
       });
 
       // Optional modules - References
-      content.push(sectionHeading('References'));
+/*      content.push(sectionHeading('References'));
 
       $.each(resumeContent['references'], function(i, item) {
         if (item['active'] == "Yes") {
@@ -626,7 +626,7 @@ $(document).ready(function() {
       });
   
     }
-
+*/
     return pdfMake.createPdf(docDefinition).download(docTitle);
   };
 
