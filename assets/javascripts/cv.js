@@ -624,9 +624,9 @@ $(document).ready(function() {
            });
         }
       });
-  
+  */
     }
-*/
+
     return pdfMake.createPdf(docDefinition).download(docTitle);
   };
 
