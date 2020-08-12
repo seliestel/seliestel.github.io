@@ -485,7 +485,7 @@ academic_articles:
   - title: "Semiotics and Posthumanism"
     authors: Ribó, Ignasi
     journal: "In preparation"
-    collection: 
+    collection: "Open Semiotics"
     editors: Amir Biglari
     publisher: L’Harmattan
     place: Paris
@@ -523,6 +523,7 @@ academic_articles:
     link: 
     isbn: 
     reviews:
+
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
     authors: Ribó, Ignasi
     journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
@@ -620,7 +621,7 @@ academic_articles:
     online: 
     volume:
     number:
-    pages:
+    pages: 166-174
     abstract:
     doi: 
     gsid:
