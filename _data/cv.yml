@@ -15,7 +15,7 @@ bio:
   wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
-  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Assistant Professor in Literary Studies at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Cultural Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published several books of fiction and a number of academic essays."
+  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Assistant Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). In addition, he has published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and a number of academic essays."
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
@@ -480,7 +480,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    number: 20
+    num: 20
     reviews:
 
   - title: "Mallarmé and the crisis of subjectivity: a posthumanist reading of Igitur"
@@ -502,7 +502,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    number: 19
+    num: 19
     reviews:
 
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
@@ -524,7 +524,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    number: 18
+    num: 18
     reviews:
 
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
@@ -546,7 +546,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    number: 17
+    num: 17
     reviews:
 
   - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
@@ -568,7 +568,7 @@ academic_articles:
     gsid: 
     link: 
     isbn:
-    number: 16
+    num: 16
     reviews:
 
   - title: "Golden triangle: a material-semiotic geography"
@@ -580,17 +580,17 @@ academic_articles:
     place: 
     year: In press
     submitted: 
-    accepted: 8 August 2020
+    accepted: 14 August 2020
     online:
     volume:
     number:
     pages:
     abstract:
-    doi: 
+    doi: "10.1093/isle/isaa140"
     gsid:
     link:
     isbn:
-    number: 15
+    num: 15
     reviews:
 
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
@@ -612,7 +612,7 @@ academic_articles:
     gsid:
     link:
     isbn: 
-    number: 14
+    num: 14
     reviews:
 
   - title: "Posthuman political ecology: actors, networks, systems"
@@ -634,7 +634,7 @@ academic_articles:
     gsid:
     link: "https://www.icird2019.com/uploads/paper-5ee1b04712336-17 Full paper - Ignasi_compressed.pdf"
     isbn: "978-616-470-038-3 / 978-616-470-037-6"
-    number: 13
+    num: 13
     reviews:
 
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
@@ -656,7 +656,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    number: 12
+    num: 12
     reviews:
   
   - title: "Semiotic alignment: towards a dialogical model of interspecific communication"
@@ -678,7 +678,7 @@ academic_articles:
     gsid:
     link:
     isbn: 
-    number: 11
+    num: 11
     reviews:
   
   - title: 'Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment'
@@ -700,7 +700,7 @@ academic_articles:
     gsid:
     link: 
     isbn: 
-    number: 10
+    num: 10
     reviews:
 
   - title: "The novel as tragic form"
@@ -722,7 +722,7 @@ academic_articles:
     gsid:
     link: "http://connexion.mfu.ac.th/assets/uploads/ejournal/Vol.7%20No.2%202018/1-16%20The%20Novel%20as%20Tragic%20Form.pdf"
     isbn: 
-    number: 9
+    num: 9
     reviews:
 
   - title: "Ecocriticism, hermeneutics, and the vanishing elephants of Thailand"
@@ -744,7 +744,7 @@ academic_articles:
     gsid:
     link: "https://books.google.co.th/books/about/Southeast_Asian_Ecocriticism.html?id=naY6DwAAQBAJ&redir_esc=y"
     isbn: 
-    number: 8
+    num: 8
     reviews:
       - reviewers: Yeow, A. 
         journal: "SARE: Southeast Asian Review of English"
@@ -774,7 +774,7 @@ academic_articles:
     gsid: 
     link: "https://philpapers.org/rec/RIBWAW-2"
     isbn: 
-    number: 7
+    num: 7
     reviews:
 
   - title: "Jean Améry, the dislocated witness"
@@ -796,7 +796,7 @@ academic_articles:
     gsid: 
     link: "https://www.llull.cat/IMAGES_175/transfer04-essa01.pdf"
     isbn: 
-    number: 6
+    num: 6
     reviews:
       - reviewers: Keown, D. 
         journal: "Journal of European Studies"
@@ -826,7 +826,7 @@ academic_articles:
     gsid: 
     link:
     isbn: 
-    number: 5
+    num: 5
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -869,7 +869,7 @@ academic_articles:
     gsid: 
     link: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es
     isbn: 
-    number: 4
+    num: 4
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -891,7 +891,7 @@ academic_articles:
     gsid: 
     link: https://www.raco.cat/index.php/Marges/article/view/142086
     isbn: 
-    number: 3
+    num: 3
     reviews:
 
   - title: "Galatea o la leche: la descripción de la belleza femenina en Teócrito, Ovidio y Góngora"
@@ -913,7 +913,7 @@ academic_articles:
     gsid: 
     link: http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm
     isbn: 
-    number: 2
+    num: 2
     reviews:
 
   - title: "Fin del idilio, principio de la novela"
@@ -935,7 +935,7 @@ academic_articles:
     gsid: 
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
     isbn:
-    number: 1
+    num: 1
     reviews:
 
 other_articles:
