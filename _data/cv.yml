@@ -383,7 +383,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link:
-    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
+    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Poetry, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -507,13 +507,13 @@ academic_articles:
 
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
-    journal: "In preparation"
+    journal: Journal of Linguistic Anthropology
     collection: 
     editors: 
     publisher: 
     place: 
-    year: "Forthcoming"
-    submitted:  
+    year: "Under review"
+    submitted: "2 September 2020"
     accepted: 
     online:
     volume: 
@@ -578,10 +578,10 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: In press
+    year: "2020"
     submitted: 
-    accepted: 14 August 2020
-    online:
+    accepted: 
+    online: "7 September 2020"
     volume:
     number:
     pages:
@@ -601,7 +601,7 @@ academic_articles:
     publisher: 
     place: 
     year: In press
-    submitted: 6 January 2019
+    submitted: 
     accepted: 7 March 2019 
     online:
     volume:
@@ -1422,6 +1422,7 @@ various:
   - item: Certificate in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
   - item: Diploma Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
+  - item: Unregistered student of Catalan Philology, Universitat de Girona, 1999-2000. 
   - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
   - item: Advanced programming skills in C, Ruby, Python and Javascript. Knowledge of PHP and Solidity.
   - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
