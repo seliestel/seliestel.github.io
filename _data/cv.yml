@@ -1,4 +1,4 @@
-updated: 11 August 2020
+updated: 21 September 2020
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -65,7 +65,7 @@ education:
       begin: August 1997
       end: June 1998
       awarded: June 1998
-      grade: 84
+      grade: "84 / 100"
       details:
 
     - degree: Bachelor and Master in Business Administration
@@ -86,6 +86,11 @@ education:
           Specialisation: Global Banking and Capital Markets.
 
 affiliations:
+  - position: Associate Editor
+    organization: "MFU Connexion: Journal of Humanities and Social Sciences"
+    link: https://so05.tci-thaijo.org/index.php/MFUconnexion
+    details: 
+    time: Since 2020
   - position: Member
     organization: China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID)
     link: http://social-innovation.mfu.ac.th/arcid.php
@@ -507,13 +512,13 @@ academic_articles:
 
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
-    journal: Journal of Linguistic Anthropology
+    journal: Journal of Ethnology and Folkloristics
     collection: 
     editors: 
     publisher: 
     place: 
     year: "Under review"
-    submitted: "2 September 2020"
+    submitted: "9 September 2020"
     accepted: 
     online:
     volume: 
@@ -581,14 +586,14 @@ academic_articles:
     year: "2020"
     submitted: 
     accepted: 
-    online: "7 September 2020"
+    online: "8 October 2020"
     volume:
     number:
     pages:
     abstract:
     doi: "10.1093/isle/isaa140"
     gsid:
-    link:
+    link: "https://academic.oup.com/isle/advance-article/doi/10.1093/isle/isaa140/5919342?guestAccessKey=fa72918d-a712-464c-99a3-3f08c73a314d"
     isbn:
     num: 15
     reviews:
@@ -600,12 +605,12 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: In press
+    year: "2020"
     submitted: 
-    accepted: 7 March 2019 
+    accepted:  
     online:
-    volume:
-    number:
+    volume: "44"
+    number: "1"
     pages:
     abstract:
     doi: 
