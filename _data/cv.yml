@@ -1,4 +1,4 @@
-updated: 21 September 2020
+updated: 12 January 2021
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -118,6 +118,36 @@ affiliations:
     time: 2016 - 2017
 
 teaching:
+  - course: Senior Project
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2021"
+    end_month: June
+    end_year: "2021"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2021"
+    end_month: June
+    end_year: "2021"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Poetry
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2021"
+    end_month: June
+    end_year: "2021"
+    semester: "2"
+    description:
+    credits: "3"
   - course: Cross-Cultural Communication
     institution: Mae Fah Luang University
     major: Bachelor in English
@@ -377,8 +407,6 @@ mentoring:
     end_month: 
     end_year:
 
-
-
 academic_employment:
   - position: Assistant Professor, Comparative Literature
     university: Mae Fah Luang University
@@ -554,15 +582,15 @@ academic_articles:
     num: 17
     reviews:
 
-  - title: "Symbolic interaction in the liminal non-place: a microsociological reading of Bernard-Marie Koltès’ ‘In the solitude of cotton fields’"
+  - title: "Interaction symbolique dans le non-lieu liminal : Une lec-ture microsociologique de Bernard-Marie Koltès"
     authors: Ribó, Ignasi
-    journal: "Comparative Drama"
+    journal: "Çedille: Revista de Estudios Franceses"
     collection: 
     editors: 
     publisher: 
     place: 
     year: Under review
-    submitted: 23 March 2019
+    submitted: 21 December 2020
     accepted: 
     online:
     volume: 
@@ -1422,7 +1450,7 @@ languages:
 various:
   - item: Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020.
   - item: Diploma Teacher of English as a Foreign Language, SEE TEFL, Chiang Mai, 2016. 120-hour certification course.
-  - item: Postgraduate Certificate in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology. 30 credits.
+  - item: Postgraduate Diploma in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology. 30 credits.
   - item: "Course Certificates in 'Dynamical Systems and Chaos', 'Origins of Life', 'Information Theory', Santa Fe Institue, 2020" 
   - item: Certificate in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
   - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
