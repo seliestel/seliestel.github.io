@@ -639,11 +639,11 @@ academic_articles:
     online:
     volume: "44"
     number: "1"
-    pages:
+    pages: "20-35"
     abstract:
     doi: 
     gsid:
-    link:
+    link: "https://muse.jhu.edu/article/778293"
     isbn: 
     num: 14
     reviews:
