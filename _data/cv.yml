@@ -516,28 +516,6 @@ academic_articles:
     num: 20
     reviews:
 
-  - title: "Mallarmé and the crisis of subjectivity: a posthumanist reading of Igitur"
-    authors: Ribó, Ignasi
-    journal: "In preparation"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: "Forthcoming"
-    submitted:  
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: 
-    isbn: 
-    num: 19
-    reviews:
-
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poems (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
     journal: Journal of Ethnology and Folkloristics
@@ -567,9 +545,9 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Under review"
+    year: "Accepted"
     submitted: "25 June 2020"  
-    accepted: 
+    accepted: "31 January 2021"
     online:
     volume: 
     number: 
@@ -582,9 +560,9 @@ academic_articles:
     num: 17
     reviews:
 
-  - title: "Interaction symbolique dans le non-lieu liminal : Une lec-ture microsociologique de Bernard-Marie Koltès"
+  - title: "Interaction symbolique dans le non-lieu liminal : Une lecture microsociologique de Bernard-Marie Koltès"
     authors: Ribó, Ignasi
-    journal: "Çedille: Revista de Estudios Franceses"
+    journal: "Çedille: Revue d'Études Françaises"
     collection: 
     editors: 
     publisher: 
@@ -714,7 +692,7 @@ academic_articles:
     num: 11
     reviews:
   
-  - title: 'Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment'
+  - title: "Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment"
     authors: Ribó, Ignasi
     journal: Biosemiotics
     collection: 
@@ -1046,6 +1024,19 @@ other_articles:
     link:
 
 conferences:
+
+  - title: "Metaphorical symbolization of nonhumans in Pgaz K’Nyau oral poetry: Examples from a recent field research study"
+    type:  Paper
+    authors: Ribó, Ignasi
+    event: "11th Malaysia International Conference on Languages, Literatures and Cultures (MICOLLAC 2020)"
+    topic: "Embracing Cultural Diversity Through Languages and Literature"
+    venue: Universiti Putra Malaysia
+    place: Online
+    day: "23-25"
+    month: March
+    year: "2021"
+    link:
+    status: Pending
 
   - title: "Posthuman political ecology: actors, networks, systems"
     type:  Paper
