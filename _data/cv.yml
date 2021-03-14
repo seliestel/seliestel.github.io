@@ -523,9 +523,9 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Under review"
+    year: "Accepted"
     submitted: "9 September 2020"
-    accepted: 
+    accepted: 6 March 2021
     online:
     volume: 
     number: 
@@ -562,14 +562,14 @@ academic_articles:
 
   - title: "Interaction symbolique dans le non-lieu liminal : Une lecture microsociologique de Bernard-Marie Koltès"
     authors: Ribó, Ignasi
-    journal: "Çedille: Revue d'Études Françaises"
+    journal: "Çédille: Revue d'Études Françaises"
     collection: 
     editors: 
     publisher: 
     place: 
-    year: Under review
+    year: Accepted
     submitted: 21 December 2020
-    accepted: 
+    accepted: 7 March 2021
     online:
     volume: 
     number: 
@@ -1036,7 +1036,7 @@ conferences:
     month: March
     year: "2021"
     link:
-    status: Pending
+    status: Presented
 
   - title: "Posthuman political ecology: actors, networks, systems"
     type:  Paper
