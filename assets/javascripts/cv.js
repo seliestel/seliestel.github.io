@@ -270,8 +270,8 @@ $(document).ready(function() {
        dashedHeaderLine();
        content.push({
         stack: [
-           { text: ['Born ', resumeContent['bio']['birth_date'], ' in ', resumeContent['bio']['birth_place'], '.'], style: 'bio'}, 
-           { text: ['Orcid ID: https://orcid.org/', resumeContent['bio']['orcid'], '.'], style: 'bio'}, 
+           { text: ['Born ', resumeContent['bio']['birth_date'], ' in ', resumeContent['bio']['birth_place'], '.\n', 
+                    'Orcid ID: https://orcid.org/', resumeContent['bio']['orcid'], '.'], style: 'bio'}, 
            { 
             columns: [
             {
