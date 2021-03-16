@@ -266,11 +266,15 @@ $(document).ready(function() {
     	 content.push({ text: 'Curriculum Vitae', style: 'curriculum'});
        content.push({ text: resumeContent['bio']['name'], style: 'name'});
 
+
+<div itemscope itemtype="https://schema.org/Person" style="text-align:center;"><a itemprop="sameAs" content="https://orcid.org/{{ site.data.cv.bio.orcid }}" href="https://orcid.org/{{ site.data.cv.bio.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/{{ site.data.cv.bio.orcid }}</a></div>
+
        // Bio
        dashedHeaderLine();
        content.push({
         stack: [
            { text: ['Born ', resumeContent['bio']['birth_date'], ' in ', resumeContent['bio']['birth_place'], '.'], style: 'bio'}, 
+           { text: ['Orcid ID: https://orcid.org/', resumeContent['bio']['orcid'], '.'], style: 'bio'}, 
            { 
             columns: [
             {
