@@ -1,4 +1,4 @@
-updated: 12 January 2021
+updated: 16 March 2021
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -90,7 +90,7 @@ affiliations:
     organization: "MFU Connexion: Journal of Humanities and Social Sciences"
     link: https://so05.tci-thaijo.org/index.php/MFUconnexion
     details: 
-    time: Since 2020
+    time: Since 2021
   - position: Member
     organization: China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID)
     link: http://social-innovation.mfu.ac.th/arcid.php
@@ -102,7 +102,7 @@ affiliations:
     details: 
     time: Since 2018
   - position: Member
-    organization: Human Rights and Sustainability in the Mekong Region (HUSUME) 
+    organization: Human Rights and Sustainability in the Mekong Region (HUSUME) research group
     link: https://husume.center
     details: 
     time: Since 2018
@@ -416,7 +416,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link:
-    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Poetry, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing'
+    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -523,7 +523,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Accepted"
+    year: "In press"
     submitted: "9 September 2020"
     accepted: 6 March 2021
     online:
@@ -545,7 +545,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Accepted"
+    year: "In press"
     submitted: "25 June 2020"  
     accepted: "31 January 2021"
     online:
@@ -567,7 +567,7 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: Accepted
+    year: "In press"
     submitted: 21 December 2020
     accepted: 7 March 2021
     online:

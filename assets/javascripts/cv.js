@@ -394,7 +394,7 @@ $(document).ready(function() {
             volume = volume + '.';
           }
           var link = '';
-         if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
+         if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + 'https://doi.org/' + item['doi'] + '.';
           if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
             link = link + ' Available at ' + item['link'] + '.';
           }
