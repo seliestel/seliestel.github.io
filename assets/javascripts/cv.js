@@ -717,7 +717,7 @@ $(document).ready(function() {
           },
           {
             width: '80%',
-            text: [ { text: item['role'], bold: true}, '. ', item['activity'], item['link']
+            text: [ { text: item['role'], bold: true}, ', ', item['activity'], item['link']
             ]
           },
         ], columnGap: 5, style: 'full_text' })
@@ -829,7 +829,7 @@ $(document).ready(function() {
       $.each(resumeContent['other_articles'], function(i, item) {
         var basic_ref = item['authors'] + '. ' + item['date'] + '. ' + item['title'] + '. ' + item['publisher'] + '.';
         var link = '';
-        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'];
+        if (item['link'] != undefined && item['link'].length > 0) link = link + ' Available at ' + item['link'] + '.';
         content.push({
           stack: [
              { text:
@@ -844,13 +844,13 @@ $(document).ready(function() {
 
       content.push(sectionHeading('Book chapters'));
       $.each(resumeContent['chapters'], function(i, item) {
-        var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
+        var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '.';
         if (item['collection'] != undefined && item['collection'].length > 0) {
           var editors = '';
           if (item['editors'] != undefined && item['editors'].length > 0) editors = editors + ' In ' + item['editors'] + ', ';
           var pages = '';
-          if (item['pages'] != undefined && item['pages'].length > 0) pages = pages + ' (pp. ' + item['pages'] + ').';
-          var publisher = ' ';
+          if (item['pages'] != undefined && item['pages'].length > 0) pages = pages + ' (pp. ' + item['pages'] + ')';
+          var publisher = '. ';
           if (item['place'] != undefined && item['place'].length > 0) publisher = publisher + item['place'] + ': ';
           if (item['publisher'] != undefined && item['publisher'].length > 0) publisher = publisher + item['publisher'] + '.';        
           var link = '';

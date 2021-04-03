@@ -38,7 +38,7 @@ education:
       grade: 
       link: https://www.sussex.ac.uk
       details: |
-        - Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
+        Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
 
     - degree: Diploma d'Estudis Avançats (Master of Advanced Studies)
       subject: Comparative Study of Language and Literature
@@ -51,7 +51,7 @@ education:
       grade: 3.1 / 4
       link: https://www.ub.edu
       details: |
-        - Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). Advisor: Jordi Llovet, Ph.D.
+        Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). Advisor: Jordi Llovet, Ph.D.
 
     - degree: Llicenciatura (Bachelor)
       subject: Literary Theory and Comparative Literature
@@ -88,12 +88,8 @@ education:
       grade: 
       link: https://www.esade.edu
       details: |
-        - Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
-        - Master Community of European Management Schools (CEMS). 
-        - European Management and International Business Studies. Semester exchange (1995). Hautes Études Commerciales (HEC), Paris, France. 
-          Specialisation: Europe-Asia: Culture, Politics, Society.
-        - International Management Program. Semester exchange (1994). Stern School of Business, New York University, New York, United States.
-          Specialisation: Global Banking and Capital Markets.
+        Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
+        Master Community of European Management Schools (CEMS).
 
 other_education:
     - degree: Certificate
@@ -191,6 +187,30 @@ other_education:
       grade:  
       link: https://www.udg.edu
       details: 
+
+    - degree: European Management and International Business Studies 
+      subject: "Europe-Asia: Culture, Politics, Society"
+      institution: Hautes Études Commerciales (HEC)
+      place: Paris, France
+      time: "1995"
+      begin: January 1995
+      end: June 1995
+      awarded: 
+      grade:  
+      link: https://www.hec.edu
+      details: Semester exchange
+
+    - degree: International Management Program 
+      subject: "Global Banking and Capital Markets"
+      institution: Stern School of Business, New York University
+      place: New York, United States
+      time: "1994"
+      begin: August 1994
+      end: December 1994
+      awarded: 
+      grade:  
+      link: https://www.stern.nyu.edu
+      details: Semester exchange
 
 expertise:
   - item: Advanced programming skills in C, Ruby, Python and Javascript. 
@@ -1073,13 +1093,13 @@ other_articles:
     authors: Ribó, Ignasi
     publisher: Politico
     date: 20 April 2018
-    link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy/
+    link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy
 
   - title: "To solve Catalonia, Spain needs a new constitution"
     authors: Ribó, Ignasi
     publisher: Politico
     date: 13 November 2017
-    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution/
+    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution
  
   - title: "How small countries can save the European project: the rise of the habitat-nation"
     authors: Ribó, Ignasi
@@ -1115,7 +1135,7 @@ other_articles:
     authors: Ribó, Ignasi
     publisher: Núvol / El Correu de la UNESCO
     date: February 2013 / January 2001
-    link: http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan/
+    link: http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan
 
   - title: "La narrativa balear: quatre aproximacions"
     authors: Ribó, Ignasi
@@ -1572,7 +1592,7 @@ leadership:
 
 awards:
   - award: "Prize Joan Santamaria"
-    reason: "theatre play 'Clara de nit'"
+    reason: "the theatre play 'Clara de nit'"
     type: Literary prize
     date: "2000"
     funder: Fundació Joan Santamaria
