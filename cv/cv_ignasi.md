@@ -188,4 +188,4 @@ __*Conferences*__
 
 > Phone: {{ site.data.cv.bio.phone }}
 
-<a id="download-without-publist" title="Download without publications" style="cursor: pointer">Download without publications</a>
+<a id="download-without-publist" title="Download without publications" style="visibility:hidden; cursor: pointer">Download without publications</a>
