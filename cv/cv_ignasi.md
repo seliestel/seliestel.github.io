@@ -21,7 +21,7 @@ permalink: /cv/
 ----
 
 
-Education
+Degrees
 --------------------
 
 {% for item in site.data.cv.education %}
@@ -31,6 +31,30 @@ Education
         {{ item.university }} ({{ item.place }}). 
 
         {{ item.details }}
+{% endfor %}
+
+Other Education and Expertise
+--------------------
+
+{% for item in site.data.cv.other_education %}
+  {{ item.time }} 
+  :     *{{ item.degree }}, {{ item.subject }}.*
+
+        {{ item.institution }} ({{ item.place }}). 
+
+        {{ item.details }}
+{% endfor %}
+
+{% for item in site.data.cv.expertise %}
+  {{ item.item }} 
+{% endfor %}
+
+Languages
+------------------------
+
+{% for item in site.data.cv.languages %}
+  {{ item.name }} 
+  :   {{ item.level }}{% if item.diploma %} (*{{ item.diploma }}*){% endif %}.
 {% endfor %}
 
 Academic Employment
@@ -56,18 +80,60 @@ Other Employment
          {{ item.details }}
 {% endfor %}
 
+Research Funding and Grants
+----------------------------------
+
+{% for item in site.data.cv.grants %}
+  {{ item.dates }}
+  :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
+{% endfor %}
+
+Research Supervision and Leadership
+----------------------------------
+
+{% for item in site.data.cv.supervision %}
+  {{ item.dates }}
+  :  {{ item.activity }}. {{ item.role }} {{ item.students }} {{ item.type }} students in the {{ item.degree }}, {{ item.institution }}. {% if item.link %} {{ item.link }}{% endif %}
+{% endfor %}
+
+{% for item in site.data.cv.leadership %}
+  {{ item.dates }}
+  :  {{ item.role }}, {{ item.activity }} {% if item.link %} {{ item.link }}{% endif %}
+{% endfor %}
+
+
+Awards and Honours
+----------------------------------
+
+{% for item in site.data.cv.awards %}
+  {{ item.date }}
+  :  {{ item.award }}.{% if item.reason %} Award for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.
+{% endfor %}
+
+Other Academic Merits
+------------------------
+
+{% for item in site.data.cv.various %}
+  {{ item.item }} 
+{% endfor %}
+
+
 <a id="download-publist" title="Download publications" style="cursor: pointer">Publications</a>
 ------------------------
 
-__*Peer-reviewed academic articles*__
+__*Academic (peer-reviewed journal) articles*__
 
 {% for item in site.data.cv.academic_articles %}
   {% if item.year != 'Under review' and item.year != 'Forthcoming' %}
-  {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.year == 'In press' and item.accepted %} Accepted: {{ item.accepted }}{% endif %}{% if item.online %} Online: {{ item.online }}.{% endif %}{% if item.doi %} doi: [https://doi.org/{{ item.doi }}](https://doi.org/{{ item.doi }}). {% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
-  {% elsif item.collection %}
-  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% endif %}
+{% endfor %}
+
+__*Chapters in academic books*__
+
+{% for item in site.data.cv.chapters %}
+  {% if item.year != 'Under review' and item.year != 'Forthcoming' %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
   {% endif %}
 {% endfor %}
  
@@ -97,57 +163,21 @@ __*Manuscripts*__
 
 {% for item in site.data.cv.academic_articles %}
   {% if item.year == 'Under review' or item.year == 'Forthcoming' %}
-  {% if item.journal %}
   {{ item.authors }}. {{ item.year }}. {{ item.title }}. *{{ item.journal }}*. {% if item.volume %}{{ item.volume }}{% endif %}{% if item.number %}({{ item.number }}){% endif %}{% if item.pages %} : {{ item.pages }}{% endif %}{% if item.volume or item.number or item.pages %}.{% endif %}{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
-  {% elsif item.collection %}
-  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
-  {% endif %}
   {% endif %}
 {% endfor %}
+
+{% for item in site.data.cv.chapters %}
+  {% if item.year == 'Under review' or item.year == 'Forthcoming' %}
+  {{ item.authors }}. {{ item.year }}. {{ item.title }}. In {{ item.editors }}, *{{ item.collection }}* {% if item.pages %} (pp. {{ item.pages }}){% endif %}, {{ item.place }}: {{ item.publisher }}.{% if item.submitted %} Submitted: {{ item.submitted }}.{% endif %}{% if item.link %} Available at [{{ item.link }}]({{ item.link }}). {% endif %}
+  {% endif %}
+{% endfor %}
+
 
 __*Conferences*__
 
 {% for item in site.data.cv.conferences %}
   {{ item.authors }}. {{ item.month }} {{ item.year }}. {{ item.title }}.{% if item.event %} {{ item.event }}{% endif %}{% if item.topic %}{% if item.event %},{% endif %} *{{ item.topic }}*{% endif %}{% if item.event or item.topic %}.{% endif %} {{ item.type }}. {{ item.status }} at {{ item.venue }}, {{ item.place }}.{% if item.link %} Available at [{{ item.link }}]({{ item.link }}).{% endif %}
-{% endfor %}
-
-Affiliations and Academic Services
-----------------------------------
-
-{% for item in site.data.cv.affiliations %}
-  {{ item.time }} 
-  :     *{{ item.position }}* 
-         [{{ item.organization }}]({{ item.link }})
-
-         {{ item.details }}
-{% endfor %}
-
-Grants and Awards
-------------------------
-
-{% for item in site.data.cv.grants %}
-  {{ item.dates }}
-  :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
-{% endfor %}
-
-{% for item in site.data.cv.awards %}
-  {{ item.date }}
-  :  {{ item.award }}.{% if item.reason %} Award for {{ item.reason }}.{% endif %}{% if item.funder %} Awarded by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.type }}.
-{% endfor %}
-
-Languages
-------------------------
-
-{% for item in site.data.cv.languages %}
-  {{ item.name }} 
-  :   {{ item.level }}{% if item.diploma %} (*{{ item.diploma }}*){% endif %}.
-{% endfor %}
- 
-Other Skills and Diplomas
-------------------------
-
-{% for item in site.data.cv.various %}
-  {{ item.item }} 
 {% endfor %}
 
 ----
@@ -158,4 +188,4 @@ Other Skills and Diplomas
 
 > Phone: {{ site.data.cv.bio.phone }}
 
-<a id="download-without-publist" title="Download without publications" style="visibility:hidden; cursor: pointer">Download without publications</a>
+<a id="download-without-publist" title="Download without publications" style="cursor: pointer">Download without publications</a>

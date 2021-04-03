@@ -1,4 +1,4 @@
-updated: 16 March 2021
+updated: 2 April 2021
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -19,6 +19,11 @@ bio:
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
+impact:
+  citations: 37
+  h-index: 3
+  i10-index: 1 
+
 interests: Environmental Humanities, Ecocriticism, Literary Theory, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
 
 education:
@@ -31,10 +36,11 @@ education:
       end: July 2007
       awarded: March 2008
       grade: 
+      link: https://www.sussex.ac.uk
       details: |
         - Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
 
-    - degree: Master of Advanced Studies
+    - degree: Diploma d'Estudis Avançats (Master of Advanced Studies)
       subject: Comparative Study of Language and Literature
       university: Universitat de Barcelona
       place: Barcelona, Spain
@@ -43,10 +49,11 @@ education:
       end: June 2006
       awarded: July 2006 
       grade: 3.1 / 4
+      link: https://www.ub.edu
       details: |
         - Thesis: “Dialectic of Destruction: On the Natural Philosophy of History” (2006). Advisor: Jordi Llovet, Ph.D.
 
-    - degree: Bachelor
+    - degree: Llicenciatura (Bachelor)
       subject: Literary Theory and Comparative Literature
       university: Universitat de Barcelona
       place: Barcelona, Spain
@@ -55,10 +62,11 @@ education:
       end: June 2004
       awarded: July 2004
       grade: 2.95 / 4
+      link: https://www.ub.edu
       details:
 
-    - degree: Master 
-      subject: Political Science (Certificat International d’Études Politiques)
+    - degree: Certificat International d’Études Politiques (Master) 
+      subject: Political Science
       university: Institut d’Études Politiques de Paris (Sciences-Po)
       place: Paris, France
       time: 1997 – 1998
@@ -66,10 +74,11 @@ education:
       end: June 1998
       awarded: June 1998
       grade: "84 / 100"
+      link: https://www.sciencespo.fr
       details:
 
-    - degree: Bachelor and Master in Business Administration
-      subject: International Business and Finance
+    - degree: Llicenciatura / Master (Bachelor and Master)
+      subject: Business Administration
       university: ESADE, Universitat Ramon Llull
       place: Barcelona, Spain
       time: 1989 – 1995
@@ -77,6 +86,7 @@ education:
       end: June 1995
       awarded: March 1998
       grade: 
+      link: https://www.esade.edu
       details: |
         - Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
         - Master Community of European Management Schools (CEMS). 
@@ -85,50 +95,109 @@ education:
         - International Management Program. Semester exchange (1994). Stern School of Business, New York University, New York, United States.
           Specialisation: Global Banking and Capital Markets.
 
-affiliations:
-  - position: Associate Editor
-    organization: "MFU Connexion: Journal of Humanities and Social Sciences"
-    link: https://so05.tci-thaijo.org/index.php/MFUconnexion
-    details: 
-    time: Since 2021
-  - position: Member
-    organization: China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID)
-    link: http://social-innovation.mfu.ac.th/arcid.php
-    details: 
-    time: Since 2019
-  - position: Member
-    organization: Dialogue, Empathetic Engagement and Peacebuilding (DEEP) - Mekong
-    link: https://globaldeepnetwork.org/
-    details: 
-    time: Since 2018
-  - position: Member
-    organization: Human Rights and Sustainability in the Mekong Region (HUSUME) research group
-    link: https://husume.center
-    details: 
-    time: Since 2018
-  - position: Member
-    organization: Association for the Study of Literature and the Environment (ASLE/ASEAN) 
-    link: https://aseanasle.wordpress.com
-    details: 
-    time: Since 2018  
-  - position: Affiliated Researcher
-    organization: Regional Center for Social Science and Sustainable Development (RCSD) 
-    link: http://rcsd.soc.cmu.ac.th
-    details: 
-    time: 2016 - 2017
+other_education:
+    - degree: Certificate
+      subject: Dynamic Systems and Chaos
+      institution: Santa Fe Institute 
+      place: Online
+      time: "2020"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: http://www.complexityexplorer.org
+      details: 
+
+    - degree: Certificate
+      subject: Origins of Life
+      institution: Santa Fe Institute 
+      place: Online
+      time: "2020"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: http://www.complexityexplorer.org
+      details: 
+
+    - degree: Diploma
+      subject: Teacher of English as a Foreign Language
+      institution: SEE TEFL
+      place: Chiang Mai, Thailand
+      time: "2016"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: https://www.seetefl.com
+      details: 
+
+    - degree: Diploma of Postgraduate Studies
+      subject: Online Teaching
+      institution: Universitat Oberta de Catalunya
+      place: Barcelona, Spain
+      time: "2014-2016"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: http://www.uoc.edu
+      details: 
+
+    - degree: Certificate
+      subject: Ethology of Primates
+      institution: Fundació Mona
+      place: Girona, Spain
+      time: "2011"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: https://www.fundacionmona.org/en
+      details: 
+
+    - degree: Diploma
+      subject: Permaculture Design
+      institution: Institut de Permacultura de Montsant
+      place: Montsant, Spain
+      time: "2010"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: http://permacultura-montsant.org
+      details: 
+
+    - degree: Diploma
+      subject: Teacher of Spanish as a Foreign Language
+      institution: Instituto Hemingway
+      place: Bilbao, Spain
+      time: "2005"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: https://www.institutohemingway.com/
+      details: 
+
+    - degree: Unregistered student
+      subject: Catalan Philology
+      institution: Universitat de Girona
+      place: Girona, Spain
+      time: "1999-2000"
+      begin: 
+      end: 
+      awarded: 
+      grade:  
+      link: https://www.udg.edu
+      details: 
+
+expertise:
+  - item: Advanced programming skills in C, Ruby, Python and Javascript. 
 
 teaching:
-  - course: Senior Project
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2021"
-    end_month: June
-    end_year: "2021"
-    semester: "2"
-    description:
-    credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -139,6 +208,7 @@ teaching:
     description:
     credits: "3"
   - course: Poetry
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -149,6 +219,7 @@ teaching:
     description:
     credits: "3"
   - course: Cross-Cultural Communication
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -159,6 +230,7 @@ teaching:
     description:
     credits: "3"
   - course: English for Academic Purposes
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -170,6 +242,7 @@ teaching:
     credits: "3"
   - course: Poetry
     institution: Mae Fah Luang University
+    type: undergraduate
     major: Bachelor in English 
     begin_month: January
     begin_year: "2020"
@@ -179,6 +252,7 @@ teaching:
     description:
     credits: "3"
   - course: Short Stories and Novels
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -189,6 +263,7 @@ teaching:
     description:
     credits: "3"
   - course: Short Stories and Novels
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -199,6 +274,7 @@ teaching:
     description:
     credits: "3"
   - course: Foundations and Analysis of Literary Works
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -209,6 +285,7 @@ teaching:
     description:
     credits: "3"
   - course: Foundations and Analysis of Literary Works
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -219,6 +296,7 @@ teaching:
     description:
     credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -229,6 +307,7 @@ teaching:
     description:
     credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -239,6 +318,7 @@ teaching:
     description:
     credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -249,6 +329,7 @@ teaching:
     description:
     credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -259,6 +340,7 @@ teaching:
     description:
     credits: "3"
   - course: Creative Writing
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English 
     begin_month: January 
@@ -269,6 +351,7 @@ teaching:
     description:
     credits: "3"
   - course: Cross-Cultural Communication
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: January
@@ -279,6 +362,7 @@ teaching:
     description:
     credits: "3"
   - course: Cross-Cultural Communication
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -289,6 +373,7 @@ teaching:
     description:
     credits: "3"
   - course: Cross-Cultural Communication
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -299,6 +384,7 @@ teaching:
     description:
     credits: "3"
   - course: Critical and Analytical Skills
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
@@ -309,6 +395,7 @@ teaching:
     description:
     credits: "3"
   - course: Dirección Estratégica
+    type: undergraduate
     institution: Universitat Oberta de Catalunya
     major: Administració i Direcció d'Empreses
     begin_month: January
@@ -319,6 +406,7 @@ teaching:
     description:
     credits: 
   - course: Teoria literària
+    type: undergraduate
     institution: Universitat Oberta de Catalunya
     major: Filologia Catalana
     begin_month: January
@@ -328,17 +416,8 @@ teaching:
     semester: 
     description:
     credits: 
-  - course: Treball Final de Master
-    institution: Universitat Oberta de Catalunya
-    major: Màster Universitari en Direcció d’organitzacions economia del coneixement
-    begin_month: January
-    begin_year: "2013"
-    end_month: June
-    end_year: "2015"
-    semester: 
-    description:
-    credits: 
   - course: English for Academic Purposes
+    type: undergraduate
     institution: Mae Fah Luang University
     major: Bachelor in English 
     begin_month: August
@@ -349,6 +428,7 @@ teaching:
     description:
     credits: "3"
   - course: English for Academic Purposes
+    type: undergraduate
     institution: Mae Fah Luang University
     major: General English
     begin_month: August
@@ -359,6 +439,7 @@ teaching:
     description:
     credits: "3"
   - course: English for Academic Purposes
+    type: undergraduate
     institution: Mae Fah Luang University
     major: General English
     begin_month: August
@@ -369,6 +450,7 @@ teaching:
     description:
     credits: "3"
   - course: Upper Intensive English
+    type: undergraduate
     institution: Mae Fah Luang University
     major: General English
     begin_month: June
@@ -379,6 +461,7 @@ teaching:
     description:
     credits: "3"
   - course: Upper Intensive English
+    type: undergraduate
     institution: Mae Fah Luang University
     major: General English
     begin_month: June
@@ -388,35 +471,42 @@ teaching:
     semester: "3"
     description:
     credits: "3"
-  - course: Senior Project
-    institution: Mae Fah Luang University
-    major: Bachelor in English
+  - course: Strategic Management
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Business Administration
     begin_month: January
-    begin_year: "2020"
+    begin_year: "2011"
     end_month: June
-    end_year: "2020"
+    end_year: "2011"
     semester: "2"
     description:
-    credits: 
-
-mentoring:
-  - task: Advisor MFU Literary Magazine
-    institution: Mae Fah Luang University
+    credits: "6"
+  - course: Strategic Management
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Business Administration
     begin_month: January
-    begin_year: "2017"
-    end_month: 
-    end_year:
+    begin_year: "2011"
+    end_month: June
+    end_year: "2011"
+    semester: "2"
+    description:
+    credits: "6"
+
+teaching_merits:
+
 
 academic_employment:
-  - position: Assistant Professor, Comparative Literature
+  - position: Assistant Professor of Comparative Literature
     university: Mae Fah Luang University
     department: School of Liberal Arts  
     time: Since 2016
     begin: June 2016 
     end: 
     place: Chiang Rai, Thailand
-    link:
-    details: 'Courses taught: Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing.'
+    link: https://en.mfu.ac.th
+    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -425,8 +515,8 @@ academic_employment:
     begin: February 2002 
     end: June 2016
     place: Barcelona, Spain
-    link:
-    details: 'Courses taught: Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations.'
+    link: https://www.uoc.edu
+    details: 'Taught courses in Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations. Part-time job.'
 
 other_employment:
   - position: Consultant
@@ -435,7 +525,7 @@ other_employment:
     begin: March 2012
     end: December 2013
     place: Barcelona, Spain
-    link:
+    link: 
     details: Advised SMEs on finance, strategy and business development.
 
   - position: Managing Director
@@ -448,12 +538,12 @@ other_employment:
     details: Started an export/import company in the organic foods sector.
 
   - position: Managing Director
-    organization: Eyes of the World Foundation
+    organization: Fundació Ulls del Món
     time: 2002-2003
     begin: February 2002
     end: September 2003
     place: Barcelona, Spain
-    link:
+    link: https://www.ullsdelmon.org/
     details: Headed a team of eight people designing and implementing ophthalmologic aid and cooperation projects in Mozambique, Bolivia, Gaza and the Western Sahara refugee camps in Algeria, including the organisation of medical commissions and educational programmes.
 
   - position: Assistant Manager
@@ -471,7 +561,7 @@ other_employment:
     begin: July 1995
     end: July 1997
     place: London, United Kingdom
-    link:
+    link: https://www.ml.com
     details: Worked on transnational M&A advisory and execution assignments in Europe, Argentina and South Africa, conducting company valuations, sector analyses, financial modelling, due diligence, transaction negotiations, and client presentations.
 
   - position: Assistant Trader
@@ -489,32 +579,10 @@ other_employment:
     begin: January 1993
     end: June 1994
     place: Barcelona, Spain
-    link:
+    link: https://www.bancomediolanum.es
     details: Analysed equity investments and traded in money markets. Part-time.
 
 academic_articles:
-
-  - title: "Semiotics and Posthumanism"
-    authors: Ribó, Ignasi
-    journal: 
-    collection: "Open Semiotics"
-    editors: Amir Biglari
-    publisher: L’Harmattan
-    place: Paris
-    year: "Forthcoming"
-    submitted:  
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: 
-    gsid: 
-    link: 
-    isbn: 
-    num: 20
-    reviews:
 
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poetry (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
@@ -536,6 +604,7 @@ academic_articles:
     link: 
     isbn: 
     num: 18
+    scopus: Q3
     reviews:
 
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
@@ -558,6 +627,7 @@ academic_articles:
     link: 
     isbn: 
     num: 17
+    scopus: Q1
     reviews:
 
   - title: "Interaction symbolique dans le non-lieu liminal : Une lecture microsociologique de Bernard-Marie Koltès"
@@ -580,6 +650,7 @@ academic_articles:
     link: 
     isbn:
     num: 16
+    scopus: Q2
     reviews:
 
   - title: "Golden triangle: a material-semiotic geography"
@@ -602,6 +673,7 @@ academic_articles:
     link: "https://academic.oup.com/isle/advance-article/doi/10.1093/isle/isaa140/5919342?guestAccessKey=fa72918d-a712-464c-99a3-3f08c73a314d"
     isbn:
     num: 15
+    scopus: Q1
     reviews:
 
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
@@ -624,6 +696,7 @@ academic_articles:
     link: "https://muse.jhu.edu/article/778293"
     isbn: 
     num: 14
+    scopus: Q1
     reviews:
 
   - title: "Posthuman political ecology: actors, networks, systems"
@@ -646,6 +719,7 @@ academic_articles:
     link: "https://www.icird2019.com/uploads/paper-5ee1b04712336-17 Full paper - Ignasi_compressed.pdf"
     isbn: "978-616-470-038-3 / 978-616-470-037-6"
     num: 13
+    scopus: 
     reviews:
 
   - title: "Environmental cultures in the upper Mekong basin: a review of international literature"
@@ -668,6 +742,7 @@ academic_articles:
     link: 
     isbn: 
     num: 12
+    scopus: Q2
     reviews:
   
   - title: "Semiotic alignment: towards a dialogical model of interspecific communication"
@@ -690,6 +765,7 @@ academic_articles:
     link:
     isbn: 
     num: 11
+    scopus: Q1
     reviews:
   
   - title: "Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment"
@@ -712,6 +788,7 @@ academic_articles:
     link: 
     isbn: 
     num: 10
+    scopus: Q1
     reviews:
 
   - title: "The novel as tragic form"
@@ -734,37 +811,8 @@ academic_articles:
     link: "http://connexion.mfu.ac.th/assets/uploads/ejournal/Vol.7%20No.2%202018/1-16%20The%20Novel%20as%20Tragic%20Form.pdf"
     isbn: 
     num: 9
+    scopus: 
     reviews:
-
-  - title: "Ecocriticism, hermeneutics, and the vanishing elephants of Thailand"
-    authors: Ribó, Ignasi
-    journal:
-    collection: "South-East Asian Ecocriticism: Theories, Practices, Prospects"
-    editors: John C. Ryan
-    publisher: Lexington Books
-    place: Lanham, MA
-    year: "2018"
-    submitted: 
-    accepted: 
-    online:
-    volume: 
-    number: 
-    pages: 37-60
-    abstract:
-    doi: 
-    gsid:
-    link: "https://books.google.co.th/books/about/Southeast_Asian_Ecocriticism.html?id=naY6DwAAQBAJ&redir_esc=y"
-    isbn: 
-    num: 8
-    reviews:
-      - reviewers: Yeow, A. 
-        journal: "SARE: Southeast Asian Review of English"
-        year: "2017" 
-        volume: "54"
-        number: "2"
-        pages: 27-30
-        doi: 
-        link: "https://ejournal.um.edu.my/index.php/SARE/article/view/10241"
 
   - title: "Worlds and words: of bats, ticks, and apes"
     authors: Ribó, Ignasi
@@ -786,6 +834,7 @@ academic_articles:
     link: "https://philpapers.org/rec/RIBWAW-2"
     isbn: 
     num: 7
+    scopus: 
     reviews:
 
   - title: "Jean Améry, the dislocated witness"
@@ -808,6 +857,7 @@ academic_articles:
     link: "https://www.llull.cat/IMAGES_175/transfer04-essa01.pdf"
     isbn: 
     num: 6
+    scopus: 
     reviews:
       - reviewers: Keown, D. 
         journal: "Journal of European Studies"
@@ -838,6 +888,7 @@ academic_articles:
     link:
     isbn: 
     num: 5
+    scopus: Q3
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -859,6 +910,7 @@ academic_articles:
     gsid: 
     link:
     isbn: 
+    scopus: 
     reviews:
 
   - title: "Sospechosos cortes en la superficie"
@@ -881,6 +933,7 @@ academic_articles:
     link: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es
     isbn: 
     num: 4
+    scopus: Q3
     reviews:
 
   - title: "Jean Améry, el testimoni dislocat"
@@ -903,6 +956,7 @@ academic_articles:
     link: https://www.raco.cat/index.php/Marges/article/view/142086
     isbn: 
     num: 3
+    scopus: 
     reviews:
 
   - title: "Galatea o la leche: la descripción de la belleza femenina en Teócrito, Ovidio y Góngora"
@@ -925,6 +979,7 @@ academic_articles:
     link: http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm
     isbn: 
     num: 2
+    scopus: 
     reviews:
 
   - title: "Fin del idilio, principio de la novela"
@@ -947,8 +1002,65 @@ academic_articles:
     link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
     isbn:
     num: 1
+    scopus: 
     reviews:
 
+chapters:
+
+  - title: "Semiotics and Posthumanism"
+    authors: Ribó, Ignasi
+    journal: 
+    collection: "Open Semiotics"
+    editors: Amir Biglari
+    publisher: L’Harmattan
+    place: Paris
+    year: "Forthcoming"
+    submitted:  
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    scopus: 
+    num: 20
+    reviews:
+
+  - title: "Ecocriticism, hermeneutics, and the vanishing elephants of Thailand"
+    authors: Ribó, Ignasi
+    journal:
+    collection: "South-East Asian Ecocriticism: Theories, Practices, Prospects"
+    editors: John C. Ryan
+    publisher: Lexington Books
+    place: Lanham, MA
+    year: "2018"
+    submitted: 
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 37-60
+    abstract:
+    doi: 
+    gsid:
+    link: "https://books.google.co.th/books/about/Southeast_Asian_Ecocriticism.html?id=naY6DwAAQBAJ&redir_esc=y"
+    isbn: 
+    num: 8
+    scopus: 
+    reviews:
+      - reviewers: Yeow, A. 
+        journal: "SARE: Southeast Asian Review of English"
+        year: "2017" 
+        volume: "54"
+        number: "2"
+        pages: 27-30
+        doi: 
+        link: "https://ejournal.um.edu.my/index.php/SARE/article/view/10241"
+        
 other_articles:
 
   - title: "Bitagora: a decentralized voting platform built on Hyperledger Sawtooth"
@@ -1052,7 +1164,7 @@ conferences:
     status: Presented
 
   - title: "Dialogue for ecological regeneration: engaging with environmental knowledge in the north of Thailand"
-    type: Seminar (conference and panel discussion)
+    type: Seminar
     authors: Ribó, Ignasi
     event: International conference
     topic: Sustainable Innovation for Health and Development
@@ -1195,18 +1307,6 @@ conferences:
     status: Presented
 
 books:
-  - title: "Words and Worlds: Literature beyond the Human"
-    type: Essay
-    language: English
-    authors: Ribó, Ignasi
-    publisher: Peter Lang Publishing
-    place: New York, NY
-    year: Forthcoming
-    pages: 
-    abstract:
-    isbn: 
-    link: 
-    reviews:
   - title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
     type: Textbook
     language: English
@@ -1397,15 +1497,88 @@ grants:
     amount: 
     status: Completed
 
+supervision:
+  - activity: "Senior Project: Ecocritical readings"
+    role: "Supervised"
+    dates: Jan - May 2021
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "5"
+    credits: "3"
+    description: 
+
+  - activity: "Senior Project: Ethnopoetic research"
+    role: "Supervised"
+    dates: Jan - May 2020
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "4"
+    credits: "3"
+    description: 
+
+  - activity: "Master's Thesis"
+    role: "Supervised"
+    dates: Jan - Jun 2013
+    type: postgraduate
+    institution: Universitat Oberta de Catalunya
+    degree: Master in Management of Knowledge-Based Organisations
+    link: https://www.uoc.edu
+    students: "3"
+    credits: "6"
+    description: 
+
+  - activity: "Master's Thesis"
+    role: "Supervised"
+    dates: Jan - Jun 2014
+    type: postgraduate
+    institution: Universitat Oberta de Catalunya
+    degree: Master in Management of Knowledge-Based Organisations
+    link: https://www.uoc.edu
+    students: "3"
+    credits: "6"
+    description: 
+
+  - activity: "Master's Thesis"
+    role: "Supervised"
+    dates: Jan - Jun 2015
+    type: postgraduate
+    institution: Universitat Oberta de Catalunya
+    degree: Master in Management of Knowledge-Based Organisations
+    link: https://www.uoc.edu
+    students: "3"
+    credits: "6"
+    description: 
+
+leadership:
+  - activity: "China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID), Mae Fah Luang University, School of Social Innovation."
+    role: Member
+    dates: 2019-2021
+    link: http://social-innovation.mfu.ac.th/arcid.php
+
+  - activity: "Human Rights and Sustainability in the Mekong Region (HUSUME), Mae Fah Luang University."
+    role: Head
+    dates: 2018-2019
+    link: 
+
+  - activity: "Regional Center for Social Science and Sustainable Development (RCSD)."
+    role: "Affiliated Researcher"
+    dates: 2016-2017
+    link: http://rcsd.soc.cmu.ac.th
+
+
 awards:
   - award: "Prize Joan Santamaria"
-    reason: "Clara de nit (theatre play)"
+    reason: "theatre play 'Clara de nit'"
     type: Literary prize
     date: "2000"
     funder: Fundació Joan Santamaria
     link:
     amount: 6,000 Euros
- 
+
 languages:
   - name: Catalan
     level: Native
@@ -1440,16 +1613,12 @@ languages:
 
 various:
   - item: Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020.
-  - item: Diploma Teacher of English as a Foreign Language, SEE TEFL, Chiang Mai, 2016. 120-hour certification course.
-  - item: Postgraduate Diploma in Online Teaching, Universitat Oberta de Catalunya, 2014-16. Teaching knowledge and methodology. 30 credits.
-  - item: "Course Certificates in 'Dynamical Systems and Chaos', 'Origins of Life', 'Information Theory', Santa Fe Institue, 2020" 
-  - item: Certificate in Ethology of Primates, Fundació Mona, Girona, 2011. https://fundacionmona.org/en
-  - item: Diploma in Permaculture Design, Institut de Permacultura de Montsant, 2010. http://www.permacultura-montsant.org
-  - item: Diploma Teacher of Spanish as a Foreign Language, Instituto Hemingway, Bilbao, 2005. 80-hour certification course.
-  - item: Unregistered student of Catalan Philology, Universitat de Girona, 1999-2000. 
-  - item: Practical skills in organic agriculture, building and gardening. WOOFing experience in Germany and Sweden, 2011 (4 months).
-  - item: Advanced programming skills in C, Ruby, Python and Javascript. Knowledge of PHP and Solidity.
-  - item: Web and mobile application development experience (Bitagora, Zygnem, Ageios).
+  - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
+  - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
+  - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, and Sustainability (since 2019)."
+  - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
+  - item: "Reviewer of postdoctoral applications for the Estonian Research Council (2020)."
+  - item: "Reviewer of papers for 6th Asian Academic Society International Conference (2018)."
 
 references:
   - name: Romyen Kosaikanont
