@@ -88,8 +88,9 @@ education:
       grade: 
       link: https://www.esade.edu
       details: |
-        Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
         Master Community of European Management Schools (CEMS).
+        Thesis: “A Comparative Study of Merger Control Policy in France and the European Union” (1996).
+        
 
 other_education:
     - degree: Certificate
@@ -188,8 +189,8 @@ other_education:
       link: https://www.udg.edu
       details: 
 
-    - degree: European Management and International Business Studies 
-      subject: "Europe-Asia: Culture, Politics, Society"
+    - degree: European Management and International Business Studies (exchange) 
+      subject: "Europe-Asia: Economy, Politics, Society"
       institution: Hautes Études Commerciales (HEC)
       place: Paris, France
       time: "1995"
@@ -198,9 +199,9 @@ other_education:
       awarded: 
       grade:  
       link: https://www.hec.edu
-      details: Semester exchange
+      details: 
 
-    - degree: International Management Program 
+    - degree: International Management Program (exchange)
       subject: "Global Banking and Capital Markets"
       institution: Stern School of Business, New York University
       place: New York, United States
@@ -210,7 +211,7 @@ other_education:
       awarded: 
       grade:  
       link: https://www.stern.nyu.edu
-      details: Semester exchange
+      details: 
 
 expertise:
   - item: Advanced programming skills in C, Ruby, Python and Javascript. 

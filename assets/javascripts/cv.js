@@ -704,7 +704,7 @@ $(document).ready(function() {
             width: '80%',
             text: [ { text: item['activity'], bold: true}, '. ', item['role'], ' ', item['students'], ' ', 
                     item['type'], ' students in the ', item['degree'], ', ', item['institution'],
-                    '. ', item['link']
+                    '. ', item['link'], '.'
             ]
           },
         ], columnGap: 5, style: 'full_text' })
@@ -717,7 +717,7 @@ $(document).ready(function() {
           },
           {
             width: '80%',
-            text: [ { text: item['role'], bold: true}, ', ', item['activity'], item['link']
+            text: [ { text: item['role'], bold: true}, ', ', item['activity'], item['link'], '.'
             ]
           },
         ], columnGap: 5, style: 'full_text' })
