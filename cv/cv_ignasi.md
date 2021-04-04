@@ -38,7 +38,7 @@ Other Education and Expertise
 
 {% for item in site.data.cv.other_education %}
   {{ item.time }} 
-  :     *{{ item.degree }}, {{ item.subject }}.*
+  :     *{{ item.degree }}*, {{ item.subject }}.
 
         {{ item.institution }} ({{ item.place }}). 
 
