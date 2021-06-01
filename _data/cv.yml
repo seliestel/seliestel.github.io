@@ -1,4 +1,4 @@
-updated: 2 April 2021
+updated: 1 June 2021
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -93,9 +93,22 @@ education:
         
 
 other_education:
+
+    - degree: Master of Science
+      subject: Education and Sustainability
+      institution: University of Gothenburg 
+      place: Gothenburg, Sweden (online programme)
+      time: "Ongoing"
+      begin: August 2021
+      end: 
+      awarded: 
+      grade: 
+      link: https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd
+      details: 
+
     - degree: Certificate
       subject: Dynamic Systems and Chaos
-      institution: Santa Fe Institute 
+      institution: Santa Fe Institute
       place: Online
       time: "2020"
       begin: 
@@ -605,19 +618,19 @@ other_employment:
 
 academic_articles:
 
-  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolization in Pgaz K’Nyau oral poetry (hta)"
+  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry (hta)"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
     journal: Journal of Ethnology and Folkloristics
     collection: 
     editors: 
     publisher: 
     place: 
-    year: "In press"
+    year: "2021"
     submitted: "9 September 2020"
-    accepted: 6 March 2021
+    accepted: "6 March 2021"
     online:
-    volume: 
-    number: 
+    volume: 15
+    number: 1
     pages: 
     abstract:
     doi: 
@@ -637,7 +650,7 @@ academic_articles:
     place: 
     year: "In press"
     submitted: "25 June 2020"  
-    accepted: "31 January 2021"
+    accepted: "30 January 2021"
     online:
     volume: 
     number: 
@@ -653,20 +666,20 @@ academic_articles:
 
   - title: "Interaction symbolique dans le non-lieu liminal : Une lecture microsociologique de Bernard-Marie Koltès"
     authors: Ribó, Ignasi
-    journal: "Çédille: Revue d'Études Françaises"
+    journal: "Çédille: Revista de Estudios Franceses"
     collection: 
     editors: 
     publisher: 
     place: 
-    year: "In press"
+    year: 2021
     submitted: 21 December 2020
     accepted: 7 March 2021
-    online:
-    volume: 
-    number: 
-    pages: 
+    online: 18 May 2021
+    volume: 19
+    number: 2021
+    pages: 615-632
     abstract:
-    doi: 
+    doi: "10.25145/j.cedille.2021.19.25"
     gsid: 
     link: 
     isbn:
