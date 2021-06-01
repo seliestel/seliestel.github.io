@@ -20,7 +20,7 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 37
+  citations: 44
   h-index: 3
   i10-index: 1 
 
@@ -1588,6 +1588,12 @@ supervision:
     description: 
 
 leadership:
+
+  - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE/ASEAN)"
+    role: Secretary (to be appointed)
+    dates: From September 2021
+    link: https://aseanasle.wordpress.com/
+
   - activity: "China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID), Mae Fah Luang University, School of Social Innovation."
     role: Member
     dates: 2019-2021
