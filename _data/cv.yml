@@ -1,4 +1,4 @@
-updated: 1 June 2021
+updated: 13 August 2021
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,8 +20,8 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 44
-  h-index: 3
+  citations: 49
+  h-index: 4
   i10-index: 1 
 
 interests: Environmental Humanities, Ecocriticism, Literary Theory, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
@@ -618,7 +618,7 @@ other_employment:
 
 academic_articles:
 
-  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry (hta)"
+  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
     journal: Journal of Ethnology and Folkloristics
     collection: 
@@ -635,7 +635,7 @@ academic_articles:
     abstract:
     doi:  "10.2478/jef-2021-0007"
     gsid: 
-    link: https://www.jef.ee/index.php/journal/article/view/391/630
+    link: "https://www.jef.ee/index.php/journal/article/view/391/630"
     isbn: 
     num: 18
     scopus: Q3
@@ -1171,6 +1171,19 @@ other_articles:
 
 conferences:
 
+  - title: "Nonhuman, Inhuman, Posthuman: Reflections on Literature beyond the Human"
+    type: Paper
+    authors: Ribó, Ignasi
+    event: "4th ASLE-ASEAN Ecocritical Workshop"
+    topic: "Southeast Asian Literatures and the Anthropocene"
+    venue: Universiti Putra Malaysia 
+    place: Selangor, Malaysia
+    day: 
+    month: August
+    year: "2021"
+    link:
+    status: Presented
+
   - title: "Metaphorical symbolization of nonhumans in Pgaz K’Nyau oral poetry: Examples from a recent field research study"
     type:  Paper
     authors: Ribó, Ignasi
@@ -1516,6 +1529,7 @@ grants:
     link:
     amount: 200,000 THB
     status: Approved
+
   - project: A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)
     dates: Oct 2017 - Oct 2018
     number: 611A10017
@@ -1523,6 +1537,7 @@ grants:
     link:
     amount: 100,000 THB
     status: Completed project
+    
   - project: A hermeneutical study of conflicting interpretations of the Asian elephants in the Karen village of Ban Ruammit
     dates: May 2016 - May 2017
     number: 
@@ -1590,8 +1605,8 @@ supervision:
 leadership:
 
   - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE/ASEAN)"
-    role: Secretary (to be appointed)
-    dates: From September 2021
+    role: Secretary
+    dates: From 24 August 2021
     link: https://aseanasle.wordpress.com/
 
   - activity: "China and the Mekong Region Study Group, Asian Research Center for International Development (ARCID), Mae Fah Luang University, School of Social Innovation."
@@ -1652,7 +1667,7 @@ languages:
     diploma: 
 
 various:
-  - item: Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020.
+  - item: "Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
   - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, and Sustainability (since 2019)."
