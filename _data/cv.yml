@@ -678,29 +678,6 @@ academic_reviews:
 
 academic_articles:
 
-  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry"
-    authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
-    journal: Journal of Ethnology and Folkloristics
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: "2021"
-    submitted: 
-    accepted: 
-    online:
-    volume: 15
-    number: 1
-    pages: "103–139"
-    abstract:
-    doi:  "10.2478/jef-2021-0007"
-    gsid: 
-    link: "https://www.jef.ee/index.php/journal/article/view/391/630"
-    isbn: 
-    num: 18
-    scopus: Q3
-    reviews:
-
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
     authors: Ribó, Ignasi
     journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
@@ -722,6 +699,29 @@ academic_articles:
     isbn: 
     num: 17
     scopus: Q1
+    reviews:
+
+  - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry"
+    authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
+    journal: Journal of Ethnology and Folkloristics
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "2021"
+    submitted: 
+    accepted: 
+    online:
+    volume: 15
+    number: 1
+    pages: "103–139"
+    abstract:
+    doi:  "10.2478/jef-2021-0007"
+    gsid: 
+    link: "https://www.jef.ee/index.php/journal/article/view/391/630"
+    isbn: 
+    num: 18
+    scopus: Q3
     reviews:
 
   - title: "Interaction symbolique dans le non-lieu liminal : Une lecture microsociologique de Bernard-Marie Koltès"
