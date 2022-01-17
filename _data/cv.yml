@@ -616,6 +616,33 @@ other_employment:
     link: https://www.bancomediolanum.es
     details: Analysed equity investments and traded in money markets. Part-time.
 
+
+academic_reviews:
+
+  - title: "Timo Maran, Ecosemiotics: The Study of Signs in Changing Ecologies (Cambridge: Cambridge University Press, 2020), 70 pp."
+    authors: Ribó, Ignasi
+    journal: "Ecozon@: European Journal of Literature, Culture and Environment"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: 2021
+    submitted: "11 August 2021"
+    accepted: "10 September 2021"
+    online:
+    volume: "12"
+    number: "2"
+    pages: "249-250"
+    abstract:
+    doi:  
+    gsid: 
+    link: "https://ecozona.eu/article/view/4508/5082"
+    isbn: 
+    num: 
+    scopus: 
+    reviews:
+
+
 academic_articles:
 
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry"
@@ -652,8 +679,8 @@ academic_articles:
     submitted: "25 June 2020"  
     accepted: "30 January 2021"
     online:
-    volume: 
-    number: 
+    volume: "43"
+    number: "3"
     pages: 
     abstract:
     doi: 
@@ -1547,6 +1574,17 @@ grants:
     status: Completed
 
 supervision:
+  - activity: "Senior Project: Anthropocene fictions"
+    role: "Supervised"
+    dates: Jan - May 2022
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "4"
+    credits: "3"
+    description: 
+
   - activity: "Senior Project: Ecocritical readings"
     role: "Supervised"
     dates: Jan - May 2021
@@ -1626,6 +1664,14 @@ leadership:
 
 
 awards:
+  - award: "Best Researcher of the School of Liberal Arts"
+    reason: ""
+    type: Research prize
+    date: "11/1/2022"
+    funder: Mae Fah Luang University
+    link:
+    amount: 10,000 Thai Baht
+
   - award: "Prize Joan Santamaria"
     reason: "the theatre play 'Clara de nit'"
     type: Literary prize
@@ -1667,7 +1713,7 @@ languages:
     diploma: 
 
 various:
-  - item: "Favourable report for tenure-track lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya), 2020."
+  - item: "Favourable report for tenure-track professorship from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de recerca), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
   - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, and Sustainability (since 2019)."
