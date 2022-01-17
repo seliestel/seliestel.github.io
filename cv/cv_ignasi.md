@@ -88,7 +88,7 @@ Research Funding and Grants
   :  {{ item.project }}. {% if item.number %} Grant number {{ item.number }}.{% endif %}{% if item.funder %} Granted by {{ item.funder }}.{% endif %}{% if item.amount %} Amount: {{ item.amount }}.{% endif %} {{ item.status }}.
 {% endfor %}
 
-Research Supervision and Leadership
+Research Supervision 
 ----------------------------------
 
 {% for item in site.data.cv.supervision %}
@@ -96,11 +96,13 @@ Research Supervision and Leadership
   :  {{ item.activity }}. {{ item.role }} {{ item.students }} {{ item.type }} students in the {{ item.degree }}, {{ item.institution }}. {% if item.link %} {{ item.link }}{% endif %}
 {% endfor %}
 
+Academic Services
+----------------------------------
+
 {% for item in site.data.cv.leadership %}
   {{ item.dates }}
   :  {{ item.role }}, {{ item.activity }} {% if item.link %} {{ item.link }}{% endif %}
 {% endfor %}
-
 
 Awards and Honours
 ----------------------------------

@@ -1,4 +1,4 @@
-updated: 13 August 2021
+updated: 17 January 2022
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,8 +20,8 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 49
-  h-index: 4
+  citations: 64
+  h-index: 5
   i10-index: 1 
 
 interests: Environmental Humanities, Ecocriticism, Literary Theory, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
@@ -230,6 +230,39 @@ expertise:
   - item: Advanced programming skills in C, Ruby, Python and Javascript. 
 
 teaching:
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2022"
+    end_month: June
+    end_year: "2022"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Poetry
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2022"
+    end_month: June
+    end_year: "2022"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2021"
+    end_month: January
+    end_year: "2022"
+    semester: "1"
+    description:
+    credits: "3"
   - course: Creative Writing
     type: undergraduate
     institution: Mae Fah Luang University
@@ -1641,6 +1674,11 @@ supervision:
     description: 
 
 leadership:
+
+  - activity: "Curriculum Committee, English Major, School of Liberal Arts"
+    role: Member
+    dates: From 1 July 2021
+    link: 
 
   - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE/ASEAN)"
     role: Secretary

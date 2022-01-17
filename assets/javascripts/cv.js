@@ -692,8 +692,8 @@ $(document).ready(function() {
         ], columnGap: 5, style: 'full_text' })
       });
 */
-      // Research Supervision and Leadership
-      content.push(sectionHeading('Research Supervision and Leadership'));
+      // Research Supervision
+      content.push(sectionHeading('Research Supervision'));
       $.each(resumeContent['supervision'], function(i, item) {
         content.push({ columns: [
           {
@@ -709,6 +709,9 @@ $(document).ready(function() {
           },
         ], columnGap: 5, style: 'full_text' })
       });
+
+      // Research Supervision
+      content.push(sectionHeading('Academic Services'));   
       $.each(resumeContent['leadership'], function(i, item) {
         content.push({ columns: [
           {
