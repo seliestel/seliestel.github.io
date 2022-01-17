@@ -686,8 +686,8 @@ academic_articles:
     publisher: 
     place: 
     year: "2021"
-    submitted: "9 September 2020"
-    accepted: "6 March 2021"
+    submitted: 
+    accepted: 
     online:
     volume: 15
     number: 1
@@ -732,9 +732,9 @@ academic_articles:
     publisher: 
     place: 
     year: 2021
-    submitted: 21 December 2020
-    accepted: 7 March 2021
-    online: 18 May 2021
+    submitted: 
+    accepted: 
+    online: 
     volume: 19
     number: 2021
     pages: 615-632
@@ -757,7 +757,7 @@ academic_articles:
     year: "2020"
     submitted: 
     accepted: 
-    online: "8 October 2020"
+    online: 
     volume:
     number:
     pages:
