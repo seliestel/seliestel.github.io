@@ -1588,7 +1588,7 @@ grants:
     funder: Mae Fah Luang University
     link:
     amount: 200,000 THB
-    status: Approved
+    status: Completed
 
   - project: A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)
     dates: Oct 2017 - Oct 2018
@@ -1596,7 +1596,7 @@ grants:
     funder: Mae Fah Luang University
     link:
     amount: 100,000 THB
-    status: Completed project
+    status: Completed
     
   - project: A hermeneutical study of conflicting interpretations of the Asian elephants in the Karen village of Ban Ruammit
     dates: May 2016 - May 2017
