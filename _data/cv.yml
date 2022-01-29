@@ -1231,6 +1231,19 @@ other_articles:
 
 conferences:
 
+  - title: "Teaching Literature to ASEAN University Students"
+    type: Webinar
+    authors: Ribó, Ignasi
+    event: International symposium
+    topic: Reinventing University 2021
+    venue: Mae Fah Luang University
+    place: Online
+    day: "25"
+    month: March
+    year: "2022"
+    link: ""
+    status: To organise / moderate
+
   - title: "Nonhuman, Inhuman, Posthuman: Reflections on Literature beyond the Human"
     type: Paper
     authors: Ribó, Ignasi
@@ -1675,7 +1688,12 @@ supervision:
 
 leadership:
 
-  - activity: "Curriculum Committee, English Major, School of Liberal Arts"
+  - activity: "ASLE/ASEAN 5th Ecocritical Workshop Organizing Committee, Mae Fah Luang University"
+    role: Head
+    dates: 2022-2023
+    link: 
+
+  - activity: "Curriculum Committee, English Major, School of Liberal Arts, Mae Fah Luang University"
     role: Member
     dates: 2021-
     link: 
@@ -1780,6 +1798,16 @@ references:
     relation: Supervisor
     active: "No"
 
+  - name: Teeranuch Anurit
+    title: Ms
+    position: Assistant Professor / Assistant Dean, School of Liberal Arts
+    institution: Mae Fah Luang University, Chiang Rai, Thailand
+    phone: 
+    address:
+    email: teeranuch.anu@mfu.ac.th
+    relation: Supervisor
+    active: "No"
+
   - name: John Charles Ryan
     title: Dr.
     position: Honorary Research Fellow, English and Cultural Studies
@@ -1859,4 +1887,24 @@ references:
     email: llamollak@uoc.edu
     relation: Supervisor
     active: "Yes"
+
+  - name: Lily Rose Tope
+    title: Prof.
+    position: Professor, Comparative Literature
+    institution: University of the Philippines-Diliman
+    phone: +
+    address: 
+    email: lrtope@yahoo.com
+    relation: Colleague
+    active: "No"
+
+  - name: Zainor Izat Zainal
+    title: Dr
+    position: Associate Professor, Comparative Literature
+    institution: Universiti Putra Malaysia
+    phone: +
+    address: 
+    email: zainor@upm.edu.my
+    relation: Colleague
+    active: "No"
 
