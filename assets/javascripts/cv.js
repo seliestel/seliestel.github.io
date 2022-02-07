@@ -858,24 +858,24 @@ $(document).ready(function() {
           volume = volume + '.';
         }
         var link = '';
-        if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
+       if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + 'https://doi.org/' + item['doi'] + '.';
         if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
           link = link + ' Available at ' + item['link'] + '.';
         }
-        var additional = '';
+       var additional = '';
         if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
         if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
         if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
         content.push({
           stack: [
-             { text:
+            { text:
                [ 
                  basic_ref, { text: item['journal'], italics: true }, 
                  volume,
                  link,
                  additional
                ],
-               style: 'bibliography' 
+              style: 'bibliography' 
              }
            ], unbreakable: true
         });
