@@ -848,6 +848,7 @@ $(document).ready(function() {
       // Book reviews
       content.push(sectionSubheading('Book reviews'));
       $.each(resumeContent['academic_reviews'], function(i, item) {
+        var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
         var volume = '';
         if (item['volume'] != undefined && item['volume'].length > 0) volume = volume + item['volume'];
         if (item['number'] != undefined && item['number'].length > 0) volume = volume + '(' + item['number'] + ')';
