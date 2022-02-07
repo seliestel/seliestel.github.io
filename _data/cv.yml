@@ -1,4 +1,4 @@
-updated: 29 January 2022
+updated: 7 February 2022
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,7 +20,7 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 65
+  citations: 63
   h-index: 5
   i10-index: 1 
 
@@ -96,9 +96,9 @@ other_education:
 
     - degree: Master of Science
       subject: Education for Sustainable Development
-      institution: University of Gothenburg 
-      place: Gothenburg, Sweden (distance learning)
-      time: "Ongoing"
+      institution: University of Gothenburg, Sweden
+      place: Distance learning
+      time: "2021-2023 (ongoing)"
       begin: August 2021
       end: 
       awarded: 
@@ -573,7 +573,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link: https://en.mfu.ac.th
-    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Creative Writing, Nature and Environmental Writing, Academic Writing.'
+    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
