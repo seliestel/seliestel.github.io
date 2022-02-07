@@ -845,6 +845,42 @@ $(document).ready(function() {
         });
       });
 
+      // Book reviews
+      content.push(sectionSubheading('Book reviews'));
+      $.each(resumeContent['academic_reviews'], function(i, item) {
+        var volume = '';
+        if (item['volume'] != undefined && item['volume'].length > 0) volume = volume + item['volume'];
+        if (item['number'] != undefined && item['number'].length > 0) volume = volume + '(' + item['number'] + ')';
+        if (item['pages'] != undefined && item['pages'].length > 0) volume = volume + ': ' + item['pages'];
+        if (volume != undefined && volume.length > 0) {
+          volume = ' ' + volume + '.';
+        } else {
+          volume = volume + '.';
+        }
+        var link = '';
+        if (item['doi'] != undefined && item['doi'].length > 0) link = link + ' doi: ' + item['doi'] + '.';
+        if ((item['doi'] == undefined || item['doi'].length == 0) && (item['link'] != undefined && item['link'].length > 0)) {
+          link = link + ' Available at ' + item['link'] + '.';
+        }
+        var additional = '';
+        if (item['submitted'] != undefined && item['submitted'].length > 0) additional = ' Submitted: ' + item['submitted'] + '.';
+        if (item['accepted'] != undefined && item['accepted'].length > 0) additional = ' Accepted: ' + item['accepted'] + '.';
+        if (item['online'] != undefined && item['online'].length > 0) additional = ' Online: ' + item['online'] + '.';
+        content.push({
+          stack: [
+             { text:
+               [ 
+                 basic_ref, { text: item['journal'], italics: true }, 
+                 volume,
+                 link,
+                 additional
+               ],
+               style: 'bibliography' 
+             }
+           ], unbreakable: true
+        });
+      });
+
       content.push(sectionHeading('Book chapters'));
       $.each(resumeContent['chapters'], function(i, item) {
         var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '.';
