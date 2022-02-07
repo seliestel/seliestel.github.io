@@ -846,7 +846,7 @@ $(document).ready(function() {
       });
 
       // Book reviews
-      content.push(sectionSubheading('Book reviews'));
+      content.push(sectionHeading('Book reviews'));
       $.each(resumeContent['academic_reviews'], function(i, item) {
         var basic_ref = item['authors'] + '. ' + item['year'] + '. ' + item['title'] + '. ';
         var volume = '';
