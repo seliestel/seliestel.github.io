@@ -1241,7 +1241,7 @@ conferences:
     day: "25"
     month: March
     year: "2022"
-    link: ""
+    link: 
     status: To organise / moderate
 
   - title: "Nonhuman, Inhuman, Posthuman: Reflections on Literature beyond the Human"
@@ -1774,6 +1774,7 @@ various:
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
   - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, and Journal of Southeast Asian Ecocriticism."
   - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
+  - item: "Reviewer of book proposals for Routledge."
   - item: "Reviewer of postdoctoral applications for the Estonian Research Council (2020)."
   - item: "Reviewer of papers for 6th Asian Academic Society International Conference (2018)."
 
