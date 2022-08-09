@@ -15,7 +15,7 @@ bio:
   wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
-  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Assistant Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). He has also published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and a number of academic essays in various international journals."
+  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). He has also published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and a number of academic essays in various international journals."
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
@@ -104,6 +104,18 @@ other_education:
       awarded: 
       grade: 
       link: https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd
+      details: 
+
+    - degree: Certificate
+      subject: Introduction to Agent-Based Modeling
+      institution: Santa Fe Institute
+      place: Online
+      time: "2022"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: http://www.complexityexplorer.org
       details: 
 
     - degree: Certificate
@@ -565,7 +577,7 @@ teaching_merits:
 
 
 academic_employment:
-  - position: Assistant Professor of Comparative Literature
+  - position: Associate Professor of Comparative Literature
     university: Mae Fah Luang University
     department: School of Liberal Arts  
     time: Since 2016
@@ -573,7 +585,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link: https://en.mfu.ac.th
-    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing.'
+    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -712,8 +724,8 @@ academic_articles:
     submitted: 
     accepted: 
     online:
-    volume: 15
-    number: 1
+    volume: "15"
+    number: "1"
     pages: "103–139"
     abstract:
     doi:  "10.2478/jef-2021-0007"
@@ -735,9 +747,9 @@ academic_articles:
     submitted: 
     accepted: 
     online: 
-    volume: 19
-    number: 2021
-    pages: 615-632
+    volume: "19"
+    number: "2021"
+    pages: "615-632"
     abstract:
     doi: "10.25145/j.cedille.2021.19.25"
     gsid: 
@@ -1773,7 +1785,7 @@ various:
   - item: "Accreditation for tenure-track Lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de lector), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
-  - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, and Journal of Southeast Asian Ecocriticism."
+  - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, Southeast Asian Media Studies Journal, and Journal of Southeast Asian Ecocriticism."
   - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
   - item: "Reviewer of book proposals for Routledge."
   - item: "Reviewer of postdoctoral applications for the Estonian Research Council (2020)."
