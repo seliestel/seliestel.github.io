@@ -1,4 +1,4 @@
-updated: 21 May 2022
+updated: 1 September 2022
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,7 +20,7 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 66
+  citations: 59
   h-index: 5
   i10-index: 1 
 
@@ -1824,11 +1824,11 @@ references:
 
   - name: John Charles Ryan
     title: Dr.
-    position: Honorary Research Fellow, English and Cultural Studies
-    institution: University of Western Australia, Crawley, Australia
+    position: Adjunct Associate Professor
+    institution: Southern Cross University, Australia
     phone: 
     address:
-    email: john.c.ryan@uwa.edu.au
+    email: john.c.ryan@scu.edu.au
     relation: Editor
     active: "Yes"
 
