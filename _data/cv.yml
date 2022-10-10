@@ -697,17 +697,17 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "In press"
-    submitted: "25 June 2020"  
-    accepted: "30 January 2021"
+    year: 2022
+    submitted:   
+    accepted: 
     online:
     volume: "43"
     number: "3"
-    pages: 
+    pages: "549–581"
     abstract:
     doi: 
     gsid: 
-    link: 
+    link: "https://doi.org/10.1215/03335372-9780431"
     isbn: 
     num: 17
     scopus: Q1
@@ -766,13 +766,13 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "2020"
+    year: "2022"
     submitted: 
     accepted: 
     online: 
-    volume:
-    number:
-    pages:
+    volume: "29"
+    number: "3"
+    pages: "751–770"
     abstract:
     doi: "10.1093/isle/isaa140"
     gsid:
@@ -1118,9 +1118,9 @@ chapters:
     journal: 
     collection: "Open Semiotics"
     editors: Amir Biglari
-    publisher: L’Harmattan
-    place: Paris
-    year: "Forthcoming"
+    publisher: "L’Harmattan"
+    place: "Paris"
+    year: "In press"
     submitted:  
     accepted: 
     online:
