@@ -1,4 +1,4 @@
-updated: 10 October 2022
+updated: 27 January 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,11 +20,11 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 68
+  citations: 78
   h-index: 5
-  i10-index: 1 
+  i10-index: 2
 
-interests: Environmental Humanities, Ecocriticism, Literary Theory, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
+interests: Environmental Humanities, Ecocriticism, Literary Theory, Education for Sustainability, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
 
 education:
     - degree: Doctor of Philosophy
@@ -241,337 +241,6 @@ other_education:
 expertise:
   - item: Advanced programming skills in C, Ruby, Python and Javascript. 
 
-teaching:
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2022"
-    end_month: June
-    end_year: "2022"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Poetry
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2022"
-    end_month: June
-    end_year: "2022"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Cross-Cultural Communication
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2021"
-    end_month: January
-    end_year: "2022"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2021"
-    end_month: June
-    end_year: "2021"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Poetry
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2021"
-    end_month: June
-    end_year: "2021"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Cross-Cultural Communication
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2020"
-    end_month: January
-    end_year: "2021"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: English for Academic Purposes
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2020"
-    end_month: January
-    end_year: "2021"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Poetry
-    institution: Mae Fah Luang University
-    type: undergraduate
-    major: Bachelor in English 
-    begin_month: January
-    begin_year: "2020"
-    end_month: June
-    end_year: "2020"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Short Stories and Novels
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2016"
-    end_month: December
-    end_year: "2016"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Short Stories and Novels
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2017"
-    end_month: December
-    end_year: "2017"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Foundations and Analysis of Literary Works
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2018"
-    end_month: June
-    end_year: "2018"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Foundations and Analysis of Literary Works
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2019"
-    end_month: June
-    end_year: "2019"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2017"
-    end_month: June
-    end_year: "2017"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2018"
-    end_month: June
-    end_year: "2018"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2018"
-    end_month: December
-    end_year: "2018"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2019"
-    end_month: June
-    end_year: "2019"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Creative Writing
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English 
-    begin_month: January 
-    begin_year: "2020"
-    end_month: June
-    end_year: "2020"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Cross-Cultural Communication
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: January
-    begin_year: "2017"
-    end_month: June
-    end_year: "2017"
-    semester: "2"
-    description:
-    credits: "3"
-  - course: Cross-Cultural Communication
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2018"
-    end_month: December
-    end_year: "2018"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Cross-Cultural Communication
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2019"
-    end_month: December
-    end_year: "2019"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Critical and Analytical Skills
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English
-    begin_month: August
-    begin_year: "2016"
-    end_month: December
-    end_year: "2016"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Dirección Estratégica
-    type: undergraduate
-    institution: Universitat Oberta de Catalunya
-    major: Administració i Direcció d'Empreses
-    begin_month: January
-    begin_year: "2001"
-    end_month: 
-    end_year: 
-    semester: 
-    description:
-    credits: 
-  - course: Teoria literària
-    type: undergraduate
-    institution: Universitat Oberta de Catalunya
-    major: Filologia Catalana
-    begin_month: January
-    begin_year: "2009"
-    end_month: June
-    end_year: "2018"
-    semester: 
-    description:
-    credits: 
-  - course: English for Academic Purposes
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: Bachelor in English 
-    begin_month: August
-    begin_year: "2019"
-    end_month: December
-    end_year: "2019"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: English for Academic Purposes
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: General English
-    begin_month: August
-    begin_year: "2016"
-    end_month: December
-    end_year: "2016"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: English for Academic Purposes
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: General English
-    begin_month: August
-    begin_year: "2017"
-    end_month: December
-    end_year: "2017"
-    semester: "1"
-    description:
-    credits: "3"
-  - course: Upper Intensive English
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: General English
-    begin_month: June
-    begin_year: "2016"
-    end_month: August
-    end_year: "2016"
-    semester: "3"
-    description:
-    credits: "3"
-  - course: Upper Intensive English
-    type: undergraduate
-    institution: Mae Fah Luang University
-    major: General English
-    begin_month: June
-    begin_year: "2017"
-    end_month: August
-    end_year: "2017"
-    semester: "3"
-    description:
-    credits: "3"
-  - course: Strategic Management
-    type: undergraduate
-    institution: Universitat Oberta de Catalunya
-    major: Business Administration
-    begin_month: January
-    begin_year: "2011"
-    end_month: June
-    end_year: "2011"
-    semester: "2"
-    description:
-    credits: "6"
-  - course: Strategic Management
-    type: undergraduate
-    institution: Universitat Oberta de Catalunya
-    major: Business Administration
-    begin_month: January
-    begin_year: "2011"
-    end_month: June
-    end_year: "2011"
-    semester: "2"
-    description:
-    credits: "6"
 
 teaching_merits:
 
@@ -1922,3 +1591,380 @@ references:
     relation: Colleague
     active: "No"
 
+
+
+teaching:
+  - course: Environment, Literature and Culture
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2023"
+    end_month: June
+    end_year: "2023"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2023"
+    end_month: June
+    end_year: "2023"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Poetry
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2022"
+    end_month: December
+    end_year: "2022"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Study of Narrative
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2022"
+    end_month: December
+    end_year: "2022"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2022"
+    end_month: June
+    end_year: "2022"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Poetry
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2022"
+    end_month: June
+    end_year: "2022"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2021"
+    end_month: January
+    end_year: "2022"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2021"
+    end_month: June
+    end_year: "2021"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Poetry
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2021"
+    end_month: June
+    end_year: "2021"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2020"
+    end_month: January
+    end_year: "2021"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2020"
+    end_month: January
+    end_year: "2021"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Poetry
+    institution: Mae Fah Luang University
+    type: undergraduate
+    major: Bachelor in English 
+    begin_month: January
+    begin_year: "2020"
+    end_month: June
+    end_year: "2020"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Short Stories and Novels
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Short Stories and Novels
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2017"
+    end_month: December
+    end_year: "2017"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Foundations and Analysis of Literary Works
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2018"
+    end_month: June
+    end_year: "2018"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Foundations and Analysis of Literary Works
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2019"
+    end_month: June
+    end_year: "2019"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2017"
+    end_month: June
+    end_year: "2017"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2018"
+    end_month: June
+    end_year: "2018"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2018"
+    end_month: December
+    end_year: "2018"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2019"
+    end_month: June
+    end_year: "2019"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Creative Writing
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English 
+    begin_month: January 
+    begin_year: "2020"
+    end_month: June
+    end_year: "2020"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: January
+    begin_year: "2017"
+    end_month: June
+    end_year: "2017"
+    semester: "2"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2018"
+    end_month: December
+    end_year: "2018"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Cross-Cultural Communication
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2019"
+    end_month: December
+    end_year: "2019"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Critical and Analytical Skills
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Dirección Estratégica
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Administració i Direcció d'Empreses
+    begin_month: January
+    begin_year: "2001"
+    end_month: 
+    end_year: 
+    semester: 
+    description:
+    credits: 
+  - course: Teoria literària
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Filologia Catalana
+    begin_month: January
+    begin_year: "2009"
+    end_month: June
+    end_year: "2018"
+    semester: 
+    description:
+    credits: 
+  - course: English for Academic Purposes
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: Bachelor in English 
+    begin_month: August
+    begin_year: "2019"
+    end_month: December
+    end_year: "2019"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: August
+    begin_year: "2016"
+    end_month: December
+    end_year: "2016"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: English for Academic Purposes
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: August
+    begin_year: "2017"
+    end_month: December
+    end_year: "2017"
+    semester: "1"
+    description:
+    credits: "3"
+  - course: Upper Intensive English
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: June
+    begin_year: "2016"
+    end_month: August
+    end_year: "2016"
+    semester: "3"
+    description:
+    credits: "3"
+  - course: Upper Intensive English
+    type: undergraduate
+    institution: Mae Fah Luang University
+    major: General English
+    begin_month: June
+    begin_year: "2017"
+    end_month: August
+    end_year: "2017"
+    semester: "3"
+    description:
+    credits: "3"
+  - course: Strategic Management
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Business Administration
+    begin_month: January
+    begin_year: "2011"
+    end_month: June
+    end_year: "2011"
+    semester: "2"
+    description:
+    credits: "6"
+  - course: Strategic Management
+    type: undergraduate
+    institution: Universitat Oberta de Catalunya
+    major: Business Administration
+    begin_month: January
+    begin_year: "2011"
+    end_month: June
+    end_year: "2011"
+    semester: "2"
+    description:
+    credits: "6"
