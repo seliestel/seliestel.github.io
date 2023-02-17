@@ -1301,7 +1301,19 @@ grants:
     status: Completed
 
 supervision:
-  - activity: "Senior Project: Anthropocene fictions"
+
+  - activity: "Senior Project: Climate Fiction"
+    role: "Supervised"
+    dates: Jan - May 2023
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "5"
+    credits: "3"
+    description: 
+
+  - activity: "Senior Project: Anthropocene Fictions"
     role: "Supervised"
     dates: Jan - May 2022
     type: undergraduate
@@ -1312,7 +1324,7 @@ supervision:
     credits: "3"
     description: 
 
-  - activity: "Senior Project: Ecocritical readings"
+  - activity: "Senior Project: Ecocritical Readings"
     role: "Supervised"
     dates: Jan - May 2021
     type: undergraduate
@@ -1323,7 +1335,7 @@ supervision:
     credits: "3"
     description: 
 
-  - activity: "Senior Project: Ethnopoetic research"
+  - activity: "Senior Project: Ethnopoetic Research"
     role: "Supervised"
     dates: Jan - May 2020
     type: undergraduate
