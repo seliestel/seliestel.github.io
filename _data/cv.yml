@@ -1,4 +1,4 @@
-updated: 27 January 2023
+updated: 17 February 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,7 +20,7 @@ bio:
   picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
 
 impact:
-  citations: 78
+  citations: 80
   h-index: 5
   i10-index: 2
 
@@ -85,7 +85,7 @@ education:
       begin: September 1989
       end: June 1995
       awarded: March 1998
-      grade: 
+      grade: "2.96 / 4"
       link: https://www.esade.edu
       details: |
         Master Community of European Management Schools (CEMS).
@@ -254,7 +254,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link: https://en.mfu.ac.th
-    details: 'Taught courses in Cross-Cultural Communication, Foundations and Analysis of Literary Works, Short Stories and Novels, Study of Narrative, Poetry, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
+    details: 'Taught courses in Environment, Literature and Culture, Foundations and Analysis of Literary Works, Short Stories and Novels, Study of Narrative, Poetry, Cross-Cultural Communication, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -630,7 +630,7 @@ academic_articles:
     doi: 
     gsid: 
     link: "https://www.llull.cat/IMAGES_175/transfer04-essa01.pdf"
-    isbn: 
+    isbn: 1886-2349
     num: 6
     scopus: 
     reviews:
@@ -1454,6 +1454,7 @@ various:
   - item: "Accreditation for tenure-track Lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de lector), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
+  - item: "Member of Academic Committee for the 15th International Conference on Humanities and Social Sciences (ICHiSS): Collaborative Reflections on Language, Culture, and Society for a Sustainable Future (Hat Yai, Thailand, 2023)"
   - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, Southeast Asian Media Studies Journal, and Journal of Southeast Asian Ecocriticism."
   - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
   - item: "Reviewer of book proposals for Routledge."
@@ -1591,6 +1592,15 @@ references:
     relation: Colleague
     active: "No"
 
+  - name: Xavier Pla
+    title: Dr
+    position: Professor, Catalan Philology
+    institution: Universitat de Girona
+    phone: +
+    address: 
+    email: xavier.pla@udg.edu
+    relation: Former professor
+    active: "No"
 
 
 teaching:
