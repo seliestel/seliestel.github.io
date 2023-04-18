@@ -15,9 +15,9 @@ bio:
   wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
   scopusid: "35330729400"
-  academic_short: "Ignasi Ribó (PhD, University of Sussex) is an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Biosemiotics, Ecocriticism, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). He has also published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and a number of academic essays in various international journals."
+  academic_short: "Ignasi Ribó (PhD) is an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Ecosemiotics, Ecocriticism, Education for Sustainability, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). He has also published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and several academic essays in international journals."
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
-  picture: "https://www.ignasiribo.com/assets/img/ignasifoto.jpg"
+  picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
 
 impact:
   citations: 80
@@ -104,6 +104,30 @@ other_education:
       awarded: 
       grade: 
       link: https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd
+      details: 
+
+    - degree: Certificate
+      subject: Habitable Worlds
+      institution: Arizona State University
+      place: Online
+      time: "2023"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: 
+      details: 
+
+    - degree: Certificate
+      subject: Astronomy
+      institution: University of Central Lancashire
+      place: Online
+      time: "2023"
+      begin: September 2022 
+      end: June 2023
+      awarded: 
+      grade: 
+      link: https://www.uclan.ac.uk/cpd/courses/astronomy-cert
       details: 
 
     - degree: Certificate
@@ -239,7 +263,7 @@ other_education:
       details: 
 
 expertise:
-  - item: Advanced programming skills in C, Ruby, Python and Javascript. 
+  - item: Advanced programming skills in C, Python, Ruby, and Javascript. 
 
 
 teaching_merits:
@@ -254,7 +278,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link: https://en.mfu.ac.th
-    details: 'Taught courses in Environment, Literature and Culture, Foundations and Analysis of Literary Works, Short Stories and Novels, Study of Narrative, Poetry, Cross-Cultural Communication, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
+    details: 'Taught courses in Environment, Literature and Culture, Foundations and Analysis of Literary Works, Short Stories and Novels, Study of Narrative, World Literature, Poetry, Cross-Cultural Communication, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -359,6 +383,29 @@ academic_reviews:
 
 academic_articles:
 
+  - title: "From global citizenship to Anthropocene denizenship: the challenge to education for sustainable development"
+    authors: Ribó, Ignasi
+    journal: "Critical Studies in Education"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "Accepted"
+    submitted:   
+    accepted: "12/04/2023" 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    num: 20
+    scopus: Q1
+    reviews:
+
   - title: "Poetics of cohabitation: an ecosemiotic theory of oral poiesis"
     authors: Ribó, Ignasi
     journal: "Poetics Today: International Journal for Theory and Analysis of Literature and Communication"
@@ -378,7 +425,7 @@ academic_articles:
     gsid: 
     link: "https://doi.org/10.1215/03335372-9780431"
     isbn: 
-    num: 17
+    num: 19
     scopus: Q1
     reviews:
 
@@ -911,6 +958,32 @@ other_articles:
     link:
 
 conferences:
+
+  - title: "Education for Sustainability in the Anthropocene: Toward a Posthumanist Curriculum"
+    type: Plenary speech
+    authors: Ribó, Ignasi
+    event: Asia Pacific Consortium of Researchers and Educators Conference (APCORE 2023)
+    topic: "Sustainable Research and Education: Trajectories, Hopes, Alarms, and Expectations"
+    venue: Grand Asrilia Hotel
+    place: Bandung, Indonesia
+    day: "29-31"
+    month: August
+    year: "2023"
+    link: 
+    status: To be presented
+
+  - title: "ChatGPT Workshop: Challenges and Opportunities of AI for Liberal Arts"
+    type: Workshop
+    authors: Ribó, Ignasi
+    event: School of Liberal Arts Talks
+    topic: 
+    venue: Mae Fah Luang University
+    place: Chiang Rai, Thailand
+    day: "17"
+    month: March
+    year: "2023"
+    link: 
+    status: Presented
 
   - title: "Teaching Literature to ASEAN University Students"
     type: Webinar
@@ -1467,7 +1540,7 @@ various:
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
   - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
   - item: "Member of Academic Committee for the 15th International Conference on Humanities and Social Sciences (ICHiSS): Collaborative Reflections on Language, Culture, and Society for a Sustainable Future (Hat Yai, Thailand, 2023)"
-  - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, Southeast Asian Media Studies Journal, and Journal of Southeast Asian Ecocriticism."
+  - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, Southeast Asian Media Studies Journal, Education Sciences, and Journal of Southeast Asian Ecocriticism."
   - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
   - item: "Reviewer of book proposals for Routledge."
   - item: "Reviewer of postdoctoral applications for the Estonian Research Council (2020)."
@@ -1596,7 +1669,7 @@ references:
 
   - name: Zainor Izat Zainal
     title: Dr
-    position: Associate Professor, Comparative Literature
+    position: Lecturer, Comparative Literature
     institution: Universiti Putra Malaysia
     phone: +
     address: 
