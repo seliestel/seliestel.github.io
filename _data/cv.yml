@@ -1,4 +1,4 @@
-updated: 18 April 2023
+updated: 4 May 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -238,7 +238,7 @@ other_education:
       link: https://www.udg.edu
       details: 
 
-    - degree: European Management and International Business Studies (exchange) 
+    - degree: European Management and International Business Studies 
       subject: "Europe-Asia: Economy, Politics, Society"
       institution: Hautes Études Commerciales (HEC)
       place: Paris, France
@@ -250,7 +250,7 @@ other_education:
       link: https://www.hec.edu
       details: 
 
-    - degree: International Management Program (exchange)
+    - degree: International Management Program
       subject: "Global Banking and Capital Markets"
       institution: Stern School of Business, New York University
       place: New York, United States
@@ -283,12 +283,12 @@ academic_employment:
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
     department: Faculty of Humanities / Faculty of Management
-    time: 2002 - 2016
+    time: 2002 - 
     begin: February 2002 
-    end: June 2016
+    end: 
     place: Barcelona, Spain
     link: https://www.uoc.edu
-    details: 'Taught courses in Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy and Corporate Social Responsibility. Supervised theses in Master in Management of Knowledge-Based Organisations. Part-time job.'
+    details: 'Taught courses in Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy. Supervised theses in Master in Management of Knowledge-Based Organisations. Part-time job.'
 
 other_employment:
   - position: Consultant
@@ -1193,6 +1193,14 @@ books:
     isbn: "9781783748105"
     link: "https://www.openbookpublishers.com/product/1087"
     reviews:
+      - reviewers: Harding, J. D.
+        journal: "Choice"
+        year: "2020"
+        volume: "58"
+        number: "1"
+        pages: "38"
+        doi: 
+        link: "https://www.proquest.com/trade-journals/prose-fiction-introduction-semiotics-narrative/docview/2460133980/se-2"
 
   - title: "Habitat: The Ecopolitical Nation"
     type: Essay
@@ -1547,6 +1555,16 @@ various:
   - item: "Reviewer of papers for 6th Asian Academic Society International Conference (2018)."
 
 references:
+  - name: Helena Pedersen
+    title: Dr.
+    position: Senior Lecturer
+    institution: University of Gothenburg, Sweden
+    phone: 
+    address:
+    email: helena.pedersen@gu.se
+    relation: Thesis advisor
+    active: "Yes"
+
   - name: Romyen Kosaikanont
     title: Dr.
     position: Assistant Professor/ Dean, School of Liberal Arts / VicePresident
