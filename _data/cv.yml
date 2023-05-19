@@ -1,4 +1,4 @@
-updated: 4 May 2023
+updated: 19 May 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -1462,7 +1462,12 @@ supervision:
 
 leadership:
 
-  - activity: "ASLE/ASEAN 5th Ecocritical Workshop Organizing Committee, Mae Fah Luang University"
+  - activity: "Linguistics, Literature and Language Education for Sustainability (research unit)"
+    role: Member
+    dates: "2023-"
+    link: ""
+
+  - activity: "ASLE/ASEAN 5th Ecocritical Conference Organizing Committee, Mae Fah Luang University"
     role: Head
     dates: 2022-2023
     link: "https://asleasean.mfu.ac.th"
