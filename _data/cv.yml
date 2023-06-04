@@ -1,4 +1,4 @@
-updated: 19 May 2023
+updated: 4 June 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,7 +20,7 @@ bio:
   picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
 
 impact:
-  citations: 85
+  citations: 87
   h-index: 5
   i10-index: 2
 
@@ -829,6 +829,29 @@ academic_articles:
 
 chapters:
 
+  - title: "Beyond the Dharma: Cultivating More-Than-Human Sustain-abilities Through Buddhist Stories in Thailand"
+    authors: Ribó, Ignasi
+    journal: 
+    collection: ""
+    editors: Otto Franck and Sally Windsor
+    publisher: "Springer"
+    place: "London"
+    year: "In progress"
+    submitted:  
+    accepted: 
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    scopus: 
+    num: 21
+    reviews:
+
   - title: "Semiotics and Posthumanism"
     authors: Ribó, Ignasi
     journal: 
@@ -958,6 +981,19 @@ other_articles:
     link:
 
 conferences:
+
+  - title: "Teaching Literature Beyond the Human: Insights from a Postqualitative Research Project"
+    type: Presentation
+    authors: Ribó, Ignasi
+    event: 7th International Conference on Multidisciplinary Research, Language, Literature and Culture (ICMLLC-2023)
+    topic: ""
+    venue: 
+    place: Online
+    day: "27-28"
+    month: May
+    year: "2023"
+    link: 
+    status: Presented
 
   - title: "Education for Sustainability in the Anthropocene: Toward a Posthumanist Curriculum"
     type: Plenary speech
@@ -1461,6 +1497,11 @@ supervision:
     description: 
 
 leadership:
+
+  - activity: "Connexion: Journal of Humanities and Social Sciences"
+    role: Editorial Board member
+    dates: "2023-"
+    link: ""
 
   - activity: "Linguistics, Literature and Language Education for Sustainability (research unit)"
     role: Member
