@@ -1,4 +1,4 @@
-updated: 4 June 2023
+updated: 23 October 2023
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,8 +20,8 @@ bio:
   picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
 
 impact:
-  citations: 87
-  h-index: 5
+  citations: 100
+  h-index: 6
   i10-index: 2
 
 interests: Environmental Humanities, Ecocriticism, Literary Theory, Education for Sustainability, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
@@ -38,7 +38,20 @@ education:
       grade: 
       link: https://www.sussex.ac.uk
       details: |
-        Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D.
+        Thesis: “The One-Winged Angel: History and Memory in the Literary Discourse of W. G. Sebald” (2008). Advisor: Daniel Steuer, Ph.D. Link: https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.487093
+
+    - degree: Master of Science
+      subject: Education and Sustainability
+      institution: University of Gothenburg
+      place: Gothenburg, Sweden
+      time: "2021-2023"
+      begin: August 2021
+      end: June 2023
+      awarded: June 2023
+      grade: A
+      link: https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd
+      details: |
+        Thesis: “Assembling More-than-human Sustain-abilities in the Ecocritical Classroom: A Posthumanist Approach to the Literary Curriculum" (2023). Advisor: Helena Pedersen, Ph.D.
 
     - degree: Diploma d'Estudis Avançats (Master of Advanced Studies)
       subject: Comparative Study of Language and Literature
@@ -94,16 +107,28 @@ education:
 
 other_education:
 
-    - degree: Master of Science
-      subject: Education for Sustainable Development
-      institution: University of Gothenburg, Sweden
-      place: Distance learning
-      time: "2021-2023 (ongoing)"
-      begin: August 2021
+    - degree: Certificate
+      subject: "Geology"
+      institution: University of Stockholm
+      place: Online
+      time: "Ongoing"
+      begin: 
       end: 
       awarded: 
       grade: 
-      link: https://www.gu.se/en/study-gothenburg/education-for-sustainable-development-masters-programme-s2esd
+      link: 
+      details: 
+
+    - degree: Certificate
+      subject: "Probability: The Science of Uncertainty and Data"
+      institution: MIT-EdX
+      place: Online
+      time: "Ongoing"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: 
       details: 
 
     - degree: Certificate
@@ -125,8 +150,8 @@ other_education:
       time: "2023"
       begin: September 2022 
       end: June 2023
-      awarded: 
-      grade: 
+      awarded: June 2023
+      grade: Distinction
       link: https://www.uclan.ac.uk/cpd/courses/astronomy-cert
       details: 
 
@@ -278,7 +303,7 @@ academic_employment:
     end: 
     place: Chiang Rai, Thailand
     link: https://en.mfu.ac.th
-    details: 'Taught courses in Environment, Literature and Culture, Foundations and Analysis of Literary Works, Short Stories and Novels, Study of Narrative, World Literature, Poetry, Cross-Cultural Communication, Critical and Analytical Skills, Global Citizenship, Creative Writing, Nature and Environmental Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
+    details: 'Taught courses in Environment, Literature and Culture, Study of Narrative, World Literature, Foundations and Analysis of Literary Works, Short Stories and Novels, Poetry, Cross-Cultural Communication, Critical and Analytical Skills, Global Citizenship, Creative Writing, Academic Writing. Appointed Lecturer in 2016, Assistant Professor in 2019, and Associate Professor in 2021.'
 
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
@@ -390,15 +415,15 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Accepted"
+    year: 2023
     submitted:   
-    accepted: "12/04/2023" 
+    accepted:  
     online:
     volume: 
     number: 
     pages: 
     abstract:
-    doi: 
+    doi: "10.1080/17508487.2023.2222762"
     gsid: 
     link: 
     isbn: 
@@ -421,9 +446,9 @@ academic_articles:
     number: "3"
     pages: "549–581"
     abstract:
-    doi: 
+    doi: "10.1215/03335372-9780431"
     gsid: 
-    link: "https://doi.org/10.1215/03335372-9780431"
+    link: 
     isbn: 
     num: 19
     scopus: Q1
@@ -750,7 +775,7 @@ academic_articles:
     number: 
     pages: "9-26"
     abstract:
-    doi: 
+    doi: 10.4067/s0718-22012006000100002
     gsid: 
     link: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es
     isbn: 
@@ -829,16 +854,16 @@ academic_articles:
 
 chapters:
 
-  - title: "Beyond the Dharma: Cultivating More-Than-Human Sustain-abilities Through Buddhist Stories in Thailand"
+  - title: "Beyond the Dhamma: Cultivating More-Than-Human Sustain-abilities Through Buddhist Stories in Thailand"
     authors: Ribó, Ignasi
     journal: 
-    collection: ""
+    collection: "Handbook of Religion, Education, and Sustainability"
     editors: Otto Franck and Sally Windsor
     publisher: "Springer"
     place: "London"
-    year: "In progress"
+    year: "In press"
     submitted:  
-    accepted: 
+    accepted: 29/06/2023
     online:
     volume: 
     number: 
@@ -855,17 +880,17 @@ chapters:
   - title: "Semiotics and Posthumanism"
     authors: Ribó, Ignasi
     journal: 
-    collection: "Open Semiotics"
+    collection: "Open Semiotics. Volume 1: Epistemological and Conceptual Foundations"
     editors: Amir Biglari
     publisher: "L’Harmattan"
     place: "Paris"
-    year: "In press"
+    year: "2023"
     submitted:  
     accepted: 
     online:
-    volume: 
+    volume: 1
     number: 
-    pages: 
+    pages: 455-468
     abstract:
     doi: 
     gsid: 
@@ -982,19 +1007,6 @@ other_articles:
 
 conferences:
 
-  - title: "Teaching Literature Beyond the Human: Insights from a Postqualitative Research Project"
-    type: Presentation
-    authors: Ribó, Ignasi
-    event: 7th International Conference on Multidisciplinary Research, Language, Literature and Culture (ICMLLC-2023)
-    topic: ""
-    venue: 
-    place: Online
-    day: "27-28"
-    month: May
-    year: "2023"
-    link: 
-    status: Presented
-
   - title: "Education for Sustainability in the Anthropocene: Toward a Posthumanist Curriculum"
     type: Plenary speech
     authors: Ribó, Ignasi
@@ -1007,6 +1019,19 @@ conferences:
     year: "2023"
     link: 
     status: To be presented
+
+  - title: "Teaching Literature Beyond the Human: Insights from a Postqualitative Research Project"
+    type: Presentation
+    authors: Ribó, Ignasi
+    event: 7th International Conference on Multidisciplinary Research, Language, Literature and Culture (ICMLLC-2023)
+    topic: ""
+    venue: 
+    place: Online
+    day: "27-28"
+    month: May
+    year: "2023"
+    link: 
+    status: Presented
 
   - title: "ChatGPT Workshop: Challenges and Opportunities of AI for Liberal Arts"
     type: Workshop
@@ -1589,6 +1614,7 @@ languages:
     diploma: 
 
 various:
+  - item: "Fellow United Kingdom Professional Standards Framework (UKPSF, AdvanceHE, October 2023)."
   - item: "Accreditation for Associate Professor from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de recerca), 2022."
   - item: "Accreditation for tenure-track Lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de lector), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
@@ -1780,9 +1806,9 @@ teaching:
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
-    begin_year: "2022"
+    begin_year: "2023"
     end_month: December
-    end_year: "2022"
+    end_year: "2023"
     semester: "1"
     description:
     credits: "3"
@@ -1791,9 +1817,9 @@ teaching:
     institution: Mae Fah Luang University
     major: Bachelor in English
     begin_month: August
-    begin_year: "2022"
+    begin_year: "2023"
     end_month: December
-    end_year: "2022"
+    end_year: "2023"
     semester: "1"
     description:
     credits: "3"
