@@ -1007,6 +1007,19 @@ other_articles:
 
 conferences:
 
+  - title: "Anthropocene Denizenship Education: A New Approach to Education for Sustainability"
+    type: Plenary speech
+    authors: Ribó, Ignasi
+    event: International Conference on Technology, Education, and Science (InCoTES 2023)
+    topic: "Enhancing Global Joint Research and Publication"
+    venue: 
+    place: Online
+    day: "28"
+    month: October
+    year: "2023"
+    link: 
+    status: Presented
+
   - title: "Education for Sustainability in the Anthropocene: Toward a Posthumanist Curriculum"
     type: Plenary speech
     authors: Ribó, Ignasi
@@ -1018,7 +1031,7 @@ conferences:
     month: August
     year: "2023"
     link: 
-    status: To be presented
+    status: Presented
 
   - title: "Teaching Literature Beyond the Human: Insights from a Postqualitative Research Project"
     type: Presentation
@@ -1533,8 +1546,8 @@ leadership:
     dates: "2023-"
     link: ""
 
-  - activity: "ASLE/ASEAN 5th Ecocritical Conference Organizing Committee, Mae Fah Luang University"
-    role: Head
+  - activity: "ASLE-ASEAN 5th Ecocritical Conference Organizing Committee, Mae Fah Luang University"
+    role: Chair
     dates: 2022-2023
     link: "https://asleasean.mfu.ac.th"
 
@@ -1543,7 +1556,7 @@ leadership:
     dates: 2021-
     link: 
 
-  - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE/ASEAN)"
+  - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE-ASEAN)"
     role: Secretary
     dates: 2021-
     link: "https://aseanasle.wordpress.com/"
@@ -1618,7 +1631,7 @@ various:
   - item: "Accreditation for Associate Professor from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de recerca), 2022."
   - item: "Accreditation for tenure-track Lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de lector), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
-  - item: "Member of the Association for the Study of Literature and the Environment (ASLE/ASEAN) https://aseanasle.wordpress.com (since 2018)."
+  - item: "Member of the Association for the Study of Literature and the Environment (ASLE-ASEAN) https://aseanasle.wordpress.com (since 2018)."
   - item: "Member of Academic Committee for the 15th International Conference on Humanities and Social Sciences (ICHiSS): Collaborative Reflections on Language, Culture, and Society for a Sustainable Future (Hat Yai, Thailand, 2023)"
   - item: "Reviewer of submitted articles for the journals Humanities, CLCWeb, Sustainability, Southeast Asian Media Studies Journal, Education Sciences, and Journal of Southeast Asian Ecocriticism."
   - item: "Reviewer of contributions for the edited collection Southeast Asian Media Studies (ed. John Charles Ryan, 2019)."
