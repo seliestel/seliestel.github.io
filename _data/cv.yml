@@ -1,4 +1,4 @@
-updated: 17 December 2023
+updated: 30 March 2024
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,11 +20,11 @@ bio:
   picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
 
 impact:
-  citations: 100
+  citations: 105
   h-index: 6
   i10-index: 2
 
-interests: Environmental Humanities, Ecocriticism, Literary Theory, Education for Sustainability, Biosemiotics, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies.
+interests: Environmental Humanities, Ecocriticism, Ecosemiotics, Literary Theory, Education for Sustainability, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies
 
 education:
     - degree: Doctor of Philosophy
@@ -408,6 +408,29 @@ academic_reviews:
 
 academic_articles:
 
+  - title: "Developing more-than-human sustain-abilities in the ecocritical classroom"
+    authors: Ribó, Ignasi
+    journal: "Environmental Education Research"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "In press"
+    submitted:   
+    accepted:  
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    num: 20
+    scopus: Q1
+    reviews:
+
   - title: "From global citizenship to Anthropocene denizenship: the challenge to education for sustainable development"
     authors: Ribó, Ignasi
     journal: "Critical Studies in Education"
@@ -419,15 +442,15 @@ academic_articles:
     submitted:   
     accepted:  
     online:
-    volume: 
-    number: 
-    pages: 
+    volume: 65
+    number: 1
+    pages: 75-92
     abstract:
     doi: "10.1080/17508487.2023.2222762"
     gsid: 
     link: 
     isbn: 
-    num: 20
+    num: 19
     scopus: Q1
     reviews:
 
@@ -450,7 +473,7 @@ academic_articles:
     gsid: 
     link: 
     isbn: 
-    num: 19
+    num: 18
     scopus: Q1
     reviews:
 
@@ -473,7 +496,7 @@ academic_articles:
     gsid: 
     link: "https://www.jef.ee/index.php/journal/article/view/391/630"
     isbn: 
-    num: 18
+    num: 17
     scopus: Q3
     reviews:
 
@@ -854,7 +877,7 @@ academic_articles:
 
 chapters:
 
-  - title: "Beyond the Dhamma: Cultivating More-Than-Human Sustain-abilities Through Buddhist Stories in Thailand"
+  - title: "Beyond the Dhamma: Cultivating more-than-human sustain-abilities through Buddhist stories in Thailand"
     authors: Ribó, Ignasi
     journal: 
     collection: "Handbook of Religion, Education, and Sustainability"
@@ -877,7 +900,7 @@ chapters:
     num: 21
     reviews:
 
-  - title: "Semiotics and Posthumanism"
+  - title: "Semiotics and posthumanism"
     authors: Ribó, Ignasi
     journal: 
     collection: "Open Semiotics. Volume 1: Epistemological and Conceptual Foundations"
@@ -1255,6 +1278,19 @@ conferences:
     status: Presented
 
 books:
+  - title: "Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries"
+    type: Edited collection
+    language: English
+    authors: Ribó, Ignasi
+    publisher: Lexington Books
+    place: Lanham, MA
+    year: "In progress"
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+
   - title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
     type: Textbook
     language: English
