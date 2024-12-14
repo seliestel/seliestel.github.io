@@ -123,7 +123,7 @@ other_education:
       subject: "Probability: The Science of Uncertainty and Data"
       institution: MIT-EdX
       place: Online
-      time: "Ongoing"
+      time: "2023"
       begin: 
       end: 
       awarded: 
@@ -132,7 +132,7 @@ other_education:
       details: 
 
     - degree: Certificate
-      subject: Habitable Worlds
+      subject: "Habitable Worlds"
       institution: Arizona State University
       place: Online
       time: "2023"
@@ -144,7 +144,7 @@ other_education:
       details: 
 
     - degree: Certificate
-      subject: Astronomy
+      subject: "Astronomy"
       institution: University of Central Lancashire
       place: Online
       time: "2023"
@@ -415,15 +415,15 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "In press"
+    year: "2024"
     submitted:   
     accepted:  
     online:
-    volume: 
-    number: 
-    pages: 
+    volume: 30
+    number: 9
+    pages: 1587–1603
     abstract:
-    doi: 
+    doi: "10.1080/13504622.2024.2341171"
     gsid: 
     link: 
     isbn: 
@@ -800,7 +800,7 @@ academic_articles:
     abstract:
     doi: 10.4067/s0718-22012006000100002
     gsid: 
-    link: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es
+    link: "https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-22012006000100002&lng=en&nrm=iso&tlng=es"
     isbn: 
     num: 4
     scopus: Q3
@@ -823,7 +823,7 @@ academic_articles:
     abstract:
     doi: 
     gsid: 
-    link: https://www.raco.cat/index.php/Marges/article/view/142086
+    link: "https://www.raco.cat/index.php/Marges/article/view/142086"
     isbn: 
     num: 3
     scopus: 
@@ -831,7 +831,7 @@ academic_articles:
 
   - title: "Galatea o la leche: la descripción de la belleza femenina en Teócrito, Ovidio y Góngora"
     authors: Ribó, Ignasi
-    journal: ". Lemir. Revista de Literatura Española Medieval y del Renacimiento"
+    journal: "Lemir. Revista de Literatura Española Medieval y del Renacimiento"
     collection: 
     editors: 
     publisher: 
@@ -846,7 +846,7 @@ academic_articles:
     abstract:
     doi: 
     gsid: 
-    link: http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm
+    link: "http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm"
     isbn: 
     num: 2
     scopus: 
@@ -869,7 +869,7 @@ academic_articles:
     abstract:
     doi: 
     gsid: 
-    link: https://webs.ucm.es/info/especulo/numero33/fnidilio.html
+    link: "https://webs.ucm.es/info/especulo/numero33/fnidilio.html"
     isbn:
     num: 1
     scopus: 
@@ -880,13 +880,13 @@ chapters:
   - title: "Beyond the Dhamma: Cultivating more-than-human sustain-abilities through Buddhist stories in Thailand"
     authors: Ribó, Ignasi
     journal: 
-    collection: "Handbook of Religion, Education, and Sustainability"
-    editors: Otto Franck and Sally Windsor
+    collection: "Intersections of Religion, Education, and a Sustainable World"
+    editors: Sally Windsor and Olof Franck
     publisher: "Springer"
-    place: "London"
+    place: "Cham"
     year: "In press"
     submitted:  
-    accepted: 29/06/2023
+    accepted: "29/06/2023"
     online:
     volume: 
     number: 
@@ -1663,7 +1663,8 @@ languages:
     diploma: 
 
 various:
-  - item: "Fellow United Kingdom Professional Standards Framework (UKPSF, AdvanceHE, October 2023)."
+  - item: "Fellow Royal Astronomical Society (since October 2024)."
+  - item: "Fellow Higher Education Academy (Advance HE) (United Kingdom Professional Standards Framework, AdvanceHE, since October 2023)."
   - item: "Accreditation for Associate Professor from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de recerca), 2022."
   - item: "Accreditation for tenure-track Lecturer from the Catalan University Quality Assurance Agency (AQU Catalunya, acreditació de lector), 2021."
   - item: "Advisor to the student editorial board of MFU Literary Magazine (since 2017)."
