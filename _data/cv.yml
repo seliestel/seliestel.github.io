@@ -1,4 +1,4 @@
-updated: 30 March 2024
+updated: 1 March 2025
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -14,7 +14,7 @@ bio:
   orcid: "0000-0001-7821-316X"
   wos: "AAI-6462-2020"
   gsid: "IJpKVRgAAAAJ"
-  scopusid: "35330729400"
+  scopusid: "57208314140"
   academic_short: "Ignasi Ribó (PhD) is an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University (Chiang Rai, Thailand). His research deals with issues in the Environmental Humanities, bridging across the interdisciplinary fields of Ecosemiotics, Ecocriticism, Education for Sustainability, and Human Ecology. He is the author of Habitat: The Ecopolitical Nation (2012) and a contributor to the edited collection Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017). He has also published the textbook Prose Fiction: An Introduction to the Semiotics of Narrative (2019), as well as five novels and several academic essays in international journals."
   about_short: "Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (SciencesPo-Paris) and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book Habitat: The Ecopolitical Nation (2012)."
   picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
@@ -382,6 +382,29 @@ other_employment:
 
 academic_reviews:
 
+  - title: "Editorial Note"
+    authors: Zainal, Zainor Izat; Ribó, Ignasi; Calzolari, Fabio
+    journal: "Journal of Southeast Asian Ecocriticism"
+    collection: 
+    editors: Zainor Izat Zainal, Ignasi Ribó, Fabio Calzolari
+    publisher: ASLE-ASEAN
+    place: Singapore
+    year: "2025"
+    submitted:   
+    accepted:  
+    online:
+    volume: 2
+    number: 1
+    pages: v-viii
+    abstract:
+    doi: 
+    gsid: 
+    link: "https://fass.nus.edu.sg/elts/journal-of-southeast-asian-ecocriticism/jseae2_1_2025/"
+    isbn: 
+    num: 
+    scopus: 
+    reviews:
+
   - title: "Timo Maran, Ecosemiotics: The Study of Signs in Changing Ecologies (Cambridge: Cambridge University Press, 2020), 70 pp."
     authors: Ribó, Ignasi
     journal: "Ecozon@: European Journal of Literature, Culture and Environment"
@@ -405,8 +428,53 @@ academic_reviews:
     scopus: 
     reviews:
 
-
 academic_articles:
+
+  - title: "The Hungry Ghosts of the Anthropocene: Posthuman Vulnerability in Contemporary Thai Fiction"
+    authors: Ribó, Ignasi
+    journal: "eTropic: Electronic Journal of Studies in the Tropics"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "Pending"
+    submitted: "28 April 2025"
+    accepted:  
+    online:
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: 
+    gsid: 
+    link: 
+    isbn: 
+    num: 
+    scopus: 
+    reviews:
+
+  - title: "Catastrophe, vulner-ability and ecopolitical morphogenesis: Lessons for sustainability education"
+    authors: Ribó, Ignasi
+    journal: "Pedagogy, Culture & Society"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "2025"
+    submitted:   
+    accepted: 
+    online: "22 April"
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: "10.1080/14681366.2025.2492725"
+    gsid: 
+    link: 
+    isbn: 
+    num: 
+    scopus: Q1
+    reviews:
 
   - title: "Developing more-than-human sustain-abilities in the ecocritical classroom"
     authors: Ribó, Ignasi
@@ -561,7 +629,7 @@ academic_articles:
     number: "1"
     pages: "20-35"
     abstract:
-    doi: 
+    doi: "10.2979/jmodelite.44.1.02"
     gsid:
     link: "https://muse.jhu.edu/article/778293"
     isbn: 
@@ -663,7 +731,7 @@ academic_articles:
 
   - title: "The novel as tragic form"
     authors: Ribó, Ignasi
-    journal: "MFU Connexion: Journal of Humanities and Social Sciences"
+    journal: "Connexion: Journal of Humanities and Social Sciences"
     collection: 
     editors: 
     publisher: 
@@ -890,12 +958,12 @@ chapters:
     online:
     volume: 
     number: 
-    pages: 
+    pages: 59-71
     abstract:
-    doi: 
+    doi: https://doi.org/10.1007/978-3-031-81809-7_5
     gsid: 
     link: 
-    isbn: 
+    isbn: 978-3-031-81808-0
     scopus: 
     num: 21
     reviews:
@@ -918,7 +986,7 @@ chapters:
     doi: 
     gsid: 
     link: 
-    isbn: 
+    isbn: 9782140305269
     scopus: 
     num: 20
     reviews:
@@ -1029,6 +1097,45 @@ other_articles:
     link:
 
 conferences:
+
+  - title: "Anthropocene Vulnerability and Spectrality in Contemporary Thai Fiction"
+    type: Presentation
+    authors: Ribó, Ignasi
+    event: "6th ASLE-ASEAN Ecocritical Conference"
+    topic: "Literary Narratives, Climate Change, and Social Inequality: ASEAN Perspectives"
+    venue: "Universitas Sanata Dharma (Yogyakarta, Indonesia)"
+    place: Onsite
+    day: "13-14"
+    month: November
+    year: "2025"
+    link: 
+    status: To present
+
+  - title: "Human-Becoming-Animal-Becoming-Human: An Example of Posthumanist Pedagogy in Southeast Asia"
+    type: Presentation
+    authors: Ribó, Ignasi
+    event: "2nd International Congress of Ecological Humanities"
+    topic: "Pathways to Planetary Well-Being from the Ecological Humanities"
+    venue: "Universitat Pompeu Fabra (Barcelona, Catalonia)"
+    place: Onsite
+    day: "1"
+    month: July
+    year: "2025"
+    link: 
+    status: To present
+
+  - title: "Thinking Vulner-ability with René Thom’s Catastrophe Theory"
+    type: Invited lecture
+    authors: Ribó, Ignasi
+    event: UNESCO Chair in Vulnerability Studies
+    topic: 
+    venue: 
+    place: Online
+    day: "27"
+    month: September
+    year: "2024"
+    link: 
+    status: Presented
 
   - title: "Anthropocene Denizenship Education: A New Approach to Education for Sustainability"
     type: Plenary speech
@@ -1284,11 +1391,11 @@ books:
     authors: Ribó, Ignasi
     publisher: Lexington Books
     place: Lanham, MA
-    year: "In progress"
+    year: "2025"
     pages: 
     abstract:
-    isbn: 
-    link: 
+    isbn: 978-1-66693-302-4
+    link: https://doi.org/10.5771/9781666933031
     reviews:
 
   - title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
@@ -1725,16 +1832,6 @@ references:
     address:
     email: john.c.ryan@scu.edu.au
     relation: Editor
-    active: "Yes"
-
-  - name: David Viñas
-    title: Dr.
-    position: Associate Professor, Literary Theory and Comparative Literature
-    institution: Universitat de Barcelona
-    phone: +34 93 403 7046
-    address: Gran Via de les Corts Catalanes, 585; 08007 Barcelona
-    email: davidvinas@ub.edu
-    relation: Professor
     active: "Yes"
 
   - name: Eva Rimbau
