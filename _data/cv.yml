@@ -119,9 +119,9 @@ other_education:
       link: 
       details: 
 
-- degree: Certificate
+    - degree: Certificate
       subject: "Geology"
-      institution: University of Stockholm
+      institution: "University of Stockholm"
       place: Online
       time: "2023"
       begin: 
@@ -168,7 +168,7 @@ other_education:
       details: 
 
     - degree: Certificate
-      subject: Introduction to Agent-Based Modeling
+      subject: "Introduction to Agent-Based Modeling"
       institution: Santa Fe Institute
       place: Online
       time: "2022"
