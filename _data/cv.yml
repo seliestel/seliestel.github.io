@@ -1,4 +1,4 @@
-updated: 28 September 2025
+updated: 25 October 2025
 bio:
   name: Ignasi Ribó
   birth_date: 3 August 1971
@@ -20,9 +20,9 @@ bio:
   picture: "http://www.ignasiribo.com/assets/img/Ignasi-photo.jpg"
 
 impact:
-  citations: 105
-  h-index: 6
-  i10-index: 2
+  citations: 200
+  h-index: 8
+  i10-index: 7
 
 interests: Environmental Humanities, Ecocriticism, Ecosemiotics, Literary Theory, Education for Sustainability, Human Ecology, Environmental Philosophy, Critical Posthumanism, Human-Animal Studies
 
@@ -118,6 +118,18 @@ other_education:
       grade: 
       link: 
       details: 
+
+    - degree: Certificate
+      subject: "Machine Learning with Python-From Linear Models to Deep Learning"
+      institution: MIT-EdX
+      place: Online
+      time: "2023"
+      begin: 
+      end: 
+      awarded: 
+      grade: 
+      link: 
+      details:
 
     - degree: Certificate
       subject: "Geology"
@@ -320,9 +332,9 @@ academic_employment:
   - position: Adjunct Professor
     university: Universitat Oberta de Catalunya
     department: Faculty of Humanities / Faculty of Management
-    time: 2002 - 
+    time: 2002 - 2016
     begin: February 2002 
-    end: 
+    end: June 2016
     place: Barcelona, Spain
     link: https://www.uoc.edu
     details: 'Taught courses in Literary Theory, Strategic Management and Enterprise Policy, International Business Strategy. Supervised theses in Master in Management of Knowledge-Based Organisations. Part-time job.'
@@ -444,12 +456,12 @@ academic_articles:
 
   - title: "The Hungry Ghosts of the Anthropocene: Posthuman Vulnerability in Contemporary Thai Fiction"
     authors: Ribó, Ignasi
-    journal: "Draft"
+    journal: "Critique: Studies of Contemporary Fiction"
     collection: 
     editors: 
     publisher: 
     place: 
-    year: "Pending"
+    year: "Under review"
     submitted: ""
     accepted:  
     online:
@@ -462,7 +474,7 @@ academic_articles:
     link: 
     isbn: 
     num: 
-    scopus: 
+    scopus: Q1
     reviews:
 
   - title: "Catastrophe, vulner-ability and ecopolitical morphogenesis: Lessons for sustainability education"
@@ -1611,6 +1623,28 @@ grants:
     status: Completed
 
 supervision:
+
+  - activity: "Senior Project: Nagas and Climate Disaster in Mae Sai and Chiang Saen: A Narrative Inquiry"
+    role: "Supervised"
+    dates: Aug - Nov 2025
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "4"
+    credits: "3"
+    description: 
+
+  - activity: "Senior Project: Doomsday: Ecocritical Readings of Apocalyptic and Post-Apocalyptic Fiction"
+    role: "Supervised"
+    dates: Aug - Nov 2024
+    type: undergraduate
+    institution: Mae Fah Luang University
+    degree: Bachelor of English
+    link: https://en.mfu.ac.th
+    students: "4"
+    credits: "3"
+    description: 
 
   - activity: "Senior Project: Climate Fiction"
     role: "Supervised"
