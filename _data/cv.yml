@@ -176,7 +176,7 @@ other_education:
       end: June 2023
       awarded: June 2023
       grade: Distinction
-      link: https://www.uclan.ac.uk/cpd/courses/astronomy-cert
+      link: https://www.lancashire.ac.uk/cpd/courses/astronomy-cert
       details: 
 
     - degree: Certificate
@@ -461,15 +461,15 @@ academic_articles:
     editors: 
     publisher: 
     place: 
-    year: "Under review"
+    year: "2025"
     submitted: ""
     accepted:  
-    online:
+    online: "10 November"
     volume: 
     number: 
     pages: 
     abstract:
-    doi: 
+    doi: "10.1080/00111619.2025.2586839"
     gsid: 
     link: 
     isbn: 
@@ -1133,7 +1133,7 @@ conferences:
     month: November
     year: "2025"
     link: 
-    status: To present
+    status: Presented
 
   - title: "Human-Becoming-Animal-Becoming-Human: An Example of Posthumanist Pedagogy in Southeast Asia"
     type: Presentation
@@ -1409,6 +1409,33 @@ conferences:
     status: Presented
 
 books:
+
+  - title: "Literature Unbound: Literary Studies in the Twenty-first Century"
+    type: Monograph
+    language: English
+    authors: Ribó, Ignasi
+    publisher: 
+    place: 
+    year: Under review
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+
+  - title: "Into Semiotics: Understanding Signs, Meaning, and Communication"
+    type: Textbook
+    language: English
+    authors: Ribó, Ignasi
+    publisher: Mae Fah Luang Learning Innovation Institute
+    place: Chiang Rai
+    year: Under review
+    pages: 
+    abstract:
+    isbn: 
+    link: 
+    reviews:
+
   - title: "Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries"
     type: Edited collection
     language: English
@@ -1606,7 +1633,7 @@ grants:
     amount: 200,000 THB
     status: Completed
 
-  - project: A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)
+  - project: "A dialogical study of human-elephant communicative interaction in Ban Ruammit (Chiang Rai, Thailand)"
     dates: Oct 2017 - Oct 2018
     number: 611A10017
     funder: Mae Fah Luang University
@@ -1614,7 +1641,7 @@ grants:
     amount: 100,000 THB
     status: Completed
     
-  - project: A hermeneutical study of conflicting interpretations of the Asian elephants in the Karen village of Ban Ruammit
+  - project: "A hermeneutical study of conflicting interpretations of the Asian elephants in the Karen village of Ban Ruammit"
     dates: May 2016 - May 2017
     number: 
     funder: Regional Center for Social Science and Sustainable Development (RCSD)
@@ -1745,8 +1772,8 @@ leadership:
     dates: 2021-
     link: 
 
-  - activity: "Executive Council, Association for the Study of Literature and the Environment in ASEAN (ASLE-ASEAN)"
-    role: Secretary
+  - activity: "Association for the Study of Literature and the Environment in ASEAN (ASLE-ASEAN)"
+    role: Executive Council Member
     dates: 2021-
     link: "https://aseanasle.wordpress.com/"
 
@@ -1804,9 +1831,6 @@ languages:
     diploma: 
   - name: Thai
     level: Lower intermediate
-    diploma: 
-  - name: Japanese
-    level: Basic notions
     diploma: 
   - name: Latin
     level: Working knowledge
