@@ -17,6 +17,12 @@ permalink: /texts/
   {% endif %}
   {% endfor %}
 
+<h3 style="font-family: Raleway; margin-bottom: 20px">Book chapters</h3>
+
+  {% for item in site.data.cv.chapters %}
+  {{ item.authors }}. {{ item.year }}. {% if item.link %}[{{ item.title }}]({{ item.link }}).{% else %}{{ item.title }}.{% endif %} In *{{ item.collection }}*, edited by {{ item.editors}}, pp. {{ item.pages }}. {{item.place}}: {{ item.publisher }}.
+  {% endfor %}
+
 <h3 style="font-family: Raleway; margin-bottom: 20px">Other articles</h3>
 
   {% for item in site.data.cv.other_articles %}
