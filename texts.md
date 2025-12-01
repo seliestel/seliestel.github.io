@@ -5,7 +5,7 @@ description:
 permalink: /texts/
 ---
 
-<h3 style="font-family: Raleway; margin-bottom: 20px">Academic articles</h3>
+<h3 style="font-family: Raleway; margin-bottom: 20px">Journal articles</h3>
 
   {% for item in site.data.cv.academic_articles %}
   {% if item.year != 'Under review' and item.year != 'Forthcoming' %}
