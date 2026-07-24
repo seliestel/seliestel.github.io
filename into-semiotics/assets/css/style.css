@@ -1,0 +1,130 @@
+/* ==========================================================================
+   Into Semiotics — Companion Activities
+   Lightweight, dependency-free stylesheet
+   ========================================================================== */
+:root{
+  --ink:#1c1c22;
+  --ink-soft:#454552;
+  --muted:#6c6c7a;
+  --line:#e3e3ec;
+  --bg:#ffffff;
+  --bg-soft:#f7f6fb;
+  --accent:#5a3fa0;      /* semiotic purple */
+  --accent-soft:#efeaf9;
+  --accent-2:#0e7c86;    /* teal */
+  --warm:#c9772a;
+  --maxw:820px;
+  --radius:12px;
+  --shadow:0 1px 3px rgba(30,20,60,.08),0 6px 24px rgba(30,20,60,.06);
+  font-synthesis:none;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;color:var(--ink);background:var(--bg);
+  font:400 1.02rem/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans Thai",sans-serif;
+}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 1.15rem}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+h1,h2,h3,h4{line-height:1.25;color:var(--ink);font-weight:700}
+h1{font-size:1.9rem;margin:.2em 0 .4em}
+h2{font-size:1.35rem;margin:1.9em 0 .5em;padding-top:.3em}
+h3{font-size:1.12rem;margin:1.5em 0 .4em}
+p{margin:.6em 0}
+hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
+code{background:var(--bg-soft);padding:.1em .35em;border-radius:5px;font-size:.92em}
+blockquote{margin:1em 0;padding:.4em 1em;border-left:3px solid var(--accent);background:var(--accent-soft);border-radius:0 8px 8px 0;color:var(--ink-soft)}
+
+/* ---- Header / nav -------------------------------------------------------- */
+.site-head{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-filter:saturate(1.2) blur(6px);border-bottom:1px solid var(--line)}
+.site-head-inner{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding-top:.55rem;padding-bottom:.55rem}
+.brand{display:flex;align-items:center;gap:.5rem;font-weight:700;color:var(--ink)}
+.brand:hover{text-decoration:none}
+.brand-mark{color:var(--accent);font-size:1.3rem}
+.brand-text em{font-style:normal;color:var(--muted);font-weight:500}
+.site-nav{margin-left:auto;display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap}
+.site-nav a{color:var(--ink-soft);font-size:.95rem}
+.nav-chapters{display:flex;gap:.5rem;flex-wrap:wrap;padding-left:.6rem;margin-left:.2rem;border-left:1px solid var(--line)}
+.nav-chapters a{font-size:.82rem;background:var(--bg-soft);padding:.15rem .5rem;border-radius:20px}
+.menu-toggle{display:none;margin-left:auto;font-size:1.3rem;background:none;border:0;cursor:pointer}
+
+/* ---- Layout / content ---------------------------------------------------- */
+main.wrap{padding-top:2rem;padding-bottom:3rem}
+.eyebrow{text-transform:uppercase;letter-spacing:.09em;font-size:.72rem;font-weight:700;color:var(--accent);margin:0 0 .2rem}
+.lead{font-size:1.12rem;color:var(--ink-soft)}
+.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:1rem}
+.chapter-head{border-bottom:1px solid var(--line);padding-bottom:1.1rem;margin-bottom:1.4rem}
+.sections{font-size:.9rem;color:var(--muted);background:var(--bg-soft);padding:.5rem .8rem;border-radius:8px}
+
+/* ---- Buttons / toolbar --------------------------------------------------- */
+.toolbar{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1rem}
+.btn{display:inline-block;background:var(--accent);color:#fff;border:0;border-radius:8px;padding:.5rem .9rem;font-size:.92rem;cursor:pointer;text-decoration:none}
+.btn:hover{background:#4a3287;text-decoration:none}
+.btn-ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn-ghost:hover{background:var(--accent-soft)}
+.toolbar-hint{font-size:.82rem;color:var(--muted);align-self:center}
+
+/* ---- Activity cards ------------------------------------------------------ */
+.activity{background:var(--bg-soft);border:1px solid var(--line);border-radius:var(--radius);padding:1.1rem 1.25rem;margin:1.5rem 0;box-shadow:var(--shadow)}
+.activity h2{margin-top:.1rem}
+.activity .meta{display:flex;gap:.4rem;flex-wrap:wrap;margin:.2rem 0 .8rem}
+.tag{display:inline-block;font-size:.72rem;font-weight:600;padding:.16rem .55rem;border-radius:20px;background:#fff;border:1px solid var(--line);color:var(--ink-soft)}
+.tag.type{background:var(--accent-soft);border-color:transparent;color:var(--accent)}
+.tag.tech{background:#e3f4f5;color:var(--accent-2)}
+.tag.time{background:#fff4e8;color:var(--warm)}
+.concept{font-size:.9rem;color:var(--muted);border-left:3px solid var(--accent-2);padding-left:.7rem;margin:.4rem 0 .8rem}
+
+/* ---- Instructor notes (details) ----------------------------------------- */
+details.notes{margin:1rem 0 .2rem;background:#fff;border:1px dashed var(--accent);border-radius:10px;padding:.2rem .9rem}
+details.notes>summary{cursor:pointer;font-weight:600;color:var(--accent);padding:.5rem 0;list-style:none}
+details.notes>summary::-webkit-details-marker{display:none}
+details.notes>summary::before{content:"▸ ";color:var(--accent)}
+details.notes[open]>summary::before{content:"▾ "}
+
+/* ---- Cards grid (home) --------------------------------------------------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem;margin:1.5rem 0}
+.card{display:block;background:var(--bg-soft);border:1px solid var(--line);border-radius:var(--radius);padding:1rem 1.1rem;color:var(--ink);box-shadow:var(--shadow)}
+.card:hover{text-decoration:none;border-color:var(--accent);transform:translateY(-2px);transition:.15s}
+.card .n{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.card h3{margin:.2rem 0 .3rem;font-size:1.05rem}
+.card p{margin:0;font-size:.9rem;color:var(--muted)}
+
+/* ---- Tables -------------------------------------------------------------- */
+table{border-collapse:collapse;width:100%;margin:1.2rem 0;font-size:.94rem}
+th,td{border:1px solid var(--line);padding:.5rem .6rem;text-align:left;vertical-align:top}
+th{background:var(--accent-soft);color:var(--ink)}
+tbody tr:nth-child(even){background:var(--bg-soft)}
+
+/* ---- Pager --------------------------------------------------------------- */
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2.5rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:.92rem}
+.pager-next{text-align:right;margin-left:auto}
+
+/* ---- Footer -------------------------------------------------------------- */
+.site-foot{border-top:1px solid var(--line);margin-top:3rem;padding:1.6rem 0;color:var(--ink-soft);font-size:.9rem}
+.muted{color:var(--muted)}
+
+/* ---- Callouts ------------------------------------------------------------ */
+.callout{border:1px solid var(--line);border-left:4px solid var(--warm);background:#fffaf3;border-radius:8px;padding:.8rem 1rem;margin:1.2rem 0}
+.callout.tip{border-left-color:var(--accent-2);background:#f2fbfb}
+
+/* ---- Responsive ---------------------------------------------------------- */
+@media (max-width:680px){
+  .menu-toggle{display:block}
+  .site-nav{display:none;flex-direction:column;align-items:flex-start;width:100%;gap:.6rem;padding-top:.6rem}
+  .site-nav.open{display:flex}
+  .nav-chapters{border-left:0;padding-left:0}
+  h1{font-size:1.6rem}
+}
+
+/* ---- Print / Save as PDF ------------------------------------------------- */
+@media print{
+  .no-print{display:none !important}
+  body{font-size:11pt;color:#000}
+  main.wrap{max-width:100%;padding:0}
+  .activity{break-inside:avoid;box-shadow:none;border:1px solid #bbb;background:#fff}
+  details.notes{border:1px solid #999}
+  details.notes[open]{display:block}
+  a{color:#000;text-decoration:none}
+  .chapter-head{border-color:#000}
+}

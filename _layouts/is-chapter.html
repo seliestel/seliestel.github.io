@@ -1,0 +1,46 @@
+---
+layout: is-default
+---
+{% assign is_chapters = site.pages | where: "section", "into-semiotics" | where_exp: "p", "p.chapter" | sort: "order" %}
+<article class="chapter">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="{{ '/into-semiotics/' | relative_url }}">Home</a> &rsaquo;
+    <span>{% if page.chapter == "9" or page.chapter == 9 %}Capstone{% else %}Chapter {{ page.chapter }}{% endif %}</span>
+  </nav>
+
+  <header class="chapter-head">
+    <p class="eyebrow">{% if page.chapter == "9" or page.chapter == 9 %}Capstone{% else %}Chapter {{ page.chapter }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.book_sections %}<p class="sections"><strong>Linked book sections:</strong> {{ page.book_sections }}</p>{% endif %}
+    {% if page.summary %}<p class="lead">{{ page.summary }}</p>{% endif %}
+    <div class="toolbar no-print">
+      <button type="button" onclick="window.print()" class="btn">🖨 Print / Save as PDF</button>
+      <span class="toolbar-hint">Tip: expand the instructor notes below before printing if you want the answer keys included.</span>
+    </div>
+  </header>
+
+  <div class="chapter-body">
+    {{ content }}
+  </div>
+
+  {% comment %} previous / next navigation {% endcomment %}
+  {% assign idx = -1 %}
+  {% for c in is_chapters %}
+    {% if c.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}
+  {% endfor %}
+  <nav class="pager no-print" aria-label="Chapter navigation">
+    <div class="pager-prev">
+      {% if idx > 0 %}
+        {% assign p = is_chapters[idx | minus: 1] %}
+        <a href="{{ p.url | relative_url }}">&larr; {{ p.title }}</a>
+      {% endif %}
+    </div>
+    <div class="pager-next">
+      {% assign nxt = idx | plus: 1 %}
+      {% if idx >= 0 and nxt < is_chapters.size %}
+        {% assign n = is_chapters[nxt] %}
+        <a href="{{ n.url | relative_url }}">{{ n.title }} &rarr;</a>
+      {% endif %}
+    </div>
+  </nav>
+</article>
