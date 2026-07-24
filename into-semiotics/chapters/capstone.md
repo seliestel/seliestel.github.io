@@ -2,7 +2,7 @@
 layout: is-chapter
 section: into-semiotics
 permalink: /into-semiotics/chapters/capstone/
-title: "Capstone & Synthesis"
+title: "Capstone and Synthesis"
 chapter: 9
 order: 9
 count: 4
