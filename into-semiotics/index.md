@@ -35,7 +35,7 @@ These materials answer a simple question that the textbook raises but cannot ful
 The activities are built around a few simple principles that research on active learning consistently supports:
 
 - **Do, then name.** Students first collect or produce something (a photo, a recording, a message, an observation) and only then attach the technical vocabulary to it. Concepts are discovered in concrete material rather than received as definitions.
-- **Local and lived.** Examples come from markets, temples, BTS platforms, LINE chats, soap operas, street signs, and beer labels (the semiosphere students already inhabit) so that abstract theory lands on familiar ground.
+- **Local and lived.** Examples come from markets, temples, BTS platforms, LINE chats, soap operas, street signs, and product labels (the semiosphere students already inhabit) so that abstract theory lands on familiar ground.
 - **Talk and defend.** Many tasks are pair or group activities that require students to justify an interpretation and hear a competing one, which is where the deepest learning happens.
 - **Make and test.** Several activities ask students to *create* signs (a message to aliens, a rebranding, a chain of interpretants) and then test whether they work or not. The aim is application, not just recognition.
 
