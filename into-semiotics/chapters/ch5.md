@@ -34,7 +34,7 @@ For each Thai-context message below, identify **all functions present** and **ci
 7. *"โอ๊ย! (Ouch!)"*
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - (1) **referential** (states facts about the world). (2) **conative** (persuade to buy) with **poetic** (superlative, punch). (3) **phatic** (maintaining contact; "555" = laughing, keeps the channel warm). (4) **metalingual** (talking about the code, defining a word). (5) **poetic** in service of **conative**: good moment to note poetic devices can be *subordinate* (§5.4). (6) largely **phatic/poetic**, and if the meaning is opaque to the listener, primarily contact/ritual. (7) **emotive**.
 - Emphasize Jakobson's key insight: all six are usually present; analysis means finding the **dominant** one (§5.3).
@@ -62,7 +62,7 @@ Start with one neutral, referential sentence, e.g. *"The night market closes at 
 - poetic (make it rhyme or use parallelism)
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Sample: emotive (*"Ugh, the market shuts at ten already?!"*); conative (*"Hurry, the market closes at ten. let's go!"*); phatic (*"You know the market? Closes at ten, right? Anyway…"*); metalingual (*"By 'market' I mean the night market, and it closes at 22:00."*); poetic (*"Ten o'clock, the stalls all lock."*).
 - Demonstrates that function is about **orientation**, not content (§5.3). Same facts, six messages.
@@ -86,7 +86,7 @@ Collect **three "sticky" Thai texts**: an advertising jingle, a **luk thung** or
 Then test the claim: rewrite one of them in plain, non-poetic language. Is anything lost?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - The plain rewrite is the crucial test: the referential content survives, but memorability and force collapse, proof that "the patterning of the message is itself part of what it means" (§5.4).
 - Thai is tonal and rhyme-rich; <em>luk thung</em> and advertising exploit internal rhyme heavily. Students often find Thai examples *more* obviously poetic than English ones.
@@ -115,7 +115,7 @@ The same request must be delivered to **four addressees**, adjusting register ea
 For each, note the changes: pronouns, polite particles (ครับ/ค่ะ), directness, honorifics, and how **kreng jai** (เกรงใจ, considerate deference) reshapes what you can say.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Thai grammaticalises register far more than English (pronouns, particles, honorific vocabulary), so students *feel* §5.5 immediately. Map the changes back to Saussure's paradigm (§3.6): each slot offers a set of options with social value.
 - Kreng jai is the pragmatic key: with a monk or boss, the *conative* directness of "I can't come" is softened almost out of existence; the same proposition, radically different encoding. Ties to §7.7's point about doctor–patient communication.
@@ -139,7 +139,7 @@ Read (or recall) a real cross-cultural mishap in Thailand (e.g., a tourist and a
 Write a two-sentence "diagnosis + fix."
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Model diagnoses: a smile read as "happy" when it signalled embarrassment = **code** mismatch; "up to you / same same" misread as indecision = **context/common-ground** gap; a phone call dropping key words = **channel/noise**; taking a polite phatic "yes" as a referential commitment = **function** mismatch (§5.7).
 - Reinforce §5.6: real communication is interactive; **feedback** is where such failures get repaired.

@@ -30,7 +30,7 @@ Plato · Aristotle · the Stoics · Augustine · Aquinas · Pāṇini / Nyāya s
 Then draw **arrows of influence** between cards and mark the single biggest "hinge" moment in the history.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Key anchors: Plato's *Cratylus* (~388 BCE); Aristotle (384–322 BCE); Augustine's *On Christian Doctrine* (397); Locke coins *sēmeiōtikē* (1690); Saussure's lectures (1907–1911, published 1916); Peirce's work (1860s–1900s); Russian Formalism (1910s); Prague Circle (1920s–30s); French structuralism (1950s–70s); Sebeok launches zoosemiotics (1963); contemporary expansion (late 20th c. onward).
 - The natural "hinge" is the near-simultaneous, independent founding by **Saussure and Peirce** (a good moment to preview why the field has two vocabularies) (Chs 3–4).
@@ -57,7 +57,7 @@ Suggested pairing for Thai students: the *Cratylus* debate (are names natural or
 Produce a short two-column comparison answering: *What is a sign? Is the link between word and thing natural or conventional? What is language for?*
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - The aim is not doctrinal precision but recognising that the "arbitrariness vs. naturalness" question (which becomes Saussure's §3.2) is genuinely cross-cultural. Buddhist thought broadly treats linguistic designations as **conventional**, a striking convergence with Hermogenes and later Saussure.
 - Encourage students from other backgrounds (Chinese, Muslim, Christian, etc.) to substitute their own tradition. Keep the treatment respectful and descriptive.
@@ -87,7 +87,7 @@ Complete this comparison table from §2.2 (and your prior reading). Fill every c
 | Main interest | | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Saussure: Swiss, linguistics; "semiology"; **two** parts (signifier/signified); *not* published in his lifetime (compiled by students, 1916); interest in language as a structured system.
 - Peirce: American, philosophy/logic; "semeiotic"; **three** parts (representamen/object/interpretant); mostly unpublished in his lifetime; interest in logic, reference, and knowledge.
@@ -114,7 +114,7 @@ The chapter lists living journals and associations. Do a short scan and bring **
 3. Write three sentences: what it seems to be about, which chapter of *Into Semiotics* it connects to, and why you chose it.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Demystifies "research" and shows the field is not a museum. Even reading only titles and abstracts is enough at this stage.
 - A nice pattern emerges when students report: titles cluster into the book's later chapters (bio-, eco-, cognitive, social), previewing Chs 7–8.

@@ -37,7 +37,7 @@ A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the fol
 | A mural depicting the Vessantara Jātaka | | | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Buddha image: **icon** (resembles a seated human) + **symbol** (posture/mudra is coded). Incense smoke: **index** of burning/ongoing worship. Wheel of Dharma: **symbol** (conventional) with **iconic** shape. Nāga: **symbol** (protective mythic being) rendered **iconically**. Worn step: **index** of heavy use over time. Saffron robe: **symbol** (monastic status), color is conventional. Jātaka mural: **icon** (depicts scenes) + **symbol** (episodes readable only if you know the story/code).
 - The intended lesson (§4.2): almost nothing is purely one type. Reward students who see the layering. This directly refutes the beginner instinct that "a picture is just an icon."
@@ -65,7 +65,7 @@ Take a **Thai banknote** (any denomination). In three short paragraphs, analyse 
 Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet the *sign* commands goods and services. Where does the value live?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Icon: portraits, buildings, imagery. Index: serial number (points to a unique note), security thread (causally produced), physical wear (index of circulation). Symbol: monetary value and legal tender status are conventional (§4.2), echoing §1.2's "money is a sign of value."
 - The closing puzzle re-states Saussure's **value** (§3.6) in Peircean dress and previews **codes/systems** (Ch 6): the note works only within an institutional system.
@@ -89,7 +89,7 @@ Sit in a circle. Start with one sign: the word **สบาย (sabai)** translat
 Keep going for two full loops. Then look back at the chain and mark: (a) how far you drifted from the start, and (b) whether you ever reached a "final" meaning.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - This *is* **unlimited semiosis** (§4.3): every interpretant is itself a sign requiring further interpretation ("the meaning of a sign is the sign it has to be translated into"). The chain never terminates in a bare meaning: it only stops when the class tires, exactly as the book says.
 - The drift in (a) demonstrates that meaning is **dynamic and contextual**, not a fixed label.
@@ -114,7 +114,7 @@ Pick a public figure everyone knows: a **T-pop / K-pop idol, a footballer, a Mua
 For each sign, state the **immediate object** (the person *as represented in that sign*). Then discuss: what is the **dynamic object** (the actual person) and can any single sign, or all of them together, capture it?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Each sign gives only an **immediate object** (a partial, mediated version); the **dynamic object** (the real, whole person) is never fully accessible, it constrains representation but exceeds it (§4.4). This mirrors the book's John Lennon example.
 - Connect to §1.1/§1.4's claim that we reach reality only through signs, and to Activity 1.4's debate.
@@ -139,7 +139,7 @@ Photograph a busy Thai street scene (a market lane, a food-stall row, a transit 
 Bring the annotated image to class. Be ready to defend one classification a classmate might dispute.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - A technology-based interactive activity, kept lightweight. The disputes are the learning: many street signs are hybrids (a fork-and-spoon café sign is icon + symbol; a queue is an index of demand).
 - Assess for correct *reasoning*, not for a single correct tag: Peirce's types describe *aspects*, and most signs have several (§4.2).

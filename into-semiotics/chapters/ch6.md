@@ -35,7 +35,7 @@ Place each Thai sign system in the summary table and justify each placement in a
 | Gamer / e-sports slang | | | | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Traffic lights: digital, artificial, strong, cultural. Wai: **analog** (hand height varies continuously with the status of the addressee, an analog example), natural-ish/traditional, medium-strong, cultural. Temple dress code: analog-ish, conventional, medium, cultural. LINE stickers: digital units but with weak, negotiated meanings, artificial, weak, cultural→subcultural. Wai khru: analog, traditional, fairly strong (ritualized), cultural/subcultural. Gamer slang: digital-ish, artificial, weak, **subcultural**.
 - The wai is the star: hand height is *analog* (§6.2), and its meaning depends entirely on relative status; bridge to **social semiotics** (§7.4).
@@ -59,7 +59,7 @@ For **three** Thai occasions: (a) visiting a temple, (b) a day of national mourn
 Then explain, using §6.3: the meaning of the appropriate outfit comes not from the clothes themselves but from their **contrast** with what was *not* worn.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Temple: covered shoulders/knees vs shorts/sleeveless (the latter signals disrespect or ignorance of the code). Mourning: **black** (and the marked wrongness of bright colors). Songkran: light, water-ready, often floral shirts.
 - This is Saussure's **value** (§3.6) re-applied to a cultural code: black "means" mourning largely by *not being* the everyday palette. Also refers to **connotation** (6.4) and **myth** (6.7).
@@ -87,7 +87,7 @@ Lévi-Strauss argued that cultures organise meaning through binary oppositions. 
 For each: state the opposition, give the Thai practice that encodes it, then find a **case that blurs the line** (a Buddha amulet worn on the body; a market inside a temple fair).
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - The high/low body axis is one of the clearest lived binary systems anywhere and students grasp it instantly (§6.5). The shoe-removal threshold encodes inside/outside and pure/impure.
 - The "blur" step matters: the book stresses (§6.5) that contemporary semiotics uses binaries but also **questions and complicates** them (Derrida, poststructuralism). Amulets deliberately mediate sacred/profane; temple fairs mix sacred/commercial.
@@ -112,7 +112,7 @@ Choose **three** Thai cultural signs: e.g. the **elephant** (<em>chang</em>), th
 - **Connotations:** the cultural meanings and associations it carries (list several), noting where they might differ for different people.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Elephant: denotes the animal; connotes national identity, royalty, strength, Buddhism (white elephant), and (commercially) the Chang beer brand. Lotus: denotes the flower; connotes purity, enlightenment, Buddhism. Gold: denotes the metal/color; connotes wealth, merit, the sacred.
 - Reinforce §6.6: denotation is relatively stable and shared; connotation varies by interpreter and context, and can be positive or negative.
@@ -140,7 +140,7 @@ Find **one** Thai advertisement, tourism image, or campaign, e.g. an "*Amazing T
 4. **Denaturalise:** who benefits from this myth being taken as natural? What is hidden (industrial production, colorism, labor, commercialization)?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - This is the chapter's capstone skill and the clearest demonstration of "ideology critique" (§6.7). The skin-whitening example is powerful for denaturalizing a beauty myth, but handle it with care and offer the tourism-poster alternative for students who prefer it.
 - Structure the report exactly on Barthes: denotation → connotation → myth → who benefits. Insist on step 4: naming the interest served is what turns description into *critique*.

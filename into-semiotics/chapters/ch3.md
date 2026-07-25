@@ -36,7 +36,7 @@ Most students in Thailand know at least two codes (Thai + English, often plus Is
 Then answer: If the link between sound and meaning were natural, what would you expect these rows to look like? What does the *actual* variation prove?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - The variation across columns is direct evidence for **arbitrariness** (§3.2): different signifiers, same signified. If the link were natural, the signifiers would resemble one another.
 - Watch for the signified that does *not* map cleanly (e.g. "ghost/spirit": Thai <em>phi</em> covers a range English splits into ghost/spirit/demon). This previews **value** (§3.6): languages carve up the conceptual field differently.
@@ -67,7 +67,7 @@ The book notes that English roosters say *cock-a-doodle-doo* but Thai roosters s
 Discuss: onomatopoeia is the *most natural* kind of word, so why don't the columns match? What does this tell us about arbitrariness even where we least expect it?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Real animals make the same sounds worldwide, yet each language conventionalises them differently, so onomatopoeia is only **relatively** motivated; convention still dominates (§3.2). This is the exception that proves Saussure's rule.
 - "meow" is the near-universal one (cat sounds are simple) but roosters and frogs diverge wildly, a nice gradient of motivation.
@@ -97,7 +97,7 @@ English has essentially one word for the first person: *I*. Thai has many, each 
 Key question: none of these means simply "I." Each takes its meaning from its **contrast** with the others. What happens to the meaning of ผม if กู did not exist?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - This is Saussure's *value* made visible: ผม is "polite/standard" **only because** ku (blunt/intimate), atma (monastic), nu (junior/female) occupy the other positions. Remove one and the values of the rest shift. This is exactly the chess-piece analogy (§3.6).
 - Also previews **social semiotics** (§7.4): pronoun choice constructs identity and relative status (a deeply Thai concern).
@@ -127,7 +127,7 @@ Sort each item below into **LANGUE** (part of the shared system/rules) or **PARO
 6. A politician's particular speech last night.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - **Langue:** 1, 3, 5 (rules, conventions, the abstract system). **Parole:** 2, 4, 6 (individual, dated, context-bound acts).
 - The instructive borderline is item 4: a mispronunciation is *parole*, but if enough speakers adopt it, it can eventually change the *langue*. The point post-Saussurean linguists press (§3.4, and Bakhtin in §3.7). Use it to complicate the neat dichotomy.
@@ -154,7 +154,7 @@ Ordering food is a semiotic system. Take **som tam** (papaya salad) or a **kuayt
 **Task:** (a) List the paradigm at each slot. (b) Compose two different syntagms. (c) Show how changing one paradigmatic choice (pla ra vs no pla ra) changes the meaning/identity of the whole dish, and what it signals socially.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Selection (which item from the column) = **paradigmatic**; combination (the assembled order) = **syntagmatic** (§3.6, revisited in Ch 6). Food is an ideal first non-linguistic system.
 - The pla ra (fermented fish) choice is socially loaded (often indexing Isaan identity) which previews **connotation** (§6.6) and **social semiotics** (§7.4).

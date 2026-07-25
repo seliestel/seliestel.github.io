@@ -39,7 +39,7 @@ For each photo, fill in one row of this table:
 3. Mark any sign where you and your partner disagreed about "what it stands for." These disagreements are the most interesting: they show that meaning depends on shared conventions and context.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - The goal is range, not quantity. Push students beyond written shop signs toward **indexical** signs (smoke, wet street, a queue), **iconic** signs (a pictogram, a photo), and **symbolic** signs (a *wai*, a red traffic light).
 - The last column previews **convention and code** (Ch 6). Signs that "just look like what they mean" (a fork-and-spoon for a restaurant) preview **iconicity** (Ch 4).
@@ -66,7 +66,7 @@ For at least **five** of the underlined signs, add a footnote saying what it sta
 **Prompts to notice:** the alarm sound; the notification icon on your phone; the amulet (<em>phra khruang</em>) you or someone wears; the offering at the spirit house (<em>san phra phum</em>) you pass; the color of the shirt you chose for the day of the week; the smell of food from a street stall; the monk collecting alms (<em>tak bat</em>); the BTS "doors closing" jingle.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - This mirrors §1.1 but forces personalization. Reward students who notice signs they normally ignore (the day-of-week shirt colour is a Thai-context example of a fully coded but near-invisible sign).
 - Use it to introduce the idea that **consciousness itself is shot through with signs** (§1.2, "Cognition and thought"): most morning signs are read automatically, which is exactly why semiotics has to make them visible.
@@ -99,7 +99,7 @@ Draw a simple mind-map: object in the centre, meanings radiating out, each label
 Then answer together: *Does this object have a single "true" meaning, or does its meaning depend on who reads it and where?*
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - The intended discovery is that **meaning is not a property of the object** but of the relation between sign, interpreter, and context (a key idea of the whole book).
 - The garland is rich with meaning: a welcome, a religious offering, a mark of respect to a teacher or elder, a taxi-mirror ornament, a market commodity. The 500-baht note previews §1.2's point that money is worthless paper except as a **sign of value within a system**.
@@ -126,7 +126,7 @@ The book makes a strong claim: *"we do not have direct or unfiltered access to r
 Give each team 10 minutes to prepare, using examples. Run two short rounds, then hold an open vote, not on who "won" but on **where the line between mediated and immediate experience should be drawn**.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - There is no settled answer, and that is the point: this is the deep question behind Ch 4's *interpretant* and Ch 8's *Umwelt*. Keep it exploratory.
 - A useful move: even "immediate" sensations become **signs the moment we name, remember, or communicate them**. For example, hunger becomes a sign ("time to eat"), pain a sign (symptom) of injury (medical semiotics, §7.7).
@@ -154,7 +154,7 @@ Aim for at least **eight** signs and try to include more than one modality (some
 **Optional challenge:** include one sign that most people walk past without noticing, and explain why it is easy to miss.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - This is the reviewer's "video exercise" in its simplest form. Speaking the analysis aloud forces students to commit to an interpretation in real time.
 - Low-tech is fine: no editing required. Assess for **range of signs** and **clarity of the "stands for" statement**, not production quality.

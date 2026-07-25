@@ -39,7 +39,7 @@ Your analysis must explicitly use **at least four** tools from the book, for exa
 Close with a reflection: what did semiotics reveal that a casual observer would miss?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and suggested rubric</summary>
+<summary>Instructor notes</summary>
 
 Suggested 100-point rubric:
 
@@ -74,7 +74,7 @@ On one large sheet (or a free tool like a shared whiteboard), build a **concept 
 Requirement: include at least **three cross-chapter links** (e.g., "arbitrariness (Ch 3) = the *symbol* relation (Ch 4)"; "connotation (Ch 6) → myth (Ch 6.7) → ideology critique (Ch 7)").
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - A powerful revision tool: it forces students to see the book as **one connected system**, not eight separate topics.
 - Watch for the high-value bridges: symbol=arbitrariness (Chs 3–4); paradigm/syntagm running from §3.6 through §6.3–6.4 to §7.3; unlimited semiosis (§4.3) ≈ Barthes's endless connotation (§6.6) ≈ Derrida's dissemination (§6.5).
@@ -98,7 +98,7 @@ Write a 600–800-word reflective essay responding to this prompt:
 > Over a century separates Saussure's *Course* from today's cognitive and non-human semiotics. The twentieth century leaned toward the **social, cultural, and ideological** (Saussure, Barthes); the twenty-first increasingly toward the **cognitive, biological, and naturalistic** (Peirce, biosemiotics). Using examples from the book, explain this shift and argue whether semiotics should pursue *cultural critique*, *scientific generality*, or both.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - This mirrors the intended concluding chapter's argument. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: neuroscience, computing/AI, and the exhaustion of purely contextual approaches.
 - Accept either normative position (critique, science, or synthesis) if defended with textual evidence.
@@ -122,7 +122,7 @@ Run a "clinic." Each student brings **one puzzling sign**: something whose meani
 Afterwards, the class votes on the **most illuminating diagnosis** of the session.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - A fast, high-energy synthesis: students must *retrieve and apply* the whole vocabulary under mild time pressure, excellent for consolidation.
 - Circulate and seed tools where pairs stall ("Is that icon, index, or symbol? What's the connotation? Which function dominates?").

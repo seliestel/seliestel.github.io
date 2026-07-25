@@ -35,7 +35,7 @@ Fill in:
 | How does its world differ from a human's in the same place? | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Model after Uexküll's **tick** (§8.2): the tick's world is essentially three signs (butyric acid → warmth → bare skin). A temple macaque's Umwelt centers on human hands (food), eye contact (threat), other macaques' postures. A mosquito: CO₂, body heat, sweat chemistry.
 - The key insight (§8.2): meaning is not "out there" objectively; it emerges from the fit between organism and world. The *same* khlong is a different world of signs for a monitor lizard, a fish, and a commuter.
@@ -63,7 +63,7 @@ Observe an animal communicating for 15 minutes, e.g. temple or street animals, b
 - Is it **learned or innate**, as far as you can tell?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Connect to the book's cases (§8.1): von Frisch's bee waggle dance; Cheney & Seyfarth's vervet alarm calls (different calls for leopard/eagle/snake); birdsong dialects learned from tutors.
 - Reinforce the honest caution in §8.1: inferring *meaning* and *intention* in animals is genuinely hard; reward tentative, evidence-based claims over confident anthropomorphism (a theme the chapter returns to in §8.8).
@@ -90,7 +90,7 @@ Biologists routinely say DNA is "transcribed," "translated," and "expressed." Is
 Each side prepares three points from §8.3; hold two rounds; then map where each student stands and why.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Team Semiosis' strongest card (§8.3): the codon→amino-acid mapping is **not chemically necessary** (it could have evolved differently; slight variant codes exist), which is precisely what makes it code-like and conventional. In Peircean terms: codon = sign vehicle, amino acid = object, cellular machinery = interpreter, polypeptide = interpretant.
 - Team Chemistry's card: everything is explicable by physics without invoking meaning; the book's own counter (§8.3) is that speech is *also* "just acoustics," yet meaningful; description at one level doesn't cancel meaning at another.
@@ -117,7 +117,7 @@ Choose a Thai ecosystem you know: a **rice paddy (นา)**, a **mangrove (ป�
 3. Identify one form of **semiotic pollution** disrupting the network (artificial light confusing insects/birds, pesticide disrupting pollinators, noise, plastic, etc.) and trace its downstream effects.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - The core move (§8.5): an ecosystem is not just matter/energy but a **web of interpreted signs**; every organism reads signs within its own Umwelt and produces signs others read.
 - "Semiotic pollution" (§8.5) is a memorable, actionable concept: light pollution, ocean noise, agrochemicals disrupt *sign relationships*, not just organisms. Thai examples abound (light over paddies, khlong pollution, pesticide effects on bees).
@@ -144,7 +144,7 @@ Choose **one** track:
 **Track B: Does the bot interpret?** Have a short exchange with any AI chatbot or a LINE bot. Then debate, using §8.6: is it **producing and interpreting signs** (semiosis), or only simulating it? Does your answer depend on whether interpretation requires **consciousness**?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - **Track A** dramatises the semiotic problem of a **shared code** (§8.7): with no common convention, senders fall back on what might be universal (math, physical constants, self-describing icons). Good link to Jakobson's *code* factor (Ch 5) and to the Wow! signal / SETI discussion (§8.7).
 - **Track B** turns on the book's own framing (§8.6): if interpretation requires consciousness, current AI is not a genuine semiotic agent; if it does not (as biosemiotics allows for cells), then AI arguably qualifies. There is no settled answer: the point is to reason with the criteria.

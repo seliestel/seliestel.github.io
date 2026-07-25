@@ -30,7 +30,7 @@ Central Thai language · Isan / Lanna / Southern dialects · royal and Buddhist 
 Then mark **one arrow** where something is moving from periphery to center (or the reverse), and name a point of **translation/contact** where two codes meet and something new emerges.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - Lotman's model (§7.1): center = dominant/canonical (standard Thai, state Buddhism, khon); periphery = dialects, subcultures, imports, where **innovation** happens. The productive move is spotting periphery→center drift (Isan/mor lam and luk thung entering the mainstream; BL series going global).
 - "Translation" is Lotman's technical term for signs crossing boundaries (§7.1): a Korean format localized into Thai, a foreign holiday adopted and reworked.
@@ -63,7 +63,7 @@ Take a **Thai folktale** (e.g. *Sang Thong*, *Kraithong*) **or** a current **lak
 Then test the model's claim: does this very different story share the **same underlying structure** as a fairy tale? Where does the model fit awkwardly?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Model example (a romance lakorn): Subject = the hero/heroine; Object = union with the beloved / restored honor; Sender = family duty or fate; Receiver = the couple/family; Helper = loyal friend, a benefactor; Opponent = the scheming rival (<em>nang rai</em>) or class barrier.
 - The "awkward fit" step is important: Greimas claims a **universal grammar of narrative** (§7.2); students should both see its power *and* notice the residue it cannot capture (tone, humor, cultural specifics). That tension is the real learning.
@@ -92,7 +92,7 @@ Choose a **Thai movie poster, T-pop album cover, or campaign visual**. Analyze i
 Write a short "what this image wants from you" paragraph.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and answer key</summary>
+<summary>Instructor notes</summary>
 
 - Reinforce the framework (§7.3): given/new (left/right), ideal/real (top/bottom), demand/offer gaze, angle = power. Horror posters typically use direct demand gaze + low angle; idol covers use offer gaze + soft high-key salience.
 - Note for the instructor: the standard order of the metafunctions is representational → interactive → compositional (the book's list order differs slightly).
@@ -116,7 +116,7 @@ We "wear" identities. Pick **one identity you perform** (student in uniform, mem
 Then, in pairs, discuss: which of your resources include some people and **exclude** others? How do power and group membership show up in these choices?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - The Thai university uniform is a superb case: a strong cultural code that signals studenthood and institutional belonging while its small permitted variations (pins, bag, shoes, how it's worn) carry subcultural, gendered, and status meaning (§7.4).
 - Push the **power/access** question (§7.4): jargon, dress, and platform fluency include and exclude. This is social semiotics' critical edge.
@@ -143,7 +143,7 @@ The book analyzes Thai beer branding (Chang's elephant, Singha's lion, Leo's leo
 4. Pitch it in 90 seconds. The class judges which brand's signs work best and why.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes and discussion</summary>
+<summary>Instructor notes</summary>
 
 - This synthesizes Chs 3, 4, 6, 7 in a single creative task: **value/difference** (§3.6), **icon/index/symbol** in the logo (§4.2), **connotation/myth** (§6.6–6.7), applied to **marketing** (§7.7).
 - Insist on step 2: a brand's meaning is *positional* (e.g., Leo's leopard works because it is "the modern, accessible one" against the heritage-laden elephant and lion). Good pitches name the gap in the paradigm they occupy.
