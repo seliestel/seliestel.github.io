@@ -43,7 +43,7 @@ The activities are built around a few simple principles that research on active 
 
 **In class:** each activity notes whether it works best individually, in pairs, or in groups, and roughly how long it takes, so it can be slotted into a lecture or seminar.
 
-**Independent study:** activities marked for individual work include enough scaffolding and, in the instructor notes, model answers or discussion points, so a self-directed learner can check their thinking.
+**Independent study:** activities marked for individual work include enough scaffolding and, in the instructor notes, model answers or discussion points, so self-directed learners can check their thinking.
 
 **Assessment:** the [capstone](/into-semiotics/chapters/capstone/) offers a portfolio-style project that integrates the whole book, plus suggestions for lighter formative assessment.
 
