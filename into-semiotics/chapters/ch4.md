@@ -10,7 +10,7 @@ book_sections: "§4.1–4.6"
 summary: "The triadic sign; icon, index, symbol; the interpretant and unlimited semiosis; dynamic vs immediate object. Practised on Thai temples, banknotes, amulets, and everyday words."
 ---
 
-Peirce's vocabulary is the most technical in the book, and the trichotomy **icon / index / symbol** is the single most useful analytical tool students will carry away. These activities drill it on real Thai signs, then push into the harder ideas — the *interpretant* and *unlimited semiosis* — through games that make abstraction tangible.
+Peirce's vocabulary is the most technical in the book, and the trichotomy **icon / index / symbol** is the single most useful analytical tool students will carry away. These activities drill it on real Thai signs, then push into the harder ideas (the *interpretant* and *unlimited semiosis*) through games that make abstraction tangible.
 
 <div class="activity" markdown="1">
 
@@ -33,13 +33,13 @@ A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the fol
 | The wheel of Dharma (<em>thammachak</em>) | | | |
 | A nāga (นาค) sculpture on the staircase | | | |
 | Footprints/worn stone on a much-used step | | | |
-| The colour saffron of a monk's robe | | | |
+| The color saffron of a monk's robe | | | |
 | A mural depicting the Vessantara Jātaka | | | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; answer key</summary>
+<summary>Instructor notes and answer key</summary>
 
-- Buddha image: **icon** (resembles a seated human) + **symbol** (posture/mudra is coded). Incense smoke: **index** of burning/ongoing worship. Wheel of Dharma: **symbol** (conventional) with **iconic** shape. Nāga: **symbol** (protective mythic being) rendered **iconically**. Worn step: **index** of heavy use over time. Saffron robe: **symbol** (monastic status) — colour is conventional. Jātaka mural: **icon** (depicts scenes) + **symbol** (episodes readable only if you know the story/code).
+- Buddha image: **icon** (resembles a seated human) + **symbol** (posture/mudra is coded). Incense smoke: **index** of burning/ongoing worship. Wheel of Dharma: **symbol** (conventional) with **iconic** shape. Nāga: **symbol** (protective mythic being) rendered **iconically**. Worn step: **index** of heavy use over time. Saffron robe: **symbol** (monastic status), color is conventional. Jātaka mural: **icon** (depicts scenes) + **symbol** (episodes readable only if you know the story/code).
 - The intended lesson (§4.2): almost nothing is purely one type. Reward students who see the layering. This directly refutes the beginner instinct that "a picture is just an icon."
 - Optional fieldwork version: students photograph their own examples and present the classification.
 </details>
@@ -58,14 +58,14 @@ A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the fol
 
 Take a **Thai banknote** (any denomination). In three short paragraphs, analyse it as:
 
-1. an **icon** — what does it resemble or depict?
-2. an **index** — what real connections does it carry (serial number, security features, wear, the issuing authority behind it)?
-3. a **symbol** — what does it stand for by pure convention (value within the economic system; national identity)?
+1. an **icon**: what does it resemble or depict?
+2. an **index**: what real connections does it carry (serial number, security features, wear, the issuing authority behind it)?
+3. a **symbol**: what does it stand for by pure convention (value within the economic system; national identity)?
 
 Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet the *sign* commands goods and services. Where does the value live?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
 - Icon: portraits, buildings, imagery. Index: serial number (points to a unique note), security thread (causally produced), physical wear (index of circulation). Symbol: monetary value and legal tender status are conventional (§4.2), echoing §1.2's "money is a sign of value."
 - The closing puzzle re-states Saussure's **value** (§3.6) in Peircean dress and previews **codes/systems** (Ch 6): the note works only within an institutional system.
@@ -82,18 +82,18 @@ Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet th
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: the interpretant as itself a sign, and unlimited semiosis (§4.3).</p>
+<p class="concept">Practises: the interpretant as itself a sign and unlimited semiosis (§4.3).</p>
 
-Sit in a circle. Start with one sign — the word **สบาย (sabai)**, "comfortable / at ease." The first person gives an **interpretant**: another sign that expresses its meaning (a synonym, an image, a gesture, an example — "like lying in a hammock"). The next person interprets *that* sign, and so on around the circle, as fast as you can.
+Sit in a circle. Start with one sign: the word **สบาย (sabai)** translatable as "comfortable / at ease." The first person gives an **interpretant**: another sign that expresses its meaning (a synonym, an image, a gesture, an example: "like lying in a hammock"). The next person interprets *that* sign, and so on around the circle, as fast as you can.
 
 Keep going for two full loops. Then look back at the chain and mark: (a) how far you drifted from the start, and (b) whether you ever reached a "final" meaning.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; answer key</summary>
+<summary>Instructor notes and answer key</summary>
 
-- This *is* **unlimited semiosis** (§4.3): every interpretant is itself a sign requiring further interpretation ("the meaning of a sign is the sign it has to be translated into"). The chain never terminates in a bare meaning — it only stops when the class tires, exactly as the book says.
+- This *is* **unlimited semiosis** (§4.3): every interpretant is itself a sign requiring further interpretation ("the meaning of a sign is the sign it has to be translated into"). The chain never terminates in a bare meaning: it only stops when the class tires, exactly as the book says.
 - The drift in (a) demonstrates that meaning is **dynamic and contextual**, not a fixed label.
-- Careful point (worth stating): the **interpretant is not the interpreter** — it is the interpretation produced, itself a further sign (§4.3). Students routinely conflate the two.
+- Careful point (worth stating): the **interpretant is not the interpreter**, it is the interpretation produced, itself a further sign (§4.3). Students routinely conflate the two.
 - Variant: start from a non-linguistic sign (a photo, a chime) to show semiosis is not limited to words.
 </details>
 </div>
@@ -109,16 +109,16 @@ Keep going for two full loops. Then look back at the chain and mark: (a) how far
 
 <p class="concept">Practises: the distinction between the dynamic object (the real thing) and the immediate object (as represented in a sign) (§4.4).</p>
 
-Pick a public figure everyone knows — a **T-pop / K-pop idol, a footballer, a Muay Thai champion, a monk-teacher**. Collect (describe, don't necessarily paste) several signs that refer to them: an official photo, a fan edit, a news headline, a meme, a statistic.
+Pick a public figure everyone knows: a **T-pop / K-pop idol, a footballer, a Muay Thai champion, a monk-teacher**. Collect (describe, don't necessarily paste) several signs that refer to them: an official photo, a fan edit, a news headline, a meme, a statistic.
 
-For each sign, state the **immediate object** (the person *as represented in that sign*). Then discuss: what is the **dynamic object** — the actual person — and can any single sign, or all of them together, capture it?
+For each sign, state the **immediate object** (the person *as represented in that sign*). Then discuss: what is the **dynamic object** (the actual person) and can any single sign, or all of them together, capture it?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
-- Each sign gives only an **immediate object** (a partial, mediated version); the **dynamic object** (the real, whole person) is never fully accessible — it constrains representation but exceeds it (§4.4). This mirrors the book's John Lennon example.
+- Each sign gives only an **immediate object** (a partial, mediated version); the **dynamic object** (the real, whole person) is never fully accessible, it constrains representation but exceeds it (§4.4). This mirrors the book's John Lennon example.
 - Connect to §1.1/§1.4's claim that we reach reality only through signs, and to Activity 1.4's debate.
-- Media-literacy payoff: a fan edit and a news photo are *different immediate objects of the same dynamic object* — a clean way to talk about representation and framing without moralising.
+- Media-literacy payoff: a fan edit and a news photo are *different immediate objects of the same dynamic object*: a clean way to talk about representation and framing without moralizing.
 </details>
 </div>
 
@@ -139,10 +139,10 @@ Photograph a busy Thai street scene (a market lane, a food-stall row, a transit 
 Bring the annotated image to class. Be ready to defend one classification a classmate might dispute.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
-- The reviewer's "technology-based interactive activity," kept lightweight. The disputes are the learning: many street signs are hybrids (a fork-and-spoon café sign is icon + symbol; a queue is an index of demand).
-- Assess for correct *reasoning*, not for a single correct tag — Peirce's types describe *aspects*, and most signs have several (§4.2).
+- A technology-based interactive activity, kept lightweight. The disputes are the learning: many street signs are hybrids (a fork-and-spoon café sign is icon + symbol; a queue is an index of demand).
+- Assess for correct *reasoning*, not for a single correct tag: Peirce's types describe *aspects*, and most signs have several (§4.2).
 - Reuse the images later for Ch 6 (codes) and Ch 7 (visual semiotics).
 </details>
 </div>

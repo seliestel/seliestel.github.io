@@ -7,10 +7,10 @@ chapter: 9
 order: 9
 count: 4
 book_sections: "Whole book; §9 (Conclusion)"
-summary: "Integrative projects that pull the whole book together — a portfolio field study, a concept map, a reflective essay on the discipline's arc, and a peer 'sign clinic'."
+summary: "Integrative projects that pull the whole book together: a portfolio field study, a concept map, a reflective essay on the discipline's arc, and a peer 'sign clinic'."
 ---
 
-The capstone is where students demonstrate that they can **do semiotics end to end**: take a real object or site, and analyse it using tools from across the book. These four activities can be used as summative assessment, a final seminar, or a revision sequence. A simple rubric is provided in the first activity's instructor notes.
+The capstone is where students demonstrate that they can **do semiotics end to end**: take a real object or site, and analyze it using tools from across the book. These four activities can be used as summative assessment, a final seminar, or a revision sequence. A simple rubric is provided in the first activity's instructor notes.
 
 <div class="activity" markdown="1">
 
@@ -39,7 +39,7 @@ Your analysis must explicitly use **at least four** tools from the book, for exa
 Close with a reflection: what did semiotics reveal that a casual observer would miss?
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; suggested rubric</summary>
+<summary>Instructor notes and suggested rubric</summary>
 
 Suggested 100-point rubric:
 
@@ -47,12 +47,12 @@ Suggested 100-point rubric:
 |---|---|
 | Correct, precise use of ≥4 named tools | 30 |
 | Quality of evidence (own photos/observations, well chosen) | 20 |
-| Depth of interpretation (beyond labelling; argues a reading) | 20 |
-| The myth/ideology or critical layer (names what is naturalised / who benefits) | 15 |
+| Depth of interpretation (beyond labeling; argues a reading) | 20 |
+| The myth/ideology or critical layer (names what is naturalized / who benefits) | 15 |
 | Clarity, structure, correct terminology | 10 |
 | Reflection: what semiotics added | 5 |
 
-- Reward students who **argue and defend** an interpretation over those who merely tag signs. The strongest projects find a non-obvious myth and denaturalise it.
+- Reward students who **argue and defend** an interpretation over those who merely tag signs. The strongest projects find a non-obvious myth and denaturalize it.
 - The field journal built up through the term (Activities 1.2, 1.5, 4.5, 6.5, 8.2) feeds directly into this.
 - Presentations make an excellent Week-15 session; peers ask one "what about…?" question each.
 </details>
@@ -69,12 +69,12 @@ Suggested 100-point rubric:
 
 <p class="concept">Integrates: the architecture of the whole book; how concepts connect (all chapters).</p>
 
-On one large sheet (or a free tool like a shared whiteboard), build a **concept map** of semiotics. Put **sign** at the center and branch out to the book's key ideas — signifier/signified, icon/index/symbol, interpretant, code, function, myth, Umwelt — drawing **labelled links** between them ("is a kind of," "opposes," "extends," "leads to").
+On one large sheet (or a free tool like a shared whiteboard), build a **concept map** of semiotics. Put **sign** at the center and branch out to the book's key ideas: signifier/signified, icon/index/symbol, interpretant, code, function, myth, Umwelt, drawing **labelled links** between them ("is a kind of," "opposes," "extends," "leads to").
 
 Requirement: include at least **three cross-chapter links** (e.g., "arbitrariness (Ch 3) = the *symbol* relation (Ch 4)"; "connotation (Ch 6) → myth (Ch 6.7) → ideology critique (Ch 7)").
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
 - A powerful revision tool: it forces students to see the book as **one connected system**, not eight separate topics.
 - Watch for the high-value bridges: symbol=arbitrariness (Chs 3–4); paradigm/syntagm running from §3.6 through §6.3–6.4 to §7.3; unlimited semiosis (§4.3) ≈ Barthes's endless connotation (§6.6) ≈ Derrida's dissemination (§6.5).
@@ -95,14 +95,14 @@ Requirement: include at least **three cross-chapter links** (e.g., "arbitrarines
 
 Write a 600–800-word reflective essay responding to this prompt:
 
-> Over a century separates Saussure's *Course* from today's cognitive and non-human semiotics. The twentieth century leaned toward the **social, cultural, and ideological** (Saussure, Barthes); the twenty-first increasingly toward the **cognitive, biological, and naturalistic** (Peirce, biosemiotics). Using examples from the book, explain this shift — and argue whether semiotics should pursue *cultural critique*, *scientific generality*, or both.
+> Over a century separates Saussure's *Course* from today's cognitive and non-human semiotics. The twentieth century leaned toward the **social, cultural, and ideological** (Saussure, Barthes); the twenty-first increasingly toward the **cognitive, biological, and naturalistic** (Peirce, biosemiotics). Using examples from the book, explain this shift and argue whether semiotics should pursue *cultural critique*, *scientific generality*, or both.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
 - This mirrors the intended concluding chapter's argument. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: neuroscience, computing/AI, and the exhaustion of purely contextual approaches.
 - Accept either normative position (critique, science, or synthesis) if defended with textual evidence.
-- Excellent alignment with the reviewer's request to situate the book within the wider intellectual history of the West.
+- Given the availability of AI tools, this activity might be best turned into an in-class debate.
 </details>
 </div>
 
@@ -117,14 +117,14 @@ Write a 600–800-word reflective essay responding to this prompt:
 
 <p class="concept">Integrates: applying the full toolkit rapidly and collaboratively (all chapters).</p>
 
-Run a "clinic." Each student brings **one puzzling sign** — something whose meaning they find genuinely ambiguous or contested (an emoji used oddly, a confusing street sign, a meme, a brand that changed logo, a contested political symbol). In rotating pairs (5 minutes each), the "patient" presents the sign and the "clinician" must analyse it using named tools, then they swap.
+Run a "clinic." Each student brings **one puzzling sign**: something whose meaning they find genuinely ambiguous or contested (an emoji used oddly, a confusing street sign, a meme, a brand that changed logo, a contested political symbol). In rotating pairs (5 minutes each), the "patient" presents the sign and the "clinician" must analyze it using named tools, then they swap.
 
 Afterwards, the class votes on the **most illuminating diagnosis** of the session.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
-- A fast, high-energy synthesis: students must *retrieve and apply* the whole vocabulary under mild time pressure — excellent for consolidation.
+- A fast, high-energy synthesis: students must *retrieve and apply* the whole vocabulary under mild time pressure, excellent for consolidation.
 - Circulate and seed tools where pairs stall ("Is that icon, index, or symbol? What's the connotation? Which function dominates?").
 - Keeps the course's final note where it should be: semiotics as a **practical habit of attention**, portable to anything.
 </details>

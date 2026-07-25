@@ -7,10 +7,10 @@ chapter: 2
 order: 2
 count: 4
 book_sections: "§2.1–2.4"
-summary: "Situates semiotics in a long history — ancient Greece, the Stoics, medieval theology and medicine, non-Western traditions, and the two modern founders. Activities build a timeline, compare traditions, and connect the history to students' own context."
+summary: "Situates semiotics in a long history: ancient Greece, the Stoics, medieval theology and medicine, non-Western traditions, and the two modern founders. Activities build a timeline, compare traditions, and connect the history to students' own context."
 ---
 
-Chapter 2 is dense with names and dates. These activities turn that survey into something students construct and compare, rather than memorise — and they deliberately draw in **non-Western** traditions (Indian, Chinese, Buddhist) so that Thai students see their own intellectual heritage inside the story.
+Chapter 2 is dense with names and dates. These activities turn that survey into something students construct and compare, rather than memorise. They deliberately draw in **non-Western** traditions (Indian, Chinese, Buddhist) so that Thai students see their own intellectual heritage inside the story.
 
 <div class="activity" markdown="1">
 
@@ -30,10 +30,10 @@ Plato · Aristotle · the Stoics · Augustine · Aquinas · Pāṇini / Nyāya s
 Then draw **arrows of influence** between cards and mark the single biggest "hinge" moment in the history.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; answer key</summary>
+<summary>Instructor notes and answer key</summary>
 
 - Key anchors: Plato's *Cratylus* (~388 BCE); Aristotle (384–322 BCE); Augustine's *On Christian Doctrine* (397); Locke coins *sēmeiōtikē* (1690); Saussure's lectures (1907–1911, published 1916); Peirce's work (1860s–1900s); Russian Formalism (1910s); Prague Circle (1920s–30s); French structuralism (1950s–70s); Sebeok launches zoosemiotics (1963); contemporary expansion (late 20th c. onward).
-- The natural "hinge" is the near-simultaneous, independent founding by **Saussure and Peirce** — a good moment to preview why the field has two vocabularies (Chs 3–4).
+- The natural "hinge" is the near-simultaneous, independent founding by **Saussure and Peirce** (a good moment to preview why the field has two vocabularies) (Chs 3–4).
 - Watch for the common slip of treating the history as purely European; step 2 of Activity 2.2 corrects this.
 - **Terminology check for the instructor:** Aristotle's "necessary sign" is transliterated *tekmērion* (pl. *tekmēria*); the "probable sign" is *sēmeion* (pl. *sēmeia*).
 </details>
@@ -50,17 +50,17 @@ Then draw **arrows of influence** between cards and mark the single biggest "hin
 
 <p class="concept">Practises: the universality of reflection on signs (§2.1); comparing Western and non-Western sign theories.</p>
 
-The chapter notes that "human interest in understanding how signs work … is truly universal," citing Indian, Chinese, and Islamic traditions. In pairs, **compare one Western idea from §2.1 with one idea from a tradition familiar to you.**
+The chapter notes that "human interest in understanding how signs work… is truly universal," citing Indian, Chinese, and Islamic traditions. In pairs, **compare one Western idea from §2.1 with one idea from a tradition familiar to you.**
 
 Suggested pairing for Thai students: the *Cratylus* debate (are names natural or conventional?) beside the Buddhist analysis of **nāma-rūpa** ("name-and-form") and the idea that words are conventional designations (Pali *paññatti*) that do not capture ultimate reality.
 
 Produce a short two-column comparison answering: *What is a sign? Is the link between word and thing natural or conventional? What is language for?*
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
-- The aim is not doctrinal precision but recognising that the "arbitrariness vs. naturalness" question (which becomes Saussure's §3.2) is genuinely cross-cultural. Buddhist thought broadly treats linguistic designations as **conventional** — a striking convergence with Hermogenes and later Saussure.
-- Encourage students from other backgrounds (Chinese, Muslim, Christian, Isan/Lanna) to substitute their own tradition. Keep the treatment respectful and descriptive.
+- The aim is not doctrinal precision but recognising that the "arbitrariness vs. naturalness" question (which becomes Saussure's §3.2) is genuinely cross-cultural. Buddhist thought broadly treats linguistic designations as **conventional**, a striking convergence with Hermogenes and later Saussure.
+- Encourage students from other backgrounds (Chinese, Muslim, Christian, etc.) to substitute their own tradition. Keep the treatment respectful and descriptive.
 - Bridge: this sets up §3.2 (arbitrariness) and §6.7 (how "natural"-seeming meanings are actually constructed).
 </details>
 </div>
@@ -87,7 +87,7 @@ Complete this comparison table from §2.2 (and your prior reading). Fill every c
 | Main interest | | |
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; answer key</summary>
+<summary>Instructor notes and answer key</summary>
 
 - Saussure: Swiss, linguistics; "semiology"; **two** parts (signifier/signified); *not* published in his lifetime (compiled by students, 1916); interest in language as a structured system.
 - Peirce: American, philosophy/logic; "semeiotic"; **three** parts (representamen/object/interpretant); mostly unpublished in his lifetime; interest in logic, reference, and knowledge.
@@ -114,7 +114,7 @@ The chapter lists living journals and associations. Do a short scan and bring **
 3. Write three sentences: what it seems to be about, which chapter of *Into Semiotics* it connects to, and why you chose it.
 
 <details class="notes" markdown="1">
-<summary>Instructor notes &amp; discussion</summary>
+<summary>Instructor notes and discussion</summary>
 
 - Demystifies "research" and shows the field is not a museum. Even reading only titles and abstracts is enough at this stage.
 - A nice pattern emerges when students report: titles cluster into the book's later chapters (bio-, eco-, cognitive, social), previewing Chs 7–8.
