@@ -9,7 +9,7 @@ title: For instructors
 
 # For instructors
 
-This companion is designed to make *Into Semiotics* teachable in an active, student-centered way, in line with the book's pedagogical aims. Everything here is optional and modular: pick the activities that suit your syllabus, your class size, and your students' backgrounds.
+This companion guide is designed to make *Into Semiotics* teachable in an active, student-centered way, in line with the book's pedagogical aims. Everything here is optional and modular: pick the activities that suit your syllabus, your class size, and your students' backgrounds.
 
 ## How each activity is structured
 
