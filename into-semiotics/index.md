@@ -5,9 +5,9 @@ permalink: /into-semiotics/
 title: Home
 ---
 
-<p class="eyebrow">Companion to the book</p>
+<p class="eyebrow">Learning Activities and Exercises</p>
 
-# A Companion Guide into Semiotics: Learning Activities and Exercises
+# A Companion Guide into Semiotics
 
 A free collection of **exercises, activities, and contextualized examples** that put the concepts of *Into Semiotics: Understanding Signs, Meaning, and Communication* into practice. For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
 
