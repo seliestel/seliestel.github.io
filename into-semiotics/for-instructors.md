@@ -23,7 +23,7 @@ Every activity is marked with simple labels to help you plan at a glance:
 
 ## Suggested pacing
 
-A typical 15-week postgraduate seminar maps cleanly onto the book:
+A typical 15-week postgraduate course maps cleanly onto the book:
 
 | Weeks | Book chapters | Companion focus |
 |---|---|---|
