@@ -7,7 +7,7 @@ chapter: 8
 order: 8
 count: 5
 book_sections: "§8.1–8.8"
-summary: "Umwelt, zoosemiotics, biosemiotics and the genetic code, ecosemiotics, and artificial/astrosemiotics, grounded in Thai animals, rice paddies, mangroves, khlongs, and a message-to-the-stars design task."
+summary: "Umwelt, zoosemiotics, biosemiotics and the genetic code, ecosemiotics, artificial semiotics, and astrosemiotics, grounded in Thai animals, rice paddies, mangroves, khlongs, and a message-to-the-stars design task."
 ---
 
 The final content chapter stretches semiotics to animals, cells, ecosystems, machines, and the cosmos. These activities keep the big ideas concrete through Thai natural and technological environments, and they lean into the chapter's built-in **debates** (Is it really semiosis? Does a plant, a cell, or an AI "interpret"?), which are ideal for active learning.
