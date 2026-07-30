@@ -7,7 +7,7 @@ chapter: 5
 order: 5
 count: 5
 book_sections: "§5.1–5.7"
-summary: "Jakobson's six functions of language, the poetic function, pragmatics and register, and communication breakdown; practised on BTS announcements, Thai ads, luk thung lyrics, kreng jai, and cross-cultural mishaps."
+summary: "Jakobson's six functions of language, the poetic function, pragmatics and register, and communication breakdown; practiced on BTS announcements, Thai ads, luk thung lyrics, kreng jai, and cross-cultural mishaps."
 ---
 
 Jakobson's model is the analytical engine of this chapter. These activities train students to identify the **dominant function** of real Thai messages, to hear the **poetic function** in slogans and songs, and to see how **register** and **context** (pragmatics) make or break communication.
@@ -21,7 +21,7 @@ Jakobson's model is the analytical engine of this chapter. These activities trai
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: the six functions and identifying the dominant one (§5.3).</p>
+<p class="concept">Practices: the six functions and identifying the dominant one (§5.3).</p>
 
 For each Thai-context message below, identify **all functions present** and **circle the dominant one** (referential, emotive, conative, phatic, metalingual, poetic).
 
@@ -51,7 +51,7 @@ For each Thai-context message below, identify **all functions present** and **ci
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: how the same content re-oriented changes the message (§5.3).</p>
+<p class="concept">Practices: how the same content re-oriented changes the message (§5.3).</p>
 
 Start with one neutral, referential sentence, e.g. *"The night market closes at 10 p.m."* Rewrite it **five** times so that a *different* function dominates each version:
 
@@ -79,7 +79,7 @@ Start with one neutral, referential sentence, e.g. *"The night market closes at 
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: the poetic function as the projection of equivalence onto the sequence: rhyme, rhythm, parallelism (§5.4).</p>
+<p class="concept">Practices: the poetic function as the projection of equivalence onto the sequence: rhyme, rhythm, parallelism (§5.4).</p>
 
 Collect **three "sticky" Thai texts**: an advertising jingle, a **luk thung** or **mor lam** lyric line, a proverb (<em>suphasit</em>), or a campaign slogan. For each, identify the device that makes it memorable (**rhyme, alliteration, assonance, rhythm, or parallelism**) and explain, in Jakobson's terms, how *how it is said* has become part of *what it means*.
 
@@ -103,7 +103,7 @@ Then test the claim: rewrite one of them in plain, non-poetic language. Is anyth
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: pragmatics, code-switching, register, and context-dependent meaning (§5.5).</p>
+<p class="concept">Practices: pragmatics, code-switching, register, and context-dependent meaning (§5.5).</p>
 
 The same request must be delivered to **four addressees**, adjusting register each time. Take the simple message *"I can't come to the meeting tomorrow"* and script/perform it to:
 
@@ -117,7 +117,7 @@ For each, note the changes: pronouns, polite particles (ครับ/ค่ะ),
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Thai grammaticalises register far more than English (pronouns, particles, honorific vocabulary), so students *feel* §5.5 immediately. Map the changes back to Saussure's paradigm (§3.6): each slot offers a set of options with social value.
+- Thai grammaticalizes register far more than English (pronouns, particles, honorific vocabulary), so students *feel* §5.5 immediately. Map the changes back to Saussure's paradigm (§3.6): each slot offers a set of options with social value.
 - Kreng jai is the pragmatic key: with a monk or boss, the *conative* directness of "I can't come" is softened almost out of existence; the same proposition, radically different encoding. Ties to §7.7's point about doctor–patient communication.
 - Keep monk role-play respectful; students may prefer "senior abbot-teacher" framing.
 </details>
@@ -132,7 +132,7 @@ For each, note the changes: pronouns, polite particles (ครับ/ค่ะ),
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: using Jakobson's factors + noise/redundancy/code to diagnose miscommunication (§5.1, §5.6–5.7).</p>
+<p class="concept">Practices: using Jakobson's factors + noise/redundancy/code to diagnose miscommunication (§5.1, §5.6–5.7).</p>
 
 Read (or recall) a real cross-cultural mishap in Thailand (e.g., a tourist and a vendor, an expat and a landlord, a foreigner misreading a *wai* or a smile). Using the model, **locate the failure**: was it a mismatch of **code**, **context/common ground**, **channel/noise**, or a wrong assumption about which **function** was dominant?
 

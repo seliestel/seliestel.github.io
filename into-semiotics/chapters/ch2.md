@@ -10,7 +10,7 @@ book_sections: "§2.1–2.4"
 summary: "Situates semiotics in a long history: ancient Greece, the Stoics, medieval theology and medicine, non-Western traditions, and the two modern founders. Activities build a timeline, compare traditions, and connect the history to students' own context."
 ---
 
-Chapter 2 is dense with names and dates. These activities turn that survey into something students construct and compare, rather than memorise. They deliberately draw in **non-Western** traditions (Indian, Chinese, Buddhist) so that Thai students see their own intellectual heritage inside the story.
+Chapter 2 is dense with names and dates. These activities turn that survey into something students construct and compare, rather than memorize. They deliberately draw in **non-Western** traditions (Indian, Chinese, Buddhist) so that Thai students see their own intellectual heritage inside the story.
 
 <div class="activity" markdown="1">
 
@@ -21,7 +21,7 @@ Chapter 2 is dense with names and dates. These activities turn that survey into 
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: the sequence and logic of semiotic thought from ancient to contemporary (§2.1–2.4); a summary table as a study tool.</p>
+<p class="concept">Practices: the sequence and logic of semiotic thought from ancient to contemporary (§2.1–2.4); a summary table as a study tool.</p>
 
 Using only the chapter, each group builds a **timeline card set**. On separate cards (paper or sticky notes), write each of the following figures/movements with **one date or period** and **one sentence** on their contribution, then arrange them in order on a wall or table:
 
@@ -48,7 +48,7 @@ Then draw **arrows of influence** between cards and mark the single biggest "hin
 <span class="tag time">40 min</span>
 </div>
 
-<p class="concept">Practises: the universality of reflection on signs (§2.1); comparing Western and non-Western sign theories.</p>
+<p class="concept">Practices: the universality of reflection on signs (§2.1); comparing Western and non-Western sign theories.</p>
 
 The chapter notes that "human interest in understanding how signs work… is truly universal," citing Indian, Chinese, and Islamic traditions. In pairs, **compare one Western idea from §2.1 with one idea from a tradition familiar to you.**
 
@@ -74,7 +74,7 @@ Produce a short two-column comparison answering: *What is a sign? Is the link be
 <span class="tag time">20 min</span>
 </div>
 
-<p class="concept">Practises: distinguishing the two founding traditions before studying them in depth (§2.2); anticipates §4.6.</p>
+<p class="concept">Practices: distinguishing the two founding traditions before studying them in depth (§2.2); anticipates §4.6.</p>
 
 Complete this comparison table from §2.2 (and your prior reading). Fill every cell; leave a "?" where the chapter does not yet say, and see if you can answer it after Chapters 3–4.
 
@@ -105,7 +105,7 @@ Complete this comparison table from §2.2 (and your prior reading). Fill every c
 <span class="tag tech">Web search</span>
 </div>
 
-<p class="concept">Practises: contemporary semiotics as an active, international field (§2.4).</p>
+<p class="concept">Practices: contemporary semiotics as an active, international field (§2.4).</p>
 
 The chapter lists living journals and associations. Do a short scan and bring **one real, recent artefact** of the living discipline to class:
 

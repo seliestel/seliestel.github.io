@@ -10,7 +10,7 @@ book_sections: "§6.1–6.8"
 summary: "Types of codes, paradigm/syntagm, binary oppositions, denotation/connotation, and Barthes's myth and ideology, applied to Thai dress codes, sacred/profane space, brands, and tourism advertising."
 ---
 
-This chapter gives students the tools to move from single signs to whole **systems**. The payoff activity is myth-analysis (Barthes): learning to see how a tourism poster or an advertisement makes a *constructed* meaning look *natural*. Thailand's rich, layered codes (dress, space, colour, food) provide excellent material.
+This chapter gives students the tools to move from single signs to whole **systems**. The payoff activity is myth-analysis (Barthes): learning to see how a tourism poster or an advertisement makes a *constructed* meaning look *natural*. Thailand's rich, layered codes (dress, space, color, food) provide excellent material.
 
 <div class="activity" markdown="1">
 
@@ -21,7 +21,7 @@ This chapter gives students the tools to move from single signs to whole **syste
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: the four code contrasts (digital/analog, natural/artificial, strong/weak, cultural/subcultural) (§6.2), plus the shared features of all codes (§6.1).</p>
+<p class="concept">Practices: the four code contrasts (digital/analog, natural/artificial, strong/weak, cultural/subcultural) (§6.2), plus the shared features of all codes (§6.1).</p>
 
 Place each Thai sign system in the summary table and justify each placement in a few words:
 
@@ -52,7 +52,7 @@ Place each Thai sign system in the summary table and justify each placement in a
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: paradigmatic choice and meaning-by-contrast in a dress code (§6.3).</p>
+<p class="concept">Practices: paradigmatic choice and meaning-by-contrast in a dress code (§6.3).</p>
 
 For **three** Thai occasions: (a) visiting a temple, (b) a day of national mourning, (c) Songkran, list the **paradigm** of clothing choices available, mark the "correct" choice, and state what an "incorrect" choice would signal.
 
@@ -76,9 +76,9 @@ Then explain, using §6.3: the meaning of the appropriate outfit comes not from 
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: binary oppositions as structuring cultural systems and their limits (§6.5).</p>
+<p class="concept">Practices: binary oppositions as structuring cultural systems and their limits (§6.5).</p>
 
-Lévi-Strauss argued that cultures organise meaning through binary oppositions. Map Thai examples onto oppositions, then **complicate** them:
+Lévi-Strauss argued that cultures organize meaning through binary oppositions. Map Thai examples onto oppositions, then **complicate** them:
 
 - **high / low**: the head (สูง, high, sacred) vs the feet (ต่ำ, low); why you don't point feet at a Buddha image or touch someone's head.
 - **sacred / profane**: the temple vs the market; the spirit house raised above the ground.
@@ -104,7 +104,7 @@ For each: state the opposition, give the Thai practice that encodes it, then fin
 <span class="tag time">20 min</span>
 </div>
 
-<p class="concept">Practises: the denotation/connotation distinction (§6.6).</p>
+<p class="concept">Practices: the denotation/connotation distinction (§6.6).</p>
 
 Choose **three** Thai cultural signs: e.g. the **elephant** (<em>chang</em>), the **lotus** (<em>dok bua</em>), the color **gold**, a **garland**, a specific **brand logo**. For each, write:
 
@@ -130,14 +130,14 @@ Choose **three** Thai cultural signs: e.g. the **elephant** (<em>chang</em>), th
 <span class="tag tech">Web / phone</span>
 </div>
 
-<p class="concept">Practises: Barthes's myth as second-order signification; how ideology is naturalised (§6.7).</p>
+<p class="concept">Practices: Barthes's myth as second-order signification; how ideology is naturalized (§6.7).</p>
 
 Find **one** Thai advertisement, tourism image, or campaign, e.g. an "*Amazing Thailand*" tourism poster, a beer or whisky ad, a skin-whitening product, a nostalgic "authentic village" food ad. Working like Barthes with the Panzani pasta ad:
 
 1. **First order (language/denotation):** describe literally what the image shows.
 2. **Connotations:** list the cultural meanings the elements evoke.
-3. **Myth (second order):** state the naturalised message, the "obvious truth" the ad makes feel self-evident (e.g. "*Thai-ness = timeless tradition and warm hospitality*"; "*fair skin = beauty and success*").
-4. **Denaturalise:** who benefits from this myth being taken as natural? What is hidden (industrial production, colorism, labor, commercialization)?
+3. **Myth (second order):** state the naturalized message, the "obvious truth" the ad makes feel self-evident (e.g. "*Thai-ness = timeless tradition and warm hospitality*"; "*fair skin = beauty and success*").
+4. **Denaturalize:** who benefits from this myth being taken as natural? What is hidden (industrial production, colorism, labor, commercialization)?
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>

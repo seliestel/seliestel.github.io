@@ -10,7 +10,7 @@ book_sections: "§3.1–3.7"
 summary: "Signifier and signified, arbitrariness, langue/parole, synchrony/diachrony, and value/difference, made concrete with Thai words, sounds, pronouns, and menus."
 ---
 
-Saussure's model is abstract but each concept has a vivid Thai handle. These activities let students *feel* arbitrariness by comparing languages they know, and *see* value-through-difference in systems they use every day (pronouns, colour terms, menus).
+Saussure's model is abstract but each concept has a vivid Thai handle. These activities let students *feel* arbitrariness by comparing languages they know, and *see* value-through-difference in systems they use every day (pronouns, color terms, menus).
 
 <div class="activity" markdown="1">
 
@@ -21,7 +21,7 @@ Saussure's model is abstract but each concept has a vivid Thai handle. These act
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: the dyadic sign and the arbitrariness of the signifier (§3.1–3.2).</p>
+<p class="concept">Practices: the dyadic sign and the arbitrariness of the signifier (§3.1–3.2).</p>
 
 Most students in Thailand know at least two codes (Thai + English, often plus Isan, Lanna, Chinese, Malay, etc.). Pick **five concepts** and write the **signifier** in every language you share, then the **signified** (the shared concept) once.
 
@@ -53,7 +53,7 @@ Then answer: If the link between sound and meaning were natural, what would you 
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: the limit case of arbitrariness: even "natural" imitative words are conventional (§3.2).</p>
+<p class="concept">Practices: the limit case of arbitrariness: even "natural" imitative words are conventional (§3.2).</p>
 
 The book notes that English roosters say *cock-a-doodle-doo* but Thai roosters say *ek-i-ek* (เอ้กอี้เอ้ก). Build a **cross-language animal-sound table** for sounds you all know:
 
@@ -69,9 +69,9 @@ Discuss: onomatopoeia is the *most natural* kind of word, so why don't the colum
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Real animals make the same sounds worldwide, yet each language conventionalises them differently, so onomatopoeia is only **relatively** motivated; convention still dominates (§3.2). This is the exception that proves Saussure's rule.
+- Real animals make the same sounds worldwide, yet each language conventionalizes them differently, so onomatopoeia is only **relatively** motivated; convention still dominates (§3.2). This is the exception that proves Saussure's rule.
 - "meow" is the near-universal one (cat sounds are simple) but roosters and frogs diverge wildly, a nice gradient of motivation.
-- Light and fun; good energiser. Bridges to Peirce's **icon** (§4.2): onomatopoeia is an *iconic* aspect layered onto an otherwise symbolic sign.
+- Light and fun; good energizer. Bridges to Peirce's **icon** (§4.2): onomatopoeia is an *iconic* aspect layered onto an otherwise symbolic sign.
 </details>
 </div>
 
@@ -84,7 +84,7 @@ Discuss: onomatopoeia is the *most natural* kind of word, so why don't the colum
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: value as difference, a sign means by not being the others in its system (§3.6).</p>
+<p class="concept">Practices: value as difference, a sign means by not being the others in its system (§3.6).</p>
 
 English has essentially one word for the first person: *I*. Thai has many, each with a different **value** fixed by its difference from the others. Map a set onto a grid. For example: **ผม (phom), ดิฉัน (dichan), ฉัน (chan), กู (ku), หนู (nu), เรา (rao), อาตมา (atma)**:
 
@@ -115,7 +115,7 @@ Key question: none of these means simply "I." Each takes its meaning from its **
 <span class="tag time">20 min</span>
 </div>
 
-<p class="concept">Practises: the distinction between the abstract system (langue) and concrete use (parole) (§3.4).</p>
+<p class="concept">Practices: the distinction between the abstract system (langue) and concrete use (parole) (§3.4).</p>
 
 Sort each item below into **LANGUE** (part of the shared system/rules) or **PAROLE** (a concrete act of use):
 
@@ -144,7 +144,7 @@ Sort each item below into **LANGUE** (part of the shared system/rules) or **PARO
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practises: paradigmatic (selection) vs syntagmatic (combination) relations (§3.6).</p>
+<p class="concept">Practices: paradigmatic (selection) vs syntagmatic (combination) relations (§3.6).</p>
 
 Ordering food is a semiotic system. Take **som tam** (papaya salad) or a **kuaytiaw** (noodle) order.
 

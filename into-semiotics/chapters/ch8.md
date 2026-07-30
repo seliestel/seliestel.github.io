@@ -21,7 +21,7 @@ The final content chapter stretches semiotics to animals, cells, ecosystems, mac
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: Uexküll's Umwelt, each organism's world is structured by the signs meaningful to it (§8.2).</p>
+<p class="concept">Practices: Uexküll's Umwelt, each organism's world is structured by the signs meaningful to it (§8.2).</p>
 
 Pick a **Thai animal** and reconstruct its **Umwelt**: the world *as signs* for that being. Options: a **soi dog**, a **temple macaque**, a **water buffalo**, a **tokay gecko** (ตุ๊กแก), a **water monitor** (in the khlong), a **mosquito**.
 
@@ -30,7 +30,7 @@ Fill in:
 | For this animal… | Answer |
 |---|---|
 | Which signs is it tuned to perceive? (smells, sounds, movements) | |
-| Which signs trigger which behaviours? | |
+| Which signs trigger which behaviors? | |
 | What is meaningful and what is simply *ignored*? | |
 | How does its world differ from a human's in the same place? | |
 
@@ -53,7 +53,7 @@ Fill in:
 <span class="tag tech">Phone (photo/video/audio)</span>
 </div>
 
-<p class="concept">Practises: zoosemiotics, describing animal communication and its functions (§8.1).</p>
+<p class="concept">Practices: zoosemiotics, describing animal communication and its functions (§8.1).</p>
 
 Observe an animal communicating for 15 minutes, e.g. temple or street animals, birds at dawn, a market's caged birds, a pet. Record (notes, photo, short clip) **three distinct signals** and for each ask:
 
@@ -80,7 +80,7 @@ Observe an animal communicating for 15 minutes, e.g. temple or street animals, b
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: the biosemiotic claim that genetics is genuine semiosis vs the "merely chemistry" view (§8.2–8.3).</p>
+<p class="concept">Practices: the biosemiotic claim that genetics is genuine semiosis vs the "merely chemistry" view (§8.2–8.3).</p>
 
 Biologists routinely say DNA is "transcribed," "translated," and "expressed." Is this a real **code** or just a metaphor? Split into two teams:
 
@@ -108,12 +108,12 @@ Each side prepares three points from §8.3; hold two rounds; then map where each
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: ecosemiotics, ecosystems as webs of interpreted signs; semiotic pollution (§8.5).</p>
+<p class="concept">Practices: ecosemiotics, ecosystems as webs of interpreted signs; semiotic pollution (§8.5).</p>
 
 Choose a Thai ecosystem you know: a **rice paddy (นา)**, a **mangrove (ป่าชายเลน))**, a **khlong (คลอง)**, or an **orchard**. Map it as a **network of sign relations**:
 
 1. List the organisms (plants, insects, birds, fish, buffalo, humans).
-2. Draw arrows for **who reads whose signs** (a heron reads ripples; a frog reads insect movement; a farmer reads the sky and the soil; plants read chemical signals from damaged neighbours).
+2. Draw arrows for **who reads whose signs** (a heron reads ripples; a frog reads insect movement; a farmer reads the sky and the soil; plants read chemical signals from damaged neighbors).
 3. Identify one form of **semiotic pollution** disrupting the network (artificial light confusing insects/birds, pesticide disrupting pollinators, noise, plastic, etc.) and trace its downstream effects.
 
 <details class="notes" markdown="1">
@@ -135,7 +135,7 @@ Choose a Thai ecosystem you know: a **rice paddy (นา)**, a **mangrove (ป�
 <span class="tag tech">Optional: a chatbot / LINE bot</span>
 </div>
 
-<p class="concept">Practises: astrosemiotics (designing an interpretable message) and artificial semiotics (does AI perform semiosis?) (§8.6–8.7).</p>
+<p class="concept">Practices: astrosemiotics (designing an interpretable message) and artificial semiotics (does AI perform semiosis?) (§8.6–8.7).</p>
 
 Choose **one** track:
 
@@ -146,7 +146,7 @@ Choose **one** track:
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- **Track A** dramatises the semiotic problem of a **shared code** (§8.7): with no common convention, senders fall back on what might be universal (math, physical constants, self-describing icons). Good link to Jakobson's *code* factor (Ch 5) and to the Wow! signal / SETI discussion (§8.7).
+- **Track A** dramatices the semiotic problem of a **shared code** (§8.7): with no common convention, senders fall back on what might be universal (math, physical constants, self-describing icons). Good link to Jakobson's *code* factor (Ch 5) and to the Wow! signal / SETI discussion (§8.7).
 - **Track B** turns on the book's own framing (§8.6): if interpretation requires consciousness, current AI is not a genuine semiotic agent; if it does not (as biosemiotics allows for cells), then AI arguably qualifies. There is no settled answer: the point is to reason with the criteria.
 - Keep Track B grounded in observation of an *actual* exchange, not sci-fi speculation.
 </details>

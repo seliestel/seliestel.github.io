@@ -7,10 +7,10 @@ chapter: 7
 order: 7
 count: 5
 book_sections: "§7.1–7.7"
-summary: "Lotman's semiosphere, Greimas's actantial model, visual semiotics (Kress & van Leeuwen), social semiotics, and applied semiotics, practised on Thai folktales, lakorn, movie posters, uniforms, and brands."
+summary: "Lotman's semiosphere, Greimas's actantial model, visual semiotics (Kress & van Leeuwen), social semiotics, and applied semiotics, practiced on Thai folktales, lakorn, movie posters, uniforms, and brands."
 ---
 
-Chapter 7 is where semiotics becomes obviously useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakorn</em>), film posters, brands, political color codes, so the theory arrives with a purpose.
+Chapter 7 is where semiotics becomes obviously useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakorn</em>), film posters, brands, political codes, so the theory arrives with a purpose.
 
 <div class="activity" markdown="1">
 
@@ -21,7 +21,7 @@ Chapter 7 is where semiotics becomes obviously useful. These activities apply na
 <span class="tag time">35 min</span>
 </div>
 
-<p class="concept">Practises: Lotman's semiosphere, center/periphery, and translation across boundaries (§7.1).</p>
+<p class="concept">Practices: Lotman's semiosphere, center/periphery, and translation across boundaries (§7.1).</p>
 
 Draw a large circle (the Thai semiosphere). Place cultural forms toward the **center** (dominant, codified) or the **periphery** (less codified, innovative, foreign-influenced), and justify each placement:
 
@@ -34,7 +34,7 @@ Then mark **one arrow** where something is moving from periphery to center (or t
 
 - Lotman's model (§7.1): center = dominant/canonical (standard Thai, state Buddhism, khon); periphery = dialects, subcultures, imports, where **innovation** happens. The productive move is spotting periphery→center drift (Isan/mor lam and luk thung entering the mainstream; BL series going global).
 - "Translation" is Lotman's technical term for signs crossing boundaries (§7.1): a Korean format localized into Thai, a foreign holiday adopted and reworked.
-- Sensitivity: place royal/religious forms descriptively (as central, highly codified) without evaluation.
+- Sensitivity: place royal/religious forms descriptively (as central, highly codified) without any evaluation.
 </details>
 </div>
 
@@ -47,7 +47,7 @@ Then mark **one arrow** where something is moving from periphery to center (or t
 <span class="tag time">40 min</span>
 </div>
 
-<p class="concept">Practises: Greimas's six actants applied to narrative (§7.2).</p>
+<p class="concept">Practices: Greimas's six actants applied to narrative (§7.2).</p>
 
 Take a **Thai folktale** (e.g. *Sang Thong*, *Kraithong*) **or** a current **lakorn** or **BL series** everyone knows. Fill Greimas's actantial grid (remember: actants are *roles*, not necessarily single characters):
 
@@ -81,7 +81,7 @@ Then test the model's claim: does this very different story share the **same und
 <span class="tag tech">Phone / web image</span>
 </div>
 
-<p class="concept">Practises: the grammar of visual design, representation, interaction, composition (§7.3).</p>
+<p class="concept">Practices: the grammar of visual design, representation, interaction, composition (§7.3).</p>
 
 Choose a **Thai movie poster, T-pop album cover, or campaign visual**. Analyze it on the three metafunctions:
 
@@ -109,7 +109,7 @@ Write a short "what this image wants from you" paragraph.
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: social semiotics, identity as constructed from available semiotic resources (§7.4).</p>
+<p class="concept">Practices: social semiotics, identity as constructed from available semiotic resources (§7.4).</p>
 
 We "wear" identities. Pick **one identity you perform** (student in uniform, member of a fan community, a regional identity, a professional). List the **semiotic resources** you draw on (clothing, accessories, speech style, gesture, social-media style, etc.) and what each signals, to whom.
 
@@ -133,13 +133,13 @@ Then, in pairs, discuss: which of your resources include some people and **exclu
 <span class="tag time">45 min</span>
 </div>
 
-<p class="concept">Practises: applied/marketing semiotics, signs engineered to differentiate and persuade (§7.7).</p>
+<p class="concept">Practices: applied/marketing semiotics, signs engineered to differentiate and persuade (§7.7).</p>
 
 The book analyzes Thai beer branding (Chang's elephant, Singha's lion, Leo's leopard) through Saussurean **value**: each brand signifies by *not being* the others. Your team invents a **new Thai product** (a snack, an app, a drink) and designs its sign system:
 
 1. Choose a **name + animal/emblem + color scheme**.
 2. State, in Saussurean terms, how it will signify **by differing** from existing competitors in the same category.
-3. Identify the **connotations and myth** you want the brand to naturalise (§6.6–6.7).
+3. Identify the **connotations and myth** you want the brand to naturalize (§6.6–6.7).
 4. Pitch it in 90 seconds. The class judges which brand's signs work best and why.
 
 <details class="notes" markdown="1">
@@ -147,6 +147,6 @@ The book analyzes Thai beer branding (Chang's elephant, Singha's lion, Leo's leo
 
 - This synthesizes Chs 3, 4, 6, 7 in a single creative task: **value/difference** (§3.6), **icon/index/symbol** in the logo (§4.2), **connotation/myth** (§6.6–6.7), applied to **marketing** (§7.7).
 - Insist on step 2: a brand's meaning is *positional* (e.g., Leo's leopard works because it is "the modern, accessible one" against the heritage-laden elephant and lion). Good pitches name the gap in the paradigm they occupy.
-- Optional political-communication variant (handle carefully, descriptively): analyze how the Yellow/Red shirt colour codes or the 2020 protest symbols (three-finger salute, rubber duck) functioned as signs (§7.7); analysis of sign mechanics, not advocacy.
+- Optional political-communication variant (handle carefully, only descriptively): analyze use of political symbols during street protests in Thailand (e.g., Yellow/Red shirt color codes) (§7.7); stick to the analysis of sign mechanics, avoiding advocacy or ideological debate.
 </details>
 </div>

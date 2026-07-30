@@ -22,7 +22,7 @@ These five activities give students their first hands-on experience of "reading 
 <span class="tag tech">Phone camera</span>
 </div>
 
-<p class="concept">Practises: a sign is perceptible and points beyond itself (§1.1); the three areas where signs matter: language, culture, cognition (§1.2).</p>
+<p class="concept">Practices: a sign is perceptible and points beyond itself (§1.1); the three areas where signs matter: language, culture, cognition (§1.2).</p>
 
 Walk through a familiar Thai public space, such as a market (<em>talat</em>), a temple (<em>wat</em>), a BTS/MRT station, a night market, or your campus, and **photograph ten different signs**. Try to make them varied: not ten shop signs, but a mix of words, images, objects, gestures, sounds (photograph the source), smells (photograph the source), colors, and behaviors.
 
@@ -57,7 +57,7 @@ For each photo, fill in one row of this table:
 <span class="tag time">30 min (writing)</span>
 </div>
 
-<p class="concept">Practises: the ubiquity of signs and the shift from passive perception to active interpretation (§1.1).</p>
+<p class="concept">Practices: the ubiquity of signs and the shift from passive perception to active interpretation (§1.1).</p>
 
 The book imagines "a typical morning" full of signs. **Write your own version** (250–350 words) narrating the first two hours of a real morning where you live (waking up, commuting, arriving at work or campus) and **underlining every sign** you pass through.
 
@@ -83,7 +83,7 @@ For at least **five** of the underlined signs, add a footnote saying what it sta
 <span class="tag time">30 min</span>
 </div>
 
-<p class="concept">Practises: signs as culturally mediated; meaning varies across social groups (§1.2, "Culture and society").</p>
+<p class="concept">Practices: signs as culturally mediated; meaning varies across social groups (§1.2, "Culture and society").</p>
 
 Each group takes **one everyday object** and lists as many things as it can that the object "stands for," for different people and in different situations. Suggested objects:
 
@@ -103,7 +103,7 @@ Then answer together: *Does this object have a single "true" meaning, or does it
 
 - The intended discovery is that **meaning is not a property of the object** but of the relation between sign, interpreter, and context (a key idea of the whole book).
 - The garland is rich with meaning: a welcome, a religious offering, a mark of respect to a teacher or elder, a taxi-mirror ornament, a market commodity. The 500-baht note previews §1.2's point that money is worthless paper except as a **sign of value within a system**.
-- Bridge forward: the different meanings of a single object are its **connotations** (Ch 6) and, when naturalised, they can work as **myths** (Ch 6.7).
+- Bridge forward: the different meanings of a single object are its **connotations** (Ch 6) and, when naturalized, they can work as **myths** (Ch 6.7).
 </details>
 </div>
 
@@ -116,7 +116,7 @@ Then answer together: *Does this object have a single "true" meaning, or does it
 <span class="tag time">30–40 min</span>
 </div>
 
-<p class="concept">Practises: the claim that we access reality only through signs (§1.1); why semiotics matters (§1.3).</p>
+<p class="concept">Practices: the claim that we access reality only through signs (§1.1); why semiotics matters (§1.3).</p>
 
 The book makes a strong claim: *"we do not have direct or unfiltered access to reality. We can only know the world through signs."* Split the class in two.
 
@@ -145,7 +145,7 @@ Give each team 10 minutes to prepare, using examples. Run two short rounds, then
 <span class="tag tech">Phone video</span>
 </div>
 
-<p class="concept">Practises: identifying and narrating signs across modalities (§1.1–1.2); first practice of the vocabulary.</p>
+<p class="concept">Practices: identifying and narrating signs across modalities (§1.1–1.2); first practice of the vocabulary.</p>
 
 Record a **30–60 second phone video** walking along a street, a soi, or a corridor. As you film, **narrate the signs** you pass in English: "This is a sign: it's a [word / image / color / gesture / sound] and it stands for…".
 
