@@ -9,7 +9,7 @@ title: Home
 
 # A Companion Guide into Semiotics
 
-A free collection of **exercises, activities, and contextualized examples** that put the concepts of *Into Semiotics: Understanding Signs, Meaning, and Communication* into practice. For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
+A free collection of **exercises, activities, and contextualized examples** that put into practice the concepts of Ignasi Ribó's *Into Semiotics: Understanding Signs, Meaning, and Communication* (2026). For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
 
 These active-learning materials address a simple question that the book raises but cannot fully resolve: *how do you actually do semiotics?* They ask students to go out, look, listen, collect, classify, argue, and create, turning abstract ideas about signs into concrete analysis of the world around them.
 
@@ -43,8 +43,8 @@ The activities are built around a few simple principles that research on active 
 
 **In class:** each activity notes whether it works best individually, in pairs, or in groups, and roughly how long it takes, so it can be slotted into a lecture or seminar.
 
-**Independent study:** activities marked for individual work include enough scaffolding and, in the instructor notes, model answers or discussion points, so self-directed learners can check their thinking.
+**Independent study:** activities marked for individual work include enough scaffolding and, in the instructor notes, model answers or discussion points, so self-directed learners can check their progress.
 
-**Assessment:** the [capstone](/into-semiotics/chapters/capstone/) offers a portfolio-style project that integrates the whole book, plus suggestions for lighter formative assessment.
+**Assessment:** the [capstone](/into-semiotics/chapters/capstone/) offers a portfolio-style project that integrates ideas from the whole book, plus suggestions for lighter formative assessment.
 
 See **[For instructors](/into-semiotics/for-instructors/)** for pacing, grouping, and assessment guidance, and **[About](/into-semiotics/about/)** for licensing and how to cite.
