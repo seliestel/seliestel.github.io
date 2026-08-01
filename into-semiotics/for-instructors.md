@@ -48,8 +48,8 @@ For large classes, use the **think–pair–share** rhythm built into many activ
 
 Most examples given here are grounded in Thai contexts because users of the textbook are likely to be based in Thailand (although the book is aimed at a global audience). The use of concrete local material in this companion is intended to make abstract theory more understandable. Two cautions:
 
-- **Invite students' own material.** The strongest version of every activity replaces the given example with one the student chooses from their own life, region, or first language. Thai examples are only the starting point. Isaan, Lanna, Southern, or non-Thai students should be encouraged to share their own cultural background. If you are teaching a course outside of Thailand, you will probably want to adapt the examples and activities so that they reflect your students' cultural context.
-- **Handle sensitive signs with care.** A few activities touch on sensitive material, such as politics or religion. Treat these descriptively and analytically, focusing on how signs work rather than on partisan positions. Always be mindful and respectful of local sensitivities. Alternative examples are suggested where relevant.
+- **Invite students' own material.** The strongest version of every activity replaces the given example with one the student chooses from their own life, region, or first language. Thai examples are only the starting point. Isan, Lanna, Southern, or non-Thai students should be encouraged to share examples closer to their own cultural background. If you are teaching a course outside of Thailand, you will probably want to adapt the examples and activities so that they better reflect your students' context.
+- **Handle sensitive signs with care.** A few activities touch on sensitive material, such as politics or religion. Treat these descriptively and analytically, focusing on how signs work rather than taking partisan positions. Always be mindful and respectful of local sensitivities. Alternative examples are suggested where relevant.
 
 ## Assessment ideas
 
