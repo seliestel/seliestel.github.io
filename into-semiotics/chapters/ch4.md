@@ -134,7 +134,7 @@ For each sign, state the **immediate object** (the person *as represented in tha
 
 <p class="concept">Practices: applying icon/index/symbol to a real multi-sign scene (§4.2).</p>
 
-Photograph a busy Thai street scene (a market lane, a food-stall row, a transit platform). Using any free tool that lets you draw on an image (your phone's markup, Google Slides, Canva, or even paper), **label at least six signs** in the photo, tagging each as **I / Ix / Sy** (icon / index / symbol) and adding one word for what it stands for.
+Photograph a busy Thai street scene (a market lane, a food-stall row, a transit platform). Using any free tool that lets you draw on an image (your phone's markup, Google Slides, Canva, or even paper), **label at least six signs** in the photo, tagging each as **I / X / S** (icon / index / symbol) and adding one word for what it stands for.
 
 Bring the annotated image to class. Be ready to defend one classification a classmate might dispute.
 
