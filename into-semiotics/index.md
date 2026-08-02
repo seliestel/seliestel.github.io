@@ -9,7 +9,7 @@ title: Home
 
 # A Companion Guide into Semiotics
 
-A free collection of **exercises, activities, and contextualized examples** that put into practice the concepts of Ignasi Ribó's *Into Semiotics: Understanding Signs, Meaning, and Communication* (2026). For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
+A free collection of **exercises, activities, and contextualized examples** that put into practice the concepts of [Ignasi Ribó](/)'s *Into Semiotics: Understanding Signs, Meaning, and Communication* (2026). For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
 
 These active-learning materials address a simple question that the book raises but cannot fully resolve: *how do you actually do semiotics?* They ask students to go out, look, listen, collect, classify, argue, and create, turning abstract ideas about signs into concrete analysis of the world around them.
 
