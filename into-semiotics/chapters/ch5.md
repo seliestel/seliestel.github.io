@@ -10,7 +10,7 @@ book_sections: "§5.1–5.7"
 summary: "Jakobson's six functions of language, the poetic function, pragmatics and register, and communication breakdown; practiced on BTS announcements, Thai ads, luk thung lyrics, kreng jai, and cross-cultural mishaps."
 ---
 
-Jakobson's model is the analytical engine of this chapter. These activities train students to identify the **dominant function** of real Thai messages, to hear the **poetic function** in slogans and songs, and to see how **register** and **context** (pragmatics) make or break communication.
+Jakobson's model is the analytical engine of this chapter. These activities train students to identify the **dominant function** of real Thai messages, to hear the **poetic function** in slogans and songs, and to see how **register** and **context** (pragmatics) affect communication.
 
 <div class="activity" markdown="1">
 
@@ -51,7 +51,7 @@ For each Thai-context message below, identify **all functions present** and **ci
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practices: how the same content re-oriented changes the message (§5.3).</p>
+<p class="concept">Practices: how the same content changes the message when re-oriented (§5.3).</p>
 
 Start with one neutral, referential sentence, e.g. *"The night market closes at 10 p.m."* Rewrite it **five** times so that a *different* function dominates each version:
 
@@ -107,7 +107,7 @@ Then test the claim: rewrite one of them in plain, non-poetic language. Is anyth
 
 The same request must be delivered to **four addressees**, adjusting register each time. Take the simple message *"I can't come to the meeting tomorrow"* and script/perform it to:
 
-1. a **monk** or a very senior professor,
+1. a **monk** or a senior teacher/professor,
 2. your **boss**,
 3. a **close friend**,
 4. a **younger sibling**.
@@ -119,7 +119,7 @@ For each, note the changes: pronouns, polite particles (ครับ/ค่ะ),
 
 - Thai grammaticalizes register far more than English (pronouns, particles, honorific vocabulary), so students *feel* §5.5 immediately. Map the changes back to Saussure's paradigm (§3.6): each slot offers a set of options with social value.
 - Kreng jai is the pragmatic key: with a monk or boss, the *conative* directness of "I can't come" is softened almost out of existence; the same proposition, radically different encoding. Ties to §7.7's point about doctor–patient communication.
-- Keep monk role-play respectful; students may prefer "senior abbot-teacher" framing.
+- Keep monk role-play respectful; students may prefer a "teacher" framing.
 </details>
 </div>
 

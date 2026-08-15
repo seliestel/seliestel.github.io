@@ -37,8 +37,8 @@ Place each Thai sign system in the summary table and justify each placement in a
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Traffic lights: digital, artificial, strong, cultural. Wai: **analog** (hand height varies continuously with the status of the addressee, an analog example), natural-ish/traditional, medium-strong, cultural. Temple dress code: analog-ish, conventional, medium, cultural. LINE stickers: digital units but with weak, negotiated meanings, artificial, weak, cultural→subcultural. Wai khru: analog, traditional, fairly strong (ritualized), cultural/subcultural. Gamer slang: digital-ish, artificial, weak, **subcultural**.
-- The wai is the star: hand height is *analog* (§6.2), and its meaning depends entirely on relative status; bridge to **social semiotics** (§7.4).
+- Traffic lights: digital, artificial, strong, cultural. Wai: analog (hand height varies continuously with the status of the addressee), natural-ish/traditional, medium-strong, cultural. Temple dress code: analog-ish, conventional, medium, cultural. LINE stickers: digital units but with weak, negotiated meanings, artificial, weak, cultural→subcultural. Wai khru: analog, traditional, fairly strong (ritualized), cultural/subcultural. Gamer slang: digital-ish, artificial, weak, subcultural.
+- The <em>wai</em> is the star: hand height is analog (§6.2) and its meaning depends entirely on relative status; bridge to **social semiotics** (§7.4).
 - Reinforce §6.1's four shared features (conventional, systematic, shared, dynamic) by asking which codes are changing fastest (stickers, slang).
 </details>
 </div>
@@ -61,8 +61,8 @@ Then explain, using §6.3: the meaning of the appropriate outfit comes not from 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Temple: covered shoulders/knees vs shorts/sleeveless (the latter signals disrespect or ignorance of the code). Mourning: **black** (and the marked wrongness of bright colors). Songkran: light, water-ready, often floral shirts.
-- This is Saussure's **value** (§3.6) re-applied to a cultural code: black "means" mourning largely by *not being* the everyday palette. Also refers to **connotation** (6.4) and **myth** (6.7).
+- Temple: covered shoulders/knees vs shorts/sleeveless (the latter signals disrespect or ignorance of the code). Mourning: black (and the marked wrongness of bright colors). Songkran: light, water-ready, often floral shirts.
+- This is Saussure's **value** (§3.6) re-applied to a cultural code: black "means" mourning largely by *not being* the everyday color palette. Also refers to **connotation** (6.4) and **myth** (6.7).
 - Sensitivity: national mourning attire is tied to the monarchy; keep it factual and respectful, framing it as how a color code works.
 </details>
 </div>
@@ -132,7 +132,7 @@ Choose **three** Thai cultural signs: e.g. the **elephant** (<em>chang</em>), th
 
 <p class="concept">Practices: Barthes's myth as second-order signification; how ideology is naturalized (§6.7).</p>
 
-Find **one** Thai advertisement, tourism image, or campaign, e.g. an "*Amazing Thailand*" tourism poster, a beer or whisky ad, a skin-whitening product, a nostalgic "authentic village" food ad. Working like Barthes with the Panzani pasta ad:
+Find **one** Thai advertisement, tourism image, or campaign, e.g. an "*Amazing Thailand*" tourism poster, a beer or whisky ad, a skin-whitening product, a nostalgic "authentic village" food ad. Working like Barthes with the Panzani pasta ad, analyze it step by step:
 
 1. **First order (language/denotation):** describe literally what the image shows.
 2. **Connotations:** list the cultural meanings the elements evoke.

@@ -35,7 +35,6 @@ Then draw **arrows of influence** between cards and mark the single biggest "hin
 - Key anchors: Plato's *Cratylus* (~388 BCE); Aristotle (384–322 BCE); Augustine's *On Christian Doctrine* (397); Locke coins *sēmeiōtikē* (1690); Saussure's lectures (1907–1911, published 1916); Peirce's work (1860s–1900s); Russian Formalism (1910s); Prague Circle (1920s–30s); French structuralism (1950s–70s); Sebeok launches zoosemiotics (1963); contemporary expansion (late 20th c. onward).
 - The natural "hinge" is the near-simultaneous, independent founding by **Saussure and Peirce** (a good moment to preview why the field has two vocabularies) (Chs 3–4).
 - Watch for the common slip of treating the history as purely European; step 2 of Activity 2.2 corrects this.
-- **Terminology check for the instructor:** Aristotle's "necessary sign" is transliterated *tekmērion* (pl. *tekmēria*); the "probable sign" is *sēmeion* (pl. *sēmeia*).
 </details>
 </div>
 
@@ -59,7 +58,7 @@ Produce a short two-column comparison answering: *What is a sign? Is the link be
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- The aim is not doctrinal precision but recognising that the "arbitrariness vs. naturalness" question (which becomes Saussure's §3.2) is genuinely cross-cultural. Buddhist thought broadly treats linguistic designations as **conventional**, a striking convergence with Hermogenes and later Saussure.
+- The aim is not doctrinal precision but recognizing that the "arbitrariness vs. naturalness" question (which becomes Saussure's §3.2) is genuinely cross-cultural. Buddhist thought broadly treats linguistic designations as **conventional**, a striking convergence with Hermogenes and later Saussure.
 - Encourage students from other backgrounds (Chinese, Muslim, Christian, etc.) to substitute their own tradition. Keep the treatment respectful and descriptive.
 - Bridge: this sets up §3.2 (arbitrariness) and §6.7 (how "natural"-seeming meanings are actually constructed).
 </details>

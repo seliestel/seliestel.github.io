@@ -10,7 +10,7 @@ book_sections: "§8.1–8.8"
 summary: "Umwelt, zoosemiotics, biosemiotics and the genetic code, ecosemiotics, artificial semiotics, and astrosemiotics, grounded in Thai animals, rice paddies, mangroves, khlongs, and a message-to-the-stars design task."
 ---
 
-The final content chapter stretches semiotics to animals, cells, ecosystems, machines, and the cosmos. These activities keep the big ideas concrete through Thai natural and technological environments, and they lean into the chapter's built-in **debates** (Is it really semiosis? Does a plant, a cell, or an AI "interpret"?), which are ideal for active learning.
+The final content chapter stretches semiotics to animals, cells, ecosystems, machines, and the cosmos. These activities keep the big ideas concrete through Thai natural and technological environments. They also lean into the chapter's built-in **debates** (Is it really semiosis? Does a plant, a cell, or an AI "interpret"?), which are ideal for active learning.
 
 <div class="activity" markdown="1">
 
@@ -31,15 +31,15 @@ Fill in:
 |---|---|
 | Which signs is it tuned to perceive? (smells, sounds, movements) | |
 | Which signs trigger which behaviors? | |
-| What is meaningful and what is simply *ignored*? | |
+| What is meaningful and what is simply ignored? | |
 | How does its world differ from a human's in the same place? | |
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Model after Uexküll's **tick** (§8.2): the tick's world is essentially three signs (butyric acid → warmth → bare skin). A temple macaque's Umwelt centers on human hands (food), eye contact (threat), other macaques' postures. A mosquito: CO₂, body heat, sweat chemistry.
-- The key insight (§8.2): meaning is not "out there" objectively; it emerges from the fit between organism and world. The *same* khlong is a different world of signs for a monitor lizard, a fish, and a commuter.
-- Great bridge back to Activity 1.4 (do we touch reality?) and forward to ecosemiotics (8.4/8.5).
+- Model after Uexküll's **tick** (§8.2): the tick's world is essentially three signs (butyric acid → warmth → bare skin). A temple macaque's Umwelt may be described as centered on human hands (food), eye contact (threat), other macaques' postures, etc. A mosquito: CO₂, body heat, sweat chemistry.
+- The key insight (§8.2): meaning is not "out there" objectively; it emerges from the fit between an organism and its own world. The same khlong is a different world of signs for a monitor lizard, a fish, and a commuter.
+- Great bridge back to Activity 1.4 (do we touch reality?) and forward to ecosemiotics (§8.4-8.5).
 </details>
 </div>
 
@@ -94,8 +94,8 @@ Each side prepares three points from §8.3; hold two rounds; then map where each
 
 - Team Semiosis' strongest card (§8.3): the codon→amino-acid mapping is **not chemically necessary** (it could have evolved differently; slight variant codes exist), which is precisely what makes it code-like and conventional. In Peircean terms: codon = sign vehicle, amino acid = object, cellular machinery = interpreter, polypeptide = interpretant.
 - Team Chemistry's card: everything is explicable by physics without invoking meaning; the book's own counter (§8.3) is that speech is *also* "just acoustics," yet meaningful; description at one level doesn't cancel meaning at another.
-- **Accuracy note for the instructor:** ribosomes *assemble* amino acids (delivered by tRNA) into a protein, they do not *produce* the amino acids. State this carefully if it comes up.
-- No resolution required; the split itself teaches the "semiotic threshold" question (§8, Eco 1976).
+- **Warning:** this activity might be too difficult for students without some background in biology; use it only when your students are ready for it or you can provide that background in class.
+- No resolution is required; the split itself teaches the "semiotic threshold" question (§8, Eco 1976).
 </details>
 </div>
 
@@ -121,7 +121,7 @@ Choose a Thai ecosystem you know: a **rice paddy (นา)**, a **mangrove (ป�
 
 - The core move (§8.5): an ecosystem is not just matter/energy but a **web of interpreted signs**; every organism reads signs within its own Umwelt and produces signs others read.
 - "Semiotic pollution" (§8.5) is a memorable, actionable concept: light pollution, ocean noise, agrochemicals disrupt *sign relationships*, not just organisms. Thai examples abound (light over paddies, khlong pollution, pesticide effects on bees).
-- Ties conservation to meaning (§8.5's closing point) and connects to the book's ecological ethics (§8.8). Strong link to the author's own ecosemiotics research.
+- Ties conservation to meaning (§8.5's closing point) and connects to the book's ecological ethics (§8.8).
 </details>
 </div>
 
@@ -146,7 +146,7 @@ Choose **one** track:
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- **Track A** dramatices the semiotic problem of a **shared code** (§8.7): with no common convention, senders fall back on what might be universal (math, physical constants, self-describing icons). Good link to Jakobson's *code* factor (Ch 5) and to the Wow! signal / SETI discussion (§8.7).
+- **Track A** dramatizes the semiotic problem of a **shared code** (§8.7): with no common convention, senders fall back on what might be universal (math, physical constants, self-describing icons). Good link to Jakobson's *code* factor (Ch 5) and to the Wow! signal / SETI discussion (§8.7).
 - **Track B** turns on the book's own framing (§8.6): if interpretation requires consciousness, current AI is not a genuine semiotic agent; if it does not (as biosemiotics allows for cells), then AI arguably qualifies. There is no settled answer: the point is to reason with the criteria.
 - Keep Track B grounded in observation of an *actual* exchange, not sci-fi speculation.
 </details>

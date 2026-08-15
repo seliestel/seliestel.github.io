@@ -99,7 +99,7 @@ Key question: none of these means simply "I." Each takes its meaning from its **
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- This is Saussure's *value* made visible: ผม is "polite/standard" **only because** ku (blunt/intimate), atma (monastic), nu (junior/female) occupy the other positions. Remove one and the values of the rest shift. This is exactly the chess-piece analogy (§3.6).
+- This is Saussure's *value* made visible: phom is "polite/standard" **only because** ku (blunt/intimate), atma (monastic), nu (junior/female) occupy the other positions. Remove one and the values of the rest shift. This is exactly the chess-piece analogy (§3.6).
 - Also previews **social semiotics** (§7.4): pronoun choice constructs identity and relative status (a deeply Thai concern).
 - Sensitivity: some pronouns (กู/มึง) are intimate or rude depending on relationship. Keep the discussion analytic, not performative.
 - Extension: run the same grid on Thai color terms (light blue *sii faa* vs dark blue *sii nam-ngoen*, both "blue" in English) to show value differs *across* languages (§3.6).
@@ -157,7 +157,7 @@ Ordering food is a semiotic system. Take **som tam** (papaya salad) or a **kuayt
 <summary>Instructor notes</summary>
 
 - Selection (which item from the column) = **paradigmatic**; combination (the assembled order) = **syntagmatic** (§3.6, revisited in Ch 6). Food is an ideal first non-linguistic system.
-- The pla ra (fermented fish) choice is socially loaded (often indexing Isaan identity) which previews **connotation** (§6.6) and **social semiotics** (§7.4).
+- The pla ra (fermented fish) choice is socially loaded (often indexing Isan identity) which previews **connotation** (§6.6) and **social semiotics** (§7.4).
 - Extend to the 7-day shirt-color system or a coffee order for a second example.
 </details>
 </div>

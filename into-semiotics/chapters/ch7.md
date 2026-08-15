@@ -10,7 +10,7 @@ book_sections: "§7.1–7.7"
 summary: "Lotman's semiosphere, Greimas's actantial model, visual semiotics (Kress & van Leeuwen), social semiotics, and applied semiotics, practiced on Thai folktales, lakorn, movie posters, uniforms, and brands."
 ---
 
-Chapter 7 is where semiotics becomes obviously useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakorn</em>), film posters, brands, political codes, so the theory arrives with a purpose.
+Chapter 7 is where semiotics becomes useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakorn</em>), film posters, brands, political codes, so they can experience how the theory serves practical purposes.
 
 <div class="activity" markdown="1">
 
@@ -95,8 +95,8 @@ Write a short "what this image wants from you" paragraph.
 <summary>Instructor notes</summary>
 
 - Reinforce the framework (§7.3): given/new (left/right), ideal/real (top/bottom), demand/offer gaze, angle = power. Horror posters typically use direct demand gaze + low angle; idol covers use offer gaze + soft high-key salience.
-- Note for the instructor: the standard order of the metafunctions is representational → interactive → compositional (the book's list order differs slightly).
-- The closing paragraph pushes synthesis: composition + gaze + framing add up to a **rhetorical intention** (persuade, seduce, frighten). Bridges to applied/marketing (§7.7).
+- Note for the instructor: the standard order of the metafunctions is representational → interactive → compositional (this is the order followed in the book).
+- The closing paragraph pushes synthesis: composition + gaze + framing add up to a **rhetorical intention** (persuade, seduce, frighten). Bridges to practical applications, such as marketing or political communication (§7.7).
 </details>
 </div>
 
@@ -113,12 +113,12 @@ Write a short "what this image wants from you" paragraph.
 
 We "wear" identities. Pick **one identity you perform** (student in uniform, member of a fan community, a regional identity, a professional). List the **semiotic resources** you draw on (clothing, accessories, speech style, gesture, social-media style, etc.) and what each signals, to whom.
 
-Then, in pairs, discuss: which of your resources include some people and **exclude** others? How do power and group membership show up in these choices?
+Then, in pairs, discuss: which of your resources **include** some people and **exclude** others? How do power and group membership show up in these choices?
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- The Thai university uniform is a superb case: a strong cultural code that signals studenthood and institutional belonging while its small permitted variations (pins, bag, shoes, how it's worn) carry subcultural, gendered, and status meaning (§7.4).
+- The Thai university uniform is a great case to consider: a strong cultural code that signals studenthood and institutional belonging while its small permitted variations (pins, bag, shoes, how it's worn) carry subcultural, gendered, and status meanings (§7.4).
 - Push the **power/access** question (§7.4): jargon, dress, and platform fluency include and exclude. This is social semiotics' critical edge.
 - Respect student self-disclosure; allow analysis of a chosen public identity rather than anything private.
 </details>

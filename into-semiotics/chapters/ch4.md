@@ -10,7 +10,7 @@ book_sections: "§4.1–4.6"
 summary: "The triadic sign; icon, index, symbol; the interpretant and unlimited semiosis; dynamic vs immediate object. Practiced on Thai temples, banknotes, amulets, and everyday words."
 ---
 
-Peirce's vocabulary is the most technical in the book, and the trichotomy **icon / index / symbol** is the single most useful analytical tool students will carry away. These activities drill it on real Thai signs, then push into the harder ideas (the *interpretant* and *unlimited semiosis*) through games that make abstraction tangible.
+Peirce's vocabulary is the most technical in the book, and the trichotomy **icon / index / symbol** is the single most useful analytical tool students will take away. These activities put it in practice on real Thai signs, then push into the harder ideas (the *interpretant* and *unlimited semiosis*) through games that make abstraction tangible.
 
 <div class="activity" markdown="1">
 
@@ -24,14 +24,14 @@ Peirce's vocabulary is the most technical in the book, and the trichotomy **icon
 
 <p class="concept">Practices: the three sign types by the sign–object relation (§4.2); signs usually combine types.</p>
 
-A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the following as **icon** (resemblance), **index** (real/causal connection), or **symbol** (convention) — and note where a sign is **more than one type at once**:
+A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the following as **icon** (resemblance), **index** (real/causal connection), or **symbol** (convention). Then, note where a sign is **more than one type at once**:
 
-| Sign at the wat | Icon? | Index? | Symbol? |
+| Sign at the <em>wat</em> | Icon? | Index? | Symbol? |
 |---|---|---|---|
 | A Buddha image in meditation posture | | | |
 | Rising smoke from incense (<em>thup</em>) | | | |
 | The wheel of Dharma (<em>thammachak</em>) | | | |
-| A nāga (นาค) sculpture on the staircase | | | |
+| A nāga sculpture on the staircase | | | |
 | Footprints/worn stone on a much-used step | | | |
 | The color saffron of a monk's robe | | | |
 | A mural depicting the Vessantara Jātaka | | | |
@@ -54,13 +54,13 @@ A Thai temple (<em>wat</em>) is a dense field of signs. Classify each of the fol
 <span class="tag time">25 min</span>
 </div>
 
-<p class="concept">Practices: analysing a single complex sign across all three relations (§4.2); the object (§4.4).</p>
+<p class="concept">Practices: analyzing a single complex sign across all three relations (§4.2); the object (§4.4).</p>
 
-Take a **Thai banknote** (any denomination). In three short paragraphs, analyse it as:
+Take a **Thai banknote** (any denomination). In three short paragraphs, analyze it as:
 
 1. an **icon**: what does it resemble or depict?
-2. an **index**: what real connections does it carry (serial number, security features, wear, the issuing authority behind it)?
-3. a **symbol**: what does it stand for by pure convention (value within the economic system; national identity)?
+2. an **index**: what real connections does it carry?
+3. a **symbol**: what does it stand for by pure convention?
 
 Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet the *sign* commands goods and services. Where does the value live?
 
@@ -68,14 +68,14 @@ Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet th
 <summary>Instructor notes</summary>
 
 - Icon: portraits, buildings, imagery. Index: serial number (points to a unique note), security thread (causally produced), physical wear (index of circulation). Symbol: monetary value and legal tender status are conventional (§4.2), echoing §1.2's "money is a sign of value."
-- The closing puzzle re-states Saussure's **value** (§3.6) in Peircean dress and previews **codes/systems** (Ch 6): the note works only within an institutional system.
-- Sensitivity: Thai banknotes bear the royal portrait. Keep the analysis to how signs function; treat imagery respectfully and avoid defacing real notes (analyse, don't mark them).
+- The closing puzzle re-states Saussure's **value** (§3.6) in Peircean terms and previews **codes/systems** (Ch 6): the note works only within an institutional system.
+- Sensitivity: Thai banknotes bear the royal portrait. Keep the analysis to how signs function; treat imagery respectfully and avoid defacing real notes (analyze, don't mark them).
 </details>
 </div>
 
 <div class="activity" markdown="1">
 
-## Activity 4.3 — The Interpretant Chain: สบาย (sabai)
+## Activity 4.3 — The Interpretant Chain: สบาย (<em>sabai</em>)
 
 <div class="meta">
 <span class="tag type">Group (3–5)</span>
@@ -84,14 +84,14 @@ Finish with one sentence on this puzzle: the *paper* is nearly worthless, yet th
 
 <p class="concept">Practices: the interpretant as itself a sign and unlimited semiosis (§4.3).</p>
 
-Sit in a circle. Start with one sign: the word **สบาย (sabai)** translatable as "comfortable / at ease." The first person gives an **interpretant**: another sign that expresses its meaning (a synonym, an image, a gesture, an example: "like lying in a hammock"). The next person interprets *that* sign, and so on around the circle, as fast as you can.
+Sit in a circle. Start with one sign: the word **สบาย (<em>sabai</em>)** translatable as "comfortable / at ease." The first person gives an **interpretant**: another sign that expresses its meaning (a synonym, an image, a gesture, an example: "like lying in a hammock"). The next person interprets *that* sign, and so on around the circle, as fast as you can.
 
 Keep going for two full loops. Then look back at the chain and mark: (a) how far you drifted from the start, and (b) whether you ever reached a "final" meaning.
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- This *is* **unlimited semiosis** (§4.3): every interpretant is itself a sign requiring further interpretation ("the meaning of a sign is the sign it has to be translated into"). The chain never terminates in a bare meaning: it only stops when the class tires, exactly as the book says.
+- This *is* **unlimited semiosis** (§4.3): every interpretant is itself a sign requiring further interpretation ("the meaning of a sign is the sign it has to be translated into"). The chain never ends in a bare meaning: it only stops when the class tires, exactly as the book says.
 - The drift in (a) demonstrates that meaning is **dynamic and contextual**, not a fixed label.
 - Careful point (worth stating): the **interpretant is not the interpreter**, it is the interpretation produced, itself a further sign (§4.3). Students routinely conflate the two.
 - Variant: start from a non-linguistic sign (a photo, a chime) to show semiosis is not limited to words.
@@ -141,7 +141,7 @@ Bring the annotated image to class. Be ready to defend one classification a clas
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- A technology-based interactive activity, kept lightweight. The disputes are the learning: many street signs are hybrids (a fork-and-spoon café sign is icon + symbol; a queue is an index of demand).
+- A technology-based interactive activity, kept lightweight. The disputes are the learning: many street signs are hybrids (a fork-and-spoon café sign is icon + symbol; a queue is an index of demand or interest).
 - Assess for correct *reasoning*, not for a single correct tag: Peirce's types describe *aspects*, and most signs have several (§4.2).
 - Reuse the images later for Ch 6 (codes) and Ch 7 (visual semiotics).
 </details>

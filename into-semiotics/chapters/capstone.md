@@ -31,10 +31,10 @@ Choose **one Thai "site of meaning"** and produce a 1,500–2,000-word illustrat
 Your analysis must explicitly use **at least four** tools from the book, for example:
 
 1. **Icon / index / symbol** (§4.2) on specific signs you photographed.
-2. **Code analysis** (§6.1–6.2): which codes operate, and how strong/weak?
+2. **Code analysis** (§6.1–6.2): which codes operate and how strong/weak are they?
 3. **Denotation → connotation → myth** (§6.6–6.7) on one key sign.
 4. **A function or visual/social reading** (§5.3, §7.3–7.4).
-5. Optional: an **Umwelt or ecosemiotic** angle if your site includes non-human life (§8).
+5. Optional: an **Umwelt or ecosemiotic** angle if your site includes living beings (§8).
 
 Close with a reflection: what did semiotics reveal that a casual observer would miss?
 
@@ -53,7 +53,7 @@ Suggested 100-point rubric:
 | Reflection: what semiotics added | 5 |
 
 - Reward students who **argue and defend** an interpretation over those who merely tag signs. The strongest projects find a non-obvious myth and denaturalize it.
-- The field journal built up through the term (Activities 1.2, 1.5, 4.5, 6.5, 8.2) feeds directly into this.
+- The field journal built up through the term (Activities 1.2, 1.5, 4.5, 6.5, 8.2) feeds directly into this activity.
 - Presentations make an excellent Week-15 session; peers ask one "what about…?" question each.
 </details>
 </div>
@@ -95,12 +95,12 @@ Requirement: include at least **three cross-chapter links** (e.g., "arbitrarines
 
 Write a 600–800-word reflective essay responding to this prompt:
 
-> Over a century separates Saussure's *Course* from today's cognitive and non-human semiotics. The twentieth century leaned toward the **social, cultural, and ideological** (Saussure, Barthes); the twenty-first increasingly toward the **cognitive, biological, and naturalistic** (Peirce, biosemiotics). Using examples from the book, explain this shift and argue whether semiotics should pursue *cultural critique*, *scientific generality*, or both.
+> Over a century separates Saussure's *Course* from today's cognitive and nonhuman semiotics. The twentieth century leaned toward the **social, cultural, and ideological** (Saussure, Barthes); the twenty-first increasingly toward the **cognitive, biological, and naturalistic** (Peirce, biosemiotics). Using examples from the book, explain this shift and argue whether semiotics should pursue *cultural critique*, *scientific discovery*, or both.
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- This mirrors the intended concluding chapter's argument. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: neuroscience, computing/AI, and the exhaustion of purely contextual approaches.
+- This mirrors the concluding arguments in Chapter 9. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: neuroscience, computing/AI, and the exhaustion of purely contextual approaches.
 - Accept either normative position (critique, science, or synthesis) if defended with textual evidence.
 - Given the availability of AI tools, this activity might be best turned into an in-class debate.
 </details>
@@ -124,8 +124,8 @@ Afterwards, the class votes on the **most illuminating diagnosis** of the sessio
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- A fast, high-energy synthesis: students must *retrieve and apply* the whole vocabulary under mild time pressure, excellent for consolidation.
+- A fast, high-energy synthesis: students must *retrieve and apply* the whole vocabulary under mild time pressure; excellent for consolidation.
 - Circulate and seed tools where pairs stall ("Is that icon, index, or symbol? What's the connotation? Which function dominates?").
-- Keeps the course's final note where it should be: semiotics as a **practical habit of attention**, portable to anything.
+- Aligns with the concluding chapter's final note: semiotics as a practical habit of attentiveness, applicable to anything.
 </details>
 </div>
