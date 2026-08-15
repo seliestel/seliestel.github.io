@@ -11,7 +11,7 @@ title: Home
 
 A free collection of **exercises, activities, and contextualized examples** that put into practice the concepts of [Ignasi Ribó](/)'s *Into Semiotics: Understanding Signs, Meaning, and Communication* (2026). For every chapter of the book, this companion includes **several ready-to-use activities**, most of them grounded in **Thai sociocultural contexts** and designed for use in the classroom or for independent study.
 
-These active-learning materials address a simple question that the book raises but cannot fully resolve: *how do you actually do semiotics?* They ask students to go out, look, listen, collect, classify, argue, and create, turning abstract ideas about signs into concrete analysis of the world around them.
+These active-learning materials address a simple question that the book raises but cannot fully resolve: *how do you actually do semiotics?* They ask students to go out, look, listen, collect, classify, argue, and create, turning abstract ideas about signs into concrete analysis of their own world.
 
 <div class="callout tip" markdown="1">
 **How to use this site.** Browse to any chapter below. Each activity lists a type, an estimated time, the materials needed, and the exact book sections it puts into practice. Use the **Print / Save as PDF** button on any chapter page to produce a clean worksheet, or download the raw Markdown to adapt it. Answer keys and discussion notes are tucked inside collapsible **Instructor notes** boxes.
