@@ -31,4 +31,4 @@ The activities in this companion were created by the author with the support of 
 
 ## Contact
 
-For comments, corrections, or suggestions, you can contact the author of the book at [ignasi.rib@mfu.ac.th](email:ignasi.rib@mfu.ac.th).
+For comments, corrections, or suggestions, you can contact the author of the book at [ignasi.rib@mfu.ac.th](mailto:ignasi.rib@mfu.ac.th).
