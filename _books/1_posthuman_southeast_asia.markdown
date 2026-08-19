@@ -3,7 +3,7 @@ layout: book
 title: "Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries"
 description: 
 year: 2025
-genre: Monograph
+genre: Edited collection
 img: /assets/img/9781666933031.jpg
 redirect: 
 ---
