@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: The papers of Salamanca
-description: a project with no image
-img: 
-redirect: 
 ---
 
 <p>Karl Marx once said that all great historical events occur twice: “the first time as tragedy, the second as farce.”  And certainly tragedy is a fitting concept to describe the war that tore apart Spain between 1936 and 1939. Much has been written about this conflict, which mobilized many people around the world. It was perhaps the first ideological war that raged on the soil of Europe, an essay for what was to come a few years later. But it was also the culmination of many unresolved conflicts that had stirred political strife in Spain for the last decades, indeed centuries. Crucial amongst these conflicts was the definition of the State. Was Spain a single nation, an essential entity that could embrace the diverse cultures and regional particularities under a Castilian-speaking umbrella firmly held at the centre of the peninsula? Or rather, as many Catalans or Basques would claim, Spain was no more than the historical outcome of the long-standing struggle between different nations, which had achieved a unified, but unstable political shape under the supremacy of Castile?</p>

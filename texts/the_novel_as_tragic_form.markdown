@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: The novel as tragic form
-description: a project with no image
-img: 
-redirect: 
 ---
 
 I am stepping on treacherous ground here. Too much has been written already on the tragedy. Even more – incredible as it may seem – than what has been written on the novel. Yet, I will speak on the novel as a form of tragedy. Or to be more precise: on the novel as tragic form.

@@ -99,3 +99,12 @@ a:hover, a:active {
 hr {
     color: #A6A6A6;
 }
+
+/* Small screens: let the CV use the full width of the phone */
+@media (max-width: 840px) {
+    body { width: auto; }
+    #download-pdf img { right: 12px !important; width: 36px !important; }
+    h1 { font-size: 36px; }
+    dt { float: none; width: auto; font-weight: 600; }
+    dd { margin-left: 0; margin-bottom: 10px; }
+}

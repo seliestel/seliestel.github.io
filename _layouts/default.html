@@ -1,18 +1,13 @@
 <!DOCTYPE html>
-<html>
-  <!--<a href="https://www.omnium.cat/ca/"><img src="/assets/img/groc.png" style="width: 100px; z-index: 1000000; position: fixed; top: 20px; left: 20px" /></a>-->
+<html lang="{{ page.lang | default: site.lang }}">
   {% include head.html %}
-
   <body>
     {% include header.html %}
-
-
-    <div class="page-content">
+    <main class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
-    </div>
-
+    </main>
+    {% include footer.html %}
   </body>
-
 </html>

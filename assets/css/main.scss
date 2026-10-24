@@ -1,50 +1,251 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Front matter (the dashes) tells Jekyll to compile this file into main.css.
 ---
 @charset "utf-8";
 
+// =====================================================================
+// Settings: change the look of the whole site here.
+// =====================================================================
+$accent:        #d62f2f;   // links and highlights
+$text:          #3d3d3d;   // body text
+$muted:         #777;      // secondary text
+$rule:          #e4e4e4;   // lines and borders
+$background:    #fdfdfd;
 
+$heading-font:  "Raleway", "Helvetica Neue", Arial, sans-serif;
+$body-font:     "Ubuntu", "Helvetica Neue", Arial, sans-serif;
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$max-width:     900px;     // width of the content column
+$cover-width:   212px;     // cover images are 212 × 300 px
 
-$spacing-unit:     30px;
+// =====================================================================
+// Base
+// =====================================================================
+*, *::before, *::after { box-sizing: border-box; }
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+html { -webkit-text-size-adjust: 100%; }
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+body {
+  margin: 0;
+  font-family: $body-font;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.65;
+  color: $text;
+  background: $background;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
+h1, h2, h3, h4 {
+  font-family: $heading-font;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #2b2b2b;
+  margin: 0 0 0.6em;
+}
+h1 { font-size: 2.1rem; letter-spacing: -0.5px; }
+h2 { font-size: 1.45rem; margin-top: 1.8em; }
+h3 { font-size: 1.2rem; margin-top: 1.5em; }
 
+p, ul, ol, blockquote, figure { margin: 0 0 1.1em; }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+a { color: $accent; text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
 
+img { max-width: 100%; height: auto; }
+
+strong, b { font-weight: 500; }
+
+blockquote {
+  margin-left: 0;
+  padding: 0.2em 0 0.2em 1.2em;
+  border-left: 3px solid $rule;
+  color: #555;
+  p { margin-bottom: 0.4em; }
+  cite {
+    display: block;
+    margin: 0.4em 0 1.2em;
+    font-style: normal;
+    font-size: 0.92em;
+    color: $muted;
+    &::before { content: "— "; }
+  }
+}
+
+hr { border: 0; border-top: 1px solid $rule; margin: 2em 0; }
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+// =====================================================================
+// Header and footer
+// =====================================================================
+.site-header {
+  border-bottom: 1px solid $rule;
+  background: #fff;
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.3em 1.5em;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+}
+
+.site-title {
+  font-family: $heading-font;
+  font-weight: 300;
+  font-size: 1.9rem;
+  letter-spacing: -1px;
+  color: #555;
+  &:hover { color: $accent; text-decoration: none; }
+}
+
+.site-nav {
+  font-family: $heading-font;
+  font-size: 1.05rem;
+  a {
+    color: $muted;
+    margin-left: 1.2em;
+    &:first-child { margin-left: 0; }
+    &:hover, &[aria-current="page"] { color: $accent; text-decoration: none; }
+  }
+}
+
+.page-content {
+  flex: 1;
+  padding: 40px 0 60px;
+}
+
+.site-footer {
+  border-top: 1px solid $rule;
+  font-size: 0.85rem;
+  color: $muted;
+  padding: 14px 0;
+  p { margin: 0; }
+  a { color: $muted; }
+}
+
+// =====================================================================
+// Homepage: grid of book covers
+// =====================================================================
+.book-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 36px 28px;
+  align-items: end;
+
+  a {
+    display: block;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+    &:hover, &:focus {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 18px rgba(0, 0, 0, 0.18);
+    }
+  }
+  img { display: block; width: 100%; }
+}
+
+@media (max-width: 500px) {
+  .book-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 18px; }
+}
+
+// =====================================================================
+// Book pages
+// =====================================================================
+.book-header { margin-bottom: 1.6em; }
+
+.book-meta {
+  color: $muted;
+  font-size: 0.98rem;
+  margin: 0;
+}
+
+.book-status {
+  color: $accent;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85em;
+}
+
+.book-body {
+  display: grid;
+  grid-template-columns: 1fr $cover-width;
+  gap: 0 44px;
+}
+
+.book-cover {
+  grid-column: 2;
+  grid-row: 1;
+  margin: 0;
+  img {
+    display: block;
+    width: $cover-width;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.book-text {
+  grid-column: 1;
+  grid-row: 1;
+  min-width: 0;
+}
+
+.book-section { font-size: 1.2rem; }
+
+.book-links {
+  padding-left: 1.1em;
+  li { margin-bottom: 0.4em; }
+}
+
+@media (max-width: 700px) {
+  .book-body { display: block; }
+  .book-cover { margin-bottom: 1.6em; img { width: 160px; } }
+}
+
+// =====================================================================
+// Ordinary pages (texts, about, essays)
+// =====================================================================
+.page-body h2:first-child { margin-top: 0; }
+
+.about-photo {
+  float: right;
+  width: 180px;
+  margin: 0.3em 0 1em 1.5em;
+}
+
+.contact {
+  clear: both;
+  padding-top: 1.5em;
+  border-top: 1px solid $rule;
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+  }
+}
+
+@media (max-width: 500px) {
+  h1 { font-size: 1.7rem; }
+  body { font-size: 16px; }
+  .about-photo { width: 120px; }
+}

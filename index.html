@@ -1,37 +1,21 @@
 ---
 layout: default
-permalink: //
+title: Books
+description: Books by Ignasi Ribó, Catalan author and scholar.
+permalink: /
 ---
-
-{% for project in site.books %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="cover-thumbnail">
-       <a class="hvr-float-shadow" href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-          <img class="" src="{{ project.img }}"/>
-        {% else %}
-          <div class="empty-thumbnail blankbox"></div>
-        {% endif %}    
-       </a>
-    </div>
-</div>
-
-{% else %}
-
-<div class="project ">
-    <div class="cover-thumbnail">
-        <a class="hvr-float-shadow" href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-          <img class="" src="{{ project.img }}"/>
-        {% else %}
-          <div class="empty-thumbnail blankbox"></div>
-        {% endif %}    
-         </a>
-    </div>
-</div>
-
-{% endif %}
-
-{% endfor %}
+<h1 class="visually-hidden">Books</h1>
+{% assign books = site.books | sort: "order" %}
+<ul class="book-grid">
+  {% for book in books %}
+  <li>
+    {% if book.redirect %}
+    <a href="{{ book.redirect }}" target="_blank" rel="noopener" title="{{ book.title | strip_html }} ({{ book.year }})">
+    {% else %}
+    <a href="{{ book.url | relative_url }}" title="{{ book.title | strip_html }} ({{ book.year }})">
+    {% endif %}
+      <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="212" height="300" loading="lazy">
+    </a>
+  </li>
+  {% endfor %}
+</ul>

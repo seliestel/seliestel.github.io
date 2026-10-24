@@ -1,22 +1,10 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <div class="site-title">
-      <a href="{{ site.baseurl }}/"><h1>Ignasi Ribó</h1></a>
-    </div>
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="{{ site.baseurl }}/">books</a>
-        <a class="page-link" href="{{ site.baseurl }}/texts">texts</a>
-        <a class="page-link" href="{{ site.baseurl }}/about">about</a>
-
-      </div>
+    <a class="site-title" href="{{ '/' | relative_url }}">Ignasi Ribó</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == "/" or page.collection == "books" %} aria-current="page"{% endif %}>books</a>
+      <a href="{{ '/texts/' | relative_url }}"{% if page.url contains "/texts" %} aria-current="page"{% endif %}>texts</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == "/about/" %} aria-current="page"{% endif %}>about</a>
     </nav>
-
   </div>
-
 </header>

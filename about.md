@@ -1,25 +1,17 @@
 ---
-layout: blank
-title: about
-description: Author
+layout: page
+title: About
+description: Ignasi Ribó is a Catalan writer and scholar, Associate Professor of Comparative Literature at Mae Fah Luang University.
 permalink: /about/
 ---
 
-<img class="col one right" src="/assets/img/Ignasi-photo.jpg" style="margin: 10px">
+<img class="about-photo" src="{{ '/assets/img/Ignasi-photo.jpg' | relative_url }}" alt="Ignasi Ribó">
 
-<br/>
-Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (Institut d'Études Politiques de Paris), and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book *Habitat: The Ecopolitical Nation* (2012). Currrently, he works as an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University. 
-<a href="https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3" target="_blank">Wikipedia</a>
-<br/>
-<hr/>
-<br/>
+Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (Institut d'Études Politiques de Paris), and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book *Habitat: The Ecopolitical Nation* (2012). Currently, he works as an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University. More on [Wikipedia](https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3).
 
-
-<span class="contacticon center">
-	<a href="mailto:iribolabastida@gmail.com"><i class="fa fa-envelope"></i></a>
-	<!---  <a href="https://www.linkedin.com/in/ignasiribo" target="_blank"><i class="fa fa-linkedin-square"></i></a> -->
-	<a href="https://twitter.com/seliestel" target="_blank"><i class="fa fa-twitter"></i></a>
-	<a href="https://scholar.google.com/citations?user=IJpKVRgAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap"></i></a>
-</span>
-
-
+<p class="contact">
+  <a href="mailto:{{ site.email }}" aria-label="Email">
+    <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" d="M3 6h18v12H3z M3 6l9 7 9-7"/></svg>
+    {{ site.email }}
+  </a>
+</p>

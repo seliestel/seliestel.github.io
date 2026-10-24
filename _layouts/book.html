@@ -1,15 +1,48 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h3 class="post-title">{{ page.title }}</h3>
-    <h4 class="post-description">{{ page.year }} - {{ page.genre }}</h5>
+{% comment %}
+  Book page. Everything comes from the book's front matter; the synopsis
+  (and any endorsements) is the Markdown text below the front matter.
+  See README.md for the list of fields.
+{% endcomment %}
+<article class="book">
+  <header class="book-header">
+    <h1 class="book-title">{{ page.title }}</h1>
+    <p class="book-meta">
+      {% if page.status %}<strong class="book-status">{{ page.status }}</strong> · {% endif %}
+      {{ page.genre }}{% if page.publisher %} · {{ page.publisher }}{% endif %}{% if page.year %}, {{ page.year }}{% endif %}
+    </p>
   </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div class="book-body">
+    <figure class="book-cover">
+      {% assign cover_link = page.links | first %}
+      {% if cover_link %}<a href="{{ cover_link.url }}" target="_blank" rel="noopener">{% endif %}
+        <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="212" height="300">
+      {% if cover_link %}</a>{% endif %}
+    </figure>
 
-</div>
+    <div class="book-text">
+      {{ content }}
+
+      {% if page.links %}
+      <h2 class="book-section">{{ page.links_title | default: "Links" }}</h2>
+      <ul class="book-links">
+        {% for l in page.links %}
+        <li><a href="{{ l.url }}"{% unless l.url contains site.url or l.url contains "/assets/" %} target="_blank" rel="noopener"{% endunless %}>{{ l.label | markdownify | remove: "<p>" | remove: "</p>" | strip }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      {% if page.reviews %}
+      <h2 class="book-section">{{ page.reviews_title | default: "Reviews" }}</h2>
+      <ul class="book-links">
+        {% for r in page.reviews %}
+        <li>{% if r.url %}<a href="{{ r.url }}" target="_blank" rel="noopener">{% endif %}{{ r.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% if r.url %}</a>{% endif %}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </div>
+</article>

@@ -1,17 +1,35 @@
 # Site settings
 title: Ignasi Ribó
-email: mail@ignasiribo.com
 description: Personal page of Ignasi Ribó, Catalan author and scholar.
-##baseurl:  # the subpath of your site, e.g. /blog/
-url:  http://www.ignasiribo.com
-twitter_username: seliestel
-github_username:  seliestel
+url: https://www.ignasiribo.com
+email: iribolabastida@gmail.com
+lang: en
+
+# Google Analytics 4: paste your Measurement ID between the quotes
+# (it looks like "G-XXXXXXXXXX"). Leave it empty to turn analytics off.
+google_analytics: ""
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
 
 collections:
   books:
     output: true
     permalink: /books/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: book
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - contributors.txt
+  - vendor
