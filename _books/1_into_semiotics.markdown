@@ -17,7 +17,7 @@ redirect:
   <p>Written in clear and accessible language, the book draws many of its examples from Thai and Southeast Asian contexts, alongside other cultures and languages. Each chapter includes suggestions for further reading and the book is complemented by a glossary of key terms and a free online <a href="https://www.ignasiribo.com/into-semiotics/" target="_blank">companion guide</a> with exercises and learning activities for every chapter.</p>
   </div>
   <div class="cover" style="float: right">
-    <div><img class="" style="" src="{{ site.baseurl }}/img/into_semiotics_cover.jpg" alt="Cover of Into Semiotics" title="Into Semiotics"/></div>
+    <div><img class="" style="" src="{{ site.baseurl }}/assets/img/into_semiotics_cover.jpg" alt="Cover of Into Semiotics" title="Into Semiotics"/></div>
 
   </div>
   
