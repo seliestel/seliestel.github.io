@@ -17,10 +17,7 @@ layout: default
 
   <div class="book-body">
     <figure class="book-cover">
-      {% assign cover_link = page.links | first %}
-      {% if cover_link %}<a href="{{ cover_link.url }}" target="_blank" rel="noopener">{% endif %}
-        <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="212" height="300">
-      {% if cover_link %}</a>{% endif %}
+      <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="200" height="300">
     </figure>
 
     <div class="book-text">

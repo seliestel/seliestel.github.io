@@ -107,4 +107,5 @@ hr {
     h1 { font-size: 36px; }
     dt { float: none; width: auto; font-weight: 600; }
     dd { margin-left: 0; margin-bottom: 10px; }
+    a { overflow-wrap: anywhere; }
 }

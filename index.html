@@ -10,7 +10,7 @@ permalink: /
   {% for book in books %}
   <li>
     <a href="{{ book.url | relative_url }}" title="{{ book.title | strip_html }} ({{ book.year }})">
-      <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="212" height="300">
+      <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="200" height="300">
     </a>
   </li>
   {% endfor %}

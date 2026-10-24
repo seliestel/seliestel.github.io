@@ -12,7 +12,7 @@ links:
 reviews_title: Book reviews
 reviews:
   - text: "Mike Menser, *Environmental Philosophy* 10(2), Fall 2013"
-    url: https://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&fp=envirophil&id=envirophil_2013_0010_0002_0130_0133
+    url: https://doi.org/10.5840/envirophil201310223
   - text: "Guy Lancaster, *Marx & Philosophy Review of Books*, December 2014"
     url: https://marxandphilosophy.org.uk/reviews/7973_no-local-habitat-review-by-guy-lancaster/
   - text: "Philip Kirby, *Environmental Values* 24(1), February 2015"

@@ -9,7 +9,7 @@ description: A concise and highly accessible textbook that outlines the principl
 links_title: Where to find the book
 links:
   - label: Open Book Publishers (open access)
-    url: https://www.openbookpublishers.com/product/1087
+    url: https://www.openbookpublishers.com/books/10.11647/obp.0187
 ---
 
 This concise and highly accessible textbook outlines the principles and techniques of storytelling. It is intended as a high-school and college-level introduction to the central concepts of narrative theory – concepts that will aid students in developing their competence not only in analysing and interpreting short stories and novels, but also in writing them.

@@ -8,7 +8,7 @@ img: /assets/img/9781666933031.jpg
 description: Explores the posthuman in Southeast Asia from various ecocritical perspectives.
 links_title: Where to find the book
 links:
-  - label: Lexington Books / Rowman & Littlefield
+  - label: Lexington Books / Bloomsbury
     url: https://rowman.com/ISBN/9781666933031/Posthuman-Southeast-Asia-Ecocritical-Entanglements-Across-Species-Boundaries
 ---
 

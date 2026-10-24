@@ -9,7 +9,7 @@ GitHub rebuilds the site automatically a minute or two after every push.
 |---|---|
 | Site title, email, Google Analytics ID | `_config.yml` |
 | Books (one file per book) | `_books/` |
-| Book cover images (212 × 300 px JPG) | `assets/img/` |
+| Book cover images (200 × 300 px JPG) | `assets/img/` |
 | Texts page (generated from the CV data) | `texts.md` |
 | CV data | `_data/cv.yml` (page: `cv/cv_ignasi.md`) |
 | About page | `about.md` |
@@ -18,7 +18,7 @@ GitHub rebuilds the site automatically a minute or two after every push.
 
 ## Adding a book with its own page
 
-1. Export the cover at **212 × 300 px** and save it in `assets/img/`, e.g. `assets/img/new_book_cover.jpg`.
+1. Export the cover at **200 × 300 px** (other proportions are trimmed to fit) and save it in `assets/img/`, e.g. `assets/img/new_book_cover.jpg`.
 2. Copy one of the files in `_books/` (every book has its own page) (e.g. `1_into_semiotics.markdown`) and fill in the fields:
 
 ```yaml
@@ -32,7 +32,7 @@ status: In press         # optional; remove when the book is out
 img: /assets/img/new_book_cover.jpg
 description: One sentence for search engines and link previews.
 links_title: Where to find the book   # optional heading for the links
-links:                   # optional; the cover links to the first one
+links:                   # optional; shown as a list below the synopsis
   - label: Publisher's page
     url: https://...
 reviews_title: Book reviews           # optional
