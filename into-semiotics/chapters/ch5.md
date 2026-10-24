@@ -7,7 +7,7 @@ chapter: 5
 order: 5
 count: 5
 book_sections: "§5.1–5.7"
-summary: "Jakobson's six functions of language, the poetic function, pragmatics and register, and communication breakdown; practiced on BTS announcements, Thai ads, luk thung lyrics, kreng jai, and cross-cultural mishaps."
+summary: "Jakobson's six functions of language, the poetic function, pragmatics and register, and communication breakdown; practiced on BTS announcements, Thai ads, luk thung lyrics, kreng chai, and cross-cultural mishaps."
 ---
 
 Jakobson's model is the analytical engine of this chapter. These activities train students to identify the **dominant function** of real Thai messages, to hear the **poetic function** in slogans and songs, and to see how **register** and **context** (pragmatics) affect communication.
@@ -28,7 +28,7 @@ For each Thai-context message below, identify **all functions present** and **ci
 1. BTS announcement: *"The next station is Siam. Change here for the Silom Line."*
 2. A billboard: *"อร่อยที่สุด! (The most delicious!)"*
 3. A friend's LINE message: *"อยู่ไหน 555 (Where are you 555)"*
-4. A teacher: *"The word 'kreng jai' means a feeling of considerate deference."*
+4. A teacher: *"The word 'kreng chai' means a feeling of considerate deference."*
 5. A protest chant or campaign slogan with rhyme.
 6. A monk beginning a chant in Pali.
 7. *"โอ๊ย! (Ouch!)"*
@@ -81,7 +81,7 @@ Start with one neutral, referential sentence, e.g. *"The night market closes at 
 
 <p class="concept">Practices: the poetic function as the projection of equivalence onto the sequence: rhyme, rhythm, parallelism (§5.4).</p>
 
-Collect **three "sticky" Thai texts**: an advertising jingle, a **luk thung** or **mor lam** lyric line, a proverb (<em>suphasit</em>), or a campaign slogan. For each, identify the device that makes it memorable (**rhyme, alliteration, assonance, rhythm, or parallelism**) and explain, in Jakobson's terms, how *how it is said* has become part of *what it means*.
+Collect **three "sticky" Thai texts**: an advertising jingle, a **luk thung** or **mo lam** lyric line, a proverb (<em>suphasit</em>), or a campaign slogan. For each, identify the device that makes it memorable (**rhyme, alliteration, assonance, rhythm, or parallelism**) and explain, in Jakobson's terms, how "the formal patterning of the message is itself part of what it means."
 
 Then test the claim: rewrite one of them in plain, non-poetic language. Is anything lost?
 
@@ -96,7 +96,7 @@ Then test the claim: rewrite one of them in plain, non-poetic language. Is anyth
 
 <div class="activity" markdown="1">
 
-## Activity 5.4 — Register and Kreng Jai: A Role-Play
+## Activity 5.4 — Register and Kreng Chai: A Role-Play
 
 <div class="meta">
 <span class="tag type">Group (3–4)</span>
@@ -112,13 +112,13 @@ The same request must be delivered to **four addressees**, adjusting register ea
 3. a **close friend**,
 4. a **younger sibling**.
 
-For each, note the changes: pronouns, polite particles (ครับ/ค่ะ), directness, honorifics, and how **kreng jai** (เกรงใจ, considerate deference) reshapes what you can say.
+For each, note the changes: pronouns, polite particles (ครับ/ค่ะ), directness, honorifics, and how **kreng chai** (เกรงใจ, considerate deference) reshapes what you can say.
 
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
 - Thai grammaticalizes register far more than English (pronouns, particles, honorific vocabulary), so students *feel* §5.5 immediately. Map the changes back to Saussure's paradigm (§3.6): each slot offers a set of options with social value.
-- Kreng jai is the pragmatic key: with a monk or boss, the *conative* directness of "I can't come" is softened almost out of existence; the same proposition, radically different encoding. Ties to §7.7's point about doctor–patient communication.
+- Kreng chai is the pragmatic key: with a monk or boss, the *conative* directness of "I can't come" is softened almost out of existence; the same proposition, radically different encoding. Ties to §7.7's point about doctor–patient communication.
 - Keep monk role-play respectful; students may prefer a "teacher" framing.
 </details>
 </div>

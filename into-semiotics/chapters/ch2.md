@@ -49,7 +49,7 @@ Then draw **arrows of influence** between cards and mark the single biggest "hin
 
 <p class="concept">Practices: the universality of reflection on signs (§2.1); comparing Western and non-Western sign theories.</p>
 
-The chapter notes that "human interest in understanding how signs work… is truly universal," citing Indian, Chinese, and Islamic traditions. In pairs, **compare one Western idea from §2.1 with one idea from a tradition familiar to you.**
+The chapter notes that "the effort to understand how signs work and what they mean is widely shared across cultures," citing Indian, Chinese, and Islamic traditions. In pairs, **compare one Western idea from §2.1 with one idea from a tradition familiar to you.**
 
 Suggested pairing for Thai students: the *Cratylus* debate (are names natural or conventional?) beside the Buddhist analysis of **nāma-rūpa** ("name-and-form") and the idea that words are conventional designations (Pali *paññatti*) that do not capture ultimate reality.
 

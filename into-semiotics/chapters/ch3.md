@@ -55,7 +55,7 @@ Then answer: If the link between sound and meaning were natural, what would you 
 
 <p class="concept">Practices: the limit case of arbitrariness: even "natural" imitative words are conventional (§3.2).</p>
 
-The book notes that English roosters say *cock-a-doodle-doo* but Thai roosters say *ek-i-ek* (เอ้กอี้เอ้ก). Build a **cross-language animal-sound table** for sounds you all know:
+The book notes that English roosters say *cock-a-doodle-doo* but Thai roosters say *ekiekek* (เอ้กอี้เอ้ก). Build a **cross-language animal-sound table** for sounds you all know:
 
 | Animal | Thai | English | Other |
 |---|---|---|---|

@@ -117,7 +117,7 @@ For each sign, state the **immediate object** (the person *as represented in tha
 <summary>Instructor notes</summary>
 
 - Each sign gives only an **immediate object** (a partial, mediated version); the **dynamic object** (the real, whole person) is never fully accessible, it constrains representation but exceeds it (§4.4). This mirrors the book's John Lennon example.
-- Connect to §1.1/§1.4's claim that we reach reality only through signs, and to Activity 1.4's debate.
+- Connect to §1.1's claim that we reach reality only through signs, and to Activity 1.4's debate.
 - Media-literacy payoff: a fan edit and a news photo are *different immediate objects of the same dynamic object*: a clean way to talk about representation and framing without moralizing.
 </details>
 </div>

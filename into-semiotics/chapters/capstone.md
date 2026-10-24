@@ -6,7 +6,7 @@ title: "Capstone and Synthesis"
 chapter: 9
 order: 9
 count: 4
-book_sections: "Whole book; §9 (Conclusion)"
+book_sections: "Whole book; Chapter 9 (Out of Semiotics)"
 summary: "Integrative projects that pull the whole book together: a portfolio field study, a concept map, a reflective essay on the discipline's arc, and a peer 'sign clinic'."
 ---
 
@@ -77,7 +77,7 @@ Requirement: include at least **three cross-chapter links** (e.g., "arbitrarines
 <summary>Instructor notes</summary>
 
 - A powerful revision tool: it forces students to see the book as **one connected system**, not eight separate topics.
-- Watch for the high-value bridges: symbol=arbitrariness (Chs 3–4); paradigm/syntagm running from §3.6 through §6.3–6.4 to §7.3; unlimited semiosis (§4.3) ≈ Barthes's endless connotation (§6.6) ≈ Derrida's dissemination (§6.5).
+- Watch for the high-value bridges: symbol=arbitrariness (Chs 3–4); paradigm/syntagm running from §3.6 through §6.3–6.4 to §7.3; unlimited semiosis (§4.3) ≈ Barthes's endless connotation (§6.6) ≈ Derrida's *différance* (§6.5).
 - Compare maps between groups; differences reveal genuine conceptual choices, not just errors.
 </details>
 </div>
@@ -100,7 +100,7 @@ Write a 600–800-word reflective essay responding to this prompt:
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- This mirrors the concluding arguments in Chapter 9. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: neuroscience, computing/AI, and the exhaustion of purely contextual approaches.
+- This mirrors the concluding arguments in Chapter 9. Strong essays will connect the founding **Saussure/Peirce** tension (§2.2, §4.6) to the contemporary swing toward cognitive and biosemiotics (§7.5, §8), and cite drivers named in the book: cognitive science, comparative cognition, and computing/AI.
 - Accept either normative position (critique, science, or synthesis) if defended with textual evidence.
 - Given the availability of AI tools, this activity might be best turned into an in-class debate.
 </details>

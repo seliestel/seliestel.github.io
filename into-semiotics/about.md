@@ -21,7 +21,7 @@ The activities included here make the concepts and ideas presented in the book m
 
 ## How to cite
 
-> Ribó, I. (2026) *A Companion Guide into Semiotics: Learning Activities and Exercises*. Available at: https://ignasiribo.com/into-semiotics
+> Ribó, Ignasi. 2026. *A Companion Guide into Semiotics: Learning Activities and Exercises*. https://www.ignasiribo.com/into-semiotics/.
 
 For the book itself, cite the edition you are using.
 

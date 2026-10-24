@@ -62,7 +62,7 @@ Then explain, using §6.3: the meaning of the appropriate outfit comes not from 
 <summary>Instructor notes</summary>
 
 - Temple: covered shoulders/knees vs shorts/sleeveless (the latter signals disrespect or ignorance of the code). Mourning: black (and the marked wrongness of bright colors). Songkran: light, water-ready, often floral shirts.
-- This is Saussure's **value** (§3.6) re-applied to a cultural code: black "means" mourning largely by *not being* the everyday color palette. Also refers to **connotation** (6.4) and **myth** (6.7).
+- This is Saussure's **value** (§3.6) re-applied to a cultural code: black "means" mourning largely by *not being* the everyday color palette. Also refers to **connotation** (6.6) and **myth** (6.7).
 - Sensitivity: national mourning attire is tied to the monarchy; keep it factual and respectful, framing it as how a color code works.
 </details>
 </div>

@@ -2,7 +2,7 @@
 layout: is-chapter
 section: into-semiotics
 permalink: /into-semiotics/chapters/ch1/
-title: Introduction to the Study of Signs
+title: The Study of Signs
 chapter: 1
 order: 1
 count: 5
@@ -69,7 +69,7 @@ For at least **five** of the underlined signs, add a footnote saying what it sta
 <summary>Instructor notes</summary>
 
 - This mirrors §1.1 but forces personalization. Reward students who notice signs they normally ignore (the day-of-week shirt colour is a Thai-context example of a fully coded but near-invisible sign).
-- Use it to introduce the idea that **consciousness itself is shot through with signs** (§1.2, "Cognition and thought"): most morning signs are read automatically, which is exactly why semiotics has to make them visible.
+- Use it to introduce the idea that semiotic activity may be seen as a kind of internal dialogue mediated by signs (§1.2, "Cognition and thought"): most morning signs are read automatically, which is exactly why semiotics has to make them visible.
 - Pairs well as a first entry in the term-long **semiotic field journal** (see [capstone](/into-semiotics/chapters/capstone/)).
 </details>
 </div>
@@ -118,7 +118,7 @@ Then answer together: *Does this object have a single "true" meaning, or does it
 
 <p class="concept">Practices: the claim that we access reality only through signs (§1.1); why semiotics matters (§1.3).</p>
 
-The book makes a strong claim: *"we do not have direct or unfiltered access to reality. We can only know the world through signs."* Split the class in two.
+The book makes a strong claim: *"we do not have direct or unfiltered access to reality."* Split the class in two.
 
 - **Team A** defends the claim: all our access to the world is mediated by signs (perception, language, memory, images).
 - **Team B** challenges it: some experiences (pain, hunger, the taste of <em>som tam</em>) seem immediate and pre-semiotic.

@@ -2,15 +2,15 @@
 layout: is-chapter
 section: into-semiotics
 permalink: /into-semiotics/chapters/ch7/
-title: Cultural and Applied Semiotics
+title: Semiotics of Human Culture
 chapter: 7
 order: 7
 count: 5
 book_sections: "§7.1–7.7"
-summary: "Lotman's semiosphere, Greimas's actantial model, visual semiotics (Kress & van Leeuwen), social semiotics, and applied semiotics, practiced on Thai folktales, lakorn, movie posters, uniforms, and brands."
+summary: "Lotman's semiosphere, Greimas's actantial model, visual semiotics (Kress & van Leeuwen), social semiotics, and applied semiotics, practiced on Thai folktales, lakhon, movie posters, uniforms, and brands."
 ---
 
-Chapter 7 is where semiotics becomes useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakorn</em>), film posters, brands, political codes, so they can experience how the theory serves practical purposes.
+Chapter 7 is where semiotics becomes useful. These activities apply named frameworks to Thai cultural material students are already familiar with: folktales, soap operas (<em>lakhon</em>), film posters, brands, political codes, so they can experience how the theory serves practical purposes.
 
 <div class="activity" markdown="1">
 
@@ -40,7 +40,7 @@ Then mark **one arrow** where something is moving from periphery to center (or t
 
 <div class="activity" markdown="1">
 
-## Activity 7.2 — The Actantial Model: Anatomy of a Lakorn
+## Activity 7.2 — The Actantial Model: Anatomy of a Lakhon
 
 <div class="meta">
 <span class="tag type">Group (3–4)</span>
@@ -49,7 +49,7 @@ Then mark **one arrow** where something is moving from periphery to center (or t
 
 <p class="concept">Practices: Greimas's six actants applied to narrative (§7.2).</p>
 
-Take a **Thai folktale** (e.g. *Sang Thong*, *Kraithong*) **or** a current **lakorn** or **BL series** everyone knows. Fill Greimas's actantial grid (remember: actants are *roles*, not necessarily single characters):
+Take a **Thai folktale** (e.g. *Sang Thong*, *Kraithong*) **or** a current **lakhon** or **BL series** everyone knows. Fill Greimas's actantial grid (remember: actants are *roles*, not necessarily single characters):
 
 | Actant | Who/what fills it | Notes |
 |---|---|---|
@@ -65,7 +65,7 @@ Then test the model's claim: does this very different story share the **same und
 <details class="notes" markdown="1">
 <summary>Instructor notes</summary>
 
-- Model example (a romance lakorn): Subject = the hero/heroine; Object = union with the beloved / restored honor; Sender = family duty or fate; Receiver = the couple/family; Helper = loyal friend, a benefactor; Opponent = the scheming rival (<em>nang rai</em>) or class barrier.
+- Model example (a romance lakhon): Subject = the hero/heroine; Object = union with the beloved / restored honor; Sender = family duty or fate; Receiver = the couple/family; Helper = loyal friend, a benefactor; Opponent = the scheming rival (<em>nang rai</em>) or class barrier.
 - The "awkward fit" step is important: Greimas claims a **universal grammar of narrative** (§7.2); students should both see its power *and* notice the residue it cannot capture (tone, humor, cultural specifics). That tension is the real learning.
 - Extend to advertising or a political speech to show the model works beyond fiction (§7.2).
 </details>

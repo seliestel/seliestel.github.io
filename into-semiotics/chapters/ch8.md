@@ -39,7 +39,7 @@ Fill in:
 
 - Model after Uexküll's **tick** (§8.2): the tick's world is essentially three signs (butyric acid → warmth → bare skin). A temple macaque's Umwelt may be described as centered on human hands (food), eye contact (threat), other macaques' postures, etc. A mosquito: CO₂, body heat, sweat chemistry.
 - The key insight (§8.2): meaning is not "out there" objectively; it emerges from the fit between an organism and its own world. The same khlong is a different world of signs for a monitor lizard, a fish, and a commuter.
-- Great bridge back to Activity 1.4 (do we touch reality?) and forward to ecosemiotics (§8.4-8.5).
+- Great bridge back to Activity 1.4 (do we touch reality?) and forward to ecosemiotics (§8.5).
 </details>
 </div>
 
