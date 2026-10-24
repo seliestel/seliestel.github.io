@@ -4,7 +4,7 @@ title: "Into Semiotics: Understanding Signs, Meaning, and Communication"
 description: 
 year: 2026
 genre: Textbook
-img: /assets/img/into_semiotics_cover.png
+img: /assets/img/into_semiotics_cover.jpg
 redirect: 
 ---
 
