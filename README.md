@@ -19,7 +19,7 @@ GitHub rebuilds the site automatically a minute or two after every push.
 ## Adding a book with its own page
 
 1. Export the cover at **212 × 300 px** and save it in `assets/img/`, e.g. `assets/img/new_book_cover.jpg`.
-2. Copy one of the files in `_books/` (e.g. `1_into_semiotics.markdown`) and fill in the fields:
+2. Copy one of the files in `_books/` (every book has its own page) (e.g. `1_into_semiotics.markdown`) and fill in the fields:
 
 ```yaml
 ---
@@ -45,21 +45,6 @@ The synopsis goes here, in plain Markdown. *Italics* with asterisks.
 
 > “An endorsement quote.”
 > <cite>Name, Institution</cite>
-```
-
-## Adding a book that only links elsewhere (no page of its own)
-
-```yaml
----
-layout: redirect
-order: 12
-title: "Book title"
-year: 2001
-genre: Novel
-img: /assets/img/book_cover.jpg
-redirect: https://www.amazon.es/...
-sitemap: false
----
 ```
 
 ## Google Analytics

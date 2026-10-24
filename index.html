@@ -9,12 +9,8 @@ permalink: /
 <ul class="book-grid">
   {% for book in books %}
   <li>
-    {% if book.redirect %}
-    <a href="{{ book.redirect }}" target="_blank" rel="noopener" title="{{ book.title | strip_html }} ({{ book.year }})">
-    {% else %}
     <a href="{{ book.url | relative_url }}" title="{{ book.title | strip_html }} ({{ book.year }})">
-    {% endif %}
-      <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="212" height="300" loading="lazy">
+      <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="212" height="300">
     </a>
   </li>
   {% endfor %}
