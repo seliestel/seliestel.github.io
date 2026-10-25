@@ -41,7 +41,8 @@ blockquote{margin:1em 0;padding:.4em 1em;border-left:3px solid var(--accent);bac
 .site-head-inner{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding-top:.55rem;padding-bottom:.55rem}
 .brand{display:flex;align-items:center;gap:.5rem;font-weight:700;color:var(--ink)}
 .brand:hover{text-decoration:none}
-.brand-mark{color:var(--accent);font-size:1.3rem}
+.brand-mark{color:var(--accent);display:inline-flex;line-height:0}
+.brand-mark svg{display:block}
 .brand-text em{font-style:normal;color:var(--muted);font-weight:500}
 .site-nav{margin-left:auto;display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap}
 .site-nav a{color:var(--ink-soft);font-size:.95rem}
