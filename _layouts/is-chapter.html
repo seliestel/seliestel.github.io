@@ -14,10 +14,27 @@ layout: is-default
     {% if page.book_sections %}<p class="sections"><strong>Linked book sections:</strong> {{ page.book_sections }}</p>{% endif %}
     {% if page.summary %}<p class="lead">{{ page.summary }}</p>{% endif %}
     <div class="toolbar no-print">
-      <button type="button" onclick="window.print()" class="btn">🖨 Print / Save as PDF</button>
-      <span class="toolbar-hint">Tip: expand the instructor notes below before printing if you want the answer keys included.</span>
+      <button type="button" onclick="isPrint(false)" class="btn">🖨 Print student worksheet</button>
+      <button type="button" onclick="isPrint(true)" class="btn btn-ghost">🖨 Print with answer keys</button>
+      <a class="btn btn-ghost" href="https://raw.githubusercontent.com/seliestel/seliestel.github.io/master/{{ page.path }}" target="_blank" rel="noopener">⬇ Markdown</a>
     </div>
+    <p class="toolbar-hint no-print">Use the printer's "Save as PDF" option to get a PDF. The Markdown file opens as plain text: save it with your browser's "Save as" to edit it.</p>
   </header>
+
+  {% comment %} List of the activities on this page, taken from their headings. {% endcomment %}
+  {% assign parts = content | split: '<h2 id="' %}
+  {% if parts.size > 2 %}
+  <nav class="activity-index no-print" aria-label="Activities in this chapter">
+    <p class="activity-index-title">Activities in this chapter</p>
+    <ul>
+      {% for part in parts offset: 1 %}
+        {% assign h_id = part | split: '"' | first %}
+        {% assign h_text = part | split: '</h2>' | first | split: '">' | last | strip_html %}
+        <li><a href="#{{ h_id }}">{{ h_text | remove: "★" | strip }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
 
   <div class="chapter-body">
     {{ content }}
@@ -44,3 +61,28 @@ layout: is-default
     </div>
   </nav>
 </article>
+
+<script>
+  // Print with or without the instructor notes; restore the page afterwards.
+  function isPrint(withNotes) {
+    var notes = document.querySelectorAll('details.notes');
+    var wasOpen = Array.prototype.map.call(notes, function (d) { return d.open; });
+    document.body.classList.toggle('print-no-notes', !withNotes);
+    if (withNotes) notes.forEach(function (d) { d.open = true; });
+    window.addEventListener('afterprint', function restore() {
+      notes.forEach(function (d, i) { d.open = wasOpen[i]; });
+      document.body.classList.remove('print-no-notes');
+      window.removeEventListener('afterprint', restore);
+    });
+    window.print();
+  }
+  // A small link icon next to each activity title, to share a direct link to it.
+  document.querySelectorAll('.activity h2[id]').forEach(function (h) {
+    var a = document.createElement('a');
+    a.className = 'anchor no-print';
+    a.href = '#' + h.id;
+    a.setAttribute('aria-label', 'Link to this activity');
+    a.textContent = '#';
+    h.appendChild(a);
+  });
+</script>

@@ -2,7 +2,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title and page.title != "Home" %}{{ page.title }} — Into Semiotics Companion Guide{% else %}Into Semiotics — Companion Guide{% endif %}</title>
-  <meta name="description" content="{{ page.summary | default: 'Active-learning resources for the study of signs, companion to the textbook Into Semiotics by Ignasi Ribó.' | strip_newlines }}">
+  {% capture is_desc %}{{ page.summary | default: 'Active-learning resources for the study of signs, companion to the textbook Into Semiotics by Ignasi Ribó.' | strip_newlines | strip_html }}{% endcapture %}
+  {% capture is_title %}{% if page.title and page.title != "Home" %}{{ page.title }} — Into Semiotics Companion Guide{% else %}Into Semiotics — Companion Guide{% endif %}{% endcapture %}
+  <meta name="description" content="{{ is_desc }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="Into Semiotics — Companion Guide">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ is_title }}">
+  <meta property="og:description" content="{{ is_desc }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/assets/img/into_semiotics_cover.jpg' | absolute_url }}">
+  <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="{{ '/into-semiotics/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <link rel="icon" href="{{ '/into-semiotics/assets/img/favicon-32.png' | relative_url }}" sizes="32x32" type="image/png">
   <link rel="icon" href="{{ '/into-semiotics/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">

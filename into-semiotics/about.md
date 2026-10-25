@@ -19,8 +19,8 @@ The activities included here make the concepts and ideas presented in the book m
 
 ## Design principles
 
-- **Static and lightweight.** The site is a plain [Jekyll](https://jekyllrb.com/) build with no databases, no JavaScript, and no external dependencies. It is fast to load and is hosted on GitHub Pages.
-- **Print-friendly.** Every chapter page can be printed or saved as a clean PDF worksheet with one click.
+- **Static and lightweight.** The site is a plain [Jekyll](https://jekyllrb.com/) build with no databases and no external dependencies; a few lines of JavaScript only power the menu and the print buttons. It is fast to load and is hosted on GitHub Pages.
+- **Print-friendly.** Every chapter page can be printed or saved as a clean PDF worksheet with one click, either as a student worksheet or with the answer keys included.
 - **Bring-your-own-image.** Rather than using copyrighted photographs, activities ask students to capture or find their own images. This keeps the site small, avoids licensing problems, and provides opportunities for better pedagogy.
 
 ## How to cite
