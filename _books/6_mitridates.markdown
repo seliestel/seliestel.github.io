@@ -1,5 +1,4 @@
 ---
-order: 6
 title: "Mitrídates ha muerto"
 year: 2010
 genre: Novel

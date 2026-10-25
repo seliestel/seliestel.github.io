@@ -16,16 +16,17 @@ GitHub rebuilds the site automatically a minute or two after every push.
 | Colours, fonts, spacing | top of `assets/css/main.scss` |
 | Into Semiotics companion guide | `into-semiotics/` (own layout and styles) |
 
-## Adding a book with its own page
+## Adding a book
 
 1. Export the cover at **200 × 300 px** (other proportions are trimmed to fit) and save it in `assets/img/`, e.g. `assets/img/new_book_cover.jpg`.
-2. Copy one of the files in `_books/` (every book has its own page) (e.g. `1_into_semiotics.markdown`) and fill in the fields:
+2. Create a new file in `_books/`, for example by copying `1_into_semiotics.markdown`. The file name becomes the page address (`_books/new_book.markdown` → `/books/new_book/`), so use lowercase letters, numbers and underscores. **No numbering is needed:** the homepage sorts the covers by year, newest first.
+3. Fill in the fields:
 
 ```yaml
 ---
-order: 1                 # position on the homepage (1 = first); renumber the others if needed
 title: "Full title: With subtitle"
 year: 2027
+month: 3                 # optional (1–12); only used to order books from the same year
 genre: Textbook          # Novel, Essay, Edited collection...
 publisher: Publisher name   # optional
 status: In press         # optional; remove when the book is out
@@ -46,6 +47,10 @@ The synopsis goes here, in plain Markdown. *Italics* with asterisks.
 > “An endorsement quote.”
 > <cite>Name, Institution</cite>
 ```
+
+**Order on the homepage:** newest year first. Books from the same year are shown alphabetically by title, unless you give them a `month`; books with a month come first in that year, latest month first.
+
+The numbers at the start of the existing file names (`1_`, `2_`…) no longer do anything. They are kept only so that the existing page addresses don't change.
 
 ## Google Analytics
 

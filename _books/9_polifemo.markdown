@@ -1,5 +1,4 @@
 ---
-order: 9
 title: "Polifemo"
 year: 2006
 genre: Novel

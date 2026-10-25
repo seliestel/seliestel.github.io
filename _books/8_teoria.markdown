@@ -1,5 +1,4 @@
 ---
-order: 8
 title: "La teoria literària"
 year: 2011
 genre: Essay

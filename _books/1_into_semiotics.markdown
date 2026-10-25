@@ -1,5 +1,4 @@
 ---
-order: 1
 title: "Into Semiotics: Understanding Signs, Meaning, and Communication"
 year: 2026
 genre: Textbook

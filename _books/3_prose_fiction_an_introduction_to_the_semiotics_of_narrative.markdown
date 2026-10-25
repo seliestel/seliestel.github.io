@@ -1,5 +1,4 @@
 ---
-order: 3
 title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
 year: 2019
 genre: Textbook

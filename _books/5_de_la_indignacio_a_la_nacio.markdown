@@ -1,5 +1,4 @@
 ---
-order: 5
 lang: ca
 title: "De la indignació a la nació: Tesis polítiques per a una Catalunya digna"
 year: 2012

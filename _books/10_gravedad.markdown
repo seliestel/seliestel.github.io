@@ -1,5 +1,4 @@
 ---
-order: 10
 title: "La ley de la gravedad"
 year: 2002
 genre: Novel

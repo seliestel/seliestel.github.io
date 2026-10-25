@@ -4,14 +4,25 @@ title: Books
 description: Books by Ignasi Ribó, Catalan author and scholar.
 permalink: /
 ---
+{% comment %}
+  Covers appear newest first, by the "year" field of each book.
+  Books from the same year: those with a "month" field (1–12) come first,
+  latest month first; the rest follow in alphabetical order by title.
+  No numbering of files is needed.
+{% endcomment %}
 <h1 class="visually-hidden">Books</h1>
-{% assign books = site.books | sort: "order" %}
+{% assign years = site.books | group_by: "year" | sort: "name" | reverse %}
 <ul class="book-grid">
-  {% for book in books %}
+  {% for year in years %}
+    {% assign dated = year.items | where_exp: "b", "b.month" | sort: "month" | reverse %}
+    {% assign undated = year.items | where_exp: "b", "b.month == nil" | sort: "title" %}
+    {% assign books = dated | concat: undated %}
+    {% for book in books %}
   <li>
     <a href="{{ book.url | relative_url }}" title="{{ book.title | strip_html }} ({{ book.year }})">
       <img src="{{ book.img | relative_url }}" alt="{{ book.title | strip_html }}" width="200" height="300">
     </a>
   </li>
+    {% endfor %}
   {% endfor %}
 </ul>

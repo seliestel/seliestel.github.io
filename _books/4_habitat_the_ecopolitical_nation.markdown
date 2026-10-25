@@ -1,5 +1,4 @@
 ---
-order: 4
 title: "Habitat: The Ecopolitical Nation"
 year: 2012
 genre: Essay

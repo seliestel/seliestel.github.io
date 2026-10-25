@@ -1,5 +1,4 @@
 ---
-order: 11
 title: "També somien els búfals"
 year: 2001
 genre: Novel

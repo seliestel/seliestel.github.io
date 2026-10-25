@@ -1,5 +1,4 @@
 ---
-order: 7
 title: "La palma y el laurel"
 year: 2011
 genre: Novel

@@ -1,5 +1,4 @@
 ---
-order: 2
 title: "Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries"
 year: 2025
 genre: Edited collection
