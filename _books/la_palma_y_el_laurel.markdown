@@ -1,6 +1,6 @@
 ---
 lang: es
-title: "La palma y el laurel: Las guerras de Mitrídates"
+title: "La palma y el laurel"
 year: 2011
 genre: Novela histórica
 publisher: Edhasa
