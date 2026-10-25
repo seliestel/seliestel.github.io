@@ -2,6 +2,7 @@
 lang: ca
 title: "De la indignació a la nació: Tesis polítiques per a una Catalunya digna"
 year: 2012
+month: 3
 genre: Assaig
 img: /assets/img/indignacio_cover.jpg
 description: Una teoria original de la nació com a hàbitat plural, inclusiu i sostenible.

@@ -1,6 +1,7 @@
 ---
 title: "Habitat: The Ecopolitical Nation"
 year: 2012
+month: 6
 genre: Essay
 img: /assets/img/habitat_cover.jpg
 description: A new theory of the nation as an alternative to the model of the nation-state.
