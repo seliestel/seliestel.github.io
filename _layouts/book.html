@@ -17,7 +17,11 @@ layout: default
 
   <div class="book-body">
     <figure class="book-cover">
-      <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="200" height="300">
+      {% comment %} The cover links to the first entry in "links" (where to find the book). {% endcomment %}
+      {% assign cover_link = page.links | first %}
+      {% if cover_link %}<a href="{{ cover_link.url }}"{% unless cover_link.url contains "/assets/" or cover_link.url contains site.url %} target="_blank" rel="noopener"{% endunless %} title="{{ cover_link.label | strip_html }}">{% endif %}
+        <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="200" height="300">
+      {% if cover_link %}</a>{% endif %}
     </figure>
 
     <div class="book-text">

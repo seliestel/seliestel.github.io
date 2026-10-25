@@ -1,14 +1,15 @@
 ---
+lang: ca
 title: "La teoria literària"
 year: 2011
-genre: Essay
-publisher: Editorial UOC
+genre: Assaig
+publisher: Editorial UOC (col·lecció VullSaber)
 img: /assets/img/teoria_cover.jpg
 description: 
-links_title: Where to find the book
+links_title: On trobar-lo
 links:
-  - label: Amazon
+  - label: "Amazon"
     url: https://www.amazon.es/teoria-liter%C3%A0ria-VullSaber-Ignasi-Labastida/dp/8497883993
 ---
 
-<!-- Write the synopsis here, in plain Markdown (and fill in "description" above). -->
+<!-- Escriviu aquí la sinopsi, en Markdown (i ompliu "description" a dalt). -->

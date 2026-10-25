@@ -1,13 +1,15 @@
 ---
+lang: es
 title: "La ley de la gravedad"
-year: 2002
-genre: Novel
+year: 2001
+genre: Novela
+publisher: Edhasa
 img: /assets/img/gravedad_cover.jpg
 description: 
-links_title: Where to find the book
+links_title: Dónde encontrarlo
 links:
-  - label: Amazon
+  - label: "Amazon"
     url: https://www.amazon.es/LA-LEY-DE-GRAVEDAD/dp/B00H3VRTK8
 ---
 
-<!-- Write the synopsis here, in plain Markdown (and fill in "description" above). -->
+<!-- Escribe aquí la sinopsis, en Markdown (y rellena "description" arriba). -->

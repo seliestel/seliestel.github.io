@@ -33,7 +33,7 @@ status: In press         # optional; remove when the book is out
 img: /assets/img/new_book_cover.jpg
 description: One sentence for search engines and link previews.
 links_title: Where to find the book   # optional heading for the links
-links:                   # optional; shown as a list below the synopsis
+links:                   # optional; shown below the synopsis; the cover links to the first one
   - label: Publisher's page
     url: https://...
 reviews_title: Book reviews           # optional
