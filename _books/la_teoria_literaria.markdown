@@ -12,4 +12,4 @@ links:
     url: https://www.amazon.es/teoria-liter%C3%A0ria-VullSaber-Ignasi-Labastida/dp/8497883993
 ---
 
-<!-- Escriviu aquí la sinopsi, en Markdown (i ompliu "description" a dalt). -->
+Més enllà del simple gaudi de la literatura, ja des de l'antiguitat, s'ha escrutat el text per dilucidar-ne els misteris i els significats. Aquest llibre exposa els fonaments i els principals moviments i troballes d'aquesta disciplina acadèmica coneguda des del segle XX com a teoria literària.

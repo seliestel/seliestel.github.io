@@ -12,4 +12,4 @@ links:
     url: https://www.amazon.es/LA-LEY-DE-GRAVEDAD/dp/B00H3VRTK8
 ---
 
-<!-- Escribe aquí la sinopsis, en Markdown (y rellena "description" arriba). -->
+El protagonista de esta novela es un jove y exitoso banquero de la City londinense acostumbrado a cerrar negocios, por todo el mundo, aunque sea a costa de la desgracia ajena. Pero una serie de acontecimientos le obligarán a replantearse la vida.
