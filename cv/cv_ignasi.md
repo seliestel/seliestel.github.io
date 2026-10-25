@@ -1,9 +1,12 @@
 ---
 layout: cv
-title: cv
+title: Curriculum Vitae
 pdf: true
-description: CV
+description: Curriculum vitae of Ignasi Ribó.
 permalink: /cv/
+noindex: true      # keeps the CV out of search engines
+sitemap: false     # and out of the sitemap
+extra_css: /assets/css/cv.css
 ---
 
 <a id="download-bio" title="Download short bio" style="cursor: pointer">{{ site.data.cv.bio.name }}</a>

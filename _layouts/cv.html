@@ -1,28 +1,28 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Curriculum Vitae · Ignasi Ribó</title>
-    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/assets/css/cv.css" media="screen" type="text/css">
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.54/pdfmake.min.js"></script>
-    <script src='/assets/fonts/vfs_fonts.js'></script>
-    <script defer src="/assets/javascripts/cv.js"></script> 
-    <script defer src="/assets/javascripts/publist_numbered.js"></script> 
-  </head>
+{% comment %}
+  CV page: private, for sharing by link only.
+  Not linked from the menu, left out of the sitemap, and marked "noindex"
+  (set in cv/cv_ignasi.md) so search engines don't list it.
+{% endcomment %}
+<html lang="en">
+  {% include head.html %}
   <body>
-
-		 <div hidden id="cvJson">{{ site.data.cv | jsonify }}</div>
-     <div class="page-content">
-      <div id="heading" style="text-align: center"><i>Curriculum Vitae</i></div>
-      <a id="download-pdf" title="Download CV"><img src="../assets/img/pdf-download-icon.png" style="position: fixed; right: 50px; width: 50px" /></a>
-<!--      <a id="print_numbered_list" title="Print numbered list"><img src="../assets/img/pdf-download-icon.png" style="position: fixed; right: 50px; width: 50px" /></a>-->
-      <div id="#cv" class="wrapper">
+    {% include header.html %}
+    <main class="page-content">
+      <div class="wrapper cv">
+        <div class="cv-top">
+          <span id="heading">Curriculum Vitae</span>
+          <a id="download-pdf" title="Download CV as PDF" role="button" tabindex="0"><img src="{{ '/assets/img/pdf-download-icon.png' | relative_url }}" alt="Download CV as PDF" width="40" height="40"></a>
+        </div>
+        <div hidden id="cvJson">{{ site.data.cv | jsonify }}</div>
         {{ content }}
       </div>
-    </div>
+    </main>
+    {% include footer.html %}
+    <script src="{{ '/assets/javascripts/lib/jquery-3.7.1.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/javascripts/lib/pdfmake-0.2.20.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/fonts/vfs_fonts.js' | relative_url }}"></script>
+    <script src="{{ '/assets/javascripts/cv.js' | relative_url }}"></script>
+    <script src="{{ '/assets/javascripts/publist_numbered.js' | relative_url }}"></script>
   </body>
 </html>

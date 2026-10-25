@@ -1,111 +1,106 @@
 /*
+ * CV styles, scoped to the CV page (.cv). Based on:
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
  * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+ * Delivered under the CC BY-SA 3.0 License.
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
-/* Whole document */
-body {
-    font-family: "Open Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
-    margin: auto;
-    background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+.cv {
+    max-width: 820px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #222;
 }
 
-/* Title of the resume */
-h1 {
-    font-family: "Raleway";
+.cv-top {
+    position: relative;
+    text-align: center;
+    min-height: 40px;
+}
+#heading { font-style: italic; }
+#download-pdf {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    opacity: 0.6;
+}
+#download-pdf:hover, #download-pdf:focus { opacity: 1; background: none; text-shadow: none; }
+#download-pdf img { display: block; width: 40px; height: 40px; }
+
+/* Name */
+.cv h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 55px;
     color: #757575;
-    text-align:center;
-    margin-bottom:15px;
+    text-align: center;
+    margin: 0.3em 0 15px;
 }
-/*h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}*/
 
-/* Titles of categories */
-h2 {
-    font-family: "Raleway";
+/* Section titles, with a bar before each */
+.cv h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 1.5em;
     color: #397249;
+    margin: 1.2em 0 0.8em;
 }
-/* There is a bar just before each category */
-h2:before {
+.cv h2::before {
     content: "";
     display: inline-block;
-    margin-right:1%;
+    margin-right: 1%;
     width: 16%;
     height: 10px;
     background-color: #9CB770;
 }
-/*h2:hover {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}*/
 
-/* Definitions */
-dt {
+/* Entries */
+.cv dl { margin: 0; }
+.cv dt {
     float: left;
     clear: left;
     width: 17%;
-    /*font-weight: bold;*/
 }
-dd {
-    margin-left: 17%;
+.cv dd {
+    margin: 0 0 0.6em 17%;
 }
-p {
-    margin-top:0;
-    margin-bottom:7px;
+.cv p {
+    margin: 0 0 7px;
 }
 
-/* Blockquotes */
-blockquote {
-    text-align: center
+.cv blockquote {
+    text-align: center;
+    border: 0;
+    padding: 0;
+    margin: 1em 0;
+    color: inherit;
 }
 
-/* Links */
-a {
+.cv a {
     text-decoration: none;
     color: #397249;
 }
-a:hover, a:active {
+.cv a:hover, .cv a:active {
     background-color: #9CB770;
-    color: #FFFFFF;
+    color: #fff;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
 }
 
-#download-pdf {
-  float: right; 
-  margin-top: 30; 
-  cursor: pointer; 
-  background-color: transparent; 
-  text-decoration: none !important;
-  text-shadow: none;
-  opacity: 0.6;
-}
-#download-pdf:hover, #download-pdf:active {
-  opacity: 1;
+.cv hr {
+    border: 0;
+    border-top: 1px solid #A6A6A6;
+    margin: 0.8em 0;
 }
 
-/* Horizontal separators */
-hr {
-    color: #A6A6A6;
-}
-
-/* Small screens: let the CV use the full width of the phone */
-@media (max-width: 840px) {
-    body { width: auto; }
-    #download-pdf img { right: 12px !important; width: 36px !important; }
-    h1 { font-size: 36px; }
-    dt { float: none; width: auto; font-weight: 600; }
-    dd { margin-left: 0; margin-bottom: 10px; }
-    a { overflow-wrap: anywhere; }
+/* Small screens */
+@media (max-width: 700px) {
+    .cv h1 { font-size: 36px; }
+    .cv dt { float: none; width: auto; font-weight: 600; }
+    .cv dd { margin-left: 0; margin-bottom: 10px; }
+    .cv a { overflow-wrap: anywhere; }
+    #download-pdf img { width: 32px; height: 32px; }
 }

@@ -4,6 +4,8 @@ description: Personal page of Ignasi Ribó, Catalan author and scholar.
 url: https://www.ignasiribo.com
 email: iribolabastida@gmail.com
 lang: en
+# Default picture shown when a page is shared (book pages use their cover)
+share_image: /assets/img/Ignasi-photo.jpg
 
 # Google Analytics 4: paste your Measurement ID between the quotes
 # (it looks like "G-XXXXXXXXXX"). Leave it empty to turn analytics off.
@@ -31,5 +33,4 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - contributors.txt
   - vendor

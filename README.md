@@ -11,9 +11,9 @@ GitHub rebuilds the site automatically a minute or two after every push.
 | Books (one file per book) | `_books/` |
 | Book cover images (200 × 300 px JPG) | `assets/img/` |
 | Texts page (generated from the CV data) | `texts.md` |
-| CV data | `_data/cv.yml` (page: `cv/cv_ignasi.md`) |
+| CV data | `_data/cv.yml` (page: `cv/cv_ignasi.md`, private: not linked, not in the sitemap, hidden from search engines; change `updated:` at the top when you edit it) |
 | About page | `about.md` |
-| Colours, fonts, spacing | top of `assets/css/main.scss` |
+| Colours, fonts, spacing | top of `assets/css/main.scss` (fonts are hosted on the site: `assets/css/fonts.css`) |
 | Into Semiotics companion guide | `into-semiotics/` (own layout and styles) |
 
 ## Adding a book
