@@ -4,6 +4,7 @@ title: "Mitrídates ha muerto"
 year: 2011
 genre: Novela
 publisher: Bubok
+isbn: "9788499811147"
 img: /assets/img/mitridates_cover.jpg
 description: "Novela de Ignasi Ribó: el robo de una estatua en una ciudad griega de Asia Menor, en tiempos de las guerras entre Mitrídates y Roma."
 links_title: Dónde encontrarlo

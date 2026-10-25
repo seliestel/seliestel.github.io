@@ -477,29 +477,6 @@ academic_reviews:
 
 academic_articles:
 
-  - title: "The hungry ghosts of the Anthropocene: posthuman vulnerability in contemporary Thai fiction"
-    authors: Ribó, Ignasi
-    journal: "Critique: Studies of Contemporary Fiction"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: "2025"
-    submitted: ""
-    accepted:  
-    online: "10 November"
-    volume: 
-    number: 
-    pages: 
-    abstract:
-    doi: "10.1080/00111619.2025.2586839"
-    gsid: 
-    link: 
-    isbn: 
-    num: 
-    scopus: Q1
-    reviews:
-
   - title: "Catastrophe, vulner-ability and ecopolitical morphogenesis: lessons for sustainability education"
     authors: Ribó, Ignasi
     journal: "Pedagogy, Culture & Society"
@@ -516,6 +493,29 @@ academic_articles:
     pages: "291-303"
     abstract:
     doi: "10.1080/14681366.2025.2492725"
+    gsid: 
+    link: 
+    isbn: 
+    num: 
+    scopus: Q1
+    reviews:
+
+  - title: "The hungry ghosts of the Anthropocene: posthuman vulnerability in contemporary Thai fiction"
+    authors: Ribó, Ignasi
+    journal: "Critique: Studies of Contemporary Fiction"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "2025"
+    submitted: ""
+    accepted:  
+    online: "10 November"
+    volume: 
+    number: 
+    pages: 
+    abstract:
+    doi: "10.1080/00111619.2025.2586839"
     gsid: 
     link: 
     isbn: 
@@ -592,6 +592,29 @@ academic_articles:
     scopus: Q1
     reviews:
 
+  - title: "Golden triangle: a material-semiotic geography"
+    authors: Ribó, Ignasi
+    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
+    collection: 
+    editors: 
+    publisher: 
+    place: 
+    year: "2022"
+    submitted: 
+    accepted: 
+    online: 
+    volume: "29"
+    number: "3"
+    pages: "751–770"
+    abstract:
+    doi: "10.1093/isle/isaa140"
+    gsid:
+    link: "https://academic.oup.com/isle/advance-article/doi/10.1093/isle/isaa140/5919342?guestAccessKey=fa72918d-a712-464c-99a3-3f08c73a314d"
+    isbn:
+    num: 15
+    scopus: Q1
+    reviews:
+
   - title: "'Kox kwai kauv kox kwai': ecopoetic symbolisation in Pgaz K’Nyau oral poetry"
     authors: Ribó, Ignasi; Samachitloed, Sitthichok; Noopan, Prapawarin; Satrakom, Chanakan; Kotchamit, Papawarin
     journal: Journal of Ethnology and Folkloristics
@@ -638,29 +661,6 @@ academic_articles:
     scopus: Q2
     reviews:
 
-  - title: "Golden triangle: a material-semiotic geography"
-    authors: Ribó, Ignasi
-    journal: "ISLE: Interdisciplinary Studies in Literature and Environment"
-    collection: 
-    editors: 
-    publisher: 
-    place: 
-    year: "2022"
-    submitted: 
-    accepted: 
-    online: 
-    volume: "29"
-    number: "3"
-    pages: "751–770"
-    abstract:
-    doi: "10.1093/isle/isaa140"
-    gsid:
-    link: "https://academic.oup.com/isle/advance-article/doi/10.1093/isle/isaa140/5919342?guestAccessKey=fa72918d-a712-464c-99a3-3f08c73a314d"
-    isbn:
-    num: 15
-    scopus: Q1
-    reviews:
-
   - title: "‘At the farthest pole from man’: Kafka’s posthuman outlook on war"
     authors: Ribó, Ignasi
     journal: Journal of Modern Literature
@@ -701,7 +701,7 @@ academic_articles:
     abstract:
     doi: 
     gsid:
-    link: "https://www.icird2019.com/uploads/paper-5ee1b04712336-17 Full paper - Ignasi_compressed.pdf"
+    link:
     isbn: "978-616-470-038-3 / 978-616-470-037-6"
     num: 13
     scopus: 
@@ -729,7 +729,7 @@ academic_articles:
     num: 12
     scopus: Q2
     reviews:
-  
+
   - title: "Semiotic alignment: towards a dialogical model of interspecific communication"
     authors: Ribó, Ignasi
     journal: "Semiotica: Journal of the International Association for Semiotic Studies"
@@ -752,7 +752,7 @@ academic_articles:
     num: 11
     scopus: Q1
     reviews:
-  
+
   - title: "Dialogical communicative interaction between humans and elephants: an experiment in semiotic alignment"
     authors: Ribó, Ignasi
     journal: Biosemiotics
@@ -839,7 +839,7 @@ academic_articles:
     abstract:
     doi: 
     gsid: 
-    link: "https://www.llull.cat/IMAGES_175/transfer04-essa01.pdf"
+    link:
     isbn: 1886-2349
     num: 6
     scopus: 
@@ -961,7 +961,7 @@ academic_articles:
     abstract:
     doi: 
     gsid: 
-    link: "http://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm"
+    link: "https://parnaseo.uv.es/Lemir/Revista/Revista10/Ribo/IgnasiRibo.htm"
     isbn: 
     num: 2
     scopus: 
@@ -1068,7 +1068,7 @@ chapters:
         pages: 27-30
         doi: 
         link: "https://ejournal.um.edu.my/index.php/SARE/article/view/10241"
-        
+
 other_articles:
 
   - title: "Bitagora: a decentralized voting platform built on Hyperledger Sawtooth"
@@ -1083,18 +1083,6 @@ other_articles:
     date: 20 April 2018
     link: https://www.politico.eu/article/catalonia-independence-spain-carles-puigdemont-the-last-thing-needs-is-more-autonomy
 
-  - title: "To solve Catalonia, Spain needs a new constitution"
-    authors: Ribó, Ignasi
-    publisher: Politico
-    date: 13 November 2017
-    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution
- 
-  - title: "How small countries can save the European project: the rise of the habitat-nation"
-    authors: Ribó, Ignasi
-    publisher: OpenDemocracy
-    date: 6 November 2012
-    link: https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation
-
   - title: "El nostre combat"
     authors: Ribó, Ignasi
     publisher: Nació Digital
@@ -1107,23 +1095,35 @@ other_articles:
     date: 27 April 2018
     link: https://www.elnacional.cat/ca/opinio/ignasi-ribo-republica-referendum-majoria_262533_102.html
 
+  - title: "To solve Catalonia, Spain needs a new constitution"
+    authors: Ribó, Ignasi
+    publisher: Politico
+    date: 13 November 2017
+    link: https://www.politico.eu/article/to-solve-catalonia-spain-needs-a-new-constitution
+
   - title: Els fills pròdigs
     authors: Ribó, Ignasi
     publisher: Vilaweb
     date: 14 June 2013
     link: https://www.vilaweb.cat/mailobert/4124204/ignasi-ribo-fills-prodigs.html
 
+  - title: Per què Andorra no és Manhattan?
+    authors: Ribó, Ignasi
+    publisher: Núvol / El Correu de la UNESCO
+    date: February 2013 / January 2001
+    link: https://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan
+
+  - title: "How small countries can save the European project: the rise of the habitat-nation"
+    authors: Ribó, Ignasi
+    publisher: OpenDemocracy
+    date: 6 November 2012
+    link: https://www.opendemocracy.net/ignasi-rib%C3%B3/how-small-countries-can-save-european-project-rise-of-habitat-nation
+
   - title: Dramatúrgia catalana? Parlem-ne
     authors: Ribó, Ignasi
     publisher: El Correu de la UNESCO
     date: March 2001
     link: 
-
-  - title: Per què Andorra no és Manhattan?
-    authors: Ribó, Ignasi
-    publisher: Núvol / El Correu de la UNESCO
-    date: February 2013 / January 2001
-    link: http://www.nuvol.com/opinio/per-que-andorra-no-es-manhattan
 
   - title: "La narrativa balear: quatre aproximacions"
     authors: Ribó, Ignasi
@@ -1158,19 +1158,6 @@ conferences:
     link: 
     status: To present
 
-  - title: "Critical reading of scientific literature"
-    type: Workshop
-    authors: Ribó, Ignasi
-    event: ""
-    topic: ""
-    venue: "Mae Fah Luang University (Chiang Rai, Thailand)"
-    place: Onsite
-    day: ""
-    month: March
-    year: "2025"
-    link: 
-    status: Conducted
-    
   - title: "Chair of seminar session"
     type: Seminar (hybrid)
     authors: Ribó, Ignasi
@@ -1183,6 +1170,19 @@ conferences:
     year: "2026"
     link: 
     status: Completed
+
+  - title: "Critical reading of scientific literature"
+    type: Workshop
+    authors: Ribó, Ignasi
+    event: ""
+    topic: ""
+    venue: "Mae Fah Luang University (Chiang Rai, Thailand)"
+    place: Onsite
+    day: ""
+    month: March
+    year: "2025"
+    link: 
+    status: Conducted
 
   - title: "Assembling more-than-human sustain-abilities in the ecocritical classroom: A posthumanist pedagogy for literary education"
     type: Presentation
@@ -1350,7 +1350,7 @@ conferences:
     day: "9"
     month: October
     year: "2019"
-    link: "http://stt45.mfu.ac.th/dialogue-for-ecological-regeneration-engaging-with-environmental-knowledge-in-the-north-of-thailand/"
+    link:
     status: Organised
 
   - title: "Golden triangle: the emergence of a liminal space in the upper Mekong river"
@@ -1417,7 +1417,7 @@ conferences:
     year: "2011"
     link:
     status: Presented
-    
+
   - title: 'Attentiveness: a case of primate semiosis'
     type: Paper
     authors: Ribó, Ignasi
@@ -1454,7 +1454,7 @@ conferences:
     day: 13-14
     month: April 
     year: "2007"
-    link:
+    link: https://www.ignasiribo.com/texts/the_novel_as_tragic_form.html
     status: Presented
 
   - title: "The papers of Salamanca: war, closure, and re-enactment"
@@ -1467,7 +1467,7 @@ conferences:
     day: 9
     month: March
     year: "2007"
-    link: http://www.ignasiribo.com/texts/the_papers_of_salamanca.html
+    link: https://www.ignasiribo.com/texts/the_papers_of_salamanca.html
     status: Presented
 
   - title: "Ejercicio de simulación empresarial: desarrollo de competencias genéricas en un entorno virtual"

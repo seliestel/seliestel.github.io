@@ -3,6 +3,8 @@ title: "Habitat: The Ecopolitical Nation"
 year: 2012
 month: 6
 genre: Essay
+publisher: Mycelia Books
+isbn: "9780957419100"
 img: /assets/img/habitat_cover.jpg
 description: A new theory of the nation as an alternative to the model of the nation-state.
 links_title: Where to find the book

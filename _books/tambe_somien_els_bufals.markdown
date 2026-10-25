@@ -4,6 +4,7 @@ title: "També somien els búfals"
 year: 2000
 genre: Novel·la
 publisher: Empúries
+isbn: "9788475967738"
 img: /assets/img/bufals_cover.jpg
 description: "Novel·la d'Ignasi Ribó: de Girona a Las Vegas, en Cesc Mateu busca una vida més autèntica, entre la sàtira mordaç i la fantasia delirant."
 links_title: On trobar-lo

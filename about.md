@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About
-description: Ignasi Ribó is a Catalan writer and scholar, Associate Professor of Comparative Literature at Mae Fah Luang University.
+description: Ignasi Ribó is a Catalan writer and scholar, Associate Professor of Comparative Literature at Mae Fah Luang University, working on ecosemiotics and ecocriticism.
 permalink: /about/
 ---
 
 <img class="about-photo" src="{{ '/assets/img/Ignasi-photo.jpg' | relative_url }}" alt="Ignasi Ribó">
 
-Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is Doctor of Philosophy from the University of Sussex and holds graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (Institut d'Études Politiques de Paris), and Literary Theory (Universitat de Barcelona). He is the author of the eco-political theory of the habitat-nation, developed in his book *Habitat: The Ecopolitical Nation* (2012). Currently, he works as an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University. More on [Wikipedia](https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3).
+Ignasi Ribó (born 1971 in Barcelona) is a Catalan writer and scholar. He is an Associate Professor of Comparative Literature at the School of Liberal Arts, Mae Fah Luang University, in Chiang Rai, Thailand. His research lies at the intersection of ecosemiotics, ecocriticism and comparative literature, and he has published in journals such as *Poetics Today*, *ISLE*, *Semiotica* and *Environmental Education Research*.
+
+He is the author of the textbooks *Prose Fiction: An Introduction to the Semiotics of Narrative* (Open Book Publishers, 2019) and *Into Semiotics: Understanding Signs, Meaning, and Communication* (Mae Fah Luang University, in press), and the editor of *Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries* (Lexington Books, 2025). In *Habitat: The Ecopolitical Nation* (2012) he developed the eco-political theory of the habitat-nation. He has also written five novels and a play that won the Joan Santamaria Prize, and he translates literature into Catalan and Spanish.
+
+He holds a PhD from the University of Sussex, an MSc in Education and Sustainability from the University of Gothenburg, and graduate degrees in Economics (ESADE, Universitat Ramon Llull), Political Science (Institut d'Études Politiques de Paris) and Literary Theory (Universitat de Barcelona). Before moving to Thailand, he taught for fifteen years at the Universitat Oberta de Catalunya. More on [Wikipedia](https://en.wikipedia.org/wiki/Ignasi_Rib%C3%B3).
 
 <p class="contact">
   <a href="mailto:{{ site.email }}" aria-label="Email">

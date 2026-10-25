@@ -4,6 +4,7 @@ title: "La palma y el laurel"
 year: 2011
 genre: Novela histórica
 publisher: Edhasa
+isbn: "9788435062190"
 img: /assets/img/palma_cover.jpg
 description: "Novela histórica de Ignasi Ribó sobre Mitrídates VI del Ponto y sus guerras contra Sila, Lúculo y Pompeyo."
 links_title: Dónde encontrarlo

@@ -29,6 +29,9 @@ year: 2027
 month: 3                 # optional (1–12); only used to order books from the same year
 genre: Textbook          # Novel, Essay, Edited collection...
 publisher: Publisher name   # optional
+isbn: "9780000000000"     # optional; used in the book data for search engines
+role: editor             # optional; only for books you edited rather than wrote
+lang: es                 # optional; es or ca for books in Spanish or Catalan (default: English)
 status: In press         # optional; remove when the book is out
 img: /assets/img/new_book_cover.jpg
 description: One sentence for search engines and link previews.

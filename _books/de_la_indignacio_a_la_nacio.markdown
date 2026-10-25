@@ -4,6 +4,8 @@ title: "De la indignació a la nació: Tesis polítiques per a una Catalunya dig
 year: 2012
 month: 3
 genre: Assaig
+publisher: Mycelia Books
+isbn: "9780957419155"
 img: /assets/img/indignacio_cover.jpg
 description: Una teoria original de la nació com a hàbitat plural, inclusiu i sostenible.
 links_title: On trobar-lo

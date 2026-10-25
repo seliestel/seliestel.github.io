@@ -20,7 +20,8 @@ layout: default
       {% comment %} The cover links to the first entry in "links" (where to find the book). {% endcomment %}
       {% assign cover_link = page.links | first %}
       {% if cover_link %}<a href="{{ cover_link.url }}"{% unless cover_link.url contains "/assets/" or cover_link.url contains site.url %} target="_blank" rel="noopener"{% endunless %} title="{{ cover_link.label | strip_html }}">{% endif %}
-        <img src="{{ page.img | relative_url }}" alt="Cover of {{ page.title | strip_html }}" width="200" height="300">
+        {% case page.lang %}{% when "es" %}{% assign cover_word = "Portada de" %}{% when "ca" %}{% assign cover_word = "Coberta de" %}{% else %}{% assign cover_word = "Cover of" %}{% endcase %}
+        <img src="{{ page.img | relative_url }}" alt="{{ cover_word }} {{ page.title | strip_html }}" width="200" height="300">
       {% if cover_link %}</a>{% endif %}
     </figure>
 
@@ -47,3 +48,29 @@ layout: default
     </div>
   </div>
 </article>
+
+{% comment %}
+  Book information for search engines (schema.org), invisible on the page.
+  Uses title, year, lang, publisher, isbn, description and img from the front matter.
+  Set "role: editor" for books you edited rather than wrote.
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ page.title | strip_html | jsonify }},
+  "{% if page.role == "editor" %}editor{% else %}author{% endif %}": {
+    "@type": "Person",
+    "name": "Ignasi Ribó",
+    "url": {{ "/about/" | absolute_url | jsonify }}
+  },
+  {% if page.publisher %}"publisher": { "@type": "Organization", "name": {{ page.publisher | jsonify }} },
+  {% endif %}{% if page.isbn %}"isbn": {{ page.isbn | jsonify }},
+  {% endif %}{% if page.year %}"datePublished": "{{ page.year }}",
+  {% endif %}{% if page.genre %}"genre": {{ page.genre | jsonify }},
+  {% endif %}{% if page.description %}"description": {{ page.description | strip_html | jsonify }},
+  {% endif %}"inLanguage": "{{ page.lang | default: site.lang }}",
+  "image": {{ page.img | absolute_url | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }}
+}
+</script>

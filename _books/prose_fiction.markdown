@@ -3,6 +3,7 @@ title: "Prose Fiction: An Introduction to the Semiotics of Narrative"
 year: 2019
 genre: Textbook
 publisher: Open Book Publishers
+isbn: "9781783748105"
 img: /assets/img/prose_fiction_cover.jpg
 description: A concise and highly accessible textbook that outlines the principles and techniques of storytelling.
 links_title: Where to find the book

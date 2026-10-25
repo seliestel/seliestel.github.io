@@ -4,6 +4,7 @@ title: "Polifemo"
 year: 2005
 genre: Novela
 publisher: Edhasa
+isbn: "9788435009539"
 img: /assets/img/polifemo_cover.jpg
 description: "Novela de Ignasi Ribó: un idilio de nuestro tiempo en el Jardín de Luxemburgo de París, entre la parodia, la fotografía y la reflexión."
 links_title: Dónde encontrarlo
