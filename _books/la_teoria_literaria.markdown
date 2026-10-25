@@ -5,7 +5,7 @@ year: 2011
 genre: Assaig
 publisher: Editorial UOC (col·lecció VullSaber)
 img: /assets/img/teoria_cover.jpg
-description: 
+description: "Introducció d'Ignasi Ribó als fonaments, els principals moviments i les troballes de la teoria literària."
 links_title: On trobar-lo
 links:
   - label: "Amazon"

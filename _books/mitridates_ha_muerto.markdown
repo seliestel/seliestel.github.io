@@ -5,7 +5,7 @@ year: 2011
 genre: Novela
 publisher: Bubok
 img: /assets/img/mitridates_cover.jpg
-description: 
+description: "Novela de Ignasi Ribó: el robo de una estatua en una ciudad griega de Asia Menor, en tiempos de las guerras entre Mitrídates y Roma."
 links_title: Dónde encontrarlo
 links:
   - label: "Bubok (papel y ebook)"
