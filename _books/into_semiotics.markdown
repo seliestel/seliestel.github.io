@@ -6,7 +6,7 @@ publisher: Mae Fah Luang University
 status: In press
 img: /assets/img/into_semiotics_cover.jpg
 description: An introduction to the study of signs for students and readers with no previous background in the field.
-links_title: Companion guide
+links_title: Where to find the book
 links:
   - label: "SE-ED Books"
     url: https://www.se-ed.com/e-book-audio/Into-Semiotics-:-Understanding-Signs,-Meaning,-and-Communication-(PDF)-bnh8wjtdka3sd3xg2nmu
