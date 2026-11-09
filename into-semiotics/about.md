@@ -13,7 +13,7 @@ title: About
   <img src="{{ '/assets/img/into_semiotics_cover.jpg' | relative_url }}" alt="Cover of Into Semiotics: Understanding Signs, Meaning, and Communication" width="200" height="283">
 </a>
 
-These active-learning resources accompany [**_Into Semiotics: Understanding Signs, Meaning, and Communication_**](https://www.se-ed.com/e-book-audio/Into-Semiotics-:-Understanding-Signs,-Meaning,-and-Communication-(PDF)-bnh8wjtdka3sd3xg2nmu), an introduction to the study of signs written by [**Ignasi Ribó**](/) and published by Mae Fah Luang University Learning Innovation Institute (2026). The book offers a concise but rigorous introduction to semiotics, aimed at graduate and undergraduate students. It explains the foundational models of Saussure and Peirce, before moving on to cover key concepts in the study of communication, codes, cultural and applied semiotics, culminating in an exposition of the frontiers of semiotics beyond the human. This companion site translates this material into activities and exercises that students can *do*, either in a classroom setting or independently.
+These active-learning resources accompany [**_Into Semiotics: Understanding Signs, Meaning, and Communication_**](/books/into_semiotics/), an introduction to the study of signs written by [**Ignasi Ribó**](/) and published by Mae Fah Luang University Learning Innovation Institute (2026). The book offers a concise but rigorous introduction to semiotics, aimed at graduate and undergraduate students. It explains the foundational models of Saussure and Peirce, before moving on to cover key concepts in the study of communication, codes, cultural and applied semiotics, culminating in an exposition of the frontiers of semiotics beyond the human. This companion site translates this material into activities and exercises that students can *do*, either in a classroom setting or independently.
 
 The activities included here make the concepts and ideas presented in the book more accessible and engaging. They rely on active-learning strategies: practical exercises, contextualized examples grounded in Thai realities, summary tables, real-life images, and technology-based tasks. The goal is to **help students move from abstract ideas to concrete application**, and to grasp difficult concepts by working with familiar material.
 
@@ -27,7 +27,7 @@ The activities included here make the concepts and ideas presented in the book m
 
 > Ribó, Ignasi. 2026. *A Companion Guide into Semiotics: Learning Activities and Exercises*. https://www.ignasiribo.com/into-semiotics/.
 
-For the book itself, cite the edition you are using.
+For the [book itself](/books/into_semiotics/), cite the edition you are using.
 
 ## License
 
