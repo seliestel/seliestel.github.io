@@ -3,7 +3,6 @@ title: "Into Semiotics: Understanding Signs, Meaning, and Communication"
 year: 2026
 genre: Textbook
 publisher: Mae Fah Luang University
-status: In press
 img: /assets/img/into_semiotics_cover.jpg
 description: An introduction to the study of signs for students and readers with no previous background in the field.
 links_title: Where to find the book
