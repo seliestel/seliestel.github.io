@@ -1491,10 +1491,10 @@ books:
     authors: Ribó, Ignasi
     publisher: Routledge
     place: London
-    year: In press
-    pages: 
+    year: "2027"
+    pages: "140"
     abstract:
-    isbn: 
+    isbn: "9781041545798"
     link: 
     reviews:
 
@@ -1507,8 +1507,8 @@ books:
     year: "2026"
     pages: 
     abstract:
-    isbn: 978-616-470-135-9
-    link: https://www.se-ed.com/e-book-audio/Into-Semiotics-:-Understanding-Signs,-Meaning,-and-Communication-(PDF)-bnh8wjtdka3sd3xg2nmu
+    isbn: "9786164701359"
+    link: "https://www.se-ed.com/e-book-audio/Into-Semiotics-:-Understanding-Signs,-Meaning,-and-Communication-(PDF)-bnh8wjtdka3sd3xg2nmu"
     reviews:
 
   - title: "Posthuman Southeast Asia: Ecocritical Entanglements Across Species Boundaries"
@@ -1520,7 +1520,7 @@ books:
     year: "2025"
     pages: 
     abstract:
-    isbn: 978-1-66693-302-4
+    isbn: "9781666933024"
     link: https://doi.org/10.5771/9781666933031
     reviews:
 
