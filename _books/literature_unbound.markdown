@@ -5,7 +5,7 @@ genre: Monograph
 role: author
 publisher: Routledge
 isbn: "9781041545798"
-img: /assets/img/image-not-available.png
+img: /assets/img/temp_cover.png
 description: 
 links_title: Where to find the book
 links:
